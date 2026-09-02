@@ -1,0 +1,44 @@
+name: 要約データ更新
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # 6時間おき（UTC）＝ 日本時間 0/6/12/18時ごろ
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-summaries
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: 依存関係のインストール
+        run: pip install -r scripts/requirements.txt
+
+      - name: 新着を要約して summaries.json を更新
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/update.py
+
+      - name: 変更があればコミットして push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/summaries.json; then
+            echo "変更なし"
+          else
+            git add data/summaries.json
+            git commit -m "chore: 要約データ更新 ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
+          fi
