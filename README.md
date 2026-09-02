@@ -90,12 +90,18 @@ python -m http.server 8000    # http://localhost:8000 を開く
 
 | 定数 | 既定値 | 意味 |
 |---|---|---|
-| `MODEL` | `gemini-3.6-flash` | 要約に使う Gemini モデル。無料枠が厳しければ `gemini-3.6-flash-lite` に |
+| `MODELS` | flash-lite → 3.6-flash → flash-latest | 上から順に試し、使えなければ次へ自動切替 |
 | `MAX_PER_RUN` | `4` | 1回の実行で要約する最大件数 |
 | `LOOKBACK_DAYS` | `5` | 「新着」とみなす公開からの日数 |
 | `MAX_NEW_PER_CHANNEL` | `4` | 1チャンネルあたり1回で拾う新着の最大本数 |
+| `SLEEP_BETWEEN_SEC` | `45` | 動画1本ごとの待ち時間（分あたり上限対策） |
+| `VIDEO_FPS` | `0.3` | 動画のコマ抽出頻度（低いほど省トークン） |
+| `MIN_SUMMARY_CHARS` | `60` | これ未満の要約は失敗扱いにして再試行 |
 | `KEEP_ITEMS` | `200` | 一覧に残す最大件数 |
 | `MAX_RETRY` | `3` | 要約失敗時に再挑戦する上限回数 |
+
+無料枠の上限（`gemini-3.6-flash` は1日20リクエスト等）に当たると、その回はそこで打ち切られ、
+残りは次回・翌日に持ち越されます（エラーではありません）。新しい動画から優先して要約します。
 
 実行頻度は `.github/workflows/update.yml` の `cron` で変更できます。
 

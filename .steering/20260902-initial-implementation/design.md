@@ -97,7 +97,10 @@
 - 生成設定: `max_output_tokens=900`、`temperature=0.3`、`media_resolution` 低め、`VideoMetadata.fps=0.3`。
 - `thinking_config(thinking_budget=0)` で思考を無効化する。Gemini 3系は既定で思考に出力枠を使い、
   本文が数十文字で打ち切られるため。短すぎる応答（`MIN_SUMMARY_CHARS` 未満）は失敗扱いで再試行。
-- モデルは `gemini-3.6-flash`（`gemini-2.5-flash` は新規ユーザー提供終了）。
+- モデルは `MODELS`（`gemini-flash-lite-latest` → `gemini-3.6-flash` → `gemini-flash-latest`）を
+  先頭から試し、「モデルが無い」エラーなら次へ。`gemini-2.5-flash` は新規ユーザー提供終了。
+- 無料枠には「1日あたりのリクエスト数」上限もある（`gemini-3.6-flash` は20/日）。日次上限を検知したら
+  待たずにその実行を打ち切る。要約は「今回の新着（新しい順）→ 未要約の積み残し」の優先順で行う。
 - 指示テキスト（`PROMPT` 定数）:
   ```
   次のYouTube動画を視聴し、内容を日本語で要約してください。

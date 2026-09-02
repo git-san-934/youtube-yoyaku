@@ -8,7 +8,7 @@
 | フロントエンド | 素の HTML / CSS / JavaScript（ES2020） | フレームワーク不使用・CDN不使用 |
 | 定期バッチ | GitHub Actions + Python 3.12 | `.github/workflows/update.yml` |
 | 新着取得 | YouTube 公開RSS（`videos.xml`） | Python標準ライブラリ（`urllib`＋`xml.etree`）で取得・解析。APIキー不要 |
-| 要約 | Google Gemini API（`google-genai` SDK） | モデル `gemini-3.6-flash`。動画URLを直接入力 |
+| 要約 | Google Gemini API（`google-genai` SDK） | モデルは `MODELS` の先頭から試行（flash-lite→3.6-flash→flash-latest）。動画URLを直接入力 |
 | チャンネルID解決 | `scripts/resolve_channels.py`（一度だけ実行） | @名のチャンネルページから `channelId` を抽出して `channels.json` に保存 |
 | 秘密情報 | GitHub Actions Secrets: `GEMINI_API_KEY` | ソース・フロントには一切書かない |
 

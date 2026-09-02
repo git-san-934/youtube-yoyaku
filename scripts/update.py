@@ -23,7 +23,9 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 # --- 調整用の設定値 ---------------------------------------------------------
-MODEL = "gemini-3.6-flash"     # 要約に使う Gemini モデル（無料枠が厳しければ "gemini-3.6-flash-lite"）
+# 要約に使う Gemini モデル。先頭から順に試し、「モデルが無い」エラーなら次にフォールバックする。
+# flash-lite は無料枠の1日リクエスト数が多い。gemini-3.6-flash は無料枠だと1日20回まで。
+MODELS = ["gemini-flash-lite-latest", "gemini-3.6-flash", "gemini-flash-latest"]
 MAX_PER_RUN = 4                 # 1回の実行で要約する最大件数（残りは次回へ）
 LOOKBACK_DAYS = 5             # 「新着」とみなす公開からの日数
 MAX_NEW_PER_CHANNEL = 4       # 1チャンネルあたり新着として拾う最大本数（1回の実行）
@@ -129,8 +131,15 @@ def make_client(api_key: str):
     return genai.Client(api_key=api_key)
 
 
-def summarize(client, url: str) -> str:
-    """動画URLを渡して要約テキストを返す。失敗時は例外を送出。"""
+_active_model = None  # 一度成功したモデルを覚えて以降はそれを使う
+
+
+def is_model_missing_error(exc: Exception) -> bool:
+    s = f"{exc}".upper()
+    return "NOT_FOUND" in s or "NOT FOUND" in s or "IS NOT AVAILABLE" in s or "NO LONGER AVAILABLE" in s
+
+
+def _build_contents(url: str):
     from google.genai import types
 
     # YouTube URL の場合、mime_type は指定しない（指定すると弾かれる版がある）
@@ -142,8 +151,7 @@ def summarize(client, url: str) -> str:
         )
     except (AttributeError, TypeError):
         part_video = types.Part(file_data=types.FileData(file_uri=url))
-    part_text = types.Part(text=PROMPT)
-    contents = types.Content(parts=[part_video, part_text])
+    contents = types.Content(parts=[part_video, types.Part(text=PROMPT)])
 
     config_kwargs = {"max_output_tokens": 900, "temperature": 0.3}
     try:
@@ -155,23 +163,44 @@ def summarize(client, url: str) -> str:
         config_kwargs["thinking_config"] = types.ThinkingConfig(thinking_budget=0)
     except (AttributeError, TypeError):
         pass
+    return contents, types.GenerateContentConfig(**config_kwargs)
 
-    resp = client.models.generate_content(
-        model=MODEL,
-        contents=contents,
-        config=types.GenerateContentConfig(**config_kwargs),
-    )
-    text = (resp.text or "").strip()
-    if not text:
-        raise RuntimeError("空の応答")
-    if len(text) < MIN_SUMMARY_CHARS:
-        raise RuntimeError(f"要約が短すぎる（{len(text)}字・打ち切りの可能性）")
-    return text
+
+def summarize(client, url: str) -> str:
+    """動画URLを渡して要約テキストを返す。失敗時は例外を送出。"""
+    global _active_model
+    contents, config = _build_contents(url)
+
+    candidates = [_active_model] if _active_model else list(MODELS)
+    last_exc = None
+    for model in candidates:
+        try:
+            resp = client.models.generate_content(model=model, contents=contents, config=config)
+        except Exception as exc:
+            last_exc = exc
+            if is_model_missing_error(exc) and not _active_model:
+                print(f"  モデル {model} は使えないため次を試します", file=sys.stderr)
+                continue
+            raise
+        _active_model = model
+        text = (resp.text or "").strip()
+        if not text:
+            raise RuntimeError("空の応答")
+        if len(text) < MIN_SUMMARY_CHARS:
+            raise RuntimeError(f"要約が短すぎる（{len(text)}字・打ち切りの可能性）")
+        return text
+    raise last_exc or RuntimeError("利用可能なモデルがありません")
 
 
 def is_quota_error(exc: Exception) -> bool:
     s = f"{type(exc).__name__} {exc}".upper()
     return "RESOURCE_EXHAUSTED" in s or "429" in s or "QUOTA" in s or "RATE LIMIT" in s
+
+
+def is_daily_quota_error(exc: Exception) -> bool:
+    """1日あたりの上限（分あたりではなく日次）かどうか。日次なら待っても無駄。"""
+    s = f"{exc}".upper()
+    return "PERDAY" in s or "PER DAY" in s or "REQUESTSPERDAY" in s or "FREE_TIER_REQUESTS" in s
 
 
 def parse_retry_delay(exc: Exception) -> int:
@@ -231,8 +260,9 @@ def main() -> int:
             index[vid] = ent
             new_ids.append(vid)
 
-    # --- 要約する候補を並べる（前回失敗の再試行 → 新着、いずれも公開が古い順）---
-    # status が failed のもの、または ok でも要約が短すぎる（過去に打ち切られた）ものを再試行対象にする
+    # --- 要約する候補を並べる ---
+    # 優先順位: ①今回の新着（新しい順）② 未要約の積み残し（新しい順）
+    # 無料枠が限られるので、まず「今日の新しい動画」を確実に要約する。古い積み残しは余った回数で消化。
     retry_items = [
         it for it in index.values()
         if it["video_id"] not in new_ids
@@ -243,9 +273,9 @@ def main() -> int:
         )
     ]
     new_items = [index[v] for v in new_ids]
-    retry_items.sort(key=lambda it: it.get("published_at") or "")
-    new_items.sort(key=lambda it: it.get("published_at") or "")
-    todo = (retry_items + new_items)[:MAX_PER_RUN]
+    new_items.sort(key=lambda it: it.get("published_at") or "", reverse=True)
+    retry_items.sort(key=lambda it: it.get("published_at") or "", reverse=True)
+    todo = (new_items + retry_items)[:MAX_PER_RUN]
 
     # --- 要約 ---
     done_ok = done_ng = 0
@@ -264,6 +294,10 @@ def main() -> int:
                     break
                 except Exception as exc:
                     if is_quota_error(exc):
+                        if is_daily_quota_error(exc):
+                            print("  1日あたりの上限に到達。今回は打ち切り（明日以降に持ち越し）", file=sys.stderr)
+                            stopped = True
+                            break
                         if attempt == 1:
                             wait = parse_retry_delay(exc)
                             print(f"  分あたり上限。{wait}秒待って再試行します…", file=sys.stderr)
@@ -308,6 +342,7 @@ def main() -> int:
     print(
         f"チャンネル成功 {ok_channels}/{len(channels)} ／ 新着 {len(new_ids)} ／ "
         f"要約成功 {done_ok} ／ 要約失敗 {done_ng}"
+        + (f" ／ モデル {_active_model}" if _active_model else "")
         + ("／ クォータで打ち切り" if stopped else "")
     )
     return 0
