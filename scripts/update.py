@@ -25,7 +25,13 @@ from pathlib import Path
 # --- 調整用の設定値 ---------------------------------------------------------
 # 要約に使う Gemini モデル。先頭から順に試し、「モデルが無い」エラーなら次にフォールバックする。
 # flash-lite は無料枠の1日リクエスト数が多い。gemini-3.6-flash は無料枠だと1日20回まで。
-MODELS = ["gemini-flash-lite-latest", "gemini-3.6-flash", "gemini-flash-latest"]
+MODELS = [
+    "gemini-flash-lite-latest",
+    "gemini-3.5-flash-lite",
+    "gemini-2.5-flash-lite",
+    "gemini-flash-latest",
+    "gemini-3.6-flash",
+]
 MAX_PER_RUN = 4                 # 1回の実行で要約する最大件数（残りは次回へ）
 LOOKBACK_DAYS = 5             # 「新着」とみなす公開からの日数
 MAX_NEW_PER_CHANNEL = 4       # 1チャンネルあたり新着として拾う最大本数（1回の実行）
@@ -160,6 +166,19 @@ def _configs(types):
     return [types.GenerateContentConfig(**low_res), types.GenerateContentConfig(**base)]
 
 
+def is_overloaded_error(exc: Exception) -> bool:
+    s = f"{exc}".upper()
+    return "503" in s or "UNAVAILABLE" in s or "OVERLOADED" in s or "HIGH DEMAND" in s
+
+
+def clean_summary(text: str) -> str:
+    """モデル出力の整形。文字列の "\\n" を本物の改行に、余分な空行を圧縮。"""
+    text = text.replace("\\r\\n", "\n").replace("\\n", "\n").replace("\\t", " ")
+    text = re.sub(r"[ \t]+\n", "\n", text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text.strip()
+
+
 def summarize(client, url: str) -> str:
     """動画URLを渡して要約テキストを返す。失敗時は例外を送出。"""
     from google.genai import types
@@ -174,24 +193,29 @@ def summarize(client, url: str) -> str:
 
     for model in models:
         for ci in cfg_order:
-            try:
-                resp = client.models.generate_content(
-                    model=model, contents=contents, config=configs[ci]
-                )
-            except Exception as exc:
-                last_exc = exc
-                if is_quota_error(exc):
-                    raise
-                # INVALID_ARGUMENT / NOT_FOUND など → 次の設定・次のモデルを試す
-                print(f"  {model} / 設定{ci} で失敗（{exc}）。次を試します", file=sys.stderr)
-                continue
-            _active_model, _active_config = model, ci
-            text = (resp.text or "").strip()
-            if not text:
-                raise RuntimeError("空の応答")
-            if len(text) < MIN_SUMMARY_CHARS:
-                raise RuntimeError(f"要約が短すぎる（{len(text)}字・打ち切りの可能性）")
-            return text
+            for attempt in range(3):  # 503（混雑）は少し待って再試行
+                try:
+                    resp = client.models.generate_content(
+                        model=model, contents=contents, config=configs[ci]
+                    )
+                except Exception as exc:
+                    last_exc = exc
+                    if is_quota_error(exc):
+                        raise
+                    if is_overloaded_error(exc) and attempt < 2:
+                        print(f"  {model} 混雑中。15秒待って再試行…", file=sys.stderr)
+                        time.sleep(15)
+                        continue
+                    # INVALID_ARGUMENT / NOT_FOUND など → 次の設定・次のモデルへ
+                    print(f"  {model} / 設定{ci} で失敗（{exc}）。次を試します", file=sys.stderr)
+                    break
+                _active_model, _active_config = model, ci
+                text = clean_summary(resp.text or "")
+                if not text:
+                    raise RuntimeError("空の応答")
+                if len(text) < MIN_SUMMARY_CHARS:
+                    raise RuntimeError(f"要約が短すぎる（{len(text)}字・打ち切りの可能性）")
+                return text
     raise last_exc or RuntimeError("要約できるモデル/設定がありませんでした")
 
 
@@ -238,6 +262,11 @@ def main() -> int:
     data = load_json(SUMMARIES_PATH, {"updated_at": None, "items": []})
     old_items = data.get("items", [])
     index: dict[str, dict] = {it["video_id"]: dict(it) for it in old_items if it.get("video_id")}
+
+    # 既存要約の整形（文字列の "\n" を本物の改行に直す等）を一度かける
+    for it in index.values():
+        if it.get("summary"):
+            it["summary"] = clean_summary(it["summary"])
 
     # --- 各チャンネルのRSSを取得して新着候補を集める ---
     new_ids: list[str] = []

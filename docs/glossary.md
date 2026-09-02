@@ -32,7 +32,7 @@
 
 | 名前 | 既定値 | 意味 |
 |---|---|---|
-| `MODELS` | `["gemini-flash-lite-latest", "gemini-3.6-flash", "gemini-flash-latest"]` | 先頭から順に試す。「モデルが無い」エラーなら次へフォールバック。flash-lite は無料枠の1日リクエスト数が多い |
+| `MODELS` | flash-lite-latest → 3.5-flash-lite → 2.5-flash-lite → flash-latest → 3.6-flash | 先頭から順に試す。弾かれたら次へ。lite系は無料枠の1日リクエスト数が多い。503（混雑）は15秒待って再試行 |
 | `MAX_PER_RUN` | `4` | 1回の実行で要約する最大件数（残りは次回へ） |
 | `LOOKBACK_DAYS` | `5` | 「新着」とみなす公開からの日数 |
 | `MAX_NEW_PER_CHANNEL` | `4` | 1チャンネルあたり1回の実行で拾う新着の最大本数 |
