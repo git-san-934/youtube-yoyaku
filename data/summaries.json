@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T21:48:09+09:00",
+  "updated_at": "2026-09-02T21:54:57+09:00",
   "items": [
     {
       "video_id": "AQSbAjU5arg",
@@ -672,9 +672,9 @@
       "published_at": "2026-08-30T11:00:07+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/xAqSeg47okk/hqdefault.jpg",
       "channel_id": "UC8yHePe_RgUBE-waRWy6olw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "糖尿病のリスクや身体に現れる危険サイン、注意すべき生活習慣について専門医が",
+      "status": "ok",
+      "summarized_at": "2026-09-02T21:54:57+09:00",
       "retry_count": 0
     },
     {
