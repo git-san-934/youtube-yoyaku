@@ -20,7 +20,7 @@
 ## Gemini API の使い方
 - エンドポイント: `google-genai` SDK 経由（内部的に `generativelanguage.googleapis.com`）。
 - 入力: テキストのプロンプト ＋ `Part(file_data=FileData(file_uri="https://www.youtube.com/watch?v=..."))`。
-- 要約は「結論2〜3文 ＋ 箇条書き15〜20項目」の詳しめ。max_output_tokens は 3000。
+- 要約は「結論1文 ＋ 箇条書き3〜4項目」の5行程度。max_output_tokens は 2000。
 - 動画のトークン消費を抑えるため `media_resolution` を低め（LOW）に、`VideoMetadata.fps` を 0.3 に設定する。
 - 無料枠（Google AI Studio のキー）を前提とする。制約と対策:
   - 「1分あたりの入力トークン上限（約25万）」があり、動画は1本で10万トークン規模を消費する。
