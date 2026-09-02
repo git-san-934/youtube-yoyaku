@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T21:22:07+09:00",
+  "updated_at": "2026-09-02T21:26:29+09:00",
   "items": [
     {
       "video_id": "AQSbAjU5arg",
@@ -828,9 +828,9 @@
       "published_at": "2026-08-29T10:23:07+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/uHdfyC6EtAs/hqdefault.jpg",
       "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "沖縄県知事選では予測市場データ上デニー氏が優勢となって",
+      "status": "ok",
+      "summarized_at": "2026-09-02T21:26:29+09:00",
       "retry_count": 1
     },
     {
@@ -841,9 +841,9 @@
       "published_at": "2026-08-29T10:00:15+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/19QhpPPGsos/hqdefault.jpg",
       "channel_id": "UCRJ9zFerpsI3EuuBhRdQQYQ",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "法律問題について、現役弁護士が法的な見解を解説する番組です。",
+      "status": "ok",
+      "summarized_at": "2026-09-02T21:26:02+09:00",
       "retry_count": 1
     },
     {
@@ -854,9 +854,9 @@
       "published_at": "2026-08-29T10:00:12+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/VXt092IdRJg/hqdefault.jpg",
       "channel_id": "UCSNivSS1ttprLnbDQUe3mhg",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "女性アイドルが自身の第一印象についてトークを繰り広げ、見た目の怖さと実際の",
+      "status": "ok",
+      "summarized_at": "2026-09-02T21:25:45+09:00",
       "retry_count": 0
     },
     {
@@ -867,9 +867,9 @@
       "published_at": "2026-08-28T22:00:02+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/DtjaboI0zXo/hqdefault.jpg",
       "channel_id": "UCSNivSS1ttprLnbDQUe3mhg",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "女性アイドルグループ「RePlay」のHARUUKAが、人に騙されやすい自身の性格",
+      "status": "ok",
+      "summarized_at": "2026-09-02T21:25:37+09:00",
       "retry_count": 0
     },
     {
@@ -880,9 +880,9 @@
       "published_at": "2026-08-28T15:00:27+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/fSFn4Eci-7E/hqdefault.jpg",
       "channel_id": "UCJaxZOXs4SMjaxhcee2N5Aw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "読者が約1700人の首長（地方自治体の長）に限られる限定マガ",
+      "status": "ok",
+      "summarized_at": "2026-09-02T21:25:23+09:00",
       "retry_count": 0
     },
     {
