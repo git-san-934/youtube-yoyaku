@@ -8,7 +8,7 @@
 | フロントエンド | 素の HTML / CSS / JavaScript（ES2020） | フレームワーク不使用・CDN不使用 |
 | 定期バッチ | GitHub Actions + Python 3.12 | `.github/workflows/update.yml` |
 | 新着取得 | YouTube 公開RSS（`videos.xml`） | Python標準ライブラリ（`urllib`＋`xml.etree`）で取得・解析。APIキー不要 |
-| 要約 | Google Gemini API（`google-genai` SDK） | モデル `gemini-2.5-flash`。動画URLを直接入力 |
+| 要約 | Google Gemini API（`google-genai` SDK） | モデル `gemini-3.6-flash`。動画URLを直接入力 |
 | チャンネルID解決 | `scripts/resolve_channels.py`（一度だけ実行） | @名のチャンネルページから `channelId` を抽出して `channels.json` に保存 |
 | 秘密情報 | GitHub Actions Secrets: `GEMINI_API_KEY` | ソース・フロントには一切書かない |
 
@@ -25,7 +25,7 @@
 - 無料枠（Google AI Studio のキー）を前提とする。目安:
   - 1日あたり YouTube 動画の入力は数時間まで。リクエスト数・分あたりトークンにも上限あり。
   - 対策: 1実行あたり最大6件・1チャンネル最大4本（`functional-design.md` 参照）、実行は6時間おき。
-  - それでも超過する場合は、モデルを `gemini-2.5-flash-lite` に変更、または対象日数・件数を減らす。
+  - それでも超過する場合は、モデルを `gemini-3.6-flash-lite` に変更、または対象日数・件数を減らす。
 
 ## 技術的制約
 - サーバーサイドの常時実行環境を持てない（GitHub Pages は静的配信のみ）。

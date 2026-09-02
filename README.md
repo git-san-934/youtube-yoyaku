@@ -90,7 +90,7 @@ python -m http.server 8000    # http://localhost:8000 を開く
 
 | 定数 | 既定値 | 意味 |
 |---|---|---|
-| `MODEL` | `gemini-2.5-flash` | 要約に使う Gemini モデル。無料枠が厳しければ `gemini-2.5-flash-lite` に |
+| `MODEL` | `gemini-3.6-flash` | 要約に使う Gemini モデル。無料枠が厳しければ `gemini-3.6-flash-lite` に |
 | `MAX_PER_RUN` | `6` | 1回の実行で要約する最大件数 |
 | `LOOKBACK_DAYS` | `5` | 「新着」とみなす公開からの日数 |
 | `MAX_NEW_PER_CHANNEL` | `4` | 1チャンネルあたり1回で拾う新着の最大本数 |

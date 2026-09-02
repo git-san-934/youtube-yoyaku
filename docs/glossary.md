@@ -32,7 +32,7 @@
 
 | 名前 | 既定値 | 意味 |
 |---|---|---|
-| `MODEL` | `gemini-2.5-flash` | 要約に使う Gemini モデル |
+| `MODEL` | `gemini-3.6-flash` | 要約に使う Gemini モデル |
 | `MAX_PER_RUN` | `6` | 1回の実行で要約する最大件数（残りは次回へ） |
 | `LOOKBACK_DAYS` | `5` | 「新着」とみなす公開からの日数 |
 | `MAX_NEW_PER_CHANNEL` | `4` | 1チャンネルあたり1回の実行で拾う新着の最大本数 |

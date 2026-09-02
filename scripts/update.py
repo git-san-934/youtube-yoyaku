@@ -21,7 +21,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 # --- 調整用の設定値 ---------------------------------------------------------
-MODEL = "gemini-2.5-flash"      # 要約に使う Gemini モデル
+MODEL = "gemini-3.6-flash"     # 要約に使う Gemini モデル（無料枠が厳しければ "gemini-3.6-flash-lite"）
 MAX_PER_RUN = 6                 # 1回の実行で要約する最大件数（残りは次回へ）
 LOOKBACK_DAYS = 5             # 「新着」とみなす公開からの日数
 MAX_NEW_PER_CHANNEL = 4       # 1チャンネルあたり新着として拾う最大本数（1回の実行）
