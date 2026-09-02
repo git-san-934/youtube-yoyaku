@@ -32,7 +32,8 @@ MAX_NEW_PER_CHANNEL = 4       # 1チャンネルあたり新着として拾う�
 SLEEP_BETWEEN_SEC = 45       # 動画1本ごとの待ち時間（Gemini無料枠の「分あたり入力量」上限対策）
 QUOTA_WAIT_MAX_SEC = 120     # クォータ超過時に待つ最大秒数
 VIDEO_FPS = 0.3             # 動画のフレーム抽出頻度（低いほどトークン節約。話し中心なら0.2〜0.5で十分）
-MIN_SUMMARY_CHARS = 60      # これ未満の要約は「打ち切り」とみなして失敗扱い・次回再試行
+MIN_SUMMARY_CHARS = 200     # これ未満の要約は「打ち切り」とみなして失敗扱い・次回再試行
+MAX_OUTPUT_TOKENS = 3000    # 要約本文の最大トークン（箇条書き15〜20行に対応）
 KEEP_ITEMS = 200              # summaries.json に残す最大件数
 MAX_RETRY = 3                 # 同じ動画の要約をリトライする上限回数
 # 無料枠の目安: 上記だと 1日4回実行 × 4件 = 最大16件/日。
@@ -61,12 +62,13 @@ ATOM_NS = {
 }
 
 PROMPT = (
-    "次のYouTube動画を視聴し、内容を日本語で要約してください。\n"
-    "・最初の1文で結論・主題を述べる\n"
-    "・続けて要点を箇条書きで3〜6個（各行「・」で始める）\n"
+    "次のYouTube動画を最後まで視聴し、内容を日本語で詳しく要約してください。\n"
+    "・冒頭に、動画全体の結論・主題を2〜3文でまとめる\n"
+    "・そのあと、話された要点を箇条書きで15〜20項目、各行を「・」で始めて列挙する\n"
+    "・各項目は具体的に書く。登場した数字・固有名詞・企業名・具体例はできるだけ残す\n"
+    "・話の展開順（前半→後半）に沿って並べる\n"
     "・専門用語には10〜20字程度の簡単な補足を付ける\n"
-    "・全体で400字以内\n"
-    "・動画内で述べられていない情報は書かない\n"
+    "・動画内で述べられていない情報は書かない。推測で補わない\n"
     "・前置き（「この動画は」等）や締めの挨拶は不要"
 )
 
@@ -153,7 +155,7 @@ def _build_contents(url: str):
         part_video = types.Part(file_data=types.FileData(file_uri=url))
     contents = types.Content(parts=[part_video, types.Part(text=PROMPT)])
 
-    config_kwargs = {"max_output_tokens": 900, "temperature": 0.3}
+    config_kwargs = {"max_output_tokens": MAX_OUTPUT_TOKENS, "temperature": 0.3}
     try:
         config_kwargs["media_resolution"] = types.MediaResolution.MEDIA_RESOLUTION_LOW
     except AttributeError:
