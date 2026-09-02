@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T21:54:57+09:00",
+  "updated_at": "2026-09-02T22:01:49+09:00",
   "items": [
     {
       "video_id": "AQSbAjU5arg",
@@ -12,7 +12,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 0
+      "retry_count": 1
     },
     {
       "video_id": "P96rTdmXsF4",
@@ -25,7 +25,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 0
+      "retry_count": 1
     },
     {
       "video_id": "YIx_ayiHg-8",
@@ -38,7 +38,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 0
+      "retry_count": 1
     },
     {
       "video_id": "Y5htHCiWtuE",
@@ -51,7 +51,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 0
+      "retry_count": 1
     },
     {
       "video_id": "bvfnYy2fGMY",
