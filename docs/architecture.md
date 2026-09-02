@@ -21,11 +21,13 @@
 - エンドポイント: `google-genai` SDK 経由（内部的に `generativelanguage.googleapis.com`）。
 - 入力: テキストのプロンプト ＋ `Part(file_data=FileData(file_uri="https://www.youtube.com/watch?v=..."))`。
 - 出力トークンを抑えるため、要約は最大400字程度に制限するようプロンプトで指示。
-- 動画のトークン消費を抑えるため `media_resolution` を低め（LOW）に設定する。
-- 無料枠（Google AI Studio のキー）を前提とする。目安:
-  - 1日あたり YouTube 動画の入力は数時間まで。リクエスト数・分あたりトークンにも上限あり。
-  - 対策: 1実行あたり最大4件・1チャンネル最大4本（`functional-design.md` 参照）、実行は6時間おき。
-  - それでも超過する場合は、モデルを `gemini-3.6-flash-lite` に変更、または対象日数・件数を減らす。
+- 動画のトークン消費を抑えるため `media_resolution` を低め（LOW）に、`VideoMetadata.fps` を 0.3 に設定する。
+- 無料枠（Google AI Studio のキー）を前提とする。制約と対策:
+  - 「1分あたりの入力トークン上限（約25万）」があり、動画は1本で10万トークン規模を消費する。
+  - 対策: fps を下げて1本のトークンを削減、動画1本ごとに `SLEEP_BETWEEN_SEC` 待つ、
+    1実行あたり最大4件・1チャンネル最大4本、実行は6時間おき。
+  - 超過エラー時は `retryDelay` 秒待って1回再試行。なお続けばその実行を打ち切り次回へ。
+  - それでも足りない場合は、モデルを `gemini-3.6-flash-lite` に変更、または対象日数・件数を減らす。
 
 ## 技術的制約
 - サーバーサイドの常時実行環境を持てない（GitHub Pages は静的配信のみ）。

@@ -29,6 +29,7 @@ LOOKBACK_DAYS = 5             # 「新着」とみなす公開からの日数
 MAX_NEW_PER_CHANNEL = 4       # 1チャンネルあたり新着として拾う最大本数（1回の実行）
 SLEEP_BETWEEN_SEC = 45       # 動画1本ごとの待ち時間（Gemini無料枠の「分あたり入力量」上限対策）
 QUOTA_WAIT_MAX_SEC = 120     # クォータ超過時に待つ最大秒数
+VIDEO_FPS = 0.3             # 動画のフレーム抽出頻度（低いほどトークン節約。話し中心なら0.2〜0.5で十分）
 KEEP_ITEMS = 200              # summaries.json に残す最大件数
 MAX_RETRY = 3                 # 同じ動画の要約をリトライする上限回数
 # 無料枠の目安: 上記だと 1日4回実行 × 4件 = 最大16件/日。
@@ -132,7 +133,14 @@ def summarize(client, url: str) -> str:
     from google.genai import types
 
     # YouTube URL の場合、mime_type は指定しない（指定すると弾かれる版がある）
-    part_video = types.Part(file_data=types.FileData(file_uri=url))
+    # fps を下げて動画のトークン消費を大きく減らす（話し中心の動画は音声で内容が取れる）
+    try:
+        video_meta = types.VideoMetadata(fps=VIDEO_FPS)
+        part_video = types.Part(
+            file_data=types.FileData(file_uri=url), video_metadata=video_meta
+        )
+    except (AttributeError, TypeError):
+        part_video = types.Part(file_data=types.FileData(file_uri=url))
     part_text = types.Part(text=PROMPT)
     contents = types.Content(parts=[part_video, part_text])
 
