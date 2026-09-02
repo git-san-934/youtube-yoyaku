@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T21:26:29+09:00",
+  "updated_at": "2026-09-02T21:38:02+09:00",
   "items": [
     {
       "video_id": "AQSbAjU5arg",
@@ -750,9 +750,9 @@
       "published_at": "2026-08-30T00:00:22+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/f_roi8dSTLA/hqdefault.jpg",
       "channel_id": "UC8yHePe_RgUBE-waRWy6olw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "エビデンス（研究等で得られた科学的根拠）に基づき、健康",
+      "status": "ok",
+      "summarized_at": "2026-09-02T21:38:02+09:00",
       "retry_count": 0
     },
     {
@@ -763,9 +763,9 @@
       "published_at": "2026-08-29T22:00:24+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/NCcUqpqBYR8/hqdefault.jpg",
       "channel_id": "UCSNivSS1ttprLnbDQUe3mhg",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "中山功太が第一印象で見極めるポイントとして「声のトーン」の重要",
+      "status": "ok",
+      "summarized_at": "2026-09-02T21:37:29+09:00",
       "retry_count": 0
     },
     {
@@ -776,9 +776,9 @@
       "published_at": "2026-08-29T15:00:39+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/uk-j1dNjiWc/hqdefault.jpg",
       "channel_id": "UCSNivSS1ttprLnbDQUe3mhg",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "アイドルの女性が将来の夢として「お札の肖像になること」を明",
+      "status": "ok",
+      "summarized_at": "2026-09-02T21:37:17+09:00",
       "retry_count": 0
     },
     {
@@ -789,9 +789,9 @@
       "published_at": "2026-08-29T15:00:10+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/xC9ltdl7jkM/hqdefault.jpg",
       "channel_id": "UCJaxZOXs4SMjaxhcee2N5Aw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "森ビルは単に都市を開発するだけでなく、アートを取り入れることで「",
+      "status": "ok",
+      "summarized_at": "2026-09-02T21:36:50+09:00",
       "retry_count": 0
     },
     {
@@ -802,9 +802,9 @@
       "published_at": "2026-08-29T12:05:49+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/oS4PzJ5oh98/hqdefault.jpg",
       "channel_id": "UCUtZt_BGn8hTgsNHf30QGZw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "ネルソンズの和田まんじゅうと西野夢菜が、",
+      "status": "ok",
+      "summarized_at": "2026-09-02T21:35:46+09:00",
       "retry_count": 0
     },
     {
@@ -815,9 +815,9 @@
       "published_at": "2026-08-29T11:02:37+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/I7iJlFq5ids/hqdefault.jpg",
       "channel_id": "UCOceo5841EN6rv8mCknaFeQ",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "ポーカープレイヤーのじぇいそる氏が、韓国・仁川",
+      "status": "ok",
+      "summarized_at": "2026-09-02T21:35:00+09:00",
       "retry_count": 0
     },
     {
