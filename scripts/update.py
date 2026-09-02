@@ -33,7 +33,7 @@ SLEEP_BETWEEN_SEC = 45       # 動画1本ごとの待ち時間（Gemini無料枠
 QUOTA_WAIT_MAX_SEC = 120     # クォータ超過時に待つ最大秒数
 VIDEO_FPS = 0.3             # 動画のフレーム抽出頻度（低いほどトークン節約。話し中心なら0.2〜0.5で十分）
 MIN_SUMMARY_CHARS = 200     # これ未満の要約は「打ち切り」とみなして失敗扱い・次回再試行
-MAX_OUTPUT_TOKENS = 3000    # 要約本文の最大トークン（箇条書き15〜20行に対応）
+MAX_OUTPUT_TOKENS = 8000    # 要約本文の最大トークン（思考分を差し引いても15〜20行が収まる大きめの枠）
 KEEP_ITEMS = 200              # summaries.json に残す最大件数
 MAX_RETRY = 3                 # 同じ動画の要約をリトライする上限回数
 # 無料枠の目安: 上記だと 1日4回実行 × 4件 = 最大16件/日。
@@ -133,70 +133,84 @@ def make_client(api_key: str):
     return genai.Client(api_key=api_key)
 
 
-_active_model = None  # 一度成功したモデルを覚えて以降はそれを使う
+_active_model = None   # 一度成功したモデルを覚えて以降はそれを使う
+_active_config = None  # 一度成功した設定パターンの番号
 
 
-def is_model_missing_error(exc: Exception) -> bool:
-    s = f"{exc}".upper()
-    return "NOT_FOUND" in s or "NOT FOUND" in s or "IS NOT AVAILABLE" in s or "NO LONGER AVAILABLE" in s
-
-
-def _build_contents(url: str):
-    from google.genai import types
-
+def _video_part(types, url: str):
     # YouTube URL の場合、mime_type は指定しない（指定すると弾かれる版がある）
-    # fps を下げて動画のトークン消費を大きく減らす（話し中心の動画は音声で内容が取れる）
+    # fps を下げて動画のトークン消費を減らす（話し中心の動画は音声で内容が取れる）
     try:
-        video_meta = types.VideoMetadata(fps=VIDEO_FPS)
-        part_video = types.Part(
-            file_data=types.FileData(file_uri=url), video_metadata=video_meta
+        return types.Part(
+            file_data=types.FileData(file_uri=url),
+            video_metadata=types.VideoMetadata(fps=VIDEO_FPS),
         )
     except (AttributeError, TypeError):
-        part_video = types.Part(file_data=types.FileData(file_uri=url))
-    contents = types.Content(parts=[part_video, types.Part(text=PROMPT)])
+        return types.Part(file_data=types.FileData(file_uri=url))
 
-    config_kwargs = {"max_output_tokens": MAX_OUTPUT_TOKENS, "temperature": 0.3}
+
+def _configs(types):
+    """試す設定パターン。多機能→単純の順。1つ弾かれたら次を試す。"""
+    base = {"max_output_tokens": MAX_OUTPUT_TOKENS, "temperature": 0.3}
+    low_res = dict(base)
     try:
-        config_kwargs["media_resolution"] = types.MediaResolution.MEDIA_RESOLUTION_LOW
+        low_res["media_resolution"] = types.MediaResolution.MEDIA_RESOLUTION_LOW
     except AttributeError:
         pass
-    # Gemini 3系は既定で「思考」に出力枠を使い本文が途中で切れるため、思考を無効化する
-    try:
-        config_kwargs["thinking_config"] = types.ThinkingConfig(thinking_budget=0)
-    except (AttributeError, TypeError):
-        pass
-    return contents, types.GenerateContentConfig(**config_kwargs)
+    return [types.GenerateContentConfig(**low_res), types.GenerateContentConfig(**base)]
 
 
 def summarize(client, url: str) -> str:
     """動画URLを渡して要約テキストを返す。失敗時は例外を送出。"""
-    global _active_model
-    contents, config = _build_contents(url)
+    from google.genai import types
 
-    candidates = [_active_model] if _active_model else list(MODELS)
+    global _active_model, _active_config
+    contents = types.Content(parts=[_video_part(types, url), types.Part(text=PROMPT)])
+    configs = _configs(types)
+
+    models = [_active_model] if _active_model else list(MODELS)
+    cfg_order = [_active_config] if _active_config is not None else list(range(len(configs)))
     last_exc = None
-    for model in candidates:
-        try:
-            resp = client.models.generate_content(model=model, contents=contents, config=config)
-        except Exception as exc:
-            last_exc = exc
-            if is_model_missing_error(exc) and not _active_model:
-                print(f"  モデル {model} は使えないため次を試します", file=sys.stderr)
+
+    for model in models:
+        for ci in cfg_order:
+            try:
+                resp = client.models.generate_content(
+                    model=model, contents=contents, config=configs[ci]
+                )
+            except Exception as exc:
+                last_exc = exc
+                if is_quota_error(exc):
+                    raise
+                # INVALID_ARGUMENT / NOT_FOUND など → 次の設定・次のモデルを試す
+                print(f"  {model} / 設定{ci} で失敗（{exc}）。次を試します", file=sys.stderr)
                 continue
-            raise
-        _active_model = model
-        text = (resp.text or "").strip()
-        if not text:
-            raise RuntimeError("空の応答")
-        if len(text) < MIN_SUMMARY_CHARS:
-            raise RuntimeError(f"要約が短すぎる（{len(text)}字・打ち切りの可能性）")
-        return text
-    raise last_exc or RuntimeError("利用可能なモデルがありません")
+            _active_model, _active_config = model, ci
+            text = (resp.text or "").strip()
+            if not text:
+                raise RuntimeError("空の応答")
+            if len(text) < MIN_SUMMARY_CHARS:
+                raise RuntimeError(f"要約が短すぎる（{len(text)}字・打ち切りの可能性）")
+            return text
+    raise last_exc or RuntimeError("要約できるモデル/設定がありませんでした")
 
 
 def is_quota_error(exc: Exception) -> bool:
     s = f"{type(exc).__name__} {exc}".upper()
     return "RESOURCE_EXHAUSTED" in s or "429" in s or "QUOTA" in s or "RATE LIMIT" in s
+
+
+def print_available_models(client) -> None:
+    """このAPIキーで generateContent に使えるモデル一覧を出す（診断用・生成クォータは消費しない）。"""
+    try:
+        names = []
+        for m in client.models.list():
+            actions = getattr(m, "supported_actions", None) or getattr(m, "supported_generation_methods", None) or []
+            if not actions or "generateContent" in actions:
+                names.append(getattr(m, "name", str(m)))
+        print("  利用可能モデル: " + ", ".join(sorted(names)), file=sys.stderr)
+    except Exception as exc:
+        print(f"  モデル一覧の取得に失敗: {exc}", file=sys.stderr)
 
 
 def is_daily_quota_error(exc: Exception) -> bool:
@@ -282,6 +296,7 @@ def main() -> int:
     # --- 要約 ---
     done_ok = done_ng = 0
     stopped = False
+    listed_models = False
     if api_key and todo:
         client = make_client(api_key)
         for idx, it in enumerate(todo):
@@ -315,6 +330,9 @@ def main() -> int:
                     it["retry_count"] = it.get("retry_count", 0) + 1
                     done_ng += 1
                     print(f"  NG  {it['channel']} / {it['title'][:40]} : {exc}", file=sys.stderr)
+                    if not listed_models:
+                        listed_models = True
+                        print_available_models(client)
                     break
             if stopped:
                 break
