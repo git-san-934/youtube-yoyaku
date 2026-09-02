@@ -30,6 +30,7 @@ MAX_NEW_PER_CHANNEL = 4       # 1チャンネルあたり新着として拾う�
 SLEEP_BETWEEN_SEC = 45       # 動画1本ごとの待ち時間（Gemini無料枠の「分あたり入力量」上限対策）
 QUOTA_WAIT_MAX_SEC = 120     # クォータ超過時に待つ最大秒数
 VIDEO_FPS = 0.3             # 動画のフレーム抽出頻度（低いほどトークン節約。話し中心なら0.2〜0.5で十分）
+MIN_SUMMARY_CHARS = 60      # これ未満の要約は「打ち切り」とみなして失敗扱い・次回再試行
 KEEP_ITEMS = 200              # summaries.json に残す最大件数
 MAX_RETRY = 3                 # 同じ動画の要約をリトライする上限回数
 # 無料枠の目安: 上記だと 1日4回実行 × 4件 = 最大16件/日。
@@ -144,10 +145,15 @@ def summarize(client, url: str) -> str:
     part_text = types.Part(text=PROMPT)
     contents = types.Content(parts=[part_video, part_text])
 
-    config_kwargs = {"max_output_tokens": 500, "temperature": 0.3}
+    config_kwargs = {"max_output_tokens": 900, "temperature": 0.3}
     try:
         config_kwargs["media_resolution"] = types.MediaResolution.MEDIA_RESOLUTION_LOW
     except AttributeError:
+        pass
+    # Gemini 3系は既定で「思考」に出力枠を使い本文が途中で切れるため、思考を無効化する
+    try:
+        config_kwargs["thinking_config"] = types.ThinkingConfig(thinking_budget=0)
+    except (AttributeError, TypeError):
         pass
 
     resp = client.models.generate_content(
@@ -158,6 +164,8 @@ def summarize(client, url: str) -> str:
     text = (resp.text or "").strip()
     if not text:
         raise RuntimeError("空の応答")
+    if len(text) < MIN_SUMMARY_CHARS:
+        raise RuntimeError(f"要約が短すぎる（{len(text)}字・打ち切りの可能性）")
     return text
 
 
@@ -224,11 +232,15 @@ def main() -> int:
             new_ids.append(vid)
 
     # --- 要約する候補を並べる（前回失敗の再試行 → 新着、いずれも公開が古い順）---
+    # status が failed のもの、または ok でも要約が短すぎる（過去に打ち切られた）ものを再試行対象にする
     retry_items = [
         it for it in index.values()
-        if it.get("status") == "failed"
-        and it["video_id"] not in new_ids
+        if it["video_id"] not in new_ids
         and it.get("retry_count", 0) < MAX_RETRY
+        and (
+            it.get("status") == "failed"
+            or len(it.get("summary", "")) < MIN_SUMMARY_CHARS
+        )
     ]
     new_items = [index[v] for v in new_ids]
     retry_items.sort(key=lambda it: it.get("published_at") or "")

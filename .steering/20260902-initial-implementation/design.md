@@ -94,7 +94,9 @@
 ## Gemini 要約（update.py）
 - SDK: `google-genai`。`genai.Client(api_key=os.environ["GEMINI_API_KEY"])`。
 - 入力: `Part(file_data=FileData(file_uri=<動画URL>))` ＋ 指示テキスト（YouTube URL は mime_type 不要）。
-- 生成設定: `max_output_tokens=500`、`temperature=0.3`、`media_resolution` は低め（トークン節約）。
+- 生成設定: `max_output_tokens=900`、`temperature=0.3`、`media_resolution` 低め、`VideoMetadata.fps=0.3`。
+- `thinking_config(thinking_budget=0)` で思考を無効化する。Gemini 3系は既定で思考に出力枠を使い、
+  本文が数十文字で打ち切られるため。短すぎる応答（`MIN_SUMMARY_CHARS` 未満）は失敗扱いで再試行。
 - モデルは `gemini-3.6-flash`（`gemini-2.5-flash` は新規ユーザー提供終了）。
 - 指示テキスト（`PROMPT` 定数）:
   ```
