@@ -9,7 +9,7 @@
         ├ data/channels.json の各チャンネルの公開RSSを取得
         ├ 未要約 かつ 公開5日以内 の動画を新着として抽出（1チャンネル最大4本／回）
         ├ 前回失敗（status:"failed"）の動画も再試行対象に加える
-        ├ 公開が古い順に最大6件、Gemini に「動画URL＋指示」を渡して日本語要約
+        ├ 公開が古い順に最大4件、Gemini に「動画URL＋指示」を渡して日本語要約
         └ data/summaries.json を書き出して git commit / push
                     │
                     ▼
@@ -29,7 +29,7 @@
 | `scripts/resolve_channels.py` | `@名` → `channel_id` / `name` を解決して `channels.json` を補完 |
 | `scripts/update.py` | 新着検知 → Gemini 要約 → `summaries.json` 更新 |
 | `scripts/requirements.txt` | `google-genai` |
-| `.github/workflows/update.yml` | 4時間おき＋手動の定期実行 |
+| `.github/workflows/update.yml` | 6時間おき＋手動の定期実行 |
 | `.nojekyll` / `.gitignore` / `README.md` / `LICENSE` | 公開・運用まわり |
 
 ## data/channels.json の形
@@ -95,7 +95,7 @@
 - SDK: `google-genai`。`genai.Client(api_key=os.environ["GEMINI_API_KEY"])`。
 - 入力: `Part(file_data=FileData(file_uri=<動画URL>))` ＋ 指示テキスト（YouTube URL は mime_type 不要）。
 - 生成設定: `max_output_tokens=500`、`temperature=0.3`、`media_resolution` は低め（トークン節約）。
-  ※ SDK のクラス名・enum 名は実装時に最新版で確認して合わせる。
+- モデルは `gemini-3.6-flash`（`gemini-2.5-flash` は新規ユーザー提供終了）。
 - 指示テキスト（`PROMPT` 定数）:
   ```
   次のYouTube動画を視聴し、内容を日本語で要約してください。
@@ -107,12 +107,16 @@
   ・前置き（「この動画は」等）や締めの挨拶は不要
   ```
 - 応答が空、または例外時は失敗扱い。
-- クォータ超過（`RESOURCE_EXHAUSTED` / HTTP 429）を検知したら、その実行はループを打ち切って
-  既存分だけ書き出して正常終了する（次回に持ち越し）。
+- 動画1本ごとに `SLEEP_BETWEEN_SEC`（既定45秒）待つ。無料枠には「1分あたりの入力トークン上限」があり、
+  動画は1本で大量のトークンを使うため、間隔を空けないと数本で上限に当たる。
+- クォータ超過（`RESOURCE_EXHAUSTED` / HTTP 429）を検知したら、エラー中の `retryDelay` 秒だけ待って
+  同じ動画を1回だけ再試行する。それでも超過が続く場合はその実行を打ち切り、既存分を書き出して
+  正常終了する（残りは次回に持ち越し）。
 
 ## update.py の処理フロー
 ```
-設定定数: MODEL, MAX_PER_RUN=6, LOOKBACK_DAYS=5, MAX_NEW_PER_CHANNEL=4, KEEP_ITEMS=200, MAX_RETRY=3
+設定定数: MODEL=gemini-3.6-flash, MAX_PER_RUN=4, LOOKBACK_DAYS=5, MAX_NEW_PER_CHANNEL=4,
+          SLEEP_BETWEEN_SEC=45, KEEP_ITEMS=200, MAX_RETRY=3
 
 1. channels.json を読む（channel_id が無い行は警告して除外）
 2. summaries.json を読む → video_id をキーに既存インデックス化
@@ -124,10 +128,10 @@
       （拾った時点で status="failed", retry_count=0 でインデックスに追加＝一覧には出る）
 4. 候補を published の昇順（古い順）に並べ、先頭から MAX_PER_RUN 件に絞る
    （a の再試行分を優先して詰める）
-5. 各候補を Gemini で要約:
+5. 各候補を Gemini で要約（1本ごとに SLEEP_BETWEEN_SEC 待つ）:
    - 成功 → status="ok", summary=本文, summarized_at=now, retry_count 据え置き
    - 失敗 → status="failed", summary="", retry_count += 1
-   - クォータ超過 → break
+   - クォータ超過 → retryDelay 秒待って1回だけ再試行。なお続くなら break
 6. 既存項目は更新、新規項目は追加してマージ
 7. published_at の降順にソートし、先頭 KEEP_ITEMS 件に切り詰め
 8. GEMINI_API_KEY 未設定時は 5 をスキップ（候補は status="failed", retry_count=0 で一覧化のみ）

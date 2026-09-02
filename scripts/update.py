@@ -14,7 +14,9 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import sys
+import time
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -22,12 +24,14 @@ from pathlib import Path
 
 # --- 調整用の設定値 ---------------------------------------------------------
 MODEL = "gemini-3.6-flash"     # 要約に使う Gemini モデル（無料枠が厳しければ "gemini-3.6-flash-lite"）
-MAX_PER_RUN = 6                 # 1回の実行で要約する最大件数（残りは次回へ）
+MAX_PER_RUN = 4                 # 1回の実行で要約する最大件数（残りは次回へ）
 LOOKBACK_DAYS = 5             # 「新着」とみなす公開からの日数
 MAX_NEW_PER_CHANNEL = 4       # 1チャンネルあたり新着として拾う最大本数（1回の実行）
+SLEEP_BETWEEN_SEC = 45       # 動画1本ごとの待ち時間（Gemini無料枠の「分あたり入力量」上限対策）
+QUOTA_WAIT_MAX_SEC = 120     # クォータ超過時に待つ最大秒数
 KEEP_ITEMS = 200              # summaries.json に残す最大件数
 MAX_RETRY = 3                 # 同じ動画の要約をリトライする上限回数
-# 無料枠の目安: 上記だと 1日4回実行 × 6件 = 最大24件/日。
+# 無料枠の目安: 上記だと 1日4回実行 × 4件 = 最大16件/日。
 # 初回はバックログをこの速度で消化する。超過・不足があればここを調整する。
 # -------------------------------------------------------------------------
 
@@ -154,6 +158,17 @@ def is_quota_error(exc: Exception) -> bool:
     return "RESOURCE_EXHAUSTED" in s or "429" in s or "QUOTA" in s or "RATE LIMIT" in s
 
 
+def parse_retry_delay(exc: Exception) -> int:
+    """クォータ超過エラーから「何秒後に再試行」を読み取る。読めなければ 45 秒。"""
+    s = str(exc)
+    m = re.search(r"retryDelay['\"]?\s*[:=]\s*['\"]?(\d+(?:\.\d+)?)s", s)
+    if not m:
+        m = re.search(r"retry in (\d+(?:\.\d+)?)\s*s", s)
+    if m:
+        return min(int(float(m.group(1))) + 5, QUOTA_WAIT_MAX_SEC)
+    return SLEEP_BETWEEN_SEC
+
+
 def main() -> int:
     now = datetime.now(timezone.utc)
     api_key = os.environ.get("GEMINI_API_KEY", "").strip()
@@ -217,23 +232,38 @@ def main() -> int:
     stopped = False
     if api_key and todo:
         client = make_client(api_key)
-        for it in todo:
-            try:
-                summary = summarize(client, it["url"])
-                it["summary"] = summary
-                it["status"] = "ok"
-                it["summarized_at"] = datetime.now(JST).isoformat(timespec="seconds")
-                done_ok += 1
-                print(f"  OK  {it['channel']} / {it['title'][:40]}")
-            except Exception as exc:
-                if is_quota_error(exc):
-                    print(f"  クォータ超過を検知。今回はここで打ち切り: {exc}", file=sys.stderr)
-                    stopped = True
+        for idx, it in enumerate(todo):
+            for attempt in (1, 2):
+                try:
+                    summary = summarize(client, it["url"])
+                    it["summary"] = summary
+                    it["status"] = "ok"
+                    it["summarized_at"] = datetime.now(JST).isoformat(timespec="seconds")
+                    done_ok += 1
+                    print(f"  OK  {it['channel']} / {it['title'][:40]}")
                     break
-                it["status"] = "failed"
-                it["retry_count"] = it.get("retry_count", 0) + 1
-                done_ng += 1
-                print(f"  NG  {it['channel']} / {it['title'][:40]} : {exc}", file=sys.stderr)
+                except Exception as exc:
+                    if is_quota_error(exc):
+                        if attempt == 1:
+                            wait = parse_retry_delay(exc)
+                            print(f"  分あたり上限。{wait}秒待って再試行します…", file=sys.stderr)
+                            time.sleep(wait)
+                            continue
+                        # 2回目も超過 = レート制限が続いている。この動画の試行回数だけ進めて打ち切り
+                        it["status"] = "failed"
+                        it["retry_count"] = it.get("retry_count", 0) + 1
+                        print("  上限が続くため今回はここで打ち切り（残りは次回へ）", file=sys.stderr)
+                        stopped = True
+                        break
+                    it["status"] = "failed"
+                    it["retry_count"] = it.get("retry_count", 0) + 1
+                    done_ng += 1
+                    print(f"  NG  {it['channel']} / {it['title'][:40]} : {exc}", file=sys.stderr)
+                    break
+            if stopped:
+                break
+            if idx < len(todo) - 1:
+                time.sleep(SLEEP_BETWEEN_SEC)
     elif not api_key:
         print("  GEMINI_API_KEY 未設定のため要約はスキップ（新着の一覧化のみ）", file=sys.stderr)
 

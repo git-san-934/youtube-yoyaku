@@ -13,7 +13,7 @@ GitHub Actions（6時間おき ＋ 手動実行）
   └ scripts/update.py
        ├ data/channels.json の各チャンネルの公開RSSを取得（ログイン不要）
        ├ 未要約かつ公開5日以内の新着を抽出（1チャンネル最大4本／回）
-       ├ 前回失敗分も加え、古い順に最大6件を Gemini で日本語要約
+       ├ 前回失敗分も加え、古い順に最大4件を Gemini で日本語要約
        └ data/summaries.json を更新して commit / push
 GitHub Pages（main ブランチをそのまま配信）
   └ index.html + assets/ が summaries.json を読んでカード一覧を描画
@@ -91,7 +91,7 @@ python -m http.server 8000    # http://localhost:8000 を開く
 | 定数 | 既定値 | 意味 |
 |---|---|---|
 | `MODEL` | `gemini-3.6-flash` | 要約に使う Gemini モデル。無料枠が厳しければ `gemini-3.6-flash-lite` に |
-| `MAX_PER_RUN` | `6` | 1回の実行で要約する最大件数 |
+| `MAX_PER_RUN` | `4` | 1回の実行で要約する最大件数 |
 | `LOOKBACK_DAYS` | `5` | 「新着」とみなす公開からの日数 |
 | `MAX_NEW_PER_CHANNEL` | `4` | 1チャンネルあたり1回で拾う新着の最大本数 |
 | `KEEP_ITEMS` | `200` | 一覧に残す最大件数 |

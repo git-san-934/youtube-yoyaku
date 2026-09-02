@@ -18,10 +18,10 @@
 ## 3. 要約バッチ
 - [x] `scripts/requirements.txt`（`google-genai`）
 - [x] `scripts/update.py`
-  - [x] 設定定数（`MODEL` / `MAX_PER_RUN=6` / `LOOKBACK_DAYS=5` / `MAX_NEW_PER_CHANNEL=4` / `KEEP_ITEMS=200` / `MAX_RETRY=3`）
+  - [x] 設定定数（`MODEL` / `MAX_PER_RUN=4` / `LOOKBACK_DAYS=5` / `MAX_NEW_PER_CHANNEL=4` / `KEEP_ITEMS=200` / `MAX_RETRY=3`）
   - [x] `channels.json` / `summaries.json` 読み込み、`video_id` インデックス化
   - [x] RSS取得・解析（標準ライブラリ、名前空間対応、チャンネル単位で失敗を握りつぶす）
-  - [x] 候補抽出（failed再試行分 ＋ 未要約かつ5日以内・1チャンネル最大4本）→ 公開昇順 → 最大6件
+  - [x] 候補抽出（failed再試行分 ＋ 未要約かつ5日以内・1チャンネル最大4本）→ 公開昇順 → 最大4件
   - [x] Gemini 呼び出し（動画URL＋`PROMPT`、`max_output_tokens=500`、低解像度）
   - [x] 成功/失敗を項目へ反映、クォータ超過で `break`
   - [x] `GEMINI_API_KEY` 未設定時は要約スキップ（一覧化のみ）
