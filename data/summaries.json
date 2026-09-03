@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-03T21:11:16+09:00",
+  "updated_at": "2026-09-04T03:11:11+09:00",
   "items": [
+    {
+      "video_id": "Y1b6q1BsyOQ",
+      "url": "https://www.youtube.com/watch?v=Y1b6q1BsyOQ",
+      "title": "【LIVE】タイタニック公開特別企画_これが「藏内勇夫と大田京子の連結協定」だ！（政治ニュース7days）",
+      "channel": "センキョタイムズ",
+      "published_at": "2026-09-03T17:23:53+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/Y1b6q1BsyOQ/hqdefault.jpg",
+      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 1
+    },
+    {
+      "video_id": "jxOMAAytmuA",
+      "url": "https://www.youtube.com/watch?v=jxOMAAytmuA",
+      "title": "【記者会見】福岡市長選の大本命・新村まさる",
+      "channel": "センキョタイムズ",
+      "published_at": "2026-09-03T16:32:21+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/jxOMAAytmuA/hqdefault.jpg",
+      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 1
+    },
+    {
+      "video_id": "mern-gviM9w",
+      "url": "https://www.youtube.com/watch?v=mern-gviM9w",
+      "title": "真っ暗だった村が「竹下通り」のような光景に",
+      "channel": "XU (クロスユー) - X innovation empowers U",
+      "published_at": "2026-09-03T15:00:36+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/mern-gviM9w/hqdefault.jpg",
+      "channel_id": "UCJaxZOXs4SMjaxhcee2N5Aw",
+      "summary": "ご提示いただいたYouTube動画の要約は以下の通りです。\n\nWASSHA株式会社の事業によってアフリカの無電化村に明かりが灯り、活気ある商業地へと変貌を遂げた。\n・暗闇だった村にWASSHAのライトが普及し、ビジネスの拡大や雇用の増加につながった。\n・3年ぶりに訪れたタンザニアの顧客の地域では、家が建つなどの変化が見られた。\n・借りたお店の明かりが街灯のようになり、道沿いに「竹下通り」のような商店街が形成された。",
+      "status": "ok",
+      "summarized_at": "2026-09-04T03:08:27+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "GsXDHugel6k",
+      "url": "https://www.youtube.com/watch?v=GsXDHugel6k",
+      "title": "Anthropic’s Distillation Battle Turns To The Dark Web As China Concerns Swell",
+      "channel": "CNBC",
+      "published_at": "2026-09-03T14:00:19+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/GsXDHugel6k/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "中国のAIラボが米国の主要AI企業のモデルを不正に模倣（蒸留）している問題について。\n・AnthropicやOpenAIなどのAIモデルが、闇サイトや盗まれたアカウント、不正なクレジットカードを使ってアクセスされている\n・中国のAIラボ「DeepSeek」「Moonshot」「MiniMax」が、数万件の虚偽アカウントを利用してAnthropicのClaudeから膨大なデータを取得した\n・「蒸留（Distillation）」という技術を悪用し、より優れた教師モデルから安価かつ小規模な生徒モデルを不正に訓練している\n・米国政府やAI企業は、知的財産の保護や悪用のリスクを防ぐため、対策強化や法的措置を検討している",
+      "status": "ok",
+      "summarized_at": "2026-09-04T03:11:11+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "lO8-5FzXST8",
+      "url": "https://www.youtube.com/watch?v=lO8-5FzXST8",
+      "title": "円高急進もTPX堅調。含み益額小台4つへ戻す。ソニーGのモルスタレポート主題・創造性を解き放つ。力作で目標株価を上方修正・5000円。",
+      "channel": "元上場会社社長のゆるゆる株式投資日記",
+      "published_at": "2026-09-03T13:54:04+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/lO8-5FzXST8/hqdefault.jpg",
+      "channel_id": "UCedNzJ_2ilOFepcDA01Bpcw",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 0
+    },
     {
       "video_id": "iRO_0MOA-So",
       "url": "https://www.youtube.com/watch?v=iRO_0MOA-So",
