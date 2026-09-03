@@ -1,11 +1,13 @@
 // ユーチューブ要約 — data/summaries.json を読み込んでカード一覧を描画する
 
 const STORAGE_KEY = 'yy-channel-filter'
+const HIDDEN_KEY = 'yy-hidden'
 const JST_OFFSET_MIN = 9 * 60
 
 const state = {
   items: [],
   channel: '',
+  hidden: new Set(), // 「消す」で非表示にした video_id（この端末のみ）
 }
 
 const els = {
@@ -75,6 +77,52 @@ function renderFilter() {
   }
 }
 
+// カード右上の「消す」ボタン。押すと「消す／やめる」の確認に差し替わる。
+function delControl(cardEl, item) {
+  const wrap = document.createElement('div')
+  wrap.className = 'card__del-wrap'
+
+  const showButton = () => {
+    const btn = document.createElement('button')
+    btn.type = 'button'
+    btn.className = 'card__del'
+    btn.textContent = '消す'
+    btn.setAttribute('aria-label', 'この要約を消す')
+    btn.addEventListener('click', showConfirm)
+    wrap.replaceChildren(btn)
+  }
+
+  const showConfirm = () => {
+    const box = document.createElement('div')
+    box.className = 'card__confirm'
+
+    const label = document.createElement('span')
+    label.className = 'card__confirm-label'
+    label.textContent = '消しますか？'
+
+    const yes = document.createElement('button')
+    yes.type = 'button'
+    yes.className = 'card__confirm-yes'
+    yes.textContent = '消す'
+    yes.addEventListener('click', () => {
+      cardEl.classList.add('is-removing')
+      setTimeout(() => hideItem(item.video_id), 200)
+    })
+
+    const no = document.createElement('button')
+    no.type = 'button'
+    no.className = 'card__confirm-no'
+    no.textContent = 'やめる'
+    no.addEventListener('click', showButton)
+
+    box.append(label, yes, no)
+    wrap.replaceChildren(box)
+  }
+
+  showButton()
+  return wrap
+}
+
 function card(item) {
   const el = document.createElement('article')
   el.className = 'card'
@@ -89,6 +137,8 @@ function card(item) {
 
   const body = document.createElement('div')
   body.className = 'card__body'
+
+  body.appendChild(delControl(el, item))
 
   const a = document.createElement('a')
   a.className = 'card__title'
@@ -125,9 +175,10 @@ function card(item) {
 }
 
 function render() {
+  const unread = state.items.filter((it) => !state.hidden.has(it.video_id))
   const items = state.channel
-    ? state.items.filter((it) => it.channel === state.channel)
-    : state.items
+    ? unread.filter((it) => it.channel === state.channel)
+    : unread
   const sorted = [...items].sort((a, b) =>
     (b.published_at || '').localeCompare(a.published_at || ''),
   )
@@ -152,6 +203,42 @@ function safeSet(value) {
   }
 }
 
+function loadHidden() {
+  try {
+    const raw = localStorage.getItem(HIDDEN_KEY)
+    const arr = raw ? JSON.parse(raw) : []
+    return new Set(Array.isArray(arr) ? arr.filter((v) => typeof v === 'string') : [])
+  } catch {
+    return new Set()
+  }
+}
+
+function saveHidden() {
+  try {
+    localStorage.setItem(HIDDEN_KEY, JSON.stringify([...state.hidden]))
+  } catch {
+    /* localStorage 不可でも動作は継続（再読み込みで元に戻るだけ） */
+  }
+}
+
+// summaries.json に今ある動画IDだけを残し、古いIDが溜まり続けないようにする
+function pruneHidden(validIds) {
+  let changed = false
+  for (const id of state.hidden) {
+    if (!validIds.has(id)) {
+      state.hidden.delete(id)
+      changed = true
+    }
+  }
+  if (changed) saveHidden()
+}
+
+function hideItem(videoId) {
+  state.hidden.add(videoId)
+  saveHidden()
+  render()
+}
+
 function setupControls() {
   els.select.addEventListener('change', () => {
     state.channel = els.select.value
@@ -162,9 +249,11 @@ function setupControls() {
 
 async function main() {
   setupControls()
+  state.hidden = loadHidden()
   try {
     const data = await loadData()
     state.items = Array.isArray(data.items) ? data.items : []
+    pruneHidden(new Set(state.items.map((it) => it.video_id)))
     els.updated.textContent = formatUpdated(data.updated_at)
     renderFilter()
     render()

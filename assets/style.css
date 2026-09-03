@@ -109,7 +109,55 @@ h1 { font-size: 1.35rem; letter-spacing: 0.01em; }
   display: block;
 }
 
-.card__body { min-width: 0; }
+.card__body { min-width: 0; position: relative; }
+
+.card.is-removing { opacity: 0; transition: opacity 0.2s ease; }
+
+.card__del-wrap {
+  position: absolute;
+  top: -0.1rem;
+  right: 0;
+  z-index: 1;
+}
+
+.card__del {
+  font: inherit;
+  font-size: 0.75rem;
+  min-height: 32px;
+  padding: 0.2rem 0.6rem;
+  color: var(--text-sub);
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  cursor: pointer;
+}
+.card__del:hover { color: var(--accent); border-color: var(--accent); }
+
+.card__confirm {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: var(--card-bg);
+}
+.card__confirm-label { font-size: 0.75rem; color: var(--text-sub); white-space: nowrap; }
+.card__confirm button {
+  font: inherit;
+  font-size: 0.75rem;
+  min-height: 32px;
+  padding: 0.2rem 0.7rem;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.card__confirm-yes {
+  color: var(--accent-text);
+  background: var(--accent);
+  border: 1px solid var(--accent);
+}
+.card__confirm-no {
+  color: var(--text);
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+}
 
 .card__title {
   font-size: 0.98rem;
@@ -117,6 +165,7 @@ h1 { font-size: 1.35rem; letter-spacing: 0.01em; }
   line-height: 1.4;
   color: var(--text);
   text-decoration: none;
+  padding-right: 3.5rem;
 }
 .card__title:hover { text-decoration: underline; color: var(--accent); }
 
