@@ -1,0 +1,40 @@
+name: チャンネルID解決
+
+on:
+  push:
+    paths:
+      - data/channels.json
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: resolve-channels
+  cancel-in-progress: false
+
+jobs:
+  resolve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: @名からチャンネルIDと表示名を解決
+        run: python scripts/resolve_channels.py || echo "一部は変換できませんでした（変換待ちのまま）"
+
+      - name: 変更があればコミットして push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/channels.json; then
+            echo "変更なし"
+          else
+            git add data/channels.json
+            git commit -m "chore: チャンネルIDを解決 ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
+          fi

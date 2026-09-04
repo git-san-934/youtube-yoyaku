@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex" />
+  <title>チャンネル管理 — ユーチューブ要約</title>
+  <link rel="stylesheet" href="assets/style.css" />
+  <link rel="stylesheet" href="assets/admin.css" />
+</head>
+<body>
+  <header>
+    <div class="head-row">
+      <h1>チャンネル管理</h1>
+      <a class="portal-link" href="index.html">要約一覧へ戻る</a>
+    </div>
+    <p class="meta">フォロー中の YouTube チャンネルを追加・削除します。</p>
+  </header>
+
+  <main>
+    <!-- トークン未設定のときに表示 -->
+    <section id="setup" hidden>
+      <h2>最初の設定（1回だけ）</h2>
+      <p class="lead">
+        このページから GitHub のファイルを書き換えるために、専用のアクセストークンを1つ作ります。
+        作ったトークンは<strong>この端末のブラウザだけに保存</strong>され、他には送られません。
+      </p>
+      <ol class="steps">
+        <li>
+          <a id="pat-link" href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">
+            GitHub のトークン発行ページを開く
+          </a>
+          （GitHub にログインしていなければログインします）
+        </li>
+        <li><b>Token name</b>：好きな名前（例：<code>youtube-yoyaku 管理</code>）</li>
+        <li><b>Expiration</b>：好きな期間（切れたら同じ手順で作り直します）</li>
+        <li>
+          <b>Repository access</b>：<b>Only select repositories</b> を選び、
+          <code>git-san-934/youtube-yoyaku</code> を選ぶ
+        </li>
+        <li>
+          <b>Permissions</b> → <b>Repository permissions</b> →
+          <b>Contents</b> を <b>Read and write</b> にする
+          （ほかの権限は不要）
+        </li>
+        <li>下の <b>Generate token</b> で作成し、表示された <code>github_pat_…</code> をコピー</li>
+        <li>それを下の欄に貼って「保存」</li>
+      </ol>
+      <form id="token-form">
+        <label for="token-input">アクセストークン</label>
+        <input id="token-input" type="password" autocomplete="off" spellcheck="false"
+               placeholder="github_pat_… を貼り付け" />
+        <button type="submit" id="token-save">保存</button>
+      </form>
+      <p id="setup-msg" class="msg" role="status"></p>
+    </section>
+
+    <!-- トークン設定済みのときに表示 -->
+    <section id="manager" hidden>
+      <form id="add-form">
+        <label for="add-input">チャンネルを追加</label>
+        <div class="add-row">
+          <input id="add-input" type="text" autocomplete="off" spellcheck="false"
+                 placeholder="チャンネルのURL または @名" />
+          <button type="submit" id="add-btn">追加</button>
+        </div>
+        <p class="hint">
+          例：<code>https://www.youtube.com/@pivot00</code> ／ <code>@pivot00</code>
+        </p>
+      </form>
+
+      <p id="msg" class="msg" role="status"></p>
+
+      <div id="channel-list" class="channel-list"></div>
+
+      <div class="manager-foot">
+        <button id="reload" type="button">最新に更新</button>
+        <button id="forget" type="button" class="danger-text">トークンを削除</button>
+      </div>
+    </section>
+
+    <p id="error" class="msg is-error" hidden>
+      ページの読み込みでエラーが発生しました。時間をおいて再度お試しください。
+    </p>
+  </main>
+
+  <footer>
+    <p>
+      追加・削除は GitHub 上の <code>data/channels.json</code> に保存されます。
+      新しく追加したチャンネルは、正式なチャンネルIDへの変換（1〜2分）のあと、
+      次回の要約更新（6時間おき）から対象になります。
+    </p>
+  </footer>
+
+  <script type="module" src="assets/admin.js"></script>
+</body>
+</html>

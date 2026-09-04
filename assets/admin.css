@@ -1,0 +1,178 @@
+/* チャンネル管理ページ専用スタイル（色などの変数は style.css を流用） */
+
+h2 {
+  font-size: 1.05rem;
+  margin-top: 0.5rem;
+}
+
+main { margin-top: 1.2rem; }
+
+.lead,
+.hint {
+  font-size: 0.86rem;
+  color: var(--text-sub);
+}
+
+.steps {
+  margin: 0.9rem 0 1.2rem 1.2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+}
+.steps li { padding-left: 0.2rem; }
+
+code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.85em;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 0.05em 0.35em;
+  word-break: break-all;
+}
+
+/* --- フォーム共通 --- */
+form label {
+  display: block;
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  padding: 0.55rem 0.65rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--card-bg);
+  color: var(--text);
+  font: inherit;
+}
+
+button {
+  font: inherit;
+  padding: 0.55rem 1rem;
+  border-radius: 8px;
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: var(--accent-text);
+  cursor: pointer;
+  white-space: nowrap;
+}
+button:disabled { opacity: 0.5; cursor: default; }
+
+#token-form { margin-top: 0.6rem; display: flex; flex-direction: column; gap: 0.6rem; }
+#token-form button { align-self: flex-start; }
+
+.add-row {
+  display: flex;
+  gap: 0.5rem;
+}
+.add-row input { flex: 1 1 auto; min-width: 0; }
+.hint { margin-top: 0.4rem; }
+
+/* --- メッセージ --- */
+.msg {
+  margin: 0.9rem 0;
+  font-size: 0.88rem;
+  color: var(--text-sub);
+  min-height: 1.2em;
+}
+.msg:empty { margin: 0; min-height: 0; }
+.msg.is-error { color: var(--accent); }
+.msg.is-ok { color: var(--text); }
+
+/* --- チャンネル一覧 --- */
+.channel-list {
+  margin-top: 0.6rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.ch {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  padding: 0.7rem 0.8rem;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+.ch__main { min-width: 0; flex: 1 1 auto; }
+.ch__name {
+  font-size: 0.95rem;
+  font-weight: 600;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.ch__handle {
+  font-size: 0.78rem;
+  color: var(--text-sub);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.ch__pending {
+  display: inline-block;
+  margin-left: 0.4rem;
+  font-size: 0.72rem;
+  color: var(--pending);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0 0.5em;
+}
+
+.ch__del,
+.ch__confirm button {
+  font-size: 0.8rem;
+  padding: 0.35rem 0.7rem;
+}
+.ch__del {
+  color: var(--text-sub);
+  background: var(--card-bg);
+  border-color: var(--border);
+}
+.ch__del:hover { color: var(--accent); border-color: var(--accent); }
+
+.ch__confirm {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.ch__confirm-label { font-size: 0.78rem; color: var(--text-sub); white-space: nowrap; }
+.ch__confirm-no {
+  color: var(--text);
+  background: var(--card-bg);
+  border-color: var(--border);
+}
+
+.empty-note {
+  font-size: 0.88rem;
+  color: var(--text-sub);
+  padding: 0.8rem 0;
+}
+
+/* --- 下部 --- */
+.manager-foot {
+  margin-top: 1.4rem;
+  display: flex;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+}
+.manager-foot button {
+  background: var(--card-bg);
+  color: var(--text);
+  border-color: var(--border);
+}
+.danger-text { color: var(--accent); }
+
+footer code { border: none; background: none; padding: 0; }
+
+@media (max-width: 480px) {
+  .ch { flex-wrap: wrap; }
+  .ch__main { flex-basis: 100%; }
+}

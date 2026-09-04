@@ -200,6 +200,13 @@ footer {
   font-size: 0.76rem;
   color: var(--text-sub);
 }
+.admin-link {
+  margin-top: 0.8rem;
+}
+.admin-link a {
+  color: var(--text-sub);
+  text-decoration: underline;
+}
 
 @media (max-width: 560px) {
   .card {
