@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T09:11:07+09:00",
+  "updated_at": "2026-09-04T15:12:13+09:00",
   "items": [
     {
       "video_id": "5aWNv9aMxck",
@@ -38,7 +38,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 2
+      "retry_count": 3
     },
     {
       "video_id": "jxOMAAytmuA",
@@ -48,9 +48,9 @@
       "published_at": "2026-09-03T16:32:21+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/jxOMAAytmuA/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "福岡市議会議員の新村雅氏が、福岡市長選への出馬記者会見を開き、その思いや今後の展望を語った。\n・新村雅氏は福岡市議会議員で、今回福岡市長選への出馬を正式に表明し、記者会見を行った。\n・自身の落選経験や、現市政の課題、市職員や市民への思いなどについて詳細に語った。\n・報道陣からの質問に対し、無所属での出馬であることや今後の政策などについて丁寧に回答した。\n・記者会見後、動画の出演者らが新村氏の印象や今後の見通しについて振り返りトークを行った。",
+      "status": "ok",
+      "summarized_at": "2026-09-04T15:10:10+09:00",
       "retry_count": 2
     },
     {
@@ -87,9 +87,9 @@
       "published_at": "2026-09-03T13:54:04+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/lO8-5FzXST8/hqdefault.jpg",
       "channel_id": "UCedNzJ_2ilOFepcDA01Bpcw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "ソニーグループ（6758）のモルガン・スタンレー証券によるモルスタレポート「Creativity Unleashed：創造性を解き放つ」を主題に、目標株価が5,000円へ上方修正された。\n・三量（三井物産・三菱商事などの総合商社）は、限定商品の絶対ゲットなどを目指すインバウンド需要や高値の様相により注目されている。\n・ソニーグループのモルスタレポートでは、目標株価が4,700円から5,000円へ引き上げられ、ゲーム、音楽、映画などのコンテンツ配信やAIとのシナジーに強気の見通しが示された。\n・日経平均株価や為替の動向に関しては、円高急進・TPX堅調、日経平均は一時大幅下落や上下動が見られるなど、相場のボラティリティが高い状態が続いている。",
+      "status": "ok",
+      "summarized_at": "2026-09-04T15:11:13+09:00",
       "retry_count": 0
     },
     {
@@ -152,9 +152,9 @@
       "published_at": "2026-09-03T04:13:54+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/9esqO-CcFOE/hqdefault.jpg",
       "channel_id": "UCedNzJ_2ilOFepcDA01Bpcw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "2026年9月の日本株分割ラッシュを控え、分割後に下落して高配当となる銘柄や下落の確率について考察した動画。\n\n・9月は47銘柄の分割ラッシュとなり、東京会館などの分割銘柄が紹介された\n・一般的に分割後の株価は一時的に下落しやすい傾向があり、その確率や背景が解説された\n・三井住友トラストグループなどの個別銘柄について、配当や業績の視点から分析が行われた\n・東京海上ホールディングスなどの大企業による買収や業績修正の話題にも触れられた",
+      "status": "ok",
+      "summarized_at": "2026-09-04T15:12:13+09:00",
       "retry_count": 0
     },
     {
