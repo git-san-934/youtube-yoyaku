@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-04T03:11:11+09:00",
+  "updated_at": "2026-09-04T09:11:07+09:00",
   "items": [
+    {
+      "video_id": "5aWNv9aMxck",
+      "url": "https://www.youtube.com/watch?v=5aWNv9aMxck",
+      "title": "【気象兵器のリアル。台風は弱められるのか？】陰謀論ではない／ベトナム戦争が原点／中国による人工降雨・降雪／干ばつ対策のロケット／雲泥棒／シリコンバレーの挑戦／ゲリラ豪雨対応／水の武器化／日本の戦略",
+      "channel": "PIVOT 公式チャンネル",
+      "published_at": "2026-09-03T22:00:20+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/5aWNv9aMxck/hqdefault.jpg",
+      "channel_id": "UC8yHePe_RgUBE-waRWy6olw",
+      "summary": "気象改変技術はベトナム戦争での軍事利用に端を発し、近年では干ばつ対策やイベントなどの目的で中国などの国家や企業によって実用化が進められている。\n・ベトナム戦争時の米軍によるヨウ化銀の散布作戦「ポパイ作戦」が気象兵器の原点である。\n・中国では北京五輪開会式での雨雲の制御をはじめ、国連条約で禁止された敵対目的以外の干ばつ対策などの人工降雨が大規模に行われている。\n・気象改変技術は効果の検証が難しく、陰謀論や隣国間での雲の奪い合いなどの紛争を生みやすいという課題がある。\n・水害や下水処理能力の限界といったリスクがある一方で、損害保険会社が被害抑制を期待して気象改変技術に投資するなど、実務的な対応が進められている。",
+      "status": "ok",
+      "summarized_at": "2026-09-04T09:08:48+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "vcpYu3WLYnA",
+      "url": "https://www.youtube.com/watch?v=vcpYu3WLYnA",
+      "title": "【爆笑】とろサーモン久保田がブチギレ「金がないなら◯◯やれ！」#正直サミット #お笑い #さらば青春の光 #shorts",
+      "channel": "【公式】正直サミット",
+      "published_at": "2026-09-03T22:00:08+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/vcpYu3WLYnA/hqdefault.jpg",
+      "channel_id": "UCSNivSS1ttprLnbDQUe3mhg",
+      "summary": "とろサーモンの久保田がバーベキューをテーマにしたトークで怒りを爆発させた。\n・理想のバーベキューについて語る出演者に対し、久保田が突っ込みを入れる\n・テラスでのバーベキューやリビングでの食事といった理想を聞いて怒りが沸き起こる\n・お金がないならバーベキューをするなという展開になり、最終的に「河原に行け」と絶叫する",
+      "status": "ok",
+      "summarized_at": "2026-09-04T09:09:36+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "Y1b6q1BsyOQ",
       "url": "https://www.youtube.com/watch?v=Y1b6q1BsyOQ",
@@ -12,7 +38,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "video_id": "jxOMAAytmuA",
@@ -25,7 +51,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "video_id": "mern-gviM9w",
