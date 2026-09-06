@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-06T21:11:30+09:00",
+  "updated_at": "2026-09-07T03:09:19+09:00",
   "items": [
+    {
+      "video_id": "2CIQBhohqdI",
+      "url": "https://www.youtube.com/watch?v=2CIQBhohqdI",
+      "title": "Chatwork創業者が挑む日本の投資文化",
+      "channel": "XU (クロスユー) - X innovation empowers U",
+      "published_at": "2026-09-06T15:00:30+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/2CIQBhohqdI/hqdefault.jpg",
+      "channel_id": "UCJaxZOXs4SMjaxhcee2N5Aw",
+      "summary": "投資家としての知識や実践の重要性について\n・エンジェル投資は車を運転するのと同じで知識と実践の両方が必要\n・著書を読んで座学的に学ぶだけでは不十分\n・路上教習のように実際に投資して初めて分かる\n・リスク分散のためにも少なくとも3社の企業に投資をすることが望ましい",
+      "status": "ok",
+      "summarized_at": "2026-09-07T03:06:07+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "nOt6TyyfLGU",
+      "url": "https://www.youtube.com/watch?v=nOt6TyyfLGU",
+      "title": "Inside The Real Estate Rush Behind AI",
+      "channel": "CNBC",
+      "published_at": "2026-09-06T14:00:14+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/nOt6TyyfLGU/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "AI需要の急増を背景に、アメリカ各地の農地や郊外でデータセンターや半導体工場の建設に向けた土地買収が過熱している。\n・ランカスター郡（ペンシルベニア州）やボイシー（アイダホ州）など、電力供給やインフラに恵まれた地域で農地が次々と買収されている。\n・Big Techの巨額投資や半導体企業（マイクロン等）の投資拡大が背景にあり、データセンターサイトの買収額や「電源付き土地」の価格が高騰している。\n・開発の急激な進展に対して、地域の住民や農家からは景観の変化、生活環境の悪化、不動産価格の高騰などへの懸念や反対運動が生じている。\n・ペンシルベニア州やテキサス州などでは、知事や当局がデータセンターの電力・水コストの住民負担を防ぐための規制や対応を強化している。",
+      "status": "ok",
+      "summarized_at": "2026-09-07T03:06:58+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "azTT7KyQnT8",
       "url": "https://www.youtube.com/watch?v=azTT7KyQnT8",
@@ -545,7 +571,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 2
+      "retry_count": 3
     },
     {
       "video_id": "0UB3_TfHv9w",
@@ -594,9 +620,9 @@
       "published_at": "2026-09-02T00:17:10+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/4Ol_7GACUsw/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "市場崩壊不能構造により、金利上昇や円高の抑制が困難であるという主張。\n・株の暴落は止められるが、インフレや円安の抑制は困難である\n・金融政策は緩和しかできず、金利引き上げによる引き締めは不可能である\n・日本は2%以上の物価上昇で物価目標を達成しているが、金利は上げられない状態にある",
+      "status": "ok",
+      "summarized_at": "2026-09-07T03:09:19+09:00",
       "retry_count": 0
     },
     {
