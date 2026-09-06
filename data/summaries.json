@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-06T15:09:59+09:00",
+  "updated_at": "2026-09-06T21:11:30+09:00",
   "items": [
+    {
+      "video_id": "azTT7KyQnT8",
+      "url": "https://www.youtube.com/watch?v=azTT7KyQnT8",
+      "title": "そろそろ仕込み時!? FigmaがAI時代に勝てる理由、分かりやすく解説",
+      "channel": "アメカブ【米国公認会計士の米国株チャンネル】",
+      "published_at": "2026-09-06T10:00:08+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/azTT7KyQnT8/hqdefault.jpg",
+      "channel_id": "UCS-xksGuWKrIi9DURQJ9IAg",
+      "summary": "動画の要約は以下の通りです。\n\nAIの進化によるソフトウェア企業への影響と、デザインツール「Figma」のAI時代における生存戦略について解説している。\n・Figmaは「誰でも簡単にアプリを作れるUI（ユーザーインターフェース）構築プラットフォーム」であり、AI時代における重要性がさらに増している。\n・AI時代に生き残る企業は「システム内にデータや過去の経緯が蓄積されているか」が重要であり、Slackのように過去のやり取りがすべて蓄積されているソフトはAIに置き換えが難しい。\n・Figmaはデザインのルールや過去のやり取りなどがすべてシステム上に蓄積されており、システムオブレコード（企業の重要情報や記録を管理するシステム）としての強みがある。\n・Figmaの足元の業績は絶好調で、直近の成長率は48％に達しており、AIの影響を感じさせずにさらに伸びている。",
+      "status": "ok",
+      "summarized_at": "2026-09-06T21:07:58+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "UlO5at92VuE",
       "url": "https://www.youtube.com/watch?v=UlO5at92VuE",
@@ -532,7 +545,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "video_id": "0UB3_TfHv9w",
@@ -555,9 +568,9 @@
       "published_at": "2026-09-02T03:00:36+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/3UmqFHpTWmY/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "福岡県内の巨大プールの建設を巡り、税金の無駄遣いや欠陥施工が指摘されていることが報じられている。\n・福岡県民スポーツ大会の開催地となった筑後広域公園内のプールで、深さが浅すぎて飛び込みができない欠陥があることが判明した。\n・50mプールの飛び込み台が設置されたものの、推進が浅く飛び込み負荷となったため、税金が投入されたにもかかわらず利用価値がない状態である。\n・設計上のミスか、あるいは工事中の変更によるものか原因は不明だが、責任の所在が曖昧なまま巨額の予算が投じられている。",
+      "status": "ok",
+      "summarized_at": "2026-09-06T21:10:21+09:00",
       "retry_count": 0
     },
     {
@@ -568,9 +581,9 @@
       "published_at": "2026-09-02T03:00:35+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/lWV4M9KyfNI/hqdefault.jpg",
       "channel_id": "UC8yHePe_RgUBE-waRWy6olw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "決算書のプロである村上茂久氏が、企業の「倒産」の真実や黒字化・破綻の背景について財務の視点から解説している。\n・2025年の倒産件数は過去10年で最高水準となり、倒産の定義は「弁済すべき債務が弁済できなくなった状況」を指す\n・メルカリやfreeeなどの企業は「戦略的赤字」を掘りながら成長し、広告宣伝費やキャッシュフローの管理が適切であったため黒字化を達成した\n・WeWorkは原価率が約90%と非常に薄利なビジネスモデルに加えコロナ禍でオフィス需要が低迷したことが原因でチャプター11（倒産）を申請した\n・倒産には法的整理（清算型・再建型）と私的整理（内整理）があり、倒産後もソフトバンク等によるスポンサー支援等で事業が継続されるケースが存在する",
+      "status": "ok",
+      "summarized_at": "2026-09-06T21:11:30+09:00",
       "retry_count": 0
     },
     {
