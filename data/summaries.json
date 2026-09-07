@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-07T21:10:18+09:00",
+  "updated_at": "2026-09-08T03:14:57+09:00",
   "items": [
+    {
+      "video_id": "yNZDKO3m2sw",
+      "url": "https://www.youtube.com/watch?v=yNZDKO3m2sw",
+      "title": "人気町工場の意外な理由",
+      "channel": "XU (クロスユー) - X innovation empowers U",
+      "published_at": "2026-09-07T15:00:16+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/yNZDKO3m2sw/hqdefault.jpg",
+      "channel_id": "UCJaxZOXs4SMjaxhcee2N5Aw",
+      "summary": "町工場である「タシロ」は、人手不足が叫ばれる中で年間200人以上の若者から応募がある人気企業となっている。\n・年間200人以上の応募がある一方で、採用人数は3人程度と非常に狭き門になっている\n・タシロが人気を集める理由は、AIに聞いたところ「入社後に自分が活躍できるイメージを持ちやすいから」とされている\n・名刺のデザインを2年目の社員が担当したり、内定者の中にも商品開発をさせたりするなどの実績がある\n・町工場という業界を若者が憧れる産業にし、人気就職先にするという目標を掲げている",
+      "status": "ok",
+      "summarized_at": "2026-09-08T03:07:35+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "b6qrV7cNCWI",
+      "url": "https://www.youtube.com/watch?v=b6qrV7cNCWI",
+      "title": "NK大幅上昇・銀行株が下落。配当利回り5%超のティラドを検討する。宮崎社長は陣屋をDXで再建。熱交換器はEV・データセンター重要ありと。",
+      "channel": "元上場会社社長のゆるゆる株式投資日記",
+      "published_at": "2026-09-07T14:15:39+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/b6qrV7cNCWI/hqdefault.jpg",
+      "channel_id": "UCedNzJ_2ilOFepcDA01Bpcw",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 1
+    },
+    {
+      "video_id": "oV72ApQvFp4",
+      "url": "https://www.youtube.com/watch?v=oV72ApQvFp4",
+      "title": "【「GPT-6 Astra」解説】｜ハーネスが跳ね上げるAI性能｜「ARC-AGI-3」99.9％の衝撃｜コーディング能力の向上が焦点に",
+      "channel": "日経クロステック【公式】",
+      "published_at": "2026-09-07T13:24:01+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/oV72ApQvFp4/hqdefault.jpg",
+      "channel_id": "UCwPgJIiUAYhdN3AYkmm5YYA",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 1
+    },
+    {
+      "video_id": "NfnNHQBYZ7A",
+      "url": "https://www.youtube.com/watch?v=NfnNHQBYZ7A",
+      "title": "【元キオクシア研究開発者解説】DRAMをNANDで代替できるCXL SSDとは？AI専用メモリで覇権を握るか？",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-09-07T12:46:04+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/NfnNHQBYZ7A/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "キオクシアがNANDフラッシュメモリでDRAMを置き換える動きや、AI時代におけるNANDフラッシュの重要性について解説している。\n・AIの推論やエージェントの処理ではデータの保持や高速処理が必要になり、DRAMだけではメモリの容量やコストが不足する。\n・キオクシアは高速化されたNANDフラッシュメモリを開発し、CXL（Compute Express Link）技術を活用してDRAMを拡張するモジュールを発表した。\n・従来のNANDフラッシュの構造を高速化のために分割することで、低レイテンシ化や大容量確保を実現している。\n・AI専用のNANDフラッシュ技術の進展により、今後さらなるメモリの高速化と大容量化が進むと予測されている。",
+      "status": "ok",
+      "summarized_at": "2026-09-08T03:14:57+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "VZ8fNVaK1E8",
       "url": "https://www.youtube.com/watch?v=VZ8fNVaK1E8",
