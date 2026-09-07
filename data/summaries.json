@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T09:12:30+09:00",
+  "updated_at": "2026-09-07T15:13:12+09:00",
   "items": [
     {
       "video_id": "2CIQBhohqdI",
@@ -685,9 +685,9 @@
       "published_at": "2026-09-01T14:00:23+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/mF0OL_YJa3g/hqdefault.jpg",
       "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "アップル社におけるティム・クックからジョン・ターナスへのCEO継承に伴う事業戦略やAI戦略、製品展開の展望についての対談。\n・ジョン・ターナスは1991年からの製品開発経験を持ち、アップルにハードウェア中心の新たな方向性をもたらす存在として期待されている\n・アップルは9月9日にハードウェア発売イベントを控え、ターナスがスティーブ・ジョブズ・シアターのステージに登壇するかが注目されている\n・欧州連合（EU）の規制やオープンAIとの訴訟など、各国の法規制や競合との関係がAIサービス「Siri AI」の展開に影響を与えている\n・マック（Mac）製品群の強化やAI技術との融合が進む中、今後の製品価格や市場競争における動向が注目されている",
+      "status": "ok",
+      "summarized_at": "2026-09-07T15:09:22+09:00",
       "retry_count": 0
     },
     {
@@ -698,9 +698,9 @@
       "published_at": "2026-09-01T13:54:47+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/kGgNXTsKQFE/hqdefault.jpg",
       "channel_id": "UCedNzJ_2ilOFepcDA01Bpcw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "・TOPIXの新規採用・除外候補銘柄（モルスタ推定）のチェックポイントと除外候補への投資の注意点を解説する。\n・2026年9月1日時点の市場動向として、日経平均は下落した一方TOPIXは反発し、長期金利や為替、米国市場の動向が報告されている。\n・日本経済新聞の記事に基づき、長期金利3%時代の到来を見据えたメガバンクへの影響や、地方銀行・生保・ネット銀行・証券会社などの業種別影響が分析されている。\n・2026年10月のTOPIX定期入替に向けて、新規採用や除外候補となる銘柄の特徴、ウェイト調整のスケジュール、リバランスに伴う株価変動リスクの注意点が説明されている。",
+      "status": "ok",
+      "summarized_at": "2026-09-07T15:10:26+09:00",
       "retry_count": 0
     },
     {
@@ -711,9 +711,9 @@
       "published_at": "2026-09-01T11:00:15+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/YRD7ETZDLis/hqdefault.jpg",
       "channel_id": "UC8yHePe_RgUBE-waRWy6olw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "株高の継続には「米経済の底堅さ」「日銀の利上げ姿勢の継続」「パナマ運河の混雑などの好材料」が影響しつつも、AI巨大投資のリスクや米国での節税売りの時期など下押し要因への注意が必要です。\n・米株式市場はAI・半導体への期待を背景に高値圏での推移が続く一方で、中東情勢や金利動向に警戒感もみられる。\n・FRBによる金融政策は利下げ・利上げの方向性を巡って市場でも見方が分かれており、米国の雇用や物価に関する指標動向が重要視されている。\n・日銀の金融政策では量的引き締めや利上げへの観測から、長期金利の動向や企業の設備投資・倒産動向などへの影響が注視されている。\n・AI関連ではエヌビディアなどの業績や次世代チップ「ルービン」の投入予定が注目されるが、増収率の鈍化懸念やデータセンター関連の出荷動向もリスクとして挙げられている。",
+      "status": "ok",
+      "summarized_at": "2026-09-07T15:12:16+09:00",
       "retry_count": 0
     },
     {
@@ -724,9 +724,9 @@
       "published_at": "2026-09-01T11:00:13+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/_aIIlT1qxnw/hqdefault.jpg",
       "channel_id": "UCwKNfdT49VN0fDNZFw7XEOQ",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "ヨコサワとふくらPが参加したWSOP $5,000 Super Turbo Bountyでの激闘の記録。\n・ふくらPは序盤のピンチから驚異の粘りを見せ、$5kバウンティで見事入賞を果たした。\n・ヨコサワも序盤からバウンティを重ねるなど好調な滑り出しを見せた。\n・テーブルには強豪プレイヤーが多く、激しいチップの増減やオールインが繰り返された。\n・最終的にふくらPは約180万円の賞金とバウンティを獲得して大会を終えた。",
+      "status": "ok",
+      "summarized_at": "2026-09-07T15:13:12+09:00",
       "retry_count": 0
     },
     {
