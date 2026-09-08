@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-08T15:12:18+09:00",
+  "updated_at": "2026-09-08T21:11:20+09:00",
   "items": [
+    {
+      "video_id": "x3e7YKm3sbE",
+      "url": "https://www.youtube.com/watch?v=x3e7YKm3sbE",
+      "title": "2026年9月8日【日経平均1130円安　円高株安が顕在化】（市況放送【毎日配信】）",
+      "channel": "朝倉慶のASK1",
+      "published_at": "2026-09-08T09:10:12+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/x3e7YKm3sbE/hqdefault.jpg",
+      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
+      "summary": "9月8日の日本株市場は朝高後に売り優勢となり日経平均株価やTOPIXが下落した。\n・前日の米国株市場は休場となり、朝方は円高や原油高への嫌悪感から売り優勢となった\n・AI半導体銘柄の下支えで一時プラス圏に上昇したものの、午後にはマイナス圏に沈み終値は日経平均が6万5269円（1130円安）、TOPIXが4050（75ポイント安）となった\n・ソフトバンクグループは米OpenAIの新型モデル評価が伝わったことなどから大幅上昇した\n・半導体・輸出関連銘柄が軒並み売られ、円高・株高セットの動きに変化の兆しがみられた週となった",
+      "status": "ok",
+      "summarized_at": "2026-09-08T21:08:26+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "OrS5OEhf1Qg",
+      "url": "https://www.youtube.com/watch?v=OrS5OEhf1Qg",
+      "title": "【XU（クロスユー）工場見学 / アマダの秘密の研究所に特別潜入！】世界のモノづくりを支える金属加工機械の最先端を田村淳が見学 日本のモノづくり驚きの技術力を体験！【株式会社アマダ】",
+      "channel": "XU (クロスユー) - X innovation empowers U",
+      "published_at": "2026-09-08T09:00:27+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/OrS5OEhf1Qg/hqdefault.jpg",
+      "channel_id": "UCJaxZOXs4SMjaxhcee2N5Aw",
+      "summary": "YouTubeチャンネル「XU」にて公開された株式会社アマダの工場および秘密の研究所の潜入レポートの要約は以下の通りです。\n\n- 神奈川県伊勢原市に本社を構える金属加工機械の世界的メーカー「アマダ」の総本山と研究施設を訪問\n- 創業期の現物旋盤から最新のファイバーレーザーマシンや自動曲げロボットまで、金属加工の技術進化の歴史を体験\n- 各種の最新レーザー加工・溶接技術や自動化システムを見学し、日本のものづくりの底力を実感\n- 職人の技能伝承とデジタル自動化の両立、若手人材の確保といった製造業が直面する課題について対談を実施",
+      "status": "ok",
+      "summarized_at": "2026-09-08T21:09:28+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "yNZDKO3m2sw",
       "url": "https://www.youtube.com/watch?v=yNZDKO3m2sw",
@@ -919,9 +945,9 @@
       "published_at": "2026-08-31T22:00:35+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/edzXGCwsVHA/hqdefault.jpg",
       "channel_id": "UCSNivSS1ttprLnbDQUe3mhg",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "・第一印象が汚いからといって、一概にダメだとは言えない。\n・自分自身もこの世界に入った当初は、見た目が汚く嫌われるタイプだった。\n・しかし、現在では見た目を気にさせてもらえるようになり、周りからも良くしてもらえるようになった。\n・過去の姿から判断すると、「第一印象が汚いからダメだ」と言いたくなる気持ちはある。\n・しかし、人間は見た目の印象だけで判断するべきではなく、伸びしろがあるかもしれない。",
+      "status": "ok",
+      "summarized_at": "2026-09-08T21:10:15+09:00",
       "retry_count": 0
     },
     {
@@ -932,9 +958,9 @@
       "published_at": "2026-08-31T22:00:03+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/4ZkkG4dymAI/hqdefault.jpg",
       "channel_id": "UC8yHePe_RgUBE-waRWy6olw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "SHEINの急成長の背景、強み、およびビジネスモデルが直面する課題について解説している。\n・SHEINは創業14年で売上高418億ドル（約6.7兆円）を達成し、ファストファッション界で世界2位の規模に成長した\n・SNSデータを基に中小サプライヤーとリアルタイムで連携する「需要予測型のソフトウェア産業」のような仕組みが最大の強みである\n・梱包や輸送コスト、競合他社との訴訟リスク、欧米市場への偏重などが今後の課題として挙げられている\n・ECプラットフォーム化や新規ブランドの育成・再生など、新たな成長領域への挑戦を続けている",
+      "status": "ok",
+      "summarized_at": "2026-09-08T21:11:20+09:00",
       "retry_count": 0
     },
     {
