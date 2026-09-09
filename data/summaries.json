@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-09T15:11:08+09:00",
+  "updated_at": "2026-09-09T21:10:09+09:00",
   "items": [
+    {
+      "video_id": "JayvQn3DfPk",
+      "url": "https://www.youtube.com/watch?v=JayvQn3DfPk",
+      "title": "円高一時152円台！米国株は買い時か？！米国株モーニングライブ朝６時から！",
+      "channel": "高校生でも分かる米国株",
+      "published_at": "2026-09-09T11:24:18+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/JayvQn3DfPk/hqdefault.jpg",
+      "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 1
+    },
+    {
+      "video_id": "sFc4ljjQFDk",
+      "url": "https://www.youtube.com/watch?v=sFc4ljjQFDk",
+      "title": "2026年9月9日【中東懸念拡がる】（市況放送【毎日配信】）",
+      "channel": "朝倉慶のASK1",
+      "published_at": "2026-09-09T07:20:25+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/sFc4ljjQFDk/hqdefault.jpg",
+      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
+      "summary": "動画の要約は以下の通りです。\n\n・中東情勢の悪化と円高への警戒感から、本日の日経平均株価は反落した\n・中東情勢の緊迫化に伴う原油高や日銀の利上げ観測が相場のおもな要因となった\n・半導体関連やAI関連の一部銘柄で買いが見られたものの、全体として方向感を欠く展開となった\n・ドル円は153円台後半、ユーロ円は178円台後半で推移している",
+      "status": "ok",
+      "summarized_at": "2026-09-09T21:08:24+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "AL5q3UMueKc",
+      "url": "https://www.youtube.com/watch?v=AL5q3UMueKc",
+      "title": "Part5 株はもう下がらない！【後編】｜2025年11月15日開催ASAKUKRA経済セミナー「株はもう下がらない！」ハイライト#朝倉慶#投資#株式#資産運用",
+      "channel": "朝倉慶のASK1",
+      "published_at": "2026-09-09T07:07:03+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/AL5q3UMueKc/hqdefault.jpg",
+      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
+      "summary": "・インフレによって税収が増え、財政赤字が改善した仕組みについて解説している動画\n・消費税、法人税、所得税などの税金は名目値に課税されるため、物価上昇に伴い税収が増える\n・増税をしなくても物価高によって自然に税収が増加し、財政赤字が改善している\n・政府はこれを実質的な「インフレ税」として全国民に課していると主張している",
+      "status": "ok",
+      "summarized_at": "2026-09-09T21:09:13+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "T48bKFb9g7k",
       "url": "https://www.youtube.com/watch?v=T48bKFb9g7k",
@@ -1127,9 +1166,9 @@
       "published_at": "2026-08-31T08:46:00+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/TPUG3LUPojM/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "8月31日の株式市場は米国の長期金利上昇や半導体株の売りが波及し、日経平均株価は3営業日続落した。\n・日経平均株価は6万6311円（前週末比93円安）で取引を終えた。\n・米FRB議長の講演による長期金利の上昇や米株安が日本市場の売り先行につながった。\n・後場には半導体株の買い戻し等から下げ幅を縮小し、売買代金はプライム市場で約9兆3000億円となった。\n・セクター別では電気・ガスや石油・石炭など22業種が上昇し、海運や空運など9業種が下落した。",
+      "status": "ok",
+      "summarized_at": "2026-09-09T21:10:09+09:00",
       "retry_count": 0
     },
     {
