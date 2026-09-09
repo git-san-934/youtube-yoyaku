@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T03:11:55+09:00",
+  "updated_at": "2026-09-09T09:12:11+09:00",
   "items": [
     {
       "video_id": "T48bKFb9g7k",
@@ -1023,9 +1023,9 @@
       "published_at": "2026-08-31T21:52:48+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/Y0lviVReFm8/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "米株市場のモーニングライブにおける経済・市場ニュースの解説、および運営するアプリのコスト等の雑談。\n・米株市場は月曜日、米国とイランの軍事衝突による原油高とインフレ懸念の高まりを受け、ダウ・ナスダック・S&P500の主要株価指数がいずれも下落スタート。\n・ビットコインは7万8000ドルを維持し、暗号資産関連株やエネルギー株は強さを見せた。テスラ株は9月3日の「Cybercab（専用ロボタクシー）」発表・投入イベントへの期待感から大きく上昇した。\n・テスラはEVだけでなく、スーパーチャージャー3年間無料など独自の強みを持つが、株価は購入タイミングが重要であると述べられた。\n・自身で開発したアプリ「Hanako City」の運営費や、Supabase・MongoDB等のインフラ・開発コストの現状について言及された。",
+      "status": "ok",
+      "summarized_at": "2026-09-09T09:09:48+09:00",
       "retry_count": 0
     },
     {
@@ -1036,9 +1036,9 @@
       "published_at": "2026-08-31T15:00:03+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/N2ozpLXnqrk/hqdefault.jpg",
       "channel_id": "UCSNivSS1ttprLnbDQUe3mhg",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "「しあわせな環境って何？」をテーマに、とろサーモン久保田が労働と金についての持論を展開している。\n・労働は金を得るためで、飯を食い生きるために行うものという考え方を示す\n・金がなくてもいいと語る者は、金を持っている人間だけに許される贅沢だと主張する\n・貧困層が生活できるだけでいいとする考え方を批判し、労働者としてのあり方を説く\n・働くことで美を感じ、金を稼ぐことが与えられた使命であると強く主張する",
+      "status": "ok",
+      "summarized_at": "2026-09-09T09:10:36+09:00",
       "retry_count": 0
     },
     {
@@ -1049,9 +1049,9 @@
       "published_at": "2026-08-31T15:00:02+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/Oy8isUkRF9U/hqdefault.jpg",
       "channel_id": "UCJaxZOXs4SMjaxhcee2N5Aw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "クロスU大学が、9月1日の防災の日に合わせて防災学部を始動することを発表しました。\n・9月1日の「防災の日」を機に、防災学部の新設を発表\n・全国で災害が相次ぐ現状を受け、防災を考えて行動する場を作る目的\n・クロスU大学として、今後「防災」をテーマに活動していく方針",
+      "status": "ok",
+      "summarized_at": "2026-09-09T09:11:23+09:00",
       "retry_count": 0
     },
     {
@@ -1062,9 +1062,9 @@
       "published_at": "2026-08-31T14:00:09+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/igMZhDEagwA/hqdefault.jpg",
       "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "カリフォルニア州のディーゼル燃料の高騰が全米の経済や消費者生活に与える影響についての解説。\n・カリフォルニア州のサンペドロ湾ポートコンプレックスは、米国のコンテナ船貿易の約31％を担う最大の拠点である\n・同州は全米で最もガス価格（ディーゼル含む）が高く、前年比で1ガロンあたり約2ドル上昇している\n・港から荷物を運ぶトラックや列車はディーゼルで駆動するため、同州の燃料価格の高騰は全米の物流や消費者価格全体に影響を及ぼす\n・ディーゼルは「経済のライフ血（命綱）」と呼ばれ、価格上昇はビジネスや消費者双方の負担増につながる",
+      "status": "ok",
+      "summarized_at": "2026-09-09T09:12:11+09:00",
       "retry_count": 0
     },
     {
