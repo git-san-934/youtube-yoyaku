@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-09T21:10:09+09:00",
+  "updated_at": "2026-09-10T03:10:57+09:00",
   "items": [
+    {
+      "video_id": "HD5jek45LIw",
+      "url": "https://www.youtube.com/watch?v=HD5jek45LIw",
+      "title": "アイデアは越境から生まれる",
+      "channel": "XU (クロスユー) - X innovation empowers U",
+      "published_at": "2026-09-09T15:00:37+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/HD5jek45LIw/hqdefault.jpg",
+      "channel_id": "UCJaxZOXs4SMjaxhcee2N5Aw",
+      "summary": "アイデアを生み出すための「越境」を、映画作りにおける異分野の掛け合わせの事例を基に解説している。\n・「越境」が会社の武器であり、映画作りでも積極的に越境してアイデアを生み出している。\n・現代まで江戸時代が続いたという設定のもと、脚本家、音楽を作る人、キャラクターデザイナーが一堂に会する。\n・音楽家が作った曲のムードが世界観のコンセプトアートに繋がっていく。\n・コンセプトアートから生まれた設定を脚本家が取り入れるなど、互いにアイデアを渡し合っている。",
+      "status": "ok",
+      "summarized_at": "2026-09-10T03:07:37+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "9459rJ2hz1w",
+      "url": "https://www.youtube.com/watch?v=9459rJ2hz1w",
+      "title": "A look at Kevin O'Leary's $11M Shohei Ohtani baseball card",
+      "channel": "CNBC",
+      "published_at": "2026-09-09T14:00:07+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/9459rJ2hz1w/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "Kevin O'Learyが1,100万ドル（約17億円）の価値を持つ大谷翔平選手のウルトラモダンカードについて解説している。\n・2026 Topps Chrome Shohei Ohtani 1/1（世界に1枚のカード）であり、PSA鑑定で「MINT 9」の評価を受けている。\n・2024年の試合で大谷選手が実際に着用しホームランを打ったパッチ2つが埋め込まれており、日本語と英語で本人のサインが入っている。\n・このカードは「リデンプションカード（引き換え券）」として出荷され、フロリダの若いコレクターが引き当てた。\n・カードは110カラットのダイヤモンドとルビーがちりばめられたティファニー製のホワイトゴールドのネックレスに収められている。",
+      "status": "ok",
+      "summarized_at": "2026-09-10T03:08:46+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "UfAKtqORb9Q",
+      "url": "https://www.youtube.com/watch?v=UfAKtqORb9Q",
+      "title": "日本株さらに下落。小台1つに。ベステラ2Q決算。本業は好調も有価証券特損で通期下方修正。  本田豊社長の手腕と市場環境の良さで、下がれば買い増しか。",
+      "channel": "元上場会社社長のゆるゆる株式投資日記",
+      "published_at": "2026-09-09T13:53:15+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/UfAKtqORb9Q/hqdefault.jpg",
+      "channel_id": "UCedNzJ_2ilOFepcDA01Bpcw",
+      "summary": "9月9日（水）の日本株市場は軟調で、個別銘柄ではベステラ（1433）の2Q決算などが注目を集めた。\n・日経平均株価やTOPIX、グロース250指数が下落し、円高や長期金利の低下などが意識された\n・ユニクロを運営するファーストリテイリングが月次売上高の減少などから下落した\n・ベステラが2Q決算を発表し、本業は好調なものの、投資有価証券評価損の計上で通期下方修正を行った\n・ベステラの解体事業では川崎市での事故による影響があるものの、手元受注残高は過去最高を記録している",
+      "status": "ok",
+      "summarized_at": "2026-09-10T03:10:11+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "JayvQn3DfPk",
       "url": "https://www.youtube.com/watch?v=JayvQn3DfPk",
@@ -12,7 +51,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "video_id": "sFc4ljjQFDk",
