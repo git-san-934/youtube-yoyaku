@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-13T03:10:40+09:00",
+  "updated_at": "2026-09-13T21:14:30+09:00",
   "items": [
+    {
+      "video_id": "WRrNSwwSp7k",
+      "url": "https://www.youtube.com/watch?v=WRrNSwwSp7k",
+      "title": "僕がサイバーセキュリティに投資しない理由。いい会社＝いい投資先じゃない!?",
+      "channel": "アメカブ【米国公認会計士の米国株チャンネル】",
+      "published_at": "2026-09-13T10:00:02+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/WRrNSwwSp7k/hqdefault.jpg",
+      "channel_id": "UCS-xksGuWKrIi9DURQJ9IAg",
+      "summary": "優れた技術力を持つサイバーセキュリティ企業が、必ずしも良い投資先とは限らない。\n・サイバーセキュリティ企業は製品の開発・維持に多額の研究開発費がかかり、競合との激しい技術競争に勝つためのランニングコストを払い続ける運命にある。\n・「クラウドストライク」や「パロアルトネットワークス」などの事例のように、調整後利益は黒字であっても、会計基準上の営業利益が赤字になるケースや株式報酬によるコストが発生する。\n・会社が成長して企業規模が大きくなると、株式報酬の比率が下がって利益が出る「定番」のフェーズに入るが、成長期のキラキラした魅力が薄れてPER（株価収益率）の低下による株価下落が起こるリスクがある。\n・サイバーセキュリティへの投資は技術の動向やトレンド、割高なバリュエーションなどのテーマ性を正しく理解する必要があり、初心者には難易度が高い。",
+      "status": "ok",
+      "summarized_at": "2026-09-13T21:11:21+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "hj44Jha-59k",
+      "url": "https://www.youtube.com/watch?v=hj44Jha-59k",
+      "title": "数学の未解決問題を解いた木村健次郎先生の波動散乱の逆問題について、何が凄いのか解説してみた。",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-09-13T09:56:02+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/hj44Jha-59k/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 1
+    },
     {
       "video_id": "OtAeNtApkD0",
       "url": "https://www.youtube.com/watch?v=OtAeNtApkD0",
