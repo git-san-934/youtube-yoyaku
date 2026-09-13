@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-13T21:14:30+09:00",
+  "updated_at": "2026-09-14T03:07:50+09:00",
   "items": [
+    {
+      "video_id": "cq2ZF8nv-ik",
+      "url": "https://www.youtube.com/watch?v=cq2ZF8nv-ik",
+      "title": "Inside Bracket22, A Trading Firm Powered By Al Agents",
+      "channel": "CNBC",
+      "published_at": "2026-09-13T14:00:31+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/cq2ZF8nv-ik/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "ブライアン・ケリー氏が創業したAIエージェント（自律型AI）を活用する取引会社「Bracket22」の取り組みについて解説している。\n・Bracket22では、AIエージェントを活用することで、以前のファンド運営時に比べて従業員や設備などのコストを大幅に削減している。\n・AIボットの「ヒューストン」が制御や指示を担い、リサーチから運用まで一貫してサポートする仕組みを構築している。\n・AIエージェントは24時間体制で市場やデータを監視し、いつでも指示や確認ができるツールとして活用されている。\n・創業者であるケリー氏は、AIの活用により人間の生産性を10倍以上に高め、少人数でヘッジファンドを運営できる未来像を示している。",
+      "status": "ok",
+      "summarized_at": "2026-09-14T03:06:46+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "WRrNSwwSp7k",
       "url": "https://www.youtube.com/watch?v=WRrNSwwSp7k",
@@ -22,9 +35,9 @@
       "published_at": "2026-09-13T09:56:02+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/hj44Jha-59k/hqdefault.jpg",
       "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "木村健次郎教授が解いた「波動散乱の逆問題」と、その応用による非破壊検査技術について解説している。\n・波動散乱の逆問題とは、物体の反射波から内部の形状や構造を推測する数学の未解決問題である。\n・X線透過とは異なり、人体へのダメージや被ばくがなく、反対側に検出器を置く必要がない。\n・乳がんの早期発見や、空港でのウォークスルー型セキュリティシステムなどに応用されている。\n・トンネルの鉄筋腐食検査や、リチウムイオン電池の自己放電の可視化技術にも活用されている。",
+      "status": "ok",
+      "summarized_at": "2026-09-14T03:07:50+09:00",
       "retry_count": 1
     },
     {
