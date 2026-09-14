@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-14T21:13:38+09:00",
+  "updated_at": "2026-09-15T03:09:48+09:00",
   "items": [
+    {
+      "video_id": "PBJSSzOw_Tw",
+      "url": "https://www.youtube.com/watch?v=PBJSSzOw_Tw",
+      "title": "Why Otis isn't focused on building new elevators",
+      "channel": "CNBC",
+      "published_at": "2026-09-14T14:00:32+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/PBJSSzOw_Tw/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "世界最大のエレベーター企業であるオーティス（Otis）が、新築ビルの建設需要ではなく、既存エレベーターの保守サービス（メンテナンス）に注力している背景と事業の現状について解説する動画。\n\n・オーティスは、ブリストル（コネチカット州）にある28階建ての自社ビル内で、様々な環境（湿度、温度、錆、砂嵐など）を想定した過酷なエレベーターの耐久テストを行っている\n・スペースニードル、エッフェル塔、ブルジュ・ハリファ、エンパイア・ステート・ビルディングなど、世界中の高層建築物や著名建築に同社製のエレベーターが設置されている\n・2020年にユナイテッド・テクノロジーメンツからスピンオフして上場して以降、売上高や保守サービス件数（約250万台）を順調に拡大させている\n・株式市場においては直近で課題に直面しているものの、長期的な企業価値向上や投資家からの信頼回復に向けた戦略を展開している",
+      "status": "ok",
+      "summarized_at": "2026-09-15T03:06:26+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "c2mbVuUarS0",
+      "url": "https://www.youtube.com/watch?v=c2mbVuUarS0",
+      "title": "NK下落・TPX上昇。小台3つ。  モルスタのAI DayからNTTとソフトバンクの評価を見る。さらに富士通とソニーの直近メモを点検する。",
+      "channel": "元上場会社社長のゆるゆる株式投資日記",
+      "published_at": "2026-09-14T13:43:55+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/c2mbVuUarS0/hqdefault.jpg",
+      "channel_id": "UCedNzJ_2ilOFepcDA01Bpcw",
+      "summary": "NTTやソフトバンクのAI戦略、富士通やソニーの直近メモを点検し、日経平均下落とTOPIX上昇の市場動向について解説している。\n・日経平均は下落する一方、TOPIXは上昇し、セクター間で資金の移動が見られた。\n・NTTの「Japan AI Day」ではデータセンターやAIプラットフォーム事業の成長方針が示された。\n・ソフトバンクはエンタープライズ領域の成長を狙い、ソブリンAI（国や企業が自国のデータや技術を守りながら自主運用するAI）の追求や企業向けクラウドAIを推進している。\n・富士通とソニーは、モルガン・スタンレーのリサーチレポート等をもとに直近の業績やAI関連事業の取り組みが点検された。",
+      "status": "ok",
+      "summarized_at": "2026-09-15T03:07:30+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "pZfdkvI9n64",
+      "url": "https://www.youtube.com/watch?v=pZfdkvI9n64",
+      "title": "量子コンピューターが脅かす【安全な通信基盤】｜世界で激化する量子鍵配送（QKD）の開発競争｜先行する中国は既に商用化｜NTTグループ・KDDI・ソフトバンクも取り組みを加速",
+      "channel": "日経クロステック【公式】",
+      "published_at": "2026-09-14T13:14:28+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/pZfdkvI9n64/hqdefault.jpg",
+      "channel_id": "UCwPgJIiUAYhdN3AYkmm5YYA",
+      "summary": "量子暗号通信の開発が進む背景とその現状と課題を解説する。\n・量子コンピューターの実用化により既存の暗号が解読される恐れがあるため量子暗号通信（QKD）の開発が進んでいる。\n・中国が研究開発で先行し主要都市と南アフリカを結ぶQKDネットワークや商業サービスを展開している。\n・米国はソフトウェア技術で対応できる耐量子計算機暗号（PQC）を先行して導入している。\n・日本はNTTグループやKDDI、ソフトバンクなどが量子技術の事業化に向けて開発を急いでいる。",
+      "status": "ok",
+      "summarized_at": "2026-09-15T03:08:59+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "By8oU6hrdFw",
+      "url": "https://www.youtube.com/watch?v=By8oU6hrdFw",
+      "title": "初心者こそ為替で勝負するな！【初心者コース】切り取り #米国株 #nisa",
+      "channel": "高校生でも分かる米国株",
+      "published_at": "2026-09-14T12:23:49+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/By8oU6hrdFw/hqdefault.jpg",
+      "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
+      "summary": "投資初心者向けの米国株講座において、為替ではなく毎月の積立投資によるリスク分散の重要性が解説されている。\n・投資初心者には、為替での短期的な勝負は推奨されない。\n・毎月の積立投資では、「eMAXIS Slim 米国株式（S&P500）」や「楽天・S&P500インデックス・ファンド」などが挙げられている。\n・ドル高・円安リスクを抑えるため、生活費を引いた余剰資金で毎月継続して投資することが推奨される。\n・米株安・円高の法則があるため、為替リスクを分散させるためにも毎月投資が大事である。",
+      "status": "ok",
+      "summarized_at": "2026-09-15T03:09:48+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "MTlXCv6AjI0",
       "url": "https://www.youtube.com/watch?v=MTlXCv6AjI0",
