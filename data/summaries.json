@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-14T03:07:50+09:00",
+  "updated_at": "2026-09-14T21:13:38+09:00",
   "items": [
+    {
+      "video_id": "MTlXCv6AjI0",
+      "url": "https://www.youtube.com/watch?v=MTlXCv6AjI0",
+      "title": "実践コース切り抜き！クアルコムを調べよう！ #米国株",
+      "channel": "高校生でも分かる米国株",
+      "published_at": "2026-09-14T10:13:28+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/MTlXCv6AjI0/hqdefault.jpg",
+      "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
+      "summary": "テスラとクアルコムのEV市場での二極化と事業戦略について解説している。\n\n- テスラは自社でOSやFSD（完全自動運転）のソフトを利用し、車メーカーとの提携の動きがみえない。\n- クアルコムは車へ参入しようとしており、テスラとの二極化が進む可能性がある。\n- クアルコムが日産などと提携して短期勝負に出るかが鍵となる。\n- 他社の決算書を見るよりも、車市場における両社の動向を重視して考える必要がある。",
+      "status": "ok",
+      "summarized_at": "2026-09-14T21:08:07+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "ui_YuuTWkbQ",
+      "url": "https://www.youtube.com/watch?v=ui_YuuTWkbQ",
+      "title": "AnthropicのAI開発中止？！株価下落！米国株モーニングライブ朝６時から！",
+      "channel": "高校生でも分かる米国株",
+      "published_at": "2026-09-14T09:45:03+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/ui_YuuTWkbQ/hqdefault.jpg",
+      "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 1
+    },
+    {
+      "video_id": "BR2geixRp1w",
+      "url": "https://www.youtube.com/watch?v=BR2geixRp1w",
+      "title": "2026年9月14日【AIショックで日経平均一時1200円安　非AI銘柄物色拡がる】（市況放送【毎日配信】）",
+      "channel": "朝倉慶のASK1",
+      "published_at": "2026-09-14T09:07:02+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/BR2geixRp1w/hqdefault.jpg",
+      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
+      "summary": "9月14日の株式市場解説と今後の見通しについて。\n\n・9月14日の日経平均株価は一時1,200円安となるも、最後は518円安で終了した。\n・米国利上げの観測や円安の進行が続き、米国のCPI（消費者物価指数）の結果などを背景に慎重な相場展開となっている。\n・AI関連銘柄には投資家の慎重姿勢が見られるものの、半導体や防衛関連の一部の銘柄には買いが入っている。\n・今後は米国市場の動向や中銀の利上げに関する政策決定、個別企業の決算内容などが注目される。",
+      "status": "ok",
+      "summarized_at": "2026-09-14T21:11:59+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "2riS8R7qNX4",
+      "url": "https://www.youtube.com/watch?v=2riS8R7qNX4",
+      "title": "決算書を読むコース！ソフトバンクグループはどうなる？債券と株の買い時は？ #米国株 #nisa",
+      "channel": "高校生でも分かる米国株",
+      "published_at": "2026-09-14T02:56:24+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/2riS8R7qNX4/hqdefault.jpg",
+      "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
+      "summary": "ソフトバンクグループの損益計算書や債券・株の購入判断について解説した動画。\n・ソフトバンクグループの決算書は、投資会社としての特殊性から非常に難しい仕組みになっている\n・株価は乱高下しており、現在は高値から下がった状態であるため買い時を見極める必要がある\n・債券の購入時は「会社が潰れないか」という点に注目してリスクを判断することが重要である",
+      "status": "ok",
+      "summarized_at": "2026-09-14T21:13:38+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "cq2ZF8nv-ik",
       "url": "https://www.youtube.com/watch?v=cq2ZF8nv-ik",
