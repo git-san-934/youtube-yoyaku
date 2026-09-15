@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-15T21:10:32+09:00",
+  "updated_at": "2026-09-16T03:07:32+09:00",
   "items": [
+    {
+      "video_id": "DGX19KkPlAE",
+      "url": "https://www.youtube.com/watch?v=DGX19KkPlAE",
+      "title": "Why airfare is unlikely to go down",
+      "channel": "CNBC",
+      "published_at": "2026-09-15T14:00:08+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/DGX19KkPlAE/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "航空券の価格が下がらない理由は、燃料費の高騰や主要航空会社による高い価格決定力、およびLCC（格安航空会社）の市場撤退による競争の減少にある。\n・航空会社は燃料費の高騰分を運賃に上乗せしており、乗客の需要が旺盛なため価格低下が見込めない\n・米国の4大航空会社が座席の82%以上を支配しており、非常に強い価格決定力を持っている\n・最大手のディスカウント会社であったスピリット航空が経営破綻したことで、安価な座席が市場から消えた\n・オフシーズンの利用や、火・水曜日の中間週の出発を選ぶことで、費用を抑える工夫ができる",
+      "status": "ok",
+      "summarized_at": "2026-09-16T03:06:25+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "EolFtzAkdwk",
+      "url": "https://www.youtube.com/watch?v=EolFtzAkdwk",
+      "title": "日本株不調。6%超高配当・オークネットに指値する。創業家3代目の苦労と尊縁の物語。祖業では劣後するが、ユーズドインジャパンの先見性はすごい",
+      "channel": "元上場会社社長のゆるゆる株式投資日記",
+      "published_at": "2026-09-15T13:38:06+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/EolFtzAkdwk/hqdefault.jpg",
+      "channel_id": "UCedNzJ_2ilOFepcDA01Bpcw",
+      "summary": "元上場会社社長の投資日記チャンネルで、日本株の不調を受け配当利回り約6%のオークネット（3964）への指値注文について語られています。\n・オークネットは中古車のオンラインオークションから始まり、現在はBtoBの中古車、デジタル機器、ブランド品の流通プラットフォームを展開。\n・創業者の次男が2代目社長、創業者の孫が3代目社長を務める同族経営でありながら、高い業績成長を維持。\n・2026年12月期第2四半期は増収増益となり、年間配当予想を従来の82円から85円に上方修正。\n・高配当でありながら分割実施やM&Aを視野に入れた株主還元を行い、今後さらなる成長が期待される。",
+      "status": "ok",
+      "summarized_at": "2026-09-16T03:07:32+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "ie4wRSFP2cc",
       "url": "https://www.youtube.com/watch?v=ie4wRSFP2cc",
