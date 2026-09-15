@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T03:09:48+09:00",
+  "updated_at": "2026-09-15T09:17:13+09:00",
   "items": [
     {
       "video_id": "PBJSSzOw_Tw",
@@ -74,9 +74,9 @@
       "published_at": "2026-09-14T09:45:03+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/ui_YuuTWkbQ/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "AI開発の減速を巡る議論やインフレ・金利高懸念を受け、米株式市場では半導体株を中心に下落した。\n・AnthropicのアモデイCEOによるAI開発減速論に対しトランプ氏が反論する中、投資減速懸念からNVIDIAなど半導体株が急落した。\n・資金はAIの脅威が和らぐと見られたAdobeなどのソフトウェア株や、ディフェンシブ株（景気に左右されにくい銘柄）へ一時的に逃避した。\n・原油高や米10年債利回りの一時5％突破を背景に、FOMC（米連邦公開市場委員会）を前にインフレと金利上昇への警戒感が強まった。\n・暗号資産関連銘柄は、米上院での市場構造法案「CLARITY Act」採決への期待などからビットコインやCoinbaseが大幅に上昇した。",
+      "status": "ok",
+      "summarized_at": "2026-09-15T09:17:13+09:00",
       "retry_count": 1
     },
     {
