@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-16T03:07:32+09:00",
+  "updated_at": "2026-09-16T21:10:07+09:00",
   "items": [
+    {
+      "video_id": "qOIO7w_Zzp8",
+      "url": "https://www.youtube.com/watch?v=qOIO7w_Zzp8",
+      "title": "FOMC速報ライブ朝６時から！今回のFOMCの注目のポイントとは？",
+      "channel": "高校生でも分かる米国株",
+      "published_at": "2026-09-16T11:11:23+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/qOIO7w_Zzp8/hqdefault.jpg",
+      "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 1
+    },
+    {
+      "video_id": "ik_WpR-hOX0",
+      "url": "https://www.youtube.com/watch?v=ik_WpR-hOX0",
+      "title": "2026年9月16日【AI投資は減速するのか 日経平均4日ぶり反発】（市況放送【毎日配信】）",
+      "channel": "朝倉慶のASK1",
+      "published_at": "2026-09-16T07:37:32+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/ik_WpR-hOX0/hqdefault.jpg",
+      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
+      "summary": "日経平均株価は4日ぶりに反発し、438円高の63,923円で引けた。\n・米国の原油先物相場の上昇や長期金利の上昇を受け、当初は利益確定売りで軟調だったが、後場には半導体関連株などが買われ上げ幅を広げた\n・原油の供給不安による価格高騰が原油市場の懸念材料として挙げられ、石油情勢の動向には注意が必要である\n・為替相場は155円台で推移し、ドル高円安の傾向が続いている\n・株式市場は配当権利落ちが近づいており、今後の動向に注目が集まっている",
+      "status": "ok",
+      "summarized_at": "2026-09-16T21:08:31+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "uOIdxU1Lkfc",
+      "url": "https://www.youtube.com/watch?v=uOIdxU1Lkfc",
+      "title": "量子コンピューターの“実機”に潜入",
+      "channel": "XU (クロスユー) - X innovation empowers U",
+      "published_at": "2026-09-16T03:00:27+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/uOIdxU1Lkfc/hqdefault.jpg",
+      "channel_id": "UCJaxZOXs4SMjaxhcee2N5Aw",
+      "summary": "量子コンピュータは万能ではないが、社会をより良く設計する分野での活用が期待されている。\n・量子コンピュータはすべての問題を解決するスーパーコンピュータではなく、得意・不得意がある。\n・エネルギー問題におけるバッテリーの効率化や材料の選定、配置の最適化への応用が見込まれている。\n・量子コンピュータは様々な確率を同時に計算できるため、最適な選択肢を導き出すことが可能である。\n・今後はAI（人工知能）やスパコン（スーパーコンピュータ）と組み合わせることで、さらに良い結果が得られると期待されている。",
+      "status": "ok",
+      "summarized_at": "2026-09-16T21:09:19+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "tdh-6oD58fw",
+      "url": "https://www.youtube.com/watch?v=tdh-6oD58fw",
+      "title": "Part7 株はもう下がらない！【後編】｜2025年11月15日開催ASAKUKRA経済セミナー「株はもう下がらない！」ハイライト#朝倉慶#投資#株式#資産運用",
+      "channel": "朝倉慶のASK1",
+      "published_at": "2026-09-16T01:57:10+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/tdh-6oD58fw/hqdefault.jpg",
+      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
+      "summary": "政府による財政拡大や減税などの「快楽防衛」政策は、一見すると国民生活が豊かになったような錯覚を与えますが、実際にはインフレを引き起こして貨幣価値を低下させ、国民の実質所得を減少させています。\n・政府の給付金や補助金などのバラマキ政策により名目賃金や株価が上昇するため、国民は一時的に生活が良くなったと誤認する。\n・しかし、これらの一連の政策はすべてインフレの原因となる。\n・インフレにはタイムラグがあるため、国民は実質的な購買力の低下に気づきにくい。\n・結果として、政府は税率を上げることなく税収を増やすことができる一方で、国民の負担が増大し続けるという問題がある。",
+      "status": "ok",
+      "summarized_at": "2026-09-16T21:10:07+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "DGX19KkPlAE",
       "url": "https://www.youtube.com/watch?v=DGX19KkPlAE",
