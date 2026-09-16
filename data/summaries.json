@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-16T21:10:07+09:00",
+  "updated_at": "2026-09-17T03:10:03+09:00",
   "items": [
+    {
+      "video_id": "dSX0WL502_Q",
+      "url": "https://www.youtube.com/watch?v=dSX0WL502_Q",
+      "title": "日本株反発。小台が二つに。オークネット新規。債務残高対GDP比について財務省の言い分も見てみる。天井なしの高市予算は前年比でわずかな増加。",
+      "channel": "元上場会社社長のゆるゆる株式投資日記",
+      "published_at": "2026-09-16T16:29:23+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/dSX0WL502_Q/hqdefault.jpg",
+      "channel_id": "UCedNzJ_2ilOFepcDA01Bpcw",
+      "summary": "動画の要約は以下の通りです。\n\n・2026年9月16日の株式市場と日本財政の現状に関する考察動画。\n・日経平均株価やTOPIXは堅調、オークネット新規購入など自身の投資活動について報告。\n・財務省の資料を基に、日本の膨らむ債務残高や「強い経済」を掲げる予算について言及。\n・予算編成プロセスや税収の現状を解説し、政府の財政運営に対する疑問を呈している。\n・日本はOECD諸国と比較して税収や社会保障支出が低い状況にあることなどを解説。",
+      "status": "ok",
+      "summarized_at": "2026-09-17T03:08:28+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "CppXRuZEO1w",
+      "url": "https://www.youtube.com/watch?v=CppXRuZEO1w",
+      "title": "Exclusive look inside SK Hynix's $720 billion AI memory expansion",
+      "channel": "CNBC",
+      "published_at": "2026-09-16T15:02:20+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/CppXRuZEO1w/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "SKハイニックスのAI向けメモリー製造・工場拡張について。\n・SKハイニックスは、AI向け高帯域幅メモリー（HBM）で世界をリードし、大規模なメモリー増産計画を進めている。\n・アメリカのナスダック上場やAI企業（NVIDIAやAppleなど）からの高需要により、メモリー事業は空前の好況を迎えている。\n・720億ドル規模の投資を行い、2034年までの能力三倍増を目指す。\n・中国との競争激化や市況の周期性などのリスクを抱えつつも、韓国本社や新たな米インディアナ州施設で加速的な拡張を図っている。",
+      "status": "ok",
+      "summarized_at": "2026-09-17T03:09:17+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "qOIO7w_Zzp8",
       "url": "https://www.youtube.com/watch?v=qOIO7w_Zzp8",
@@ -12,7 +38,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "video_id": "ik_WpR-hOX0",
