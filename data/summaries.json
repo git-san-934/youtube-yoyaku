@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-17T21:11:00+09:00",
+  "updated_at": "2026-09-18T05:55:35+09:00",
   "items": [
+    {
+      "video_id": "ZOyiUMrdjzY",
+      "url": "https://www.youtube.com/watch?v=ZOyiUMrdjzY",
+      "title": "1585回　日経新聞水増し発覚！記事も酷いが経営も酷い！",
+      "channel": "髙橋洋一チャンネル",
+      "published_at": "2026-09-17T15:08:00+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/ZOyiUMrdjzY/hqdefault.jpg",
+      "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
+      "summary": "日経新聞の報道や高市政権に関するニュースを題材に、メディアの信頼性について議論している。\n\n・日経新聞の「円高で企業収益が大きく悪化する」という論調について、過去の円安時の論調と整合性が取れておらず、高市政権批判のためにご都合主義的に書かれていると指摘している。\n・日経新聞が広告冊子「THE NIKKEI MAGAZINE」の発行部数を水増しして広告料を不正受給していた問題について、経営陣のガバナンスも形骸化しており極めて悪質であると批判している。\n・大半の新聞社には発行部数の水増し（押し紙）の問題が存在すると言及し、ネット広告と比較して新聞やその広告の透明性の低さを問題視している。",
+      "status": "ok",
+      "summarized_at": "2026-09-18T05:51:21+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "WKLU6p5Ezmc",
+      "url": "https://www.youtube.com/watch?v=WKLU6p5Ezmc",
+      "title": "America’s AI Chip Talent Crisis — Why The U.S. Needs 157,000 More Workers",
+      "channel": "CNBC",
+      "published_at": "2026-09-17T14:00:36+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/WKLU6p5Ezmc/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "AI用半導体チップの需要急増に伴い、米国での製造拠点新設が相次ぐ一方、専門技術者の深刻な不足が課題となっている。\n・台湾積体電路製造（TSMC）、インテル、サムスン、マイクロンなどの大手企業が米国で大規模なファブ（半導体製造工場）建設を進めている。\n・米国の半導体業界では2030年までに最大15万7,500人の労働者不足が懸念されている。\n・米国の大学や企業が連携し、パデュー大学やアリゾナ州立大学などで半導体人材の育成プログラムや訓練センターの設置を進めている。\n・サムスンやSKハイニックスなどは韓国からの社員研修や軍人・他分野の積極的採用、海外技術者の呼び込みなどで対策を図っている。",
+      "status": "ok",
+      "summarized_at": "2026-09-18T05:52:37+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "ieHKEWXRTEA",
       "url": "https://www.youtube.com/watch?v=ieHKEWXRTEA",
@@ -204,9 +230,9 @@
       "published_at": "2026-09-15T09:00:11+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/ylWfTDs_LzY/hqdefault.jpg",
       "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "沖縄県知事選の「ゼロ打ち」予測の裏側を、元官僚の高橋洋一氏が解説している。\n- 沖縄県知事選で古謝氏の勝利が「ゼロ打ち」（即時当確）になると事前に予測していた理由を説明している\n- 自民党やマスコミの情勢調査は歪むため信用できず、アメリカの予測市場や出口調査などのデータから予測したと主張している\n- 琉球新報などのオールドメディアが「接戦」と報じたのは、客観的データではなく主観的な「お気持ち」によるものだと批判している\n- 自身のチャンネルはデータに基づいた正確な情報を発信していると述べている",
+      "status": "ok",
+      "summarized_at": "2026-09-18T05:54:06+09:00",
       "retry_count": 0
     },
     {
@@ -308,9 +334,9 @@
       "published_at": "2026-09-14T09:00:04+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/UhEcRpyZwp4/hqdefault.jpg",
       "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "YouTube動画の要約は以下の通りです。\n\n最近の金利上昇の原因について、内閣府の経済モデルに基づいて要因を解説している。\n・長期金利は「短期金利」「将来の政策金利」「インフレ予想」「財政リスク（債務残高GDP比）」の4つの変数で決定される。\n・直近の長期金利上昇の原因は、インフレ予想や財政要因ではなく、日本銀行による利上げペースなどの金融政策に起因する。\n・日本銀行が想定する中立金利の算出根拠などを巡り、外部からの批判に対する疑問が呈されている。",
+      "status": "ok",
+      "summarized_at": "2026-09-18T05:55:35+09:00",
       "retry_count": 0
     },
     {
