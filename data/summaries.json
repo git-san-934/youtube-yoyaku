@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T03:10:03+09:00",
+  "updated_at": "2026-09-17T09:07:36+09:00",
   "items": [
     {
       "video_id": "dSX0WL502_Q",
@@ -35,9 +35,9 @@
       "published_at": "2026-09-16T11:11:23+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/qOIO7w_Zzp8/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "米FRBは、3年2ヶ月ぶりとなる0.25％の利下げを決定し、政策金利を3.75〜4.0％に引き上げた。\n・FOMCでは全会一致で利下げが承認され、物価安定と雇用拡大を目指す方針が示された\n・米国の8月小売売上高は前月比1.2％増となり、市場予想を上回る堅調さを示した\n・インフレや追加利下げへの懸念から、発表後の米株価指数は一時下落した\n・保有銘柄のインテルやコインベースなどは堅調に推移した",
+      "status": "ok",
+      "summarized_at": "2026-09-17T09:07:36+09:00",
       "retry_count": 2
     },
     {
