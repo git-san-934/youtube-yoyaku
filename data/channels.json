@@ -1,8 +1,18 @@
 [
   {
+    "handle": "@senxotimes",
+    "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
+    "name": "センキョタイムズ"
+  },
+  {
     "handle": "@USStockhanako",
     "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
     "name": "高校生でも分かる米国株"
+  },
+  {
+    "handle": "@takahashi_yoichi",
+    "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
+    "name": "髙橋洋一チャンネル"
   },
   {
     "handle": "@マーケットマスターズ-v1r",
@@ -15,9 +25,9 @@
     "name": "もふもふ不動産"
   },
   {
-    "handle": "@yuruyuru_san",
-    "channel_id": "UCedNzJ_2ilOFepcDA01Bpcw",
-    "name": "元上場会社社長のゆるゆる株式投資日記"
+    "handle": "@saraba_100PJ",
+    "channel_id": "UChHPxF0EpS-V6iO7VRci1Ug",
+    "name": "さらば青春の光の100億円プロジェクト"
   },
   {
     "handle": "@CNBC",
@@ -28,16 +38,6 @@
     "handle": "@nikkeixtech",
     "channel_id": "UCwPgJIiUAYhdN3AYkmm5YYA",
     "name": "日経クロステック【公式】"
-  },
-  {
-    "handle": "@amekabu-channel",
-    "channel_id": "UCS-xksGuWKrIi9DURQJ9IAg",
-    "name": "アメカブ【米国公認会計士の米国株チャンネル】"
-  },
-  {
-    "handle": "@x-weavers",
-    "channel_id": "UCJaxZOXs4SMjaxhcee2N5Aw",
-    "name": "XU (クロスユー) - X innovation empowers U"
   },
   {
     "handle": "@info_ask1",
