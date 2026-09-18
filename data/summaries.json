@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T00:38:04+09:00",
+  "updated_at": "2026-09-19T05:17:46+09:00",
   "items": [
     {
       "video_id": "8DFbfXLg-II",
@@ -100,9 +100,9 @@
       "published_at": "2026-09-18T06:30:30+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/bSLNiuK-uNw/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "- 9月の株式市場における主要指数（S&P 500、NASDAQ、SOXなど）の動向や、AI設備投資関連銘柄の現状と今後の展望について解説している。\n・米国株は利下げや長期金利・原油価格の動向が影響しており、半導体株は前半の急上昇に対する調整局面にある。\n・AI設備投資の波は「GPU」から「電力・ネットワーク」「端末」へとシフトし、大手クラウド企業（Google、Microsoft、Amazon）では利益率や投資回収のバランスが注目されている。\n・日本株については、PCメーカーやゲーム関連企業を中心にAI導入の影響やIP（知的財産）の価値を踏まえた銘柄選定の重要性を指摘している。",
+      "status": "ok",
+      "summarized_at": "2026-09-19T05:14:31+09:00",
       "retry_count": 0
     },
     {
@@ -113,9 +113,9 @@
       "published_at": "2026-09-18T04:00:10+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/pDvpUSWaad4/hqdefault.jpg",
       "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "高市内閣改造の閣僚人事について、政策重視の視点からその背景や特徴を解説した。\n・今回の内閣改造および党人事では、主要閣僚である骨格は維持された\n・新任の4人の閣僚（藤井比早之、山下貴司、伊東良孝、葉梨康弘）には元官僚等としての経験があり、政策遂行能力を重視した人事と推測される\n・高市首相は人間関係ではなく政策への取り組みやアンケートの回答内容等に基づいて人事を選定したとみられる",
+      "status": "ok",
+      "summarized_at": "2026-09-19T05:15:23+09:00",
       "retry_count": 0
     },
     {
@@ -126,9 +126,9 @@
       "published_at": "2026-09-18T03:07:38+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/BqP52ZEJqN4/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "・株価や物価の上昇と財政悪化の関係性や、日銀の金融政策について解説している。\n・日銀の政策会合では利上げの方向性が示されたが、市場はそれを受け入れ安心感を持っている。\n・日本では家計の資産や株価が上昇しているが、これは物価上昇による見せかけの増加であり、実質的な購買力は低下している。\n・AIバブルの崩壊リスクが薄れ、現在は財政拡張やインフレ加速による債券暴落リスクが高まっている。\n・国債の利回り上昇が経済や家計に与える影響は大きく、従来の常識が通用しない市場環境に注意が必要である。",
+      "status": "ok",
+      "summarized_at": "2026-09-19T05:16:28+09:00",
       "retry_count": 0
     },
     {
@@ -139,9 +139,9 @@
       "published_at": "2026-09-18T03:03:40+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/IAhAjg1wXAY/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "日銀の利上げやトリプル・ウィッチングが米国株や為替・日本経済に与える影響について解説するライブ配信。\n・日銀は政策金利を1%から1.25%へ引き上げ、31年ぶりの高水準となったが、追加利上げ時期は明確に示されなかったため市場では「ハト派的」と受け止められ、円売り（円安）が進んだ。\n・今日の米国株先物は小幅高・原油安・追風だが、FRB高官発言が注目される。\n・10年物TIPS（物連動国債）の「実質利回り」が上昇すると、将来の利益を大きく期待して買われているグロース株の現在価値が下がりやすくなる。\n・9月18日は「トリプル・ウィッチング」（株価指数先物、株価指数オプション、個別株オプションの3つのデリバティブ満期が重なる日）のため、ポジション調整で出来高やボラティリティ（価格変動性）が高まりやすい。",
+      "status": "ok",
+      "summarized_at": "2026-09-19T05:17:46+09:00",
       "retry_count": 0
     },
     {
