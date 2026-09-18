@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-18T19:23:35+09:00",
+  "updated_at": "2026-09-19T00:38:04+09:00",
   "items": [
+    {
+      "video_id": "8DFbfXLg-II",
+      "url": "https://www.youtube.com/watch?v=8DFbfXLg-II",
+      "title": "Top execs weigh in on the future of TV",
+      "channel": "CNBC",
+      "published_at": "2026-09-18T14:00:13+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/8DFbfXLg-II/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "CNBCのメディア業界の将来に関する予測番組で、スポーツ視聴率がバブルであるかという問いに業界トップが回答した。\n・ESPN会長のジミー・ピタロ氏は、測定技術の向上やストリーミング利用の増加により、スポーツ視聴率は下がることはなく今後も堅調に推移すると回答している。\n・ニールセンのSVPであるブライアン・フューラー氏は、アウトオブホーム測定（外出先での視聴測定）などの方法論的改善が、スポーツ市場における評価の向上に寄与していると指摘している。\n・スポーツ視聴率は下落せず、測定の精度や範囲の拡大によってその価値は維持・向上していくと見られている。",
+      "status": "ok",
+      "summarized_at": "2026-09-19T00:34:27+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "EkZf9driWMQ",
+      "url": "https://www.youtube.com/watch?v=EkZf9driWMQ",
+      "title": "【iPhone 18 Pro 超速分解】2ナノ半導体採用 熱設計重視の内部構造に｜放熱部材「ベーパーチャンバー」の進化は？｜カメラ・電池を取り出し調査",
+      "channel": "日経クロステック【公式】",
+      "published_at": "2026-09-18T13:23:43+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/EkZf9driWMQ/hqdefault.jpg",
+      "channel_id": "UCwPgJIiUAYhdN3AYkmm5YYA",
+      "summary": "日経エレクトロニクス編集長らが、発売されたばかりの「iPhone 18 Pro」を分解し、内部構造や進化点を検証する。\n・外観や分解の手順は前モデルの「iPhone 17 Pro」から大きな変化はない\n・放熱性能向上のため、熱を拡散する「ベーパーチャンバー」が従来より大型化されている\n・メイン基板周辺やカメラモジュールなどの配置を調整し、熱対策が強化されている\n・次月には折りたたみ型の「iPhone Duo」の分解も予定されている",
+      "status": "ok",
+      "summarized_at": "2026-09-19T00:35:33+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "BF0gMRyfWHc",
       "url": "https://www.youtube.com/watch?v=BF0gMRyfWHc",
@@ -48,9 +74,9 @@
       "published_at": "2026-09-18T07:39:51+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/Kswwy9YO_6Y/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "YouTube番組「センキョタイムズ」の配信内容。\n・福岡市長選や関テレとの関係など、政治ニュースの振り返りと今後の配信予定について語っている。\n・関テレとの全面戦争や、メディアとの戦いについて「売られた喧嘩はすべて買った」と振り返り、訂正放送を請求したことを報告している。\n・福岡市長選には11人が立候補を予定しており、関連する調査や動画の配信を行う予定である。\n・北九州市議会の元職員による実名での証言や、立憲系新党の動きなどについて解説している。",
+      "status": "ok",
+      "summarized_at": "2026-09-19T00:37:05+09:00",
       "retry_count": 1
     },
     {
@@ -61,9 +87,9 @@
       "published_at": "2026-09-18T07:00:13+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/QH4KRd_doXo/hqdefault.jpg",
       "channel_id": "UCXvjRTXoDa8tKwdkTaukGug",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "・米国の利上げサイクルにおける過去のデータ分析を基に今後の市場動向と株式相場への影響を解説。\n・米国利上げ局面では、通常18か月の期間と2.57%の幅があり、終了後に株式市場で大きな調整が起こるリスクがある。\n・足元の半導体関連や素材・資源関連などでは、中国の動向や企業の業績上方修正が期待されている。\n・住宅投資などでは金利上昇の影響を受けつつも、引き続き個別企業の動向が重要視される。",
+      "status": "ok",
+      "summarized_at": "2026-09-19T00:38:04+09:00",
       "retry_count": 0
     },
     {
