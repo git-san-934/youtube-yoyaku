@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-19T19:05:44+09:00",
+  "updated_at": "2026-09-20T04:53:09+09:00",
   "items": [
+    {
+      "video_id": "oHW7KAFJ77c",
+      "url": "https://www.youtube.com/watch?v=oHW7KAFJ77c",
+      "title": "Why It’s So Hard To Build An AI Kill Switch",
+      "channel": "CNBC",
+      "published_at": "2026-09-19T14:00:36+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/oHW7KAFJ77c/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "AIの急速な発展に伴い、暴走したAIを停止させる「キルスイッチ」の必要性と実現可能性についての議論が高まっている。\n・OpenAIやAnthropicなどのAI企業の関係者や専門家の間では、AIの脅威への懸念と規制の必要性が叫ばれている。\n・ハードウェアベースやソフトウェアベースのキルスイッチの提案があるが、分散型システムにおける実装や責任の所在など課題も多い。\n・EUのAI規制法など法整備の動きが進む一方、米国の議員からはAI企業に停止権限を義務付ける法案も提出されている。\n・「遅すぎる」という意見と「今がその時」という意見が分かれており、国際的な協調と独立した監査体制の確立が求められている。",
+      "status": "ok",
+      "summarized_at": "2026-09-20T04:51:05+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "skZ3PyHZpoc",
+      "url": "https://www.youtube.com/watch?v=skZ3PyHZpoc",
+      "title": "AIの開発停滞で半導体銘柄暴落するのか？AI人類を滅ぼす可能性をアンソロピック研究者が警告。本当なのか？",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-09-19T10:12:39+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/skZ3PyHZpoc/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "アンソロピックの研究者が「10年以内にAIが人類を滅ぼす確率が10%以上ある」と警告し、AIの脅威が議論されている。\n・AIは何でもハッキングする能力を持つ可能性があり、進化は鈍化していない。\n・AIによる再帰的自己改善により、AIの進化が爆発的に加速し、人間の理解を大きく超えるおそれがある。\n・AI開発を止めることは困難であり、国防の危機回避のために開発やインフラ投資は続けられると予想される。",
+      "status": "ok",
+      "summarized_at": "2026-09-20T04:51:57+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "7i6C_QkfVgk",
       "url": "https://www.youtube.com/watch?v=7i6C_QkfVgk",
@@ -9,9 +35,9 @@
       "published_at": "2026-09-19T05:32:35+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/7i6C_QkfVgk/hqdefault.jpg",
       "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "・政務官の人事における不自然な傾向や、政治家の不適切な言動について議論している。\n・スパイ山田の発言内容に根拠がなく、沖縄の歴史的背景やDNA解析の結果と矛盾している点を指摘している。\n・マスコミが不正確な情報や偏った見解を報道し、世論を誤導していると批判している。\n・政務官に選ばれる人物の選考基準が不明確であり、政治家やメディアのあり方に疑問を呈している。",
+      "status": "ok",
+      "summarized_at": "2026-09-20T04:53:09+09:00",
       "retry_count": 1
     },
     {
