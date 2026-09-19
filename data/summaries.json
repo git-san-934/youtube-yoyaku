@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-19T05:17:46+09:00",
+  "updated_at": "2026-09-19T19:05:44+09:00",
   "items": [
+    {
+      "video_id": "7i6C_QkfVgk",
+      "url": "https://www.youtube.com/watch?v=7i6C_QkfVgk",
+      "title": "9/19LIVE！内閣改造・中道解散・沖縄知事選",
+      "channel": "髙橋洋一チャンネル",
+      "published_at": "2026-09-19T05:32:35+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/7i6C_QkfVgk/hqdefault.jpg",
+      "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 1
+    },
+    {
+      "video_id": "eM3WcTZlk0Y",
+      "url": "https://www.youtube.com/watch?v=eM3WcTZlk0Y",
+      "title": "【タレコミ】林泰輔・福岡県議のヤバすぎる実態（政治ニュース7days）",
+      "channel": "センキョタイムズ",
+      "published_at": "2026-09-19T03:03:09+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/eM3WcTZlk0Y/hqdefault.jpg",
+      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
+      "summary": "福岡県議会議員の林泰輔氏が、SNSで自身の不用意なリツイートにより炎上した件について解説している。\n・福岡県議会議員の林泰輔氏が、吉松元福岡県議に関するSNSの投稿をリツイートして「よっラブホ応援団w」とコメントし、炎上した。\n・この投稿はすぐに削除されたが、「ラブホ応援団」というフレーズがインターネットメディア「ハンター」のクラウド応援団に関連づけられ、話題になった。\n・動画内では、実際にそのラブホテル前を訪れたエピソードや、政治家がSNS上で標的にされる現状について言及している。",
+      "status": "ok",
+      "summarized_at": "2026-09-19T19:05:44+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "8DFbfXLg-II",
       "url": "https://www.youtube.com/watch?v=8DFbfXLg-II",
