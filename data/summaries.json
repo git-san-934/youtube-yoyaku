@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-20T19:23:24+09:00",
+  "updated_at": "2026-09-21T00:12:29+09:00",
   "items": [
+    {
+      "video_id": "ndbSEgeb9jY",
+      "url": "https://www.youtube.com/watch?v=ndbSEgeb9jY",
+      "title": "How car dealers make their biggest profits",
+      "channel": "CNBC",
+      "published_at": "2026-09-20T14:00:14+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/ndbSEgeb9jY/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "自動車ディーラーは景気変動の影響を受けやすい業種だが、コロナ禍以降も高い利益を維持している。\n・コロナ禍の供給不足により車が高く売れ、利益が急増したが、現在はピーク時より43%下落した。\n・新車販売の低迷期でも、整備や部品の収益が補う独自のビジネスモデルとなっている。\n・新車の利益率は約5%だが、整備の利益率は約50%と非常に高い。\n・近年は新車よりも中古車需要が高く、整備・部品部門が急速に成長している。",
+      "status": "ok",
+      "summarized_at": "2026-09-21T00:12:29+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "xYVl0muIPEc",
       "url": "https://www.youtube.com/watch?v=xYVl0muIPEc",
