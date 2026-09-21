@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-21T20:40:48+09:00",
+  "updated_at": "2026-09-22T02:38:16+09:00",
   "items": [
+    {
+      "video_id": "SL3_a0fIJ8A",
+      "url": "https://www.youtube.com/watch?v=SL3_a0fIJ8A",
+      "title": "How Williams-Sonoma Became One Of Retail’s Best-Performing Stocks",
+      "channel": "CNBC",
+      "published_at": "2026-09-21T14:00:17+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/SL3_a0fIJ8A/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "ウィリアムズ・ソノマは住宅市場の低迷やインフレを乗り越え、競合を上回る成長と高い収益性を維持している。\n・Pottery Barn、West Elm、Rejuvenationなどの複数ブランドを展開し、高品質な商品とストーリーテリングで顧客を惹きつけている。\n・売上の3分の2を占めるEC事業ではAIアシスタント「Olive」を活用し、購入率や収益の向上、効率化を実現している。\n・BtoB（企業間取引）事業や、一貫して仕上げを管理するRejuvenationの金物・照明部門が新たな成長の原動力となっている。\n・不確実な関税環境においても透明性の高い情報開示と強力なブランド力を武器に、さらなるシェア拡大を目指している。",
+      "status": "ok",
+      "summarized_at": "2026-09-22T02:35:44+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "PNBW4h0QouI",
       "url": "https://www.youtube.com/watch?v=PNBW4h0QouI",
@@ -12,7 +25,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "video_id": "C1kHE_XWnBc",
@@ -61,9 +74,9 @@
       "published_at": "2026-09-21T07:18:56+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/4AXaQmHcKwY/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "福岡県議会議員による公金を使った海外旅行での酒乱パーティーの様子。\n・福岡県議会議員の海外旅行中に開催された酒乱パーティーの様子を捉えた映像。\n・参加者は音楽に合わせて踊り、乾杯や歓声を上げて盛り上がっている。\n・主な参加者として松尾統章、中尾正幸、香原勝司、浦伊三夫、林泰輔、豊福るみ子、大田京子、田辺一城の名前が挙げられている。",
+      "status": "ok",
+      "summarized_at": "2026-09-22T02:37:22+09:00",
       "retry_count": 0
     },
     {
@@ -74,9 +87,9 @@
       "published_at": "2026-09-21T06:11:46+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/9-7SowysJb8/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "北九州市議会の不適切な懇親会や虚偽の発言疑惑を巡り、元市職員が実名で告発を行った件について、出演者が批判的に解説している。\n・井上純子元市議が松尾統章市議らの政治資金パーティー（ビアパーティー）への出席を拒否したところ、職員としての不適切な対応を追及された問題を取り上げている。\n・福岡県議会に関連する早期解散の要望書提出を巡り、共産党と自民党が手を組んで議会内で対立している状況を解説している。\n・西田一市議や佐藤栄作市議が不当要求（不当請求）を行ったとされる問題について、出演者が自身の見解を交えて議論している。\n・動画の後半では、田川市の大任町長によるIR構想に関連する話題などを取り上げ、政治家の行動に対する批判や疑問を展開している。",
+      "status": "ok",
+      "summarized_at": "2026-09-22T02:38:16+09:00",
       "retry_count": 0
     },
     {
