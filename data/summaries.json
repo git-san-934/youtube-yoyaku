@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T01:01:48+09:00",
+  "updated_at": "2026-09-24T05:56:43+09:00",
   "items": [
     {
       "video_id": "WUtYv2Z1UQs",
@@ -22,9 +22,9 @@
       "published_at": "2026-09-23T12:28:09+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/hxmA7RKra9g/hqdefault.jpg",
       "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "AI時代におけるハードディスク（HDD）の重要性と、投資対象としての将来性について解説した動画。\n\n・AI時代の到来に伴い、学習やデータ保管に必要な大容量データ保存先としてHDDが再注目されている。\n・NAND Flashメモリの価格高騰と枯渇が進んだことで、相対的に低コストなHDDへの置き換えが進む。\n・HDDのメーカーはシーゲート、ウェスタンデジタル、東芝の3社に淘汰されており、急な増産が難しく好業績となっている。\n・垂直磁気記録、TMR（トンネル磁気抵抗効果）、ヘリウム充填、熱アシスト記録などの新技術によりHDDの大容量化・高速化が進んでいる。",
+      "status": "ok",
+      "summarized_at": "2026-09-24T05:55:57+09:00",
       "retry_count": 1
     },
     {
@@ -38,7 +38,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "video_id": "fCQVaSQT-hA",
