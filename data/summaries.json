@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T05:56:43+09:00",
+  "updated_at": "2026-09-24T11:33:40+09:00",
   "items": [
     {
       "video_id": "WUtYv2Z1UQs",
@@ -35,9 +35,9 @@
       "published_at": "2026-09-23T11:29:22+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/IEK5nLWpx9M/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "米株市場は原油高や米金利上昇、強いPMI（購買担当者景気指数）等を受けて下落した。\n・米株市場の主要指数は軒並み下落し、米10年債利回りは5.1%台に上昇した\n・9月の米総合PMIは58.4と21年来の高水準となり、企業の活動拡大が示された\n・FRB理事の追加利上げを示唆する発言を受け、追加利上げ確率が上昇した\n・トランプ米大統領は米イランの協議を生産的と評価し、原油高を背景にエネルギー株は上昇した",
+      "status": "ok",
+      "summarized_at": "2026-09-24T11:33:40+09:00",
       "retry_count": 2
     },
     {
