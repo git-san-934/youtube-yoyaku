@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T01:21:59+09:00",
+  "updated_at": "2026-09-26T06:03:02+09:00",
   "items": [
     {
       "video_id": "2cyvKUHOfdA",
@@ -87,9 +87,9 @@
       "published_at": "2026-09-25T09:47:39+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/dspFL1q38_o/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "福岡県議会の政治ニュースを配信する選挙タイムズの番組内容の要約は以下の通りです。\n\n・選挙タイムズによる政治ニュースの今週の配信内容と視聴者からのメッセージが紹介された。\n・福岡県議会の動向や、関西テレビとの紛争終結に関する裏話が取り上げられた。\n・筑後市県議選の告示に伴う自民党や公明党の動きが報じられた。\n・大任町の永原町長による9,000億円規模のIR構想が話題にされた。\n・香春町議会の取材制限や、高市首相の国連でのICC（国際刑事裁判所）支持発言について解説された。",
+      "status": "ok",
+      "summarized_at": "2026-09-26T05:59:24+09:00",
       "retry_count": 1
     },
     {
@@ -113,9 +113,9 @@
       "published_at": "2026-09-25T08:56:25+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/EFshCH5Qmsc/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "9月25日の株式市場は、前日の米国市場の急落懸念が和らぎ、日経平均株価やTOPIXは大幅続伸して引けた。\n・日経平均株価は前日比850円高の66,364円と大幅続伸し、TOPIXも高値更新。\n・米国市場でのインフレ加速への警戒が和らいだことや、ホノルズ海峡再開に向けた動きが安心感につながった。\n・個別銘柄では、三菱UFJフィナンシャル・グループなどの金融関連株や、半導体関連株が買われた。\n・グロース250指数は反落したが、売買代金が膨らむなど活発な動きが見られた。",
+      "status": "ok",
+      "summarized_at": "2026-09-26T06:00:22+09:00",
       "retry_count": 0
     },
     {
@@ -126,9 +126,9 @@
       "published_at": "2026-09-25T07:16:32+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/UExLzZ470jQ/hqdefault.jpg",
       "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "米中首脳会談は中身がほとんどなく、台湾への武器輸出やウクライナ問題などについてトランプ大統領と習近平国家主席は互いに何も発言しなかったと推測される。\n・米中首脳会談では中身がなく、通常行われる共同記者会見も、予定や事後の発言・記録もなかった。\n・会談では台湾への武器輸出問題について、お互いに発言せず、トランプ大統領からの言及はなかったとみられる。\n・日米・米中首脳会談等の国際会議の日程や内容を分析すると、今回の米中会談でのトランプ側の沈黙や成果の乏しさが浮き彫りになる。\n・今回の米中首脳会談の結果、日米同盟関係や他国の対応、今後の外交政策への影響や懸念が指摘されている。",
+      "status": "ok",
+      "summarized_at": "2026-09-26T06:02:13+09:00",
       "retry_count": 0
     },
     {
@@ -139,9 +139,9 @@
       "published_at": "2026-09-25T07:07:46+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/ApUVB6KiWzA/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "日本における物価上昇のメカニズムとインフレ政策の落とし穴について解説している。\n・米の価格が過去最高値になったのは、高齢化による供給力不足が主な原因である。\n・米は栽培から製米、輸送まですべて人手に依存しており、人手不足が価格上昇を招いている。\n・供給不足が原因であるにもかかわらず補助金を出して需要を増やせば、さらに価格が上がる。\n・政府の短期的な補助金などのメリットは目立つが、長期的なコスト増加やインフレは気づかれにくい。",
+      "status": "ok",
+      "summarized_at": "2026-09-26T06:03:02+09:00",
       "retry_count": 0
     },
     {
