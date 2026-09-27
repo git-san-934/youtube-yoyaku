@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-27T20:11:29+09:00",
+  "updated_at": "2026-09-28T01:09:35+09:00",
   "items": [
+    {
+      "video_id": "xrg6QCGzQGc",
+      "url": "https://www.youtube.com/watch?v=xrg6QCGzQGc",
+      "title": "Why Diamond Prices Are Falling So Fast",
+      "channel": "CNBC",
+      "published_at": "2026-09-27T14:00:33+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/xrg6QCGzQGc/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "天然ダイヤモンドの価格が下落した背景には、安価なラボグロウン（人工）ダイヤモンドの普及がある。\n・天然ダイヤモンド価格は、2022年の約1万ドルから2026年には約3,900ドルへと約60%急落した。\n・2026年には米国の婚約指輪の61%にラボグロウンセンター石が使用され、2020年比で239%増加した。\n・環境面でも、ラボグロウンダイヤモンドは同サイズの天然ダイヤモンドに比べ、炭素フットプリントが約90%低いとアピールされている。\n・De Beers社などの大手が採掘やブランド展開で方針転換を迫られるなど、業界構造に大きな変化が生じている。",
+      "status": "ok",
+      "summarized_at": "2026-09-28T01:09:35+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "lfZOA372MH4",
       "url": "https://www.youtube.com/watch?v=lfZOA372MH4",
@@ -2586,19 +2599,6 @@
       "summary": "・第一印象が汚いからといって、一概にダメだとは言えない。\n・自分自身もこの世界に入った当初は、見た目が汚く嫌われるタイプだった。\n・しかし、現在では見た目を気にさせてもらえるようになり、周りからも良くしてもらえるようになった。\n・過去の姿から判断すると、「第一印象が汚いからダメだ」と言いたくなる気持ちはある。\n・しかし、人間は見た目の印象だけで判断するべきではなく、伸びしろがあるかもしれない。",
       "status": "ok",
       "summarized_at": "2026-09-08T21:10:15+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "4ZkkG4dymAI",
-      "url": "https://www.youtube.com/watch?v=4ZkkG4dymAI",
-      "title": "【アパレルの超新星。SHEINの4つの課題】売上巨大も収益性低い／売上の4割弱がアパレル以外／Temu 、Amazonが競合に／次世代デザイナーの育成／創業者はエンジニア／配送コストが高すぎる／訴訟",
-      "channel": "PIVOT 公式チャンネル",
-      "published_at": "2026-08-31T22:00:03+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/4ZkkG4dymAI/hqdefault.jpg",
-      "channel_id": "UC8yHePe_RgUBE-waRWy6olw",
-      "summary": "SHEINの急成長の背景、強み、およびビジネスモデルが直面する課題について解説している。\n・SHEINは創業14年で売上高418億ドル（約6.7兆円）を達成し、ファストファッション界で世界2位の規模に成長した\n・SNSデータを基に中小サプライヤーとリアルタイムで連携する「需要予測型のソフトウェア産業」のような仕組みが最大の強みである\n・梱包や輸送コスト、競合他社との訴訟リスク、欧米市場への偏重などが今後の課題として挙げられている\n・ECプラットフォーム化や新規ブランドの育成・再生など、新たな成長領域への挑戦を続けている",
-      "status": "ok",
-      "summarized_at": "2026-09-08T21:11:20+09:00",
       "retry_count": 0
     }
   ]
