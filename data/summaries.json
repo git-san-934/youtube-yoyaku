@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-28T21:40:23+09:00",
+  "updated_at": "2026-09-29T07:52:37+09:00",
   "items": [
+    {
+      "video_id": "bQCXoStDF9k",
+      "url": "https://www.youtube.com/watch?v=bQCXoStDF9k",
+      "title": "コインベース暗号資産は買い時か？！",
+      "channel": "高校生でも分かる米国株",
+      "published_at": "2026-09-28T21:00:08+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/bQCXoStDF9k/hqdefault.jpg",
+      "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
+      "summary": "コインベースや暗号資産は長期的な成長に期待して投資対象になるが、買うなら何でも良いわけではなく、価格や事業の価値を確認して買う必要がある。\n・コインベースは暗号資産取引を提供し、ステーブルコイン「USDC」の拡大による金利収益や法整備の進展が成長の追い風となる。\n・ビットコインやイーサリアムは発行上限やスマートコントラクトなどの明確な仕組みがあり、多くの証券会社等でも扱われている主要な暗号通貨である。\n・個別の暗号通貨関連企業や戦略的な投資にはシステム障害、規制、財務・借入などの独自の経営リスクが伴うため注意が必要である。\n・一括投資だけでなく、下落時や毎月定額（ドルコスト平均法）の取引所購入を活用することで、コストを抑えた長期的な資産形成が可能となる。",
+      "status": "ok",
+      "summarized_at": "2026-09-29T07:50:04+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "RcLImKRagfg",
+      "url": "https://www.youtube.com/watch?v=RcLImKRagfg",
+      "title": "Why Warner Records is investing in South Asian artists",
+      "channel": "CNBC",
+      "published_at": "2026-09-28T14:00:39+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/RcLImKRagfg/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "南アジア出身のアーティストが米国の音楽市場で急速に主流になりつつあり、ワーナー・レコードも投資に力を入れている。\n・ストリーミングの普及により世界の音楽産業の収益は11年連続で成長し、2025年には30億ドルを突破する見通し\n・Spotifyのデータによると、2019年から2023年の間に国際市場におけるインド人アーティストのストリーミング再生数が2,000%以上急増\n・2024年にはインド人アーティストが得た全ロイヤリティの50%以上が国内国外からのリスナーによるものであった\n・今後はアフリカ音楽（アフロ）やK-POPと同様に、南アジアの音楽も世界的な盛り上がりを見せる契機になると期待されている",
+      "status": "ok",
+      "summarized_at": "2026-09-29T07:50:54+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "viNMItwUnGE",
       "url": "https://www.youtube.com/watch?v=viNMItwUnGE",
@@ -22,9 +48,9 @@
       "published_at": "2026-09-28T09:00:29+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/MdLDwq4rxSA/hqdefault.jpg",
       "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "自治体による共産党の機関紙「しんぶん赤旗」の購読解約や、赤旗を巡る状況について語る動画。\n・東京都の一部の自治体（荒川区、墨田区、葛飾区など）で「しんぶん赤旗」の管理職向け購読契約の解約の動きが続いている。\n・赤旗の発行部数は一般的な新聞と同様に減少傾向にあり、自治体での解約も経費削減や市民からの指摘が背景にある。\n・公務員組織の中には組合の影響などで左派的な思想が一定数存在し、赤旗や機関紙の購読・購入につながってきた側面がある。\n・消費税の軽減税率の対象において、日刊紙である赤旗や公明党の機関紙は対象となる一方、自民党の機関紙は日刊ではないため対象外となっている。",
+      "status": "ok",
+      "summarized_at": "2026-09-29T07:51:45+09:00",
       "retry_count": 1
     },
     {
@@ -35,9 +61,9 @@
       "published_at": "2026-09-28T08:40:16+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/1aLDJu_KSXU/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "本日の株式市場は全般的に下落したものの、売買代金や個別銘柄の動向に注目が集まった。\n・日経平均株価は65,877円（前日比-486円安）となり、5営業日ぶりの下落となった。\n・米国市場は高かったものの、利益確定売りや、権利取り最終日を控えた売りが重なった。\n・オーケストラ、理学ホールディングスなどがストップ高となる一方、2デックなどは急落した。\n・株式分割を行ったNTTなどは中立的な要因と見なされ、今後の動向が注視されている。",
+      "status": "ok",
+      "summarized_at": "2026-09-29T07:52:37+09:00",
       "retry_count": 1
     },
     {
@@ -2573,32 +2599,6 @@
       "summary": "以下が動画の要約です。\n\n・スキンヘッドにすることで仕事が増えたという意外な成功法則が語られている。\n・中途半端にハゲている状態よりも、スキンヘッドにした方が分かりやすさや清潔感が出る。\n・パッと見の印象がはっきりすることで、仕事の増加につながった可能性がある。",
       "status": "ok",
       "summarized_at": "2026-09-07T21:09:28+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "d8iNL0vWfLc",
-      "url": "https://www.youtube.com/watch?v=d8iNL0vWfLc",
-      "title": "1578回　さざ波発言で参与辞任の裏側",
-      "channel": "髙橋洋一チャンネル",
-      "published_at": "2026-09-01T09:51:12+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/d8iNL0vWfLc/hqdefault.jpg",
-      "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "動画の要約は以下の通りです。\n\n・菅政権での参与就任や「さざ波発言」の裏側について、高橋洋一氏が語っている。\n・安倍政権で自身を参与に迎えることについて、猛反対する人がたくさんいたと明かしている。\n・菅政権での経済対策について、100兆円から30兆円×2を引いた40兆円を提案したと述べている。\n・重要土地法案などの背景から「さざ波発言」に至った経緯について説明している。",
-      "status": "ok",
-      "summarized_at": "2026-09-07T21:10:18+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "E8iQ_QWPZm0",
-      "url": "https://www.youtube.com/watch?v=E8iQ_QWPZm0",
-      "title": "【田中渓が解説／コスパ・タイパの本当の意味】“安い・速い”で選ぶと損をする？緊急・重要で切り分けるコスパ・タイパ お金と時間の本当の使い方【田中渓の15歳からの経済ノート】",
-      "channel": "XU (クロスユー) - X innovation empowers U",
-      "published_at": "2026-09-01T09:00:10+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/E8iQ_QWPZm0/hqdefault.jpg",
-      "channel_id": "UCJaxZOXs4SMjaxhcee2N5Aw",
-      "summary": "若いうちに知っておきたい、お金の時間対効果（タイパ）と費用対効果（コスパ）の考え方。\n・短期的な効率だけでなく、長期的な視野を持って行動することの重要性を解説している\n・自己投資などの時間を要する行動が、いかに将来の大きな収入や選択肢の増加につながるかをデータで提示している\n・お金の価値は「今手元にあれば増やす手段がある」という金融の観点から考えるべきであると説いている\n・人生相談コーナーでは、将来の人脈作りや、「やりたいこと」と「どんな人生を送りたいか」の優先順位についてアドバイスしている",
-      "status": "ok",
-      "summarized_at": "2026-09-08T09:11:01+09:00",
       "retry_count": 0
     }
   ]
