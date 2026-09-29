@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-29T21:01:31+09:00",
+  "updated_at": "2026-09-30T02:33:09+09:00",
   "items": [
+    {
+      "video_id": "ie1EnBk6lE8",
+      "url": "https://www.youtube.com/watch?v=ie1EnBk6lE8",
+      "title": "GACKT氏「NISAやる奴はバカなの？」について、プロの投資家がNISAを教えてあげます",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-09-29T15:03:19+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/ie1EnBk6lE8/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "GACKT氏の勘違いを例に、NISAの本当の仕組みを解説した動画。\n・GACKT氏は「NISAが利益を生む構造」を疑問視しており、投資信託などと混同していた。\n・NISA自体は利益を生まない制度であり、株や投資信託の「買い方（非課税口座）」である。\n・通常は約20%かかる売却益や配当の税金が、NISAの枠組みを使えば非課税になる。\n・NISAで購入した対象商品（株や投資信託）が値上がりしたり配当が出たりすることで、初めて利益が発生する。",
+      "status": "ok",
+      "summarized_at": "2026-09-30T02:25:10+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "P9BTn-kxMcc",
+      "url": "https://www.youtube.com/watch?v=P9BTn-kxMcc",
+      "title": "Why Gen Z is driving the box office",
+      "channel": "CNBC",
+      "published_at": "2026-09-29T14:00:33+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/P9BTn-kxMcc/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "AIによる動画の要約は以下の通りです。\n\n近年、アメリカ・カナダの映画興行収入と動員数が回復傾向にあり、その成長を牽引しているのはZ世代とミレニアル世代です。\n・2026年時点の国内興行収入は前年同期比で12.5%増となり、年間売上は2019年以来となる100億ドル規模に達する見込み\n・Z世代やミレニアル世代は他の世代よりも映画館への来場頻度が高く、1人あたりの平均鑑賞本数も多い\n・2025年において、Z世代の映画ファンは年平均約7本の映画を鑑賞し、北米の全映画観客の約40%を占めた\n・「Z世代は外出しない」という一般的なイメージとは異なり、彼らは実際の映画館体験を好む傾向にある",
+      "status": "ok",
+      "summarized_at": "2026-09-30T02:26:12+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "oNL_Szm10qM",
+      "url": "https://www.youtube.com/watch?v=oNL_Szm10qM",
+      "title": "GACKTが「NISAやってるやつはバカなの？」で炎上…NISAとiDeCoの違いを分かりやすく解説",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-09-29T12:43:02+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/oNL_Szm10qM/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "GACKTが「NISAで利益が出る理由を誰も説明できない」と発言しSNSで炎上した件を受け、投資歴20年以上のプロ投資家がNISAとiDeCoの仕組みや正しい投資のあり方を解説している。\n・NISA自体は金融商品ではなく、株や投資信託の売買益や配当に税金がかからなくなる制度のことである。\n・NISA口座の枠内では「つみたて枠（年120万円）」と「成長枠（年240万円）」が併用でき、非課税保有限度額は計1,800万円まで拡大されている。\n・GACKTがかかわった仮想通貨プロジェクト「SPINDLE」では、過去に違法勧誘などの疑いで金融庁から資金決済法違反の指摘を受けた経緯がある。\n・NISAは純粋に投資目的の資産形成に向いており、iDeCo（60歳まで資金拘束）や他の金融商品と比較した上で自身の資金計画に合わせて活用すべきである。",
+      "status": "ok",
+      "summarized_at": "2026-09-30T02:27:56+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "AFR6c-FZahk",
       "url": "https://www.youtube.com/watch?v=AFR6c-FZahk",
@@ -25,7 +64,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "video_id": "n_nGKU-UqDg",
@@ -2560,45 +2599,6 @@
       "summary": "イギリス社会の激動と若者のニート化や新首相の誕生、経済政策についての議論。\n・イギリスでは若い層のニート化が深刻化しており、6人に1人がニートになる可能性がある「ロストジェネレーション」が問題視されている\n・労働党のバーナム新首相は、地方政治での実績や「北部の子」としての人気を背景に誕生したが、その政策には不透明な部分も多い\n・バーナム氏の経済政策は「全ての郵便番号で同じくらい経済発展させたい」というもので、地方の活性化を目指しているが、その実現性には疑問の声もある\n・イギリスの政治や社会構造の変化は、単なる一国の一時的な現象ではなく、グローバルな資本主義のひずみを映し出している",
       "status": "ok",
       "summarized_at": "2026-09-07T09:09:36+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "lB6IddGmUVg",
-      "url": "https://www.youtube.com/watch?v=lB6IddGmUVg",
-      "title": "【衝撃】元欅坂46の衝撃カミングアウト「歯を7本抜いて顔が小さくなった！？」#正直サミット #お笑い #さらば青春の光 #shorts",
-      "channel": "【公式】正直サミット",
-      "published_at": "2026-09-01T22:00:15+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/lB6IddGmUVg/hqdefault.jpg",
-      "channel_id": "UCSNivSS1ttprLnbDQUe3mhg",
-      "summary": "元櫻坂46のメンバーが衝撃のカミングアウトを行い、歯を7本抜いたことで顔が小さくなったというエピソードを語った。\n・歯を7本抜いたことで、顔や顎のラインが小さくなったと本人が実感している。\n・矯正治療の一環として歯を抜いたが、痛みや顔の変化があった。\n・現在は歯の動きがあり、動かした影響で歯が動いてしまう悩みもある。\n・過去の歯並びのコンプレックスや、キャバクラでの盛り上がらない時の会話についても言及された。",
-      "status": "ok",
-      "summarized_at": "2026-09-07T09:10:48+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "SIgT20xXUNs",
-      "url": "https://www.youtube.com/watch?v=SIgT20xXUNs",
-      "title": "Crypto Bet Big On U.S. Regulation, And Now Its Landmark Legislation Hangs In The Balance",
-      "channel": "CNBC",
-      "published_at": "2026-09-01T17:00:20+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/SIgT20xXUNs/hqdefault.jpg",
-      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
-      "summary": "暗号資産の規制法案であるクラリティ法（Clarity Act）の成立を目指す米国での動きと、その見通しについて解説している。\n・2026年の期限に向け、米議会ではクラリティ法（SECやCFTCの監督権限などを定める包括的暗号資産規制法案）の成立に向けた最終的な動きが見られる\n・民主党・共和党間の対立やトランプ大統領の姿勢などが法案通過の主なハードルとなっている\n・元ニューヨーク州知事のアンドリュー・クオモ氏らは、法案が不成立に終わった場合の影響や国際競争力への懸念を指摘している\n・業界関係者の間では、法案の成立には慎重な見方が示される一方で、規制当局によるルール作りの継続には期待が寄せられている",
-      "status": "ok",
-      "summarized_at": "2026-09-07T09:11:42+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "Qn1cOrJp5uY",
-      "url": "https://www.youtube.com/watch?v=Qn1cOrJp5uY",
-      "title": "主催者がいない世界的イベント",
-      "channel": "XU (クロスユー) - X innovation empowers U",
-      "published_at": "2026-09-01T15:00:01+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/Qn1cOrJp5uY/hqdefault.jpg",
-      "channel_id": "UCJaxZOXs4SMjaxhcee2N5Aw",
-      "summary": "ミラノサローネは、主催者がいないにもかかわらず30年以上続く世界最大級のデザインイベント。\n・毎年4月にイタリア・ミラノで開催される、世界中のデザイナーや家具ブランドが新作を発表する国際的なデザイン見本市。\n・かつては家具のBtoB展示会だったが、ミラノの街を舞台に自然発生的に発展した。\n・予算のない新進気鋭のクリエイターやデザイナーもSNSを活用して参加し、尖ったアイデアを発表している。\n・「ミラノ・デザインウィーク」の間は、毎日最新情報がSNSで更新され、街中がお祭り状態となる。",
-      "status": "ok",
-      "summarized_at": "2026-09-07T09:12:30+09:00",
       "retry_count": 0
     }
   ]
