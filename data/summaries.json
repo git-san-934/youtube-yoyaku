@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-30T20:47:39+09:00",
+  "updated_at": "2026-10-01T02:27:17+09:00",
   "items": [
+    {
+      "video_id": "9PNuDD5VHtI",
+      "url": "https://www.youtube.com/watch?v=9PNuDD5VHtI",
+      "title": "Inside Man: How Chinese Spies Used Lies, Romance And Betrayal To Target The Federal Reserve",
+      "channel": "CNBC",
+      "published_at": "2026-09-30T14:00:12+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/9PNuDD5VHtI/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "連邦準備制度（FRB）の元上級顧問ジョン・ロジャースが中国のスパイ組織に情報を漏洩したとして告発され、スパイ容疑は無罪となったものの、捜査官への虚偽の供述により有罪判決を受けた事件の経緯。\n・ロジャースはアジア系の出会い系サイトで知り合った中国の工作員（フミン・リーなど）と関係を持ち、経済スパイの標的となった。\n・中国の工作員らはロジャースに親密に接近し、FRBの金融政策や金利に関する非公開情報を巧みに引き出そうとした。\n・ロジャースはFRBの内部文書を外部に送信したほか、中国での講義を通じて中国側の工作に協力した。\n・FBIの捜査や裁判の結果、スパイ罪については無罪となったが、捜査当局への虚偽供述により懲役38ヶ月の判決が下された。",
+      "status": "ok",
+      "summarized_at": "2026-10-01T02:24:46+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "O-KHGyJmSUM",
       "url": "https://www.youtube.com/watch?v=O-KHGyJmSUM",
@@ -61,9 +74,9 @@
       "published_at": "2026-09-30T07:35:18+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/Ffl8Wq-zXaM/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "福岡地裁前で住民訴訟の第2回口頭弁論が行われ、県側が不誠実な対応に終始していると批判された。\n・服部知事と倉元氏に対し、海外視察費用などの返還を求める住民訴訟が進行中。\n・県側は法的根拠や議決のルールを説明せず、都合の良い部分だけを切り取って答弁している。\n・原告側は、知事らが県民のお金を使っている以上、情報公開と説明責任を果たすべきだと主張。\n・次回の口頭弁論は12月2日午後1時半から福岡地裁903号法廷で開催予定。",
+      "status": "ok",
+      "summarized_at": "2026-10-01T02:25:43+09:00",
       "retry_count": 0
     },
     {
@@ -74,9 +87,9 @@
       "published_at": "2026-09-30T07:21:29+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/EdY7muAobrk/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "インフレ政策は通貨を代償にした政治的リターンの大きい行為だが、現在は「自殺行為」である。\n・リフレ派の政治家やブレーンは正しいことをしていると信じ込んでいるため説得力があるが、インフレが進んだ現在ではアベノミクスは継続不可能である。\n・日本中で物価上昇と言われているが、アサガオの茎のようにおかしい状況である。\n・講演を聞きに来る多くの人は「潤っている」状態で、株や不動産等で儲けている。\n・株や不動産、金を持っている人には税金（インフレ税）がかからないため自己防衛している。",
+      "status": "ok",
+      "summarized_at": "2026-10-01T02:26:31+09:00",
       "retry_count": 0
     },
     {
@@ -194,7 +207,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 2
+      "retry_count": 3
     },
     {
       "video_id": "bQCXoStDF9k",
@@ -2586,19 +2599,6 @@
       "summary": "福岡県議会のハワイ視察に関する裏側の情報や問題点について語っている。\n- 福岡県議会のハワイ視察における結婚記念日パーティー、昼からの飲酒や遅刻などの問題行動が取り上げられている。\n- ハワイ視察に同行した現地スタッフや関係者への取材から、高額なホテル宿泊費やゴルフ三昧の実態が明らかになっている。\n- 議会の解散を巡る動きや、これまでの視察で起きた様々な疑惑について追及されている。",
       "status": "ok",
       "summarized_at": "2026-09-06T15:07:17+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "DmmdaXqhacs",
-      "url": "https://www.youtube.com/watch?v=DmmdaXqhacs",
-      "title": "【日本代表選手・最終移籍情報】佐野海舟残留の理由は？／中村リヨン移籍は決まり？／堂安中東行きはなぜ消えた？／トルコのクラブはなぜ金持ち？／上田のリール移籍／菅原のカリアリ移籍",
-      "channel": "PIVOT 公式チャンネル",
-      "published_at": "2026-09-02T08:45:04+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/DmmdaXqhacs/hqdefault.jpg",
-      "channel_id": "UC8yHePe_RgUBE-waRWy6olw",
-      "summary": "サッカー日本代表選手の最新移籍情報について、出演者2人が欧州主要リーグのマーケット閉幕時点での現状や移籍の背景を解説している。\n・佐野海舟選手はマインツとの移籍金（約5000万ユーロ）の隔たりにより残留となった\n・中村敬斗選手はジョーカー枠を活用してリヨンへ移籍し、CL（チャンピオンズリーグ）出場などのメリットがある\n・上田綺選手はフェイエノールトに残り、チームでさらなる飛躍とCL出場を目指す\n・菅原由勢選手はサウサンプトンへ完全移籍し、プレミアリーグでの活躍が期待される",
-      "status": "ok",
-      "summarized_at": "2026-09-06T15:08:21+09:00",
       "retry_count": 0
     }
   ]
