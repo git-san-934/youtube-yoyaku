@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-01T21:17:59+09:00",
+  "updated_at": "2026-10-02T07:24:16+09:00",
   "items": [
+    {
+      "video_id": "Mh6re_AX26Q",
+      "url": "https://www.youtube.com/watch?v=Mh6re_AX26Q",
+      "title": "How circuit boards could be the next AI chokepoint",
+      "channel": "CNBC",
+      "published_at": "2026-10-01T14:00:22+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/Mh6re_AX26Q/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "AIブームや地政学的リスクにより、半導体の基盤となるプリント基板（PCB）のサプライチェーンが新たなボトルネックとして懸念されている。\n・AIサーバーや防衛装備品に不可欠なPCBの大部分が中国で生産されており、安全保障上のリスクが指摘されている\n・世界的なAIサーバー向けチップの需要急増と、ウクライナ・中東での紛争の影響が重なり、基板の供給不足と価格高騰を招いている\n・アメリカ国防総省は、米国内の製造能力を高め、中国製への依存を減らす方針を示している\n・米国の主要メーカーであるTTMなどが国内生産を強化し、サプライチェーンの再構築を図っている",
+      "status": "ok",
+      "summarized_at": "2026-10-02T07:12:37+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "-gHAE8e0qLo",
+      "url": "https://www.youtube.com/watch?v=-gHAE8e0qLo",
+      "title": "マイクロン9〜11月の売上高4.5倍の見通し",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-10-01T12:59:11+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/-gHAE8e0qLo/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "・マイクロンの9〜11月期の売上高は4.5倍、営業利益は前年同期比12倍の爆益になる見通し\n・マイクロンの戦略的長期契約（SCA）の締結はこれまでに26件に上り、2030年までの売上の約35%を占める\n・マイクロンの市場見通しでは、2027年・2028年のメモリ（DRAM）は2026年よりも大幅にひっ迫すると予想している\n・DRAMのクリーンルーム増設計画を考慮しても、顧客からの強い需要動向を踏まえると需給が均衡に戻る時期は見通せないとしている",
+      "status": "ok",
+      "summarized_at": "2026-10-02T07:14:47+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "_AWQ_QpVbyE",
       "url": "https://www.youtube.com/watch?v=_AWQ_QpVbyE",
@@ -61,9 +87,9 @@
       "published_at": "2026-10-01T09:00:08+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/_J7MOlniNHM/hqdefault.jpg",
       "channel_id": "UCwPgJIiUAYhdN3AYkmm5YYA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "生成AIの台頭で「コンサル不要論」が囁かれる中、大手アクセンチュアがどのように対抗し変革に挑んでいるかを追う。\n・2026年6月、アクセンチュアは8月期の業績予測の下方修正を発表し、株価が一時19%下落するなど影響が表面化した。\n・こうした動きに対抗するため、AIを活用し少人数で戦略立案からエンジニアリングまで幅広いサービスを提供する新しい職種「RDE（リーンべンション・デプロイド・エンジニア）」の育成に注力している。\n・RDEの育成現場では、非エンジニアとエンジニアが2人1組のタッグを組み、AIを用いて短期間で課題解決アプリを作成する研修を実施している。\n・米アクセンチュアのジュリー・スウィートCEOや日本法人の浜岡社長への取材を通じ、資料作成などの単純な業務はAIに代替される一方で、「変革屋」としての人の変革をやり切る高度なコンサルティングの価値はむしろ高まっていると指摘している。",
+      "status": "ok",
+      "summarized_at": "2026-10-02T07:18:03+09:00",
       "retry_count": 0
     },
     {
@@ -74,9 +100,9 @@
       "published_at": "2026-10-01T07:53:02+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/qYEAkzHiL4Q/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "元竹雄市長の樋渡啓祐氏をゲストに迎え、竹雄市や佐賀県の選挙・行政の実態について語り合う。\n・樋渡氏は、市町村合併や図書館の建設など改革派市長として実績を残したが、民間との連携やスピード感を重視するあまり議会や行政との摩擦も大きかったと振り返る。\n・行政と民間の違いについて、行政は資金が潤沢で配分するだけの側面があり、むしろ民間の方が資金調達の面などで厳しいと指摘する。\n・近年のメディア報道に関して、大学新設などの問題に対する言論統制や、市民生活に直結する重要問題についての報道のあり方に強い懸念を示している。\n・選挙に関するマスコミの報道姿勢について、本来は多角的な視点から報道すべきであるにもかかわらず、偏った論調や特定の意図に基づく姿勢が見られると批判している。",
+      "status": "ok",
+      "summarized_at": "2026-10-02T07:24:16+09:00",
       "retry_count": 0
     },
     {
@@ -2573,32 +2599,6 @@
       "summary": "芸人・中山功太の怒ってスタジオから退室するというドッキリ企画が展開されている。\n・中山がスタジオ内で激怒して退室する様子が映し出されている。\n・出演者や周囲のスタッフがその行動に対して驚いたり、笑ったりする反応を見せている。\n・退室した中山が何度も同じような行動を繰り返す演出であることを出演者たちが指摘している。\n・スタジオの雰囲気が緊張感から一転してコミカルな笑いに包まれている。",
       "status": "ok",
       "summarized_at": "2026-09-05T21:13:31+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "7XoAFWxE83o",
-      "url": "https://www.youtube.com/watch?v=7XoAFWxE83o",
-      "title": "XU大学 防災学部 始動！",
-      "channel": "XU (クロスユー) - X innovation empowers U",
-      "published_at": "2026-09-02T15:00:12+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/7XoAFWxE83o/hqdefault.jpg",
-      "channel_id": "UCJaxZOXs4SMjaxhcee2N5Aw",
-      "summary": "ご提示いただいた動画の内容を要約しました。\n\nクロスイUは、日本各地で相次ぐ災害への対策や防災をテーマにした活動を行うため、「クロスイ大学 防災学部」を新設します。防災をゲーム感覚で楽しく学び、防災意識を高めることを目指しています。\n\n・クロスイUが新たに「クロスイ大学」を立ち上げる\n・日本各地で災害が相次いでいる状況がある\n・災害について考え、行動する場を作りたいという思いがある\n・まずは「防災学部」を作って防災をテーマに活動していく予定である\n・遊びながら避難訓練ができる取り組みを行う\n・防災設備の点検なども行えるようにする\n・「PloTree 防災チャンピオンシップ2026」という企画と連携する\n・「PloTree 防災チャンピオンシップ2026」のキャッチコピーは「あなたの発見が、街を守る。」である\n・ゲームという新しい防災の形があることを発信する\n・大学生や企業の人が参加できる仕組みにする\n・参加者同士が楽しく競い合いながら防災に取り組む\n・クロスイ大学の今後の展開に期待を呼びかけている",
-      "status": "ok",
-      "summarized_at": "2026-09-03T03:07:54+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "xeBXPZCUMdQ",
-      "url": "https://www.youtube.com/watch?v=xeBXPZCUMdQ",
-      "title": "How TikTok And Whatnot Got Americans Hooked On Livestream Shopping",
-      "channel": "CNBC",
-      "published_at": "2026-09-02T14:00:18+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/xeBXPZCUMdQ/hqdefault.jpg",
-      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
-      "summary": "米国のライブショッピング市場が急速に成長しており、TikTok ShopやWhatnotなどのプラットフォームが牽引している。\n・米国のライブストリーミング販売額は2024年に98億ドルに達し、急速に拡大している。\n・自動ヘアアイロンを手掛ける「Beachwaver」の創業者サラ・ポテンパはTikTokなどでライブ配信を行い売上を伸ばすが、一過性のブームからの定着や模倣品対策が課題となっている。\n・Whatnotは北米・欧州のライブコマース市場で約60%のシェアを占めるとされ、オークション形式やコミュニティ重視の戦略で急成長している。\n・中国のライブコマース市場は米国を大きく上回る規模（2025年に約1兆ドル規模）であり、超大規模なスーパーアプリへの統合が進んでいる。",
-      "status": "ok",
-      "summarized_at": "2026-09-05T21:16:24+09:00",
       "retry_count": 0
     }
   ]
