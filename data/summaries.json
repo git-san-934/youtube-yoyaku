@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T02:14:04+09:00",
+  "updated_at": "2026-10-03T06:48:32+09:00",
   "items": [
     {
       "video_id": "IOiRyi2oudw",
@@ -113,9 +113,9 @@
       "published_at": "2026-10-02T04:45:11+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/VWWTT0rqs-s/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "米国の失業率発表を受けた株式市場や経済指標の動向について解説している。\n・米国の失業率が予想より高く発表されたが、適度な減速と受け止められ、ダウ平均やナスダックなどの先物は上昇した。\n・FRB高官の利上げ慎重な発言や原油安・米国債利回りの低下が株式市場を下支えしている。\n・ナイキやペプシコなどの個別銘柄について、業績や中国事業の動向を踏まえた投資判断が語られている。\n・長期投資においては、短期的な経済指標の一喜一憂にとらわれず、適度なインフレや経済成長の持続を見据えることが重要である。",
+      "status": "ok",
+      "summarized_at": "2026-10-03T06:45:12+09:00",
       "retry_count": 0
     },
     {
@@ -126,9 +126,9 @@
       "published_at": "2026-10-02T03:10:49+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/LJDUKut0AWY/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "日経平均株価が72,831円に向けて上昇する中、今後のインフレ第二段階と海外勢の動向についての解説と経済の見通し。\n・10月2日の東京特部消費者物価指数は2.7%上昇（エネルギー・食料品除くコアコアは3.0%上昇）となり、インフレ第2段階に突入\n・米国の長期金利が5.3〜5.4%まで上昇する一方で日本国債の10年金利も3.129%に上昇しており、日米の金利上昇に対するリフレ政策の矛盾が生じている\n・マイクロン等の好決算を背景に、金利上昇と企業利益の増加スピードを比較した株式投資の重要性を指摘\n・ドコモの料金引き上げ（平均7%）や東京電力の料金値上げなど、食料品以外へのインフレの広がりを予測",
+      "status": "ok",
+      "summarized_at": "2026-10-03T06:46:53+09:00",
       "retry_count": 0
     },
     {
@@ -139,9 +139,9 @@
       "published_at": "2026-10-02T00:31:41+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/LQn5tWr5nAo/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "動画の内容を要約しました。\n\n- 福岡県庁で行われる樋口県議の記者会見に際し、記者クラブ側から外部メディアの参加が拒否されたトラブルが語られている。\n- 福岡県庁の8階記者会見室前において、ゼニキョウタイムズの出演者2人が取材規制の不当さや対応への不満について議論している。\n- 過去の不祥事や処分を巡る自民党内の対応の甘さ、一連の対応に一貫性がない点について問題視している。\n- 樋口県議が姿を現した際に直接質問や撮影を試みたものの、最終的に取材が制限される様子が映されている。",
+      "status": "ok",
+      "summarized_at": "2026-10-03T06:47:47+09:00",
       "retry_count": 0
     },
     {
@@ -272,7 +272,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "video_id": "9PNuDD5VHtI",
