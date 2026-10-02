@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-02T20:47:04+09:00",
+  "updated_at": "2026-10-03T02:14:04+09:00",
   "items": [
+    {
+      "video_id": "IOiRyi2oudw",
+      "url": "https://www.youtube.com/watch?v=IOiRyi2oudw",
+      "title": "How Walmart Is Hoping Its New Tech Will Help Shoppers And Employees",
+      "channel": "CNBC",
+      "published_at": "2026-10-02T14:00:16+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/IOiRyi2oudw/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "Walmartは、全米の店舗でデジタルシェルフラベル（DSL）やRFID技術などのデジタル化を急ピッチで進めている。\n・4300以上の米店舗にDSLを導入し、モバイルアプリ経由での価格更新や商品の位置特定を効率化している\n・RFIDを活用した在庫管理や、光で商品を知らせる機能により、店舗スタッフの作業負担軽減と顧客の利便性向上を図っている\n・ダイナミック・プライシング（動的価格設定）に対する消費者の懸念や、州による規制・法的リスクにも直面している\n・Walmartは、DSLは監視価格設定ツールではなく、閉じたシステムで価格を表示するだけの安全なものだと主張している",
+      "status": "ok",
+      "summarized_at": "2026-10-03T02:11:30+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "xXbdlNt5JvA",
+      "url": "https://www.youtube.com/watch?v=xXbdlNt5JvA",
+      "title": "みんなで大家さんのバナナ投資 現地にバナナが無かった? #みんなで大家さん #不動産投資 #不動産クラファン",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-10-02T13:00:30+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/xXbdlNt5JvA/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "みんなで大家さんのバナナ投資事業は実際にはバナナが生産されておらず、配当金の出どころが不明確である。\n・福岡県北九州市における利回り7％のバナナ投資商品があった\n・バナナを栽培して出荷したお金から配当を支払うと謳っていた\n・農水省の統計では福岡県におけるバナナの出荷実績はない\n・運営側は企業秘密を理由に詳細を明かしていない",
+      "status": "ok",
+      "summarized_at": "2026-10-03T02:12:18+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "crVzoJ6XeAA",
       "url": "https://www.youtube.com/watch?v=crVzoJ6XeAA",
@@ -61,9 +87,9 @@
       "published_at": "2026-10-02T09:00:22+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/3_GmiSpqXr4/hqdefault.jpg",
       "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "中国の経済発展について、歴史的背景（鄧小平の開放政策など）と現在の予測を交えて解説した動画。\n・中国の経済発展は、鄧小平の開放政策による農民の解放や安い労働力が影響している。\n・歴史の一断面を説明するだけでなく、今後の予測も同時に考慮することが重要である。\n・民主主義指数と1人あたりGDPには一定の相関が見られる（相関系数は0.68）。\n・産油国など特定の条件によっては、民主主義指数が低くてもGDPが高くなる例外が存在する。",
+      "status": "ok",
+      "summarized_at": "2026-10-03T02:13:11+09:00",
       "retry_count": 0
     },
     {
@@ -74,9 +100,9 @@
       "published_at": "2026-10-02T08:14:16+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/a-aL_qQrF_c/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "10月2日の株式市場は、日経平均株価やTOPIX、グロース250が揃って下落した。\n・日経平均株価は前日比647円安の68,309円と急落\n・米国の雇用統計の発表を控え、様子見ムードや利益確定売りが広がった\n・半導体関連や電線株の一角には高値更新などの強い動きも見られた\n・自動車や不動産関連株などは金利高への懸念等から売られる展開となった",
+      "status": "ok",
+      "summarized_at": "2026-10-03T02:14:04+09:00",
       "retry_count": 0
     },
     {
@@ -2573,32 +2599,6 @@
       "summary": "ご提示いただいたYouTube動画の要約は以下の通りです。\n\nWASSHA株式会社の事業によってアフリカの無電化村に明かりが灯り、活気ある商業地へと変貌を遂げた。\n・暗闇だった村にWASSHAのライトが普及し、ビジネスの拡大や雇用の増加につながった。\n・3年ぶりに訪れたタンザニアの顧客の地域では、家が建つなどの変化が見られた。\n・借りたお店の明かりが街灯のようになり、道沿いに「竹下通り」のような商店街が形成された。",
       "status": "ok",
       "summarized_at": "2026-09-04T03:08:27+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "GsXDHugel6k",
-      "url": "https://www.youtube.com/watch?v=GsXDHugel6k",
-      "title": "Anthropic’s Distillation Battle Turns To The Dark Web As China Concerns Swell",
-      "channel": "CNBC",
-      "published_at": "2026-09-03T14:00:19+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/GsXDHugel6k/hqdefault.jpg",
-      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
-      "summary": "中国のAIラボが米国の主要AI企業のモデルを不正に模倣（蒸留）している問題について。\n・AnthropicやOpenAIなどのAIモデルが、闇サイトや盗まれたアカウント、不正なクレジットカードを使ってアクセスされている\n・中国のAIラボ「DeepSeek」「Moonshot」「MiniMax」が、数万件の虚偽アカウントを利用してAnthropicのClaudeから膨大なデータを取得した\n・「蒸留（Distillation）」という技術を悪用し、より優れた教師モデルから安価かつ小規模な生徒モデルを不正に訓練している\n・米国政府やAI企業は、知的財産の保護や悪用のリスクを防ぐため、対策強化や法的措置を検討している",
-      "status": "ok",
-      "summarized_at": "2026-09-04T03:11:11+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "lO8-5FzXST8",
-      "url": "https://www.youtube.com/watch?v=lO8-5FzXST8",
-      "title": "円高急進もTPX堅調。含み益額小台4つへ戻す。ソニーGのモルスタレポート主題・創造性を解き放つ。力作で目標株価を上方修正・5000円。",
-      "channel": "元上場会社社長のゆるゆる株式投資日記",
-      "published_at": "2026-09-03T13:54:04+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/lO8-5FzXST8/hqdefault.jpg",
-      "channel_id": "UCedNzJ_2ilOFepcDA01Bpcw",
-      "summary": "ソニーグループ（6758）のモルガン・スタンレー証券によるモルスタレポート「Creativity Unleashed：創造性を解き放つ」を主題に、目標株価が5,000円へ上方修正された。\n・三量（三井物産・三菱商事などの総合商社）は、限定商品の絶対ゲットなどを目指すインバウンド需要や高値の様相により注目されている。\n・ソニーグループのモルスタレポートでは、目標株価が4,700円から5,000円へ引き上げられ、ゲーム、音楽、映画などのコンテンツ配信やAIとのシナジーに強気の見通しが示された。\n・日経平均株価や為替の動向に関しては、円高急進・TPX堅調、日経平均は一時大幅下落や上下動が見られるなど、相場のボラティリティが高い状態が続いている。",
-      "status": "ok",
-      "summarized_at": "2026-09-04T15:11:13+09:00",
       "retry_count": 0
     }
   ]
