@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T07:24:16+09:00",
+  "updated_at": "2026-10-02T12:29:29+09:00",
   "items": [
     {
       "video_id": "Mh6re_AX26Q",
@@ -113,9 +113,9 @@
       "published_at": "2026-10-01T06:39:46+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/pup9F9UGzzY/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "選挙をテーマにした動画で、佐賀県知事選挙に立候補する吉田千代氏を招き、自衛隊時代の経験や政治活動の背景、佐賀の魅力や課題について対談を行った。\n・吉田氏は防衛大学校初の女子卒業生で、航空自衛隊などを経て県知事選に立候補した。\n・佐賀県における新幹線の開業や自衛隊との関わり、地方の特性や課題について意見が交わされた。\n・防衛大出身者として女性自衛官のパイオニア的存在であり、その経験が生かされていることが語られた。\n・動画の後半では、次回の事務所開きなどの今後の予定についてもアナウンスが行われた。",
+      "status": "ok",
+      "summarized_at": "2026-10-02T12:28:43+09:00",
       "retry_count": 0
     },
     {
@@ -129,7 +129,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 0
+      "retry_count": 1
     },
     {
       "video_id": "9PNuDD5VHtI",
