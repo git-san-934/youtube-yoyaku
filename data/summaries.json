@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-03T12:12:11+09:00",
+  "updated_at": "2026-10-03T19:55:14+09:00",
   "items": [
+    {
+      "video_id": "z5v_jYMy2BY",
+      "url": "https://www.youtube.com/watch?v=z5v_jYMy2BY",
+      "title": "10/3LIVE！米中首脳会談＆岩屋訪中＆酒税改正＆東大学長",
+      "channel": "髙橋洋一チャンネル",
+      "published_at": "2026-10-03T10:12:37+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/z5v_jYMy2BY/hqdefault.jpg",
+      "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
+      "summary": "動画の要約は以下の通りです。\n\nYouTubeライブの冒頭で、米中関係やトランプ氏の発言、アルコールやタバコの増税に関する税制の仕組みについてフリートークを展開した。\n・米中関係やトランプ氏の動向を巡り、メディアの報道や外交上の意図について解説した。\n・お酒やタバコに対する税金の仕組みについて、メーカーに課税する「製販三層」の構造を説明した。\n・東京大学の学部内における序列や、卒業生の進路の傾向について持論を展開した。",
+      "status": "ok",
+      "summarized_at": "2026-10-03T19:55:14+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "IOiRyi2oudw",
       "url": "https://www.youtube.com/watch?v=IOiRyi2oudw",
@@ -2587,19 +2600,6 @@
       "status": "ok",
       "summarized_at": "2026-09-04T15:10:10+09:00",
       "retry_count": 2
-    },
-    {
-      "video_id": "mern-gviM9w",
-      "url": "https://www.youtube.com/watch?v=mern-gviM9w",
-      "title": "真っ暗だった村が「竹下通り」のような光景に",
-      "channel": "XU (クロスユー) - X innovation empowers U",
-      "published_at": "2026-09-03T15:00:36+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/mern-gviM9w/hqdefault.jpg",
-      "channel_id": "UCJaxZOXs4SMjaxhcee2N5Aw",
-      "summary": "ご提示いただいたYouTube動画の要約は以下の通りです。\n\nWASSHA株式会社の事業によってアフリカの無電化村に明かりが灯り、活気ある商業地へと変貌を遂げた。\n・暗闇だった村にWASSHAのライトが普及し、ビジネスの拡大や雇用の増加につながった。\n・3年ぶりに訪れたタンザニアの顧客の地域では、家が建つなどの変化が見られた。\n・借りたお店の明かりが街灯のようになり、道沿いに「竹下通り」のような商店街が形成された。",
-      "status": "ok",
-      "summarized_at": "2026-09-04T03:08:27+09:00",
-      "retry_count": 0
     }
   ]
 }
