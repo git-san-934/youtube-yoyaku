@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-05T22:20:27+09:00",
+  "updated_at": "2026-10-06T08:40:50+09:00",
   "items": [
+    {
+      "video_id": "VQYJb4I_sdk",
+      "url": "https://www.youtube.com/watch?v=VQYJb4I_sdk",
+      "title": "Why It's So Expensive To Run An Auto Repair Shop",
+      "channel": "CNBC",
+      "published_at": "2026-10-05T14:00:11+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/VQYJb4I_sdk/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "自動車修理業界では高精度な先端技術の導入や、ソフトウェアのサブスクリプション費用などで経営コストが急速に上昇している。\n・近代の自動車はADAS（先進運転支援システム）や複雑な電子制御が多数搭載されており、修理の複雑化が進んでいる。\n・独立系修理工場はメーカーや車種ごとに高額な診断ツールやソフトウェアの年間契約が必要となり、大きな金銭的・時間的負担を強いられている。\n・一部のメーカーや車種では情報へのアクセスに制限があり、ディーラーへの依存や不必要な部品交換・再プログラミングが発生している。\n・高額な設備投資が困難な小規模な修理工場は、特定車種への特化や大規模化などのビジネスモデルの転換を余儀なくされている。",
+      "status": "ok",
+      "summarized_at": "2026-10-06T08:36:36+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "dIonEGbStJA",
       "url": "https://www.youtube.com/watch?v=dIonEGbStJA",
@@ -12,7 +25,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "video_id": "6mJWJrdClWs",
@@ -61,9 +74,9 @@
       "published_at": "2026-10-05T08:52:00+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/FW4SzXUH9Fc/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "北九州市議会の議長就任パーティーをめぐり、井上順子議員が提出した「議長就任パーティーを禁じる決議案」が波紋を呼んでいる。\n・北九州市議会では議長・副議長の就任に伴うパーティーの開催とそれに伴う費用負担が長年の慣例となっていたが、高額な費用や政治資金との関係性に批判が集まっていた。\n・井上議員率いる「北九州市議会」などの会派が提出した本決議案は、自民党や公明党などの主要会派所属議員との間で意見が対立し、10月6日の採決に向けて激しい議論が交わされている。\n・過去の政治資金パーティーや関連する議員の動向、特に北九州市議会内の各会派の勢力図や過去の発言が複雑に絡み合い、今回の提案は議会運営のあり方や政治倫理を問う重要な契機となっている。",
+      "status": "ok",
+      "summarized_at": "2026-10-06T08:39:00+09:00",
       "retry_count": 0
     },
     {
@@ -74,9 +87,9 @@
       "published_at": "2026-10-05T08:20:55+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/V_OXFzHusdw/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "日経平均は前日比1,637円高の69,946円となり、米株式市場の上昇や主要7カ国（G7）の石油備蓄放出を受けた原油先物下落が好感されました。\n・大塚ホールディングス（4578）は、医療用シリカゲルのシェアが高く、中分子医薬品の製造プロセスにおいて強みを持つため中長期的な成長が期待されています。\n・中外製薬（4519）の抗肥満薬（経口剤）や、武田薬品工業（4502）の肥満症治療薬・アルツハイマー病治療薬などが注目を集めています。\n・エーザイ（4523）のアルツハイマー病治療薬「レカネマブ」は、皮下注製剤の臨床試験が米国・日本・中国で承認され、今後の業績貢献が期待されています。\n・デクセリアルズ（4980）は短期的にはスマートフォンや車載向けの一部製品で停滞が見られるものの、光トランシーバーなどのAI半導体関連の需要が今後の成長を支えると見込まれています。",
+      "status": "ok",
+      "summarized_at": "2026-10-06T08:40:50+09:00",
       "retry_count": 0
     },
     {
@@ -2586,19 +2599,6 @@
       "summary": "米国雇用統計が予想より強く、FRBの利下げ確率低下に伴い米株先物は下落、ドル円は155円台へと大幅な円高に進行した。\n・8月の非農業部門雇用者数は予想を大きく上回る+16.2万人増となり、失業率は4.1%を維持した。\n・雇用市場の堅調さから利下げ観測が後退し、米株先物は発表後に下落した。\n・米国債の10年利回りは上昇し、日本の長期金利や円高・原油高を背景に日米金利差が意識された。\n・ライブ配信では暗号資産関連株（コインベース等）の値動きや個別株の分析について視聴者と質疑応答が行われた。",
       "status": "ok",
       "summarized_at": "2026-09-05T03:06:45+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "snxQxatCz_g",
-      "url": "https://www.youtube.com/watch?v=snxQxatCz_g",
-      "title": "アフリカ 6 億人の“暗闇”に挑む！企業の逆転発想",
-      "channel": "XU (クロスユー) - X innovation empowers U",
-      "published_at": "2026-09-04T15:00:06+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/snxQxatCz_g/hqdefault.jpg",
-      "channel_id": "UCJaxZOXs4SMjaxhcee2N5Aw",
-      "summary": "WASSHA株式会社の秋田智司氏が、アフリカの電力事情とランタンのレンタルビジネスについて解説している。\n・競合であるサンフランシスコ本社のスタートアップは、ランタンを12ヶ月の分割販売していた。\n・貧困層は所得が安定せず、1年間継続して購入することが難しく、貸し倒れが増えていた。\n・WASSHAはレンタルモデルで参入し、お金がある時に1日だけ借りられる仕組みを作った。",
-      "status": "ok",
-      "summarized_at": "2026-09-05T03:07:54+09:00",
       "retry_count": 0
     }
   ]
