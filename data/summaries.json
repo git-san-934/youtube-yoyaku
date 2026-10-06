@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T08:40:50+09:00",
+  "updated_at": "2026-10-06T13:12:10+09:00",
   "items": [
     {
       "video_id": "VQYJb4I_sdk",
@@ -25,7 +25,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 2
+      "retry_count": 3
     },
     {
       "video_id": "6mJWJrdClWs",
@@ -100,9 +100,9 @@
       "published_at": "2026-10-05T08:00:37+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/C8V1v-u9nyQ/hqdefault.jpg",
       "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "アンソロピックの巨額赤字に関する流出目論見書の報道について解説する動画。\n・アンソロピックの6兆円の赤字のうち8割は現金が出ない損失である。\n・損失の多くは、将来株を渡す条件で資金調達した際の値上がりによる評価損などである。\n・会社の株価が上がると返す株の評価額も上がる仕組みになっているため、上場すれば株を渡して解消される。\n・事業としての純損失は1.2兆円であり、6兆円も現金が出ているわけではない。",
+      "status": "ok",
+      "summarized_at": "2026-10-06T13:12:10+09:00",
       "retry_count": 0
     },
     {
