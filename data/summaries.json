@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-07T21:28:19+09:00",
+  "updated_at": "2026-10-08T07:32:36+09:00",
   "items": [
+    {
+      "video_id": "WoIkmHmHa2k",
+      "url": "https://www.youtube.com/watch?v=WoIkmHmHa2k",
+      "title": "The growing business of corporate security",
+      "channel": "CNBC",
+      "published_at": "2026-10-07T14:00:10+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/WoIkmHmHa2k/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "暴力犯罪の減少傾向にもかかわらず、高まる社会不安を背景に企業セキュリティの需要が急増している。\n・全米の暴力犯罪率は2025年に9%以上低下したが、世論調査では犯罪増加への懸念が根強い\n・UnitedHealthのCEO銃撃事件や有名企業を標的とした事件が相次ぎ、企業のセキュリティ意識が高まった\n・世界のプライベートセキュリティ産業の収益は2025年に500億ドルを突破し、過去10年で17%増加した\n・一方で、セキュリティガードの約3分の2が低賃金労働者であり、増加するリスクや責任に見合った待遇や訓練が追いついていないという課題もある",
+      "status": "ok",
+      "summarized_at": "2026-10-08T07:30:15+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "cptTN1VfsKA",
       "url": "https://www.youtube.com/watch?v=cptTN1VfsKA",
@@ -61,9 +74,9 @@
       "published_at": "2026-10-07T07:46:23+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/Jxbu__4UsiA/hqdefault.jpg",
       "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "キオクシアの株価がサンディスクの半分程度に留まっている理由と今後の展望について解説している。\n・キオクシアとサンディスクは同じ工場で生産しているが、株価評価（予想PER）に大きな差がある。\n・サンディスクが米国市場に上場し世界中の投資家が買いやすいことや、IRの分かりやすさが高い評価の要因となっている。\n・キオクシアはベインキャピタルや東芝といった大株主による市場での売りが続いていることが株価低迷の一因である。",
+      "status": "ok",
+      "summarized_at": "2026-10-08T07:31:06+09:00",
       "retry_count": 0
     },
     {
@@ -74,9 +87,9 @@
       "published_at": "2026-10-07T07:14:59+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/prNvrE6jyK0/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "宗方市議会議員の斉藤元高氏をゲストに迎え、自民党支持層から立憲民主党への移行や野党勢力の動向について議論した。\n・斉藤氏はかつて自民党の活動家で、第2次世界大戦前の日本帝国憲法を研究していた。\n・国民民主党から立憲民主党へ移る議員が多く、その背景には資金や政治的方針の変化が関係している。\n・福岡の県議会選挙では、自民党支持者が一定数存在しつつも、立憲民主党や野党勢力との複雑な力関係がある。\n・今後の選挙に向けて、各政党がどのような候補者を立て、どのように支持層を維持していくかが鍵となる。",
+      "status": "ok",
+      "summarized_at": "2026-10-08T07:32:36+09:00",
       "retry_count": 0
     },
     {
@@ -2586,19 +2599,6 @@
       "summary": "暴力犯罪の減少傾向とは裏腹に、高プロフィールの襲撃事件を契機として企業のセキュリティ需要が急増し、民間警備産業が拡大している。\n・全米の暴力犯罪率は2025年に9%以上減少したが、世論の不安感は根強い。\n・大手警備会社アライード・ユニバーサルなどの需要拡大により、世界のセキュリティ収益は2025年に500億ドル規模に達した。\n・米国におけるセキュリティガードの雇用者数は130万人を超え、警察官を大きく上回る成長を見せている。\n・低賃金や高い離職率などの労働環境の課題を抱えつつも、AIやドローンなどの技術を活用した総合的なセキュリティサービスの提供が進んでいる。",
       "status": "ok",
       "summarized_at": "2026-09-09T03:11:01+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "SJeErjBFkM0",
-      "url": "https://www.youtube.com/watch?v=SJeErjBFkM0",
-      "title": "金利上昇！ソフトバンクの社債買う？！潰れないか分析します！",
-      "channel": "高校生でも分かる米国株",
-      "published_at": "2026-09-08T12:53:45+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/SJeErjBFkM0/hqdefault.jpg",
-      "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "金利上昇に伴うソフトバンクグループ（SBG）社債への投資リスクや、同社の財務・投資状況について解説。\n・SBGの年利4.75%の社債は即日完売したが、大企業の社債であっても経営破綻時の返済保証はなく、過去にはJALなどの社債も大幅カットされた前例がある。\n・SBGはArmやOpenAIなどへの巨額投資を行っており、資産や利益がこれら少数の投資先に集中しているリスクがある。\n・保有株の評価額によって業績が大きく左右される投資会社であり、株価下落時には巨額の評価損や追加担保を迫られる危険性がある。\n・現在の金利環境下では、安全性を重視するなら利回りが上昇している日本国債なども有力な選択肢となる。",
-      "status": "ok",
-      "summarized_at": "2026-09-09T03:11:55+09:00",
       "retry_count": 0
     }
   ]
