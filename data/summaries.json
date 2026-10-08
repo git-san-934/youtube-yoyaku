@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-08T21:37:51+09:00",
+  "updated_at": "2026-10-09T07:43:11+09:00",
   "items": [
+    {
+      "video_id": "Sqok7DpL6G0",
+      "url": "https://www.youtube.com/watch?v=Sqok7DpL6G0",
+      "title": "The Megadonors Funding The 2026 Midterms",
+      "channel": "CNBC",
+      "published_at": "2026-10-08T15:09:08+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/Sqok7DpL6G0/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "2026年の米国中間選挙に向けた選挙資金が急増する中、巨額の資金を投じる資金提供者の顔ぶれや業界ごとの動向について解説している。\n・2026年選挙サイクルの政治資金は98億ドルに達し、その大半を少数の大口献金者が占めている\n・トップ10の個人・家族のうち9組が共和党系であり、共和党系ドナーの比率がさらに高まっている\n・仮想通貨やAI、オンラインギャンブル関連の業界が約3億7,700万ドルを拠出するなど、新たな有力支援層として台頭している\n・民主党系では党本部への直接支援が低調な一方、マイク・ブルームバーグやリード・ホフマンなどの大口ドナーが個別候補やスーパーPACを支援している",
+      "status": "ok",
+      "summarized_at": "2026-10-09T07:43:11+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "2bZXlcrO3f0",
       "url": "https://www.youtube.com/watch?v=2bZXlcrO3f0",
@@ -2587,19 +2600,6 @@
       "status": "ok",
       "summarized_at": "2026-09-10T09:08:05+09:00",
       "retry_count": 2
-    },
-    {
-      "video_id": "sFc4ljjQFDk",
-      "url": "https://www.youtube.com/watch?v=sFc4ljjQFDk",
-      "title": "2026年9月9日【中東懸念拡がる】（市況放送【毎日配信】）",
-      "channel": "朝倉慶のASK1",
-      "published_at": "2026-09-09T07:20:25+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/sFc4ljjQFDk/hqdefault.jpg",
-      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "動画の要約は以下の通りです。\n\n・中東情勢の悪化と円高への警戒感から、本日の日経平均株価は反落した\n・中東情勢の緊迫化に伴う原油高や日銀の利上げ観測が相場のおもな要因となった\n・半導体関連やAI関連の一部銘柄で買いが見られたものの、全体として方向感を欠く展開となった\n・ドル円は153円台後半、ユーロ円は178円台後半で推移している",
-      "status": "ok",
-      "summarized_at": "2026-09-09T21:08:24+09:00",
-      "retry_count": 0
     }
   ]
 }
