@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T07:09:04+09:00",
+  "updated_at": "2026-10-10T12:46:15+09:00",
   "items": [
     {
       "video_id": "l9JuYsQLNt0",
@@ -113,9 +113,9 @@
       "published_at": "2026-10-09T08:00:37+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/S606OvFNpeg/hqdefault.jpg",
       "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "AI関連の半導体市場において、光電融合技術や後工程の高度化に関連する銘柄に注目が集まっている。\n・AI分野ではメモリの容量やデータ転送速度がボトルネックとなっており、今後はNAND型フラッシュメモリや光通信・3次元実装技術の活用が不可欠とされる\n・光ファイバー関連では、ハイパースケールデータセンター向けに多心化された光ファイバーケーブルを提供するフジクラが業績を伸ばしている\n・光ファイバーの端面を研磨する装置を手がける精工技研や、半導体製造の最先端マウンターやダイボンダーを展開するFUJITSUなどもAI特需で注目されている\n・AIへの巨額投資が続く一方で市場の崩壊リスクもあり、今後の決算や市場動向を慎重に見極める必要がある",
+      "status": "ok",
+      "summarized_at": "2026-10-10T12:43:03+09:00",
       "retry_count": 0
     },
     {
@@ -126,9 +126,9 @@
       "published_at": "2026-10-09T08:00:10+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/LfQbGvsO7gU/hqdefault.jpg",
       "channel_id": "UCXvjRTXoDa8tKwdkTaukGug",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "株価変動の背景や今後の見通しについて解説し、半導体市場や経済指標の変化が株式市場に与える影響を分析している。\n・日経平均株価の上昇は、夏の半導体関連の調整が終了したことやエヌビディアの新製品「ルービン」に関する期待が背景にある。\n・半導体製造装置やAI関連銘柄（ローツェなど）に注目が集まっており、決算発表前の仕込み場として期待されている。\n・米国市場では燃料油高や金利上昇に伴う物価・雇用への影響が懸念されており、今後のCPIやIMFの動向が注目される。\n・11月14日大宮、11月28日大阪での「ゆたかTVリアル・セミナー」や、12月4日の名古屋証券取引所主催「名証IR EXPO 2026」のセミナー情報が案内されている。",
+      "status": "ok",
+      "summarized_at": "2026-10-10T12:44:15+09:00",
       "retry_count": 0
     },
     {
@@ -139,9 +139,9 @@
       "published_at": "2026-10-09T07:53:52+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/-KtS0B05fcg/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "AI株の下落とソフトバンクグループの株価下落、 OpenAIの売上高に関する報道をテーマに解説する動画。\n・ソフトバンクグループの株価が、AI関連株の下落やOpenAIの売上高の報道などを背景に直近5日間で約10.39％下落した\n・OpenAIを巡っては、投資家向けの説明で年末時点の年換算売上高が約500億ドルとされ、先月報じられた680億ドルから減少したとの指摘がある\n・オラクルや半導体関連株は、AIを動かすための大量の計算能力や電力需要を背景に取引されているが、AIサービスの成長に対する不安から軟調な動きとなった\n・パルティアやテスラなどの個別株については、足元の株価の変動や過去の業績、投資判断のポイントなどが解説されている",
+      "status": "ok",
+      "summarized_at": "2026-10-10T12:45:13+09:00",
       "retry_count": 0
     },
     {
@@ -152,9 +152,9 @@
       "published_at": "2026-10-09T06:30:30+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/u95Jcu_2Yb0/hqdefault.jpg",
       "channel_id": "UCXvjRTXoDa8tKwdkTaukGug",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "大企業の業況判断DI調査や収益計画、景況感について解説した動画。\n・大企業の業況判断DIでは、製造業が堅調で非製造業が小幅低下となった。\n・大企業の2026年度収益計画の上方修正率では「電気機械」や「非鉄金属」などが上位を占めた。\n・売上高上位の背景には、生成AI関連需要の拡大や価格転嫁が進んだことなどが影響している。\n・永濱景況ウォッチの現状判断水準指数では、製造業・非製造業ともに9月は悪化となった。",
+      "status": "ok",
+      "summarized_at": "2026-10-10T12:46:15+09:00",
       "retry_count": 0
     },
     {
