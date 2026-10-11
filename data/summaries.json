@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-11T20:57:44+09:00",
+  "updated_at": "2026-10-12T02:09:18+09:00",
   "items": [
+    {
+      "video_id": "xNcU_JRaes0",
+      "url": "https://www.youtube.com/watch?v=xNcU_JRaes0",
+      "title": "Why Retailers Are Shrinking Their Assortments",
+      "channel": "CNBC",
+      "published_at": "2026-10-11T14:00:13+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/xNcU_JRaes0/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "小売業者が利益率改善や在庫管理の効率化を目指し、商品の種類（SKU）を意図的に削減する動きが広がっている。\n・ルルレモンは北米のSKUを約15%削減し、利益率向上を図ったが、売上成長には慎重な姿勢を示している。\n・ナイキはクラシックフットウェアのフランチャイズを20億ドル以上削減しつつ、ポートフォリオの再バランスを進めている。\n・ダラー・ジェネラルは1,500以上のSKUを排除し、ベストセラー商品の棚スペースを拡大させている。\n・アンダーアーマーは売上の減少に伴い、過去数年間でSKUを25%削減し、さらに追加での25%削減を計画している。",
+      "status": "ok",
+      "summarized_at": "2026-10-12T02:09:18+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "GpfALxa9ez4",
       "url": "https://www.youtube.com/watch?v=GpfALxa9ez4",
@@ -2587,19 +2600,6 @@
       "status": "ok",
       "summarized_at": "2026-09-13T21:11:21+09:00",
       "retry_count": 0
-    },
-    {
-      "video_id": "hj44Jha-59k",
-      "url": "https://www.youtube.com/watch?v=hj44Jha-59k",
-      "title": "数学の未解決問題を解いた木村健次郎先生の波動散乱の逆問題について、何が凄いのか解説してみた。",
-      "channel": "もふもふ不動産",
-      "published_at": "2026-09-13T09:56:02+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/hj44Jha-59k/hqdefault.jpg",
-      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "木村健次郎教授が解いた「波動散乱の逆問題」と、その応用による非破壊検査技術について解説している。\n・波動散乱の逆問題とは、物体の反射波から内部の形状や構造を推測する数学の未解決問題である。\n・X線透過とは異なり、人体へのダメージや被ばくがなく、反対側に検出器を置く必要がない。\n・乳がんの早期発見や、空港でのウォークスルー型セキュリティシステムなどに応用されている。\n・トンネルの鉄筋腐食検査や、リチウムイオン電池の自己放電の可視化技術にも活用されている。",
-      "status": "ok",
-      "summarized_at": "2026-09-14T03:07:50+09:00",
-      "retry_count": 1
     }
   ]
 }
