@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-12T23:06:38+09:00",
+  "updated_at": "2026-10-13T09:03:06+09:00",
   "items": [
+    {
+      "video_id": "d8lA8rc1Syc",
+      "url": "https://www.youtube.com/watch?v=d8lA8rc1Syc",
+      "title": "Why election officials are worried about prediction markets",
+      "channel": "CNBC",
+      "published_at": "2026-10-12T14:00:13+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/d8lA8rc1Syc/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "ペルベニア州デラウェア郡が全米で初めて、選挙管理スタッフ等に対し「選挙予測マーケット（結果を予測して金銭を賭ける仕組み）」への参加を禁止する規制を導入した。\n・デラウェア郡では、選挙管理の厳正さを保つため、従来からある「選挙への賭けや賭博を禁じる宣誓」に予測マーケットへの不参加も追加した。\n・既存の法律は賭けや賭博を禁止しているが、予測マーケットは「取引」を称しているため、規制対象が曖昧であるという課題がある。\n・選挙管理関係者は、予測マーケットは形を変えたギャンブルであり、関係者が資金を投じれば選挙の信頼失墜につながることを懸念している。\n・現状では選挙スタッフの予測マーケット利用の実証データはないものの、問題化する前にルールを明確化する狙いがある。",
+      "status": "ok",
+      "summarized_at": "2026-10-13T09:00:27+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "GLZRP9Rbuk4",
       "url": "https://www.youtube.com/watch?v=GLZRP9Rbuk4",
@@ -22,9 +35,9 @@
       "published_at": "2026-10-12T11:36:06+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/kwvPG0sJGpo/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "・10月12日の米国株式市場は、大手銀行の決算や今週のインフレ指標を控え、小動きで始まった。\n・原油価格は中東情勢の悪化に伴う供給不安から93.8ドル台へと上昇した。\n・今週はJPモルガン・チェースなど金融大手企業の第3四半期決算発表が本格化する。\n・スターバックスは自社の立て直しに集中するため、チポトレの買収を否定した。",
+      "status": "ok",
+      "summarized_at": "2026-10-13T09:01:22+09:00",
       "retry_count": 1
     },
     {
@@ -61,9 +74,9 @@
       "published_at": "2026-10-12T09:00:20+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/R_0bbNK-PZQ/hqdefault.jpg",
       "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "早期退職と定年まで勤めることの比較について解説している。\n・早期退職は個人の自由と新しいビジネスへの挑戦ができる一方、健康リスクや収入の不確実性が労働者にすべてかかる。\n・定年まで勤め上げる場合は給与が保障され、健康リスクも会社が一定程度負担するため安定性が高い。\n・企業側から見ると、高齢労働者の健康リスクや不要な人材を回避するために早期退職制度が設けられている。\n・公務員などの一部キャリアでは、形上の早期退職であっても実質的に天下り等で恩恵を受ける特殊なケースが存在する。",
+      "status": "ok",
+      "summarized_at": "2026-10-13T09:02:17+09:00",
       "retry_count": 0
     },
     {
@@ -74,9 +87,9 @@
       "published_at": "2026-10-12T08:00:00+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/tqOCKzQ2U6E/hqdefault.jpg",
       "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "オラクルはAIブームに伴い巨大なデータセンターの建物や設備を大量に契約しているが、莫大な家賃支払いが帳簿外の巨額負債になっている。\n・オラクルはデータセンターを15〜19年契約で借りており、将来の家賃支払いは約43兆円（2,880億ドル）に上る。\n・しかし建物の引き渡し前であるため、これらの家賃は帳簿外（オフバランス）の契約として隠れている。\n・オラクルの現在の売上高は約600億ドルであり、年間150〜200億ドルの家賃負担は売上の約3割を占める重荷となる。\n・貸出先であるOpenAIとの契約期間はまだ5年しか結ばれておらず、OpenAIが赤字の中で長期間の家賃を払い続けられるか懸念されている。",
+      "status": "ok",
+      "summarized_at": "2026-10-13T09:03:06+09:00",
       "retry_count": 0
     },
     {
@@ -2586,19 +2599,6 @@
       "summary": "投資初心者向けの米国株講座において、為替ではなく毎月の積立投資によるリスク分散の重要性が解説されている。\n・投資初心者には、為替での短期的な勝負は推奨されない。\n・毎月の積立投資では、「eMAXIS Slim 米国株式（S&P500）」や「楽天・S&P500インデックス・ファンド」などが挙げられている。\n・ドル高・円安リスクを抑えるため、生活費を引いた余剰資金で毎月継続して投資することが推奨される。\n・米株安・円高の法則があるため、為替リスクを分散させるためにも毎月投資が大事である。",
       "status": "ok",
       "summarized_at": "2026-09-15T03:09:48+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "MTlXCv6AjI0",
-      "url": "https://www.youtube.com/watch?v=MTlXCv6AjI0",
-      "title": "実践コース切り抜き！クアルコムを調べよう！ #米国株",
-      "channel": "高校生でも分かる米国株",
-      "published_at": "2026-09-14T10:13:28+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/MTlXCv6AjI0/hqdefault.jpg",
-      "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "テスラとクアルコムのEV市場での二極化と事業戦略について解説している。\n\n- テスラは自社でOSやFSD（完全自動運転）のソフトを利用し、車メーカーとの提携の動きがみえない。\n- クアルコムは車へ参入しようとしており、テスラとの二極化が進む可能性がある。\n- クアルコムが日産などと提携して短期勝負に出るかが鍵となる。\n- 他社の決算書を見るよりも、車市場における両社の動向を重視して考える必要がある。",
-      "status": "ok",
-      "summarized_at": "2026-09-14T21:08:07+09:00",
       "retry_count": 0
     }
   ]
