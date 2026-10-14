@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-10-14T20:00:33+09:00",
+  "updated_at": "2026-10-15T01:20:40+09:00",
   "items": [
+    {
+      "video_id": "cDW04arHLHA",
+      "url": "https://www.youtube.com/watch?v=cDW04arHLHA",
+      "title": "キオクシア株が約20%大暴落!原因は中国CXMTの新技術か #キオクシア #CXMT #半導体 #もふもふ不動産",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-10-14T14:47:02+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/cDW04arHLHA/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "・キオクシアの株価が約20%急落した背景と、中国CXMTの新技術に関する解説動画\n・キオクシアの株価は1万8000円台から1万5000円割れへと大きく下落した\n・中国のCXMT（長鑫存儲技術）が「4F2」という新しいDRAMアーキテクチャの開発を進め、年末までに投入すると発表したことが原因\n・4F2は従来（6F2）よりメモリー1個のサイズが小さく、ハイニックスやマイクロン、サムスンなどの海外大手メーカーを上回る技術とされる\n・中国が世界に先駆けて新技術を実用化することへの警戒感から、市場に大きな衝撃を与えた",
+      "status": "ok",
+      "summarized_at": "2026-10-15T01:17:08+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "8ZUtxyI5UiA",
+      "url": "https://www.youtube.com/watch?v=8ZUtxyI5UiA",
+      "title": "Why South Texas Could Hold The Key To The House",
+      "channel": "CNBC",
+      "published_at": "2026-10-14T14:00:16+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/8ZUtxyI5UiA/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "テキサス州南部などのラティーノ（ラテン系アメリカ人）の動向が、今後の連邦議会下院の勢力図を左右する重要ポイントとなっている。\n・経済や生活費の負担、移民問題がラティーノ層の主要な投票動機であり、民主党支持が揺らいでいる。\n・テキサス州第28選挙区では、民主党のヘンリー・クエジャール（Henry Cuellar）議員と共和党のタノ・ティヘリナ（Tano Tijerina）判事の争いが激化している。\n・2025年の選挙区再編（赤字区の引き直し）により、保守派・共和党に有利な影響が出ている。\n・フロリダ州など他州でも、社会主義への警戒感や移民政策への不満などから、ラティーノ有権者の政治的選好に変化が生じている。",
+      "status": "ok",
+      "summarized_at": "2026-10-15T01:19:03+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "KNRrvYRBpFE",
+      "url": "https://www.youtube.com/watch?v=KNRrvYRBpFE",
+      "title": "「37歳で蟹座です」朝礼でまさかの大事故 #さらば青春の光 #お笑い #建設 #デベコン #就活",
+      "channel": "さらば青春の光の100億円プロジェクト",
+      "published_at": "2026-10-14T13:00:13+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/KNRrvYRBpFE/hqdefault.jpg",
+      "channel_id": "UChHPxF0EpS-V6iO7VRci1Ug",
+      "summary": "お笑いタレントのひょろりが、1日新入社員としてリアルなオフィスに潜入し、その様子が動画で配信されている。\n・ひょろりが「潜入社員」として会社の業務を体験する企画である\n・朝礼で緊張しながら自己紹介する様子が収められている\n・37歳で蟹座であることなどを自己紹介している\n・オフィス内での戸惑いや、周囲とのやり取りがリアルに映し出されている",
+      "status": "ok",
+      "summarized_at": "2026-10-15T01:19:55+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "CXPMBmBq06I",
+      "url": "https://www.youtube.com/watch?v=CXPMBmBq06I",
+      "title": "米国消費者物価指数CPI発表！米国株の動きは？！【米国株モーニングライブ朝６時から】",
+      "channel": "高校生でも分かる米国株",
+      "published_at": "2026-10-14T11:58:17+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/CXPMBmBq06I/hqdefault.jpg",
+      "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 1
+    },
+    {
+      "video_id": "6zF776aq_5g",
+      "url": "https://www.youtube.com/watch?v=6zF776aq_5g",
+      "title": "「20代で20億担当」若手が輝く驚きの現場 #さらば青春の光 #お笑い #建設 #デベコン #就活",
+      "channel": "さらば青春の光の100億円プロジェクト",
+      "published_at": "2026-10-14T11:00:11+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/6zF776aq_5g/hqdefault.jpg",
+      "channel_id": "UChHPxF0EpS-V6iO7VRci1Ug",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 0
+    },
     {
       "video_id": "IAtZgYvp3wA",
       "url": "https://www.youtube.com/watch?v=IAtZgYvp3wA",
@@ -2535,71 +2600,6 @@
       "status": "ok",
       "summarized_at": "2026-09-18T05:52:37+09:00",
       "retry_count": 0
-    },
-    {
-      "video_id": "ieHKEWXRTEA",
-      "url": "https://www.youtube.com/watch?v=ieHKEWXRTEA",
-      "title": "【銘柄紹介】【研究開発者解説】半導体の後工程とは？わかりやすく解説。関連銘柄も紹介",
-      "channel": "もふもふ不動産",
-      "published_at": "2026-09-17T11:00:25+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/ieHKEWXRTEA/hqdefault.jpg",
-      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "半導体の微細化が限界を迎える中、AI向けなどで処理を爆速化させる「後工程」の3次元実装技術が重要性を増している。\n・半導体の製造は、回路を焼き付ける「前工程」から、チップを切り出しパッケージ化する「後工程」へ重心が移行している\n・AI分野では、ロジック半導体と大容量メモリ（HBM）を積層・接続する「CoWoS」などの3次元実装が主流になっている\n・後工程には「Cu-Cu接合」や「TSV（スルーシリコンビア）」といった高度な技術が導入され、製造の難易度が非常に高くなっている\n・関連銘柄として、ディスコ、荏原製作所、味の素、イビデン、ユニオンツールなどが挙げられ、今後の動向が注目されている",
-      "status": "ok",
-      "summarized_at": "2026-09-17T21:07:56+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "O16ps3rlbEI",
-      "url": "https://www.youtube.com/watch?v=O16ps3rlbEI",
-      "title": "2026年9月17日【TOPIXは堅調　8割超値上がり】（市況放送【毎日配信】）",
-      "channel": "朝倉慶のASK1",
-      "published_at": "2026-09-17T09:16:20+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/O16ps3rlbEI/hqdefault.jpg",
-      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "動画の要約は以下の通りです。\n\n・2023年9月17日の株式市場について、日経平均は大型株の乱高下に影響されながら小幅に推移し、債券利回りや為替、米国市場の下落傾向についても解説している。\n・日経平均は213円高の6万4,136円で、日中は値動きが大きく、大型株の乱高下が影響した。\n・米国10年国債利回りは2.989％に上昇し、利上げペースに関する動向が注目されている。\n・為替は156円台で推移し、日米の利上げや金利差の動向が影響している。\n・海運株や造船・重機、建設セクターなどの個別銘柄の動向や配当取りの動きについて解説している。",
-      "status": "ok",
-      "summarized_at": "2026-09-17T21:08:52+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "dSX0WL502_Q",
-      "url": "https://www.youtube.com/watch?v=dSX0WL502_Q",
-      "title": "日本株反発。小台が二つに。オークネット新規。債務残高対GDP比について財務省の言い分も見てみる。天井なしの高市予算は前年比でわずかな増加。",
-      "channel": "元上場会社社長のゆるゆる株式投資日記",
-      "published_at": "2026-09-16T16:29:23+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/dSX0WL502_Q/hqdefault.jpg",
-      "channel_id": "UCedNzJ_2ilOFepcDA01Bpcw",
-      "summary": "動画の要約は以下の通りです。\n\n・2026年9月16日の株式市場と日本財政の現状に関する考察動画。\n・日経平均株価やTOPIXは堅調、オークネット新規購入など自身の投資活動について報告。\n・財務省の資料を基に、日本の膨らむ債務残高や「強い経済」を掲げる予算について言及。\n・予算編成プロセスや税収の現状を解説し、政府の財政運営に対する疑問を呈している。\n・日本はOECD諸国と比較して税収や社会保障支出が低い状況にあることなどを解説。",
-      "status": "ok",
-      "summarized_at": "2026-09-17T03:08:28+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "CppXRuZEO1w",
-      "url": "https://www.youtube.com/watch?v=CppXRuZEO1w",
-      "title": "Exclusive look inside SK Hynix's $720 billion AI memory expansion",
-      "channel": "CNBC",
-      "published_at": "2026-09-16T15:02:20+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/CppXRuZEO1w/hqdefault.jpg",
-      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
-      "summary": "SKハイニックスのAI向けメモリー製造・工場拡張について。\n・SKハイニックスは、AI向け高帯域幅メモリー（HBM）で世界をリードし、大規模なメモリー増産計画を進めている。\n・アメリカのナスダック上場やAI企業（NVIDIAやAppleなど）からの高需要により、メモリー事業は空前の好況を迎えている。\n・720億ドル規模の投資を行い、2034年までの能力三倍増を目指す。\n・中国との競争激化や市況の周期性などのリスクを抱えつつも、韓国本社や新たな米インディアナ州施設で加速的な拡張を図っている。",
-      "status": "ok",
-      "summarized_at": "2026-09-17T03:09:17+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "qOIO7w_Zzp8",
-      "url": "https://www.youtube.com/watch?v=qOIO7w_Zzp8",
-      "title": "FOMC速報ライブ朝６時から！今回のFOMCの注目のポイントとは？",
-      "channel": "高校生でも分かる米国株",
-      "published_at": "2026-09-16T11:11:23+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/qOIO7w_Zzp8/hqdefault.jpg",
-      "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "米FRBは、3年2ヶ月ぶりとなる0.25％の利下げを決定し、政策金利を3.75〜4.0％に引き上げた。\n・FOMCでは全会一致で利下げが承認され、物価安定と雇用拡大を目指す方針が示された\n・米国の8月小売売上高は前月比1.2％増となり、市場予想を上回る堅調さを示した\n・インフレや追加利下げへの懸念から、発表後の米株価指数は一時下落した\n・保有銘柄のインテルやコインベースなどは堅調に推移した",
-      "status": "ok",
-      "summarized_at": "2026-09-17T09:07:36+09:00",
-      "retry_count": 2
     }
   ]
 }
