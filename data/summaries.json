@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T01:20:40+09:00",
+  "updated_at": "2026-10-15T06:16:16+09:00",
   "items": [
     {
       "video_id": "cDW04arHLHA",
@@ -51,7 +51,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "video_id": "6zF776aq_5g",
@@ -61,9 +61,9 @@
       "published_at": "2026-10-14T11:00:11+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/6zF776aq_5g/hqdefault.jpg",
       "channel_id": "UChHPxF0EpS-V6iO7VRci1Ug",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "・大坂のデベコン企業「信和グループ」では、20代の新卒若手社員が20億円以上の案件を担当している。\n・若手社員に対して、会社として「いけるんちゃうか」と思えばどんどん仕事を任せる方針である。\n・福利厚生を充実させることで、社員のモチベーションをアップさせる取り組みを行っている。\n・新卒の若手であっても、やりたいという意思があればどんどんチャレンジさせてもらえる環境がある。",
+      "status": "ok",
+      "summarized_at": "2026-10-15T06:10:46+09:00",
       "retry_count": 0
     },
     {
@@ -126,9 +126,9 @@
       "published_at": "2026-10-14T07:36:54+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/-PY13c6p3S0/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "日経平均や個別銘柄の動向、今後の見通しや市場の分析について解説している。\n・日経平均株価は33円安の67,744円、為替はドル円が158.28円、ユーロ円が177.39円であった。\n・半導体製造装置大手ASMLホールディングスの決算等の影響で、東京エレクトロンなど半導体関連株が下落した。\n・1月セミナーでは、「インフレは止まらない」という予測のもと早めに行動することの重要性を解説している。\n・今晩発表される米国の消費者物価指数（CPI）の結果や今後の動向が注目されている。",
+      "status": "ok",
+      "summarized_at": "2026-10-15T06:11:40+09:00",
       "retry_count": 0
     },
     {
@@ -142,7 +142,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 0
+      "retry_count": 1
     },
     {
       "video_id": "iwHF_4lPsDY",
