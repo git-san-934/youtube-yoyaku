@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-15T19:42:36+09:00",
+  "updated_at": "2026-10-16T01:07:58+09:00",
   "items": [
+    {
+      "video_id": "bOkezytkLL4",
+      "url": "https://www.youtube.com/watch?v=bOkezytkLL4",
+      "title": "Why There’s An ‘Extremely Fierce’ Battle For TSMC's Limited Chip Manufacturing Capacity",
+      "channel": "CNBC",
+      "published_at": "2026-10-15T14:00:08+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/bOkezytkLL4/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "AIブームを背景に、世界最大の半導体受託製造企業（ファウンドリ）である台湾積体電路製造（TSMC）の製造ライン（ウェーハ）の確保を巡る激しい争奪戦の実態と各社の動向について解説している。\n・TSMCは世界の最先端半導体の9割以上を製造し、AppleやNVIDIAなどの大手から新興企業まで多くの顧客が限られた生産枠を巡って激しく競合している。\n・AI用チップの需要急増に伴いメモリチップも不足し、SKハイニックスやサムスン電子などが生産増強を進める一方、ロジック半導体の製造でもボトルネックが生じている。\n・TSMCは需要予測に基づき主要顧客を優先しつつ、新興企業向けの「Emerging Technologies Alley」を設けるなどして新規参入の機会も模索している。\n・供給不足を解消するため、米国や日本などで新工場の建設が急ピッチで進められており、102の新ファブ（工場）が2029年までに稼働する見込みである。",
+      "status": "ok",
+      "summarized_at": "2026-10-16T01:04:50+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "Zj7XsqFzmz4",
+      "url": "https://www.youtube.com/watch?v=Zj7XsqFzmz4",
+      "title": "キオクシアは業績が増えてるのに株価だけ下がるのはなぜか #キオクシア #半導体 #日本株 #もふもふ不動産",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-10-15T13:36:58+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/Zj7XsqFzmz4/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "キオクシアは業績や売上が好調である一方、株価の下落が続いている。\n・業績は増えておりPER（株価収益率）は約5倍割れと割安水準にある。\n・2027年からのAI専用NAND（半導体メモリ）導入などを見据えて長期契約ベースの売り上げは増加中。\n・東芝が毎月約1%ずつキオクシア株を売却しており、そのペースが1年ほど続く見込み。\n・株価下落が続く理由について市場はまだ上昇を信じていない状態となっている。",
+      "status": "ok",
+      "summarized_at": "2026-10-16T01:05:41+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "MCORKDkdznI",
+      "url": "https://www.youtube.com/watch?v=MCORKDkdznI",
+      "title": "【ヤバイ】AIバブル崩壊の兆し？コアウィーブショックで日経平均大暴落。何が起こったのか投資家が解説",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-10-15T13:17:09+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/MCORKDkdznI/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "アメリカのコアウイーブ社の社債急落（コアウイーブショック）をきっかけに、日経平均株価が史上3番目の大暴落となった。\n・コアウイーブ社は、AI向けのデータセンター事業に必要な計算リソース（GPUなど）の貸し出しを行い、巨額の社債発行により資金調達と投資を進めてきた。\n・米国の消費者物価指数（CPI）の上昇による利上げ懸念からコアウイーブ社の社債が急落し、株価も大きく下落した。\n・AI関連企業への巨額投資が回収できるかという懸念や、借入金返済への不安から、日本株を含む半導体関連銘柄にも波及して下落を引き起こした。\n・AIや半導体需要そのものが消滅したわけではないが、過剰な投資や債務リスクに対する市場の警戒感が強まっている。",
+      "status": "ok",
+      "summarized_at": "2026-10-16T01:06:49+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "4JyRmkzneVo",
       "url": "https://www.youtube.com/watch?v=4JyRmkzneVo",
@@ -48,9 +87,9 @@
       "published_at": "2026-10-15T07:41:34+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/N-Q-qeO-7KE/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "日経平均株価が約5%急落したことを受け、市場の現状や背景について解説している。\n・日経平均株価が3,318円安（-4.90%）と大幅に下落した。\n・下落の要因の一つとして、ダメ株トップ10に挙げられたコアウィーブの信用不安が指摘されている。\n・米国の生産者物価指数（PPI）の上昇など、インフレや利上げに対する警戒感も背景にある。\n・市場の変動に対しては、過度に一喜一憂せず、利益を蓄積していく投資姿勢の重要性が語られている。",
+      "status": "ok",
+      "summarized_at": "2026-10-16T01:07:58+09:00",
       "retry_count": 1
     },
     {
@@ -2560,45 +2599,6 @@
       "summary": "9月18日の日経平均株価は前日比882円高の6万5018円と3日続伸した。\n・米国株高や金利上昇、円安進行を受け、半導体株中心に買いが先行した\n・日銀の金融政策決定会合での利上げ（政策金利1.25%）を受け円安が進行し、海外短期筋による株価指数先物買いで日経平均の上昇幅は一時1300円を超えた\n・アドバンテストなどの半導体関連株が大きく買われる一方、中部電力や関西電力などの電力株は売られた\n・グロース250指数や新興株も買い優勢となり、全体としてリスクオンの相場展開となった",
       "status": "ok",
       "summarized_at": "2026-09-18T19:22:50+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "Kswwy9YO_6Y",
-      "url": "https://www.youtube.com/watch?v=Kswwy9YO_6Y",
-      "title": "【LIVE】福岡市長選と第三者委員会（政治ニュース7days）",
-      "channel": "センキョタイムズ",
-      "published_at": "2026-09-18T07:39:51+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/Kswwy9YO_6Y/hqdefault.jpg",
-      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "YouTube番組「センキョタイムズ」の配信内容。\n・福岡市長選や関テレとの関係など、政治ニュースの振り返りと今後の配信予定について語っている。\n・関テレとの全面戦争や、メディアとの戦いについて「売られた喧嘩はすべて買った」と振り返り、訂正放送を請求したことを報告している。\n・福岡市長選には11人が立候補を予定しており、関連する調査や動画の配信を行う予定である。\n・北九州市議会の元職員による実名での証言や、立憲系新党の動きなどについて解説している。",
-      "status": "ok",
-      "summarized_at": "2026-09-19T00:37:05+09:00",
-      "retry_count": 1
-    },
-    {
-      "video_id": "QH4KRd_doXo",
-      "url": "https://www.youtube.com/watch?v=QH4KRd_doXo",
-      "title": "岡崎良介×永濱利廣【連休前「FRB・日銀共に利上げに踏み切る」1986年以降今回含む過去8回のFRB利上げ局面を整理 『企業景気予測:7-9経常利益上方修正業種TOP5』鈴木銘柄分析】9月18日公開",
-      "channel": "マーケットマスターズ",
-      "published_at": "2026-09-18T07:00:13+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/QH4KRd_doXo/hqdefault.jpg",
-      "channel_id": "UCXvjRTXoDa8tKwdkTaukGug",
-      "summary": "・米国の利上げサイクルにおける過去のデータ分析を基に今後の市場動向と株式相場への影響を解説。\n・米国利上げ局面では、通常18か月の期間と2.57%の幅があり、終了後に株式市場で大きな調整が起こるリスクがある。\n・足元の半導体関連や素材・資源関連などでは、中国の動向や企業の業績上方修正が期待されている。\n・住宅投資などでは金利上昇の影響を受けつつも、引き続き個別企業の動向が重要視される。",
-      "status": "ok",
-      "summarized_at": "2026-09-19T00:38:04+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "bSLNiuK-uNw",
-      "url": "https://www.youtube.com/watch?v=bSLNiuK-uNw",
-      "title": "2026年9月18日　西野匡 9月の株式市場観測　AI設備投資の裏の投資を考える【朝倉慶の株式投資・株式相場解説】",
-      "channel": "朝倉慶のASK1",
-      "published_at": "2026-09-18T06:30:30+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/bSLNiuK-uNw/hqdefault.jpg",
-      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "- 9月の株式市場における主要指数（S&P 500、NASDAQ、SOXなど）の動向や、AI設備投資関連銘柄の現状と今後の展望について解説している。\n・米国株は利下げや長期金利・原油価格の動向が影響しており、半導体株は前半の急上昇に対する調整局面にある。\n・AI設備投資の波は「GPU」から「電力・ネットワーク」「端末」へとシフトし、大手クラウド企業（Google、Microsoft、Amazon）では利益率や投資回収のバランスが注目されている。\n・日本株については、PCメーカーやゲーム関連企業を中心にAI導入の影響やIP（知的財産）の価値を踏まえた銘柄選定の重要性を指摘している。",
-      "status": "ok",
-      "summarized_at": "2026-09-19T05:14:31+09:00",
       "retry_count": 0
     }
   ]
