@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T01:07:58+09:00",
+  "updated_at": "2026-10-16T05:50:24+09:00",
   "items": [
     {
       "video_id": "bOkezytkLL4",
@@ -100,9 +100,9 @@
       "published_at": "2026-10-15T03:23:30+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/aTOf_q-xyzg/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "実質金利の低下が株高・物価高をもたらしているというメカニズムの解説。\n・実質金利の低下（物価上昇率が政策金利を上回る状態）により現金を保有する合理性が低下している\n・政策金利の上げ幅が物価上昇率（3.2%や3.5%）に追いつかず、実質金利がマイナス3.1%やマイナス3%へと大幅に低下している\n・現金から株やマンション、金などの実物資産へ資金が逃避せざるを得ない状況が生まれている\n・株高は「高市内閣への期待」ではなく、資金逃避の結果として必然的に起こっている事象である",
+      "status": "ok",
+      "summarized_at": "2026-10-16T05:48:43+09:00",
       "retry_count": 0
     },
     {
@@ -282,9 +282,9 @@
       "published_at": "2026-10-13T22:00:12+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/Mc5-5YT1cIU/hqdefault.jpg",
       "channel_id": "UChHPxF0EpS-V6iO7VRci1Ug",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "動画の要約は以下の通りです。\n\n・充実した福利厚生が特徴的な企業について紹介している動画。\n・健康診断は年2回、本人と配偶者を対象に人間ドックを実施。\n・出産祝金は1人目30万円、2人目50万円、3人目以降200万円支給。\n・資格取得促進制度では、1級建築士取得者に100万円を支給。",
+      "status": "ok",
+      "summarized_at": "2026-10-16T05:49:30+09:00",
       "retry_count": 0
     },
     {
@@ -295,9 +295,9 @@
       "published_at": "2026-10-13T14:00:20+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/Dr4q5QZFhWg/hqdefault.jpg",
       "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "低金利期に変動金利型住宅ローン（ARM）を選んだ人々が、金利上昇による返済額増加のリスクに直面している。\n・2020年に2.9%だった5/1ARMの金利は、現在6.5%に上昇している\n・インフレや地政学的不確実性が、10年物国債利回りを通じて金利を押し上げている\n・2026年後半から2027年にかけ、多くのARM利用者が初めて金利変動を迎える\n・ARMは初期の低金利が魅力だが、金利急上昇時の返済負担増というリスクがある",
+      "status": "ok",
+      "summarized_at": "2026-10-16T05:50:24+09:00",
       "retry_count": 0
     },
     {
