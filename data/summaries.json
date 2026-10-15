@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T06:16:16+09:00",
+  "updated_at": "2026-10-15T11:42:11+09:00",
   "items": [
     {
       "video_id": "cDW04arHLHA",
@@ -48,9 +48,9 @@
       "published_at": "2026-10-14T11:58:17+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/CXPMBmBq06I/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "米国株市場は消費者物価指数（CPI）の発表後に下落し、特に金利上昇やハイテク株の落ち込みが目立ちました。\n・9月の米CPIは前年同月比3.7%上昇し市場予想を上回った\n・FRBの追加利上げに対する警戒感からナスダックやS&P500が大きく下落した\n・バンク・オブ・アメリカやモルガン・スタンレーなどの大手金融機関が好決算を発表した\n・半導体株は中国製メモリーの技術進展を巡る懸念等から軒並み下落した",
+      "status": "ok",
+      "summarized_at": "2026-10-15T11:39:20+09:00",
       "retry_count": 2
     },
     {
@@ -139,9 +139,9 @@
       "published_at": "2026-10-14T05:23:07+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/r7hEA9FDf4s/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "佐々木誠議員を巡る裁判の結果と今後の対応についての議論。\n・佐々木誠議員との裁判（立憲民主党や代理人弁護士を含む訴訟）は、請求がすべて棄却された。\n・不当判決に対し、控訴して高訴審で再び戦う方針。\n・今回の裁判の判決文には不当な認定があるため、その点を問題視している。\n・選挙スクールへの応募を呼びかけている。",
+      "status": "ok",
+      "summarized_at": "2026-10-15T11:40:17+09:00",
       "retry_count": 1
     },
     {
@@ -152,9 +152,9 @@
       "published_at": "2026-10-14T01:06:51+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/iwHF_4lPsDY/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "動画の要約は以下の通りです。\n\n日本におけるインフレが止まらない理由とその背景について解説するセミナー。\n・日本人は平時の悪性インフレを体験したことがなく、インフレに対する危機感が乏しい。\n・公式のCPI（消費者物価指数）と、庶民の感覚による「体感インフレ」の間には大きな乖離がある。\n・住宅価格や資材・人件費の上昇が公式のCPIに反映されるにはタイムラグがある。\n・政府や日銀は「インフレは一時的」という建前を維持しているが、実態はインフレが継続・加速している。",
+      "status": "ok",
+      "summarized_at": "2026-10-15T11:41:22+09:00",
       "retry_count": 0
     },
     {
@@ -165,9 +165,9 @@
       "published_at": "2026-10-13T23:54:32+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/C5WF-LdsBfw/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "この動画は、インフレを通じた税金（インフレ税）の実態や問題点を解説している。\n・インフレを通じて国が国民から金を奪っている「インフレ税」の構造\n・名目税収が増加し財政が改善しているように見える錯覚\n・政策金利の低下や物価上昇がさらなるインフレを加速させる仕組み\n・実質金利の低下に伴う家計への影響とインフレ加速の現状",
+      "status": "ok",
+      "summarized_at": "2026-10-15T11:42:11+09:00",
       "retry_count": 0
     },
     {
