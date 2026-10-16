@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-16T19:33:55+09:00",
+  "updated_at": "2026-10-17T00:57:26+09:00",
   "items": [
+    {
+      "video_id": "_-pMa5-LdGY",
+      "url": "https://www.youtube.com/watch?v=_-pMa5-LdGY",
+      "title": "Why More Americans Regret College And Homeownership",
+      "channel": "CNBC",
+      "published_at": "2026-10-16T15:00:09+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/_-pMa5-LdGY/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "住宅ローンや奨学金などの「良い借金」とされるものが、近年の価格高騰により必ずしも有利とは言えなくなっている実態についての解説動画。\n・不動産価格や大学の授業料が高騰し、住宅ローンや奨学金が家計を圧迫している\n・住宅所有者の30%が「今の家をもう一度買わない」と答え、42%が維持費や高額なローンに後悔を抱いている\n・学士号取得者は高卒者より生涯賃金が120万ドル多いとされるが、奨学金受給者の約60%が借金を後悔している\n・専門家は、借金の善悪ではなく、将来の収入増や返済能力に見合うかをビジネス視点で慎重に見極めるべきだと指摘している",
+      "status": "ok",
+      "summarized_at": "2026-10-17T00:53:00+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "1Ptb020INjM",
+      "url": "https://www.youtube.com/watch?v=1Ptb020INjM",
+      "title": "【LIVE】永原譲二・大任町長が降臨！情報漏洩タウン・田川郡大任町を徹底解剖",
+      "channel": "センキョタイムズ",
+      "published_at": "2026-10-16T14:40:58+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/1Ptb020INjM/hqdefault.jpg",
+      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 1
+    },
+    {
+      "video_id": "BhGncRTwp2w",
+      "url": "https://www.youtube.com/watch?v=BhGncRTwp2w",
+      "title": "Why Toyota's new RAV4 is in such high demand",
+      "channel": "CNBC",
+      "published_at": "2026-10-16T14:00:02+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/BhGncRTwp2w/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "・新型トヨタRAV4が、需要の高まりから納車待ちになるなど、非常に高い人気を集めている\n・人気の要因の一つはRAV4の知名度と人気の継続的な高まりであり、米国での年間販売台数は増加傾向にある\n・もう一つの要因は中東情勢を受けたガソリン価格の高騰であり、ハイブリッド車への需要が急速に高まっている\n・トヨタは生産量を増やしているものの、新型への移行やハイブリッド版の供給制限もあり、在庫不足の状態が続いている",
+      "status": "ok",
+      "summarized_at": "2026-10-17T00:55:02+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "62g83b39aYY",
       "url": "https://www.youtube.com/watch?v=62g83b39aYY",
@@ -129,6 +168,19 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
+      "retry_count": 0
+    },
+    {
+      "video_id": "6wA3VB6mNh0",
+      "url": "https://www.youtube.com/watch?v=6wA3VB6mNh0",
+      "title": "【LIVE】福岡自民が百条委員会を徹底拒絶！？シャケの大群が暗躍か。。",
+      "channel": "センキョタイムズ",
+      "published_at": "2026-10-16T03:14:20+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/6wA3VB6mNh0/hqdefault.jpg",
+      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
+      "summary": "選挙タイムズが県議会における100条委員会（地方自治法に基づき調査を行う特別委員会）の設置を巡る裏側の動きを報じています。\n・10月16日の県議会最終日に向け、13日に100条委員会の設置議案が提出される予定であった\n・太田恭子氏が起草した議案を巡り、維新や公明などの代表者会議や議員運営委員会の小委員会で紛糾した\n・維新などは委員会設置に賛成だが、自民党は設置阻止のため継続審議に持ち込もうと様々な交渉を行っている\n・与党側の反対意見が根強く、予定されたスケジュール通りに審議が進まない可能性がある",
+      "status": "ok",
+      "summarized_at": "2026-10-17T00:57:26+09:00",
       "retry_count": 0
     },
     {
@@ -2547,58 +2599,6 @@
       "summary": "残業45時間の一律指導緩和や塩野義製薬の定年廃止をきっかけに、今後の働き方や副業・リタイアのあり方について議論している。\n・公務員や大学教員など労働基準法の適用外の働き方や、役所での実態について言及している。\n・本業の先読みや信頼できる部下との連携、定時前の帰宅など自身の働き方を振り返っている。\n・残業せず早く帰って文章を書くなどの副業で稼ぐ方法や、市場価値を知る重要性を解説している。\n・AIに駆逐されにくい仕事として、Uber Eats等の配達やマッサージなどの肉体労働を挙げている。",
       "status": "ok",
       "summarized_at": "2026-09-21T20:39:55+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "uCBcrb9_nR0",
-      "url": "https://www.youtube.com/watch?v=uCBcrb9_nR0",
-      "title": "【元キオクシア解説】ADR上場とは何か？キオクシアの懸念が払拭され株価上昇へ期待！",
-      "channel": "もふもふ不動産",
-      "published_at": "2026-09-21T08:00:20+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/uCBcrb9_nR0/hqdefault.jpg",
-      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "キオクシアHDが米国の証券取引所へのADR（米国預託証券）上場により資金調達を検討していると報じられ、株価上昇の契機となるか注目されている。\n・ADR上場により米国での資金調達や投資家による株式売買が可能になり、流動性向上や株価上昇の期待がある\n・一方で、新規株発行による増資が実施された場合は株式の希薄化や株価下落につながるリスクもある\n・キオクシアは岩手県北上工場（K3棟）の建設を進め、AI需要に対応するためDRAMの代替となる高速NANDフラッシュメモリーの開発・展開を強化している\n・フラッシュメモリー市場は価格が上昇傾向にあり、業績拡大やAI関連のアーキテクチャ刷新を通じた利益増加が期待されている",
-      "status": "ok",
-      "summarized_at": "2026-09-21T20:40:48+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "4AXaQmHcKwY",
-      "url": "https://www.youtube.com/watch?v=4AXaQmHcKwY",
-      "title": "【スクープ】福岡県議会議員と古賀市長による公金を使った海外旅行。酒乱パーティーで踊り狂う参加者たち。",
-      "channel": "センキョタイムズ",
-      "published_at": "2026-09-21T07:18:56+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/4AXaQmHcKwY/hqdefault.jpg",
-      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "福岡県議会議員による公金を使った海外旅行での酒乱パーティーの様子。\n・福岡県議会議員の海外旅行中に開催された酒乱パーティーの様子を捉えた映像。\n・参加者は音楽に合わせて踊り、乾杯や歓声を上げて盛り上がっている。\n・主な参加者として松尾統章、中尾正幸、香原勝司、浦伊三夫、林泰輔、豊福るみ子、大田京子、田辺一城の名前が挙げられている。",
-      "status": "ok",
-      "summarized_at": "2026-09-22T02:37:22+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "9-7SowysJb8",
-      "url": "https://www.youtube.com/watch?v=9-7SowysJb8",
-      "title": "自民福岡が暴走中！松尾統章、西田一、佐藤栄作⋯北九州の自民党議員は、女性職員や女性議員へのパワハラ体質が過ぎる！（#513 ）",
-      "channel": "センキョタイムズ",
-      "published_at": "2026-09-21T06:11:46+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/9-7SowysJb8/hqdefault.jpg",
-      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "北九州市議会の不適切な懇親会や虚偽の発言疑惑を巡り、元市職員が実名で告発を行った件について、出演者が批判的に解説している。\n・井上純子元市議が松尾統章市議らの政治資金パーティー（ビアパーティー）への出席を拒否したところ、職員としての不適切な対応を追及された問題を取り上げている。\n・福岡県議会に関連する早期解散の要望書提出を巡り、共産党と自民党が手を組んで議会内で対立している状況を解説している。\n・西田一市議や佐藤栄作市議が不当要求（不当請求）を行ったとされる問題について、出演者が自身の見解を交えて議論している。\n・動画の後半では、田川市の大任町長によるIR構想に関連する話題などを取り上げ、政治家の行動に対する批判や疑問を展開している。",
-      "status": "ok",
-      "summarized_at": "2026-09-22T02:38:16+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "itayMQ2ZRSY",
-      "url": "https://www.youtube.com/watch?v=itayMQ2ZRSY",
-      "title": "【福岡市長選】北村弁護士、怒りの咆哮！森けんたろうの出馬に向けた記者会見（#512 ）",
-      "channel": "センキョタイムズ",
-      "published_at": "2026-09-21T04:13:13+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/itayMQ2ZRSY/hqdefault.jpg",
-      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "日本保守党の福岡支部長である森健太郎氏が、福岡市長選への立候補記者会見で市の腐敗政治やワンヘルス政策の推進に異議を唱え、市政の刷新を訴えた。\n・森健太郎氏はIT企業での開発責任者を経て、日本保守党の福岡支部長に就任し、福岡市長選への立候補を決意した。\n・福岡市の利権構造や巨額な海外視察費用、ワンヘルス推進事業などを厳しく批判し、市民の生活を最優先する政治への転換を主張した。\n・20代の福岡市民の外国人比率の高さや、外国人生活保護制度の停止などを盛り込んだ政策を掲げている。\n・会見には党代表の百田尚樹氏や参議院議員の北村晴男氏らも同席し、同党への支持と市政刷新の必要性を訴えた。",
-      "status": "ok",
-      "summarized_at": "2026-09-22T06:32:20+09:00",
       "retry_count": 0
     }
   ]
