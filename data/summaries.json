@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T00:57:26+09:00",
+  "updated_at": "2026-10-17T05:26:40+09:00",
   "items": [
     {
       "video_id": "_-pMa5-LdGY",
@@ -25,7 +25,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "video_id": "BhGncRTwp2w",
@@ -48,9 +48,9 @@
       "published_at": "2026-10-16T09:56:55+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/62g83b39aYY/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "選挙に関する情報をマニアックに交えて届ける「選挙タイムズWEB編集長」と「選挙テック大王」による生配信。\n・10月16日19:00からの福岡県議会の吉松源昭氏の動向や百条委員会の裏側について。\n・プロ野球・クライマックスシリーズや日本シリーズの勝ち上がり予想の勝負に関する話。\n・10月12日の福岡県議会・樋口明氏の議長ポストに600万の会見の真相について。\n・その他、福岡県知事選やみやま市長選、佐賀県などの政治トピックについてのコメントなど。",
+      "status": "ok",
+      "summarized_at": "2026-10-17T05:23:32+09:00",
       "retry_count": 1
     },
     {
@@ -87,9 +87,9 @@
       "published_at": "2026-10-16T09:03:26+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/9DBAa4__MlM/hqdefault.jpg",
       "channel_id": "UCXvjRTXoDa8tKwdkTaukGug",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "米国の利下げや株価の動向、半導体メモリの需給や輸出入物価の変動など、国内外の金融・経済動向について解説している。\n・日経平均株価や米国の10年国債金利、VIX指数などの市場動向について、足元の状況と今後の懸念材料を分析\n・アドバンテストやSUMCOなど半導体関連銘柄や外食・小売企業の決算や値上げの動きを解説\n・米国のCPI（消費者物価指数）と金融政策・金利・株価の相関関係について、歴史的背景を交えて解説\n・モス型IC（メモリ）の輸出入物価、生産・出荷動向、在庫状況から、半導体業界の足元の実態を分析",
+      "status": "ok",
+      "summarized_at": "2026-10-17T05:25:13+09:00",
       "retry_count": 1
     },
     {
@@ -100,9 +100,9 @@
       "published_at": "2026-10-16T09:00:36+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/fuaLVtJxM9Y/hqdefault.jpg",
       "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "動画の要約は以下の通りです。\n\n岸田元首相が個人向け国債への税優遇に慎重な姿勢を示した背景には、財務省や日銀と金融界の深いつながりがある。\n・個人向け国債の税優遇は「NISAの目的にそぐわない」として岸田氏は慎重な考えを示した。\n・国債の金利と銀行のスーパー定期の比較において、国債金利が有利であるため金融機関は国債への資金流出を嫌う傾向がある。\n・金融機関は資金流出を防ぐために金利上昇を避けたがり、国債発行時の入札（足切り）における金融界と財務省・日銀の関係が存在する。",
+      "status": "ok",
+      "summarized_at": "2026-10-17T05:26:40+09:00",
       "retry_count": 0
     },
     {
