@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T23:49:30+09:00",
+  "updated_at": "2026-10-18T04:55:53+09:00",
   "items": [
     {
       "video_id": "9YJ0PW9dEfw",
@@ -256,9 +256,9 @@
       "published_at": "2026-10-16T03:03:31+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/QOZqlSlyNKg/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "日経平均株価の急落や金利上昇、AI投資の実態をめぐる日本の株価市場の動向と今後の見通しについて解説。\n・日経平均の下落は日本市場特有の動きであり、米国株や半導体企業の業績は堅調。\n・AI投資の過熱懸念はあるものの、TSMCなどの業績は増収が続いており、インフレも収まっていない。\n・グローバルな金利上昇とインフレの長期化が懸念材料であり、日本株・韓国株は乱高下しやすい局面にある。\n・個別銘柄ではキオクシアなどの半導体関連の動向や米国のインフレ指標に注目する必要がある。",
+      "status": "ok",
+      "summarized_at": "2026-10-18T04:55:53+09:00",
       "retry_count": 0
     },
     {
