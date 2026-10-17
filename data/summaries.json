@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-17T19:00:43+09:00",
+  "updated_at": "2026-10-17T23:49:30+09:00",
   "items": [
+    {
+      "video_id": "9YJ0PW9dEfw",
+      "url": "https://www.youtube.com/watch?v=9YJ0PW9dEfw",
+      "title": "America's AI chip talent crisis",
+      "channel": "CNBC",
+      "published_at": "2026-10-17T14:00:31+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/9YJ0PW9dEfw/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "アメリカのAI用半導体市場では、製造やパッケージングの能力不足に加え、専門人材の深刻な不足が課題となっている。\n\n・Purdue大学などでは、最先端の半導体製造技術を学ぶ学生の育成に力を入れている。\n・TSMCやIntel、Samsung、Micronなどが米国内に新工場を建設中で、2030年までに最大157,500人の人材不足が懸念されている。\n・米国の工学系卒業生のうち、半導体業界に進むのはわずか3%にとどまっている。\n・各大学や企業が多額の投資を行い、急増する製造拠点やパッケージング工場のエンジニアなどの採用・育成を急ピッチで進めている。",
+      "status": "ok",
+      "summarized_at": "2026-10-17T23:45:51+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "dSpuoOcPuis",
+      "url": "https://www.youtube.com/watch?v=dSpuoOcPuis",
+      "title": "キオクシアの利益は半年でトヨタ1年超えの予想 なぜ株価1/3? #キオクシア #半導体 #日本株 #もふもふ不動産",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-10-17T10:00:58+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/dSpuoOcPuis/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "キオクシアの株価は半年で3.2兆円の営業利益を予想しながらも、6月のピークから1/3程度に大暴落している。\n・キオクシアは半年で売上高4兆円、営業利益3.2兆円を見込む。\n・トヨタの年間営業利益を半年で超える規模である一方、利益率の高さも特徴。\n・同業他社の好決算にもかかわらず株価は低迷し、10月中旬には大幅下落した。\n・業績や利益は良好であり、シリコンサイクル（半導体の需要変動サイクル）の崩壊は見えていないため、今後の回復可能性が残されている。",
+      "status": "ok",
+      "summarized_at": "2026-10-17T23:46:41+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "FzaK-SNtDew",
       "url": "https://www.youtube.com/watch?v=FzaK-SNtDew",
@@ -9,9 +35,9 @@
       "published_at": "2026-10-17T02:06:55+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/FzaK-SNtDew/hqdefault.jpg",
       "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "メディアの裏事情や政治家の発言の裏側について、独自の視点から解説を行っている。\n\n・マスコミの報道における裏事情や、政治家の発言に隠された意図について言及している。\n・各国の政治や外交における裏側の動きや、情報伝達の仕組みについて説明している。\n・年金制度や財政問題に関する仕組みや、その算出方法について解説している。\n・公開処分の仕組みや、法的な妥当性・影響について考察を行っている。",
+      "status": "ok",
+      "summarized_at": "2026-10-17T23:47:49+09:00",
       "retry_count": 1
     },
     {
@@ -204,9 +230,9 @@
       "published_at": "2026-10-16T04:54:07+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/EXGl5q1zmwk/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "自民党の会合終了後の記者のやり取り。\n・衆院議員3名が記者団の取材に応じ、本会議での再審議に関する見解を述べた。\n・多くの質問が集中し、本会議に向けた前向きな姿勢や議論の必要性が強調された。\n・一部議員から現在の予算案に対する懸念や疑問が呈され、さらなる議論が求められた。\n・今後、関連する法案や予算について、さらなる審議や手続きが進められる予定である。",
+      "status": "ok",
+      "summarized_at": "2026-10-17T23:49:30+09:00",
       "retry_count": 0
     },
     {
@@ -2574,32 +2600,6 @@
       "status": "ok",
       "summarized_at": "2026-09-23T05:44:34+09:00",
       "retry_count": 1
-    },
-    {
-      "video_id": "jzBxRShUQHo",
-      "url": "https://www.youtube.com/watch?v=jzBxRShUQHo",
-      "title": "#さらば青春の光 #鍼灸マッサージ #訪問マッサージ #フレアス",
-      "channel": "さらば青春の光の100億円プロジェクト",
-      "published_at": "2026-09-22T02:00:39+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/jzBxRShUQHo/hqdefault.jpg",
-      "channel_id": "UChHPxF0EpS-V6iO7VRci1Ug",
-      "summary": "高齢者を支える訪問マッサージ事業のFC展開において、素人でも成功できる理由は知らなくても成功モデルを学べる点にある。\n・FC化する側のメリットは展開スピードの早さにある。\n・加盟する側のメリットはノウハウがなくても成功モデルを学べること。\n・脱サラして新事業を始める人に選ばれやすい。",
-      "status": "ok",
-      "summarized_at": "2026-09-23T05:45:28+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "SL3_a0fIJ8A",
-      "url": "https://www.youtube.com/watch?v=SL3_a0fIJ8A",
-      "title": "How Williams-Sonoma Became One Of Retail’s Best-Performing Stocks",
-      "channel": "CNBC",
-      "published_at": "2026-09-21T14:00:17+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/SL3_a0fIJ8A/hqdefault.jpg",
-      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
-      "summary": "ウィリアムズ・ソノマは住宅市場の低迷やインフレを乗り越え、競合を上回る成長と高い収益性を維持している。\n・Pottery Barn、West Elm、Rejuvenationなどの複数ブランドを展開し、高品質な商品とストーリーテリングで顧客を惹きつけている。\n・売上の3分の2を占めるEC事業ではAIアシスタント「Olive」を活用し、購入率や収益の向上、効率化を実現している。\n・BtoB（企業間取引）事業や、一貫して仕上げを管理するRejuvenationの金物・照明部門が新たな成長の原動力となっている。\n・不確実な関税環境においても透明性の高い情報開示と強力なブランド力を武器に、さらなるシェア拡大を目指している。",
-      "status": "ok",
-      "summarized_at": "2026-09-22T02:35:44+09:00",
-      "retry_count": 0
     }
   ]
 }
