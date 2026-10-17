@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-17T11:29:51+09:00",
+  "updated_at": "2026-10-17T19:00:43+09:00",
   "items": [
+    {
+      "video_id": "FzaK-SNtDew",
+      "url": "https://www.youtube.com/watch?v=FzaK-SNtDew",
+      "title": "10/17LIVE！日経新聞がやらかした＆テレビ裏話【簗大臣辞任/ロシアで邦人スパイ容疑で拘束/フランス高校生デモの裏に年金問題】",
+      "channel": "髙橋洋一チャンネル",
+      "published_at": "2026-10-17T02:06:55+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/FzaK-SNtDew/hqdefault.jpg",
+      "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 1
+    },
+    {
+      "video_id": "DOTlTSoI7eI",
+      "url": "https://www.youtube.com/watch?v=DOTlTSoI7eI",
+      "title": "【大暴落】キオクシア株がピークから1/3に⁉ 4ヶ月で起きたこと全部まとめ",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-10-17T00:41:23+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/DOTlTSoI7eI/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "キオクシア株価の6月以降の激動の履歴と、今後の見通しについてプロの投資家の視点から解説する。\n・キオクシアの株価は、6月の最高値から4カ月間で3分の1ほどに大暴落した。\n・株価下落の背景には、大株主による売り、AIバブル崩壊やシリコンサイクルの懸念、中国メーカー（YMTCなど）の台頭がある。\n・個人投資家の信用買い残の増加や、米国での特許訴訟の敗訴なども株価の下落圧力となった。\n・10月末の決算発表や今後のTOPIXの買い、東芝の保有株の動向などが今後の注目点である。",
+      "status": "ok",
+      "summarized_at": "2026-10-17T18:59:02+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "87tbEQaqESk",
+      "url": "https://www.youtube.com/watch?v=87tbEQaqESk",
+      "title": "コアウィーブショックで日経平均急落、社債16%で何が起きた? #コアウィーブ #日経平均 #AI投資 #もふもふ不動産",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-10-16T22:00:12+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/87tbEQaqESk/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "コアウイーブ社債の暴落に端を発したAI関連投資への不安から、日経平均株価が急落した背景が解説されている。\n・コアウイーブはデータセンターの計算リソースを貸し出す企業で、巨額の社債を発行して設備投資を行っていた\n・米国の消費者物価指数（CPI）の上振れに伴い利上げ観測が高まり、金利上昇によってコアウイーブ社債の利回りが急上昇した\n・社債の金利上昇により返済懸念が高まったことで株価が急落し、その波及が日本株にも影響した\n・ソフトバンクグループの出資やNVIDIAの債務保証など、リスクの高いAI関連投資へのアクセルが踏み続けられている状態にある",
+      "status": "ok",
+      "summarized_at": "2026-10-17T18:59:53+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "_-pMa5-LdGY",
       "url": "https://www.youtube.com/watch?v=_-pMa5-LdGY",
@@ -152,9 +191,9 @@
       "published_at": "2026-10-16T06:30:14+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/aRBi9FEEvPw/hqdefault.jpg",
       "channel_id": "UCXvjRTXoDa8tKwdkTaukGug",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "・SOX指数7日続落は、リーマンショック以降限界的な下落でありセリングクライマックスの可能性がある\n・ハイイールド債やプライベートエクイティファンドの底値圏となる季節性があり、10月末は米国投資信託の損出し売り時期と一致する\n・中間選挙年の10月末から半年のNYダウ工業株30種平均の勝率は高い\n・市況は大きく変動しているため、投資家の皆様には冷静な判断と対処が求められる",
+      "status": "ok",
+      "summarized_at": "2026-10-17T19:00:43+09:00",
       "retry_count": 0
     },
     {
@@ -2560,45 +2599,6 @@
       "summary": "ウィリアムズ・ソノマは住宅市場の低迷やインフレを乗り越え、競合を上回る成長と高い収益性を維持している。\n・Pottery Barn、West Elm、Rejuvenationなどの複数ブランドを展開し、高品質な商品とストーリーテリングで顧客を惹きつけている。\n・売上の3分の2を占めるEC事業ではAIアシスタント「Olive」を活用し、購入率や収益の向上、効率化を実現している。\n・BtoB（企業間取引）事業や、一貫して仕上げを管理するRejuvenationの金物・照明部門が新たな成長の原動力となっている。\n・不確実な関税環境においても透明性の高い情報開示と強力なブランド力を武器に、さらなるシェア拡大を目指している。",
       "status": "ok",
       "summarized_at": "2026-09-22T02:35:44+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "PNBW4h0QouI",
-      "url": "https://www.youtube.com/watch?v=PNBW4h0QouI",
-      "title": "2026年9月22日（火）朝６時から！米国株モーニングライブ！朝イチの米国株の情報を皆さんにお届けします！",
-      "channel": "高校生でも分かる米国株",
-      "published_at": "2026-09-21T11:28:51+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/PNBW4h0QouI/hqdefault.jpg",
-      "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "動画の要約は以下の通りです。\n\n- 米国株市場は主要株価指数や暗号資産が大幅上昇でスタートし、インフレ再加速懸念の後退やAI投資期待などが相場を支えた。\n- 原油価格は中東情勢の緊迫緩和への期待などから4営業日続落し、米10年国債利回りは低下した。\n- 個別株ではインテル（+12%）やコインベース（+4%）などが上昇し、アンソロピックと提携したアクセンチュアも堅調だった。\n- トランプ米大統領は国連総会でのイラン大統領らとの会談の可能性に言及し、グリーンランド関連の資源株も急騰した。\n- テスラは新型ロードスターの予約受付再開報道などを背景に上昇した。",
-      "status": "ok",
-      "summarized_at": "2026-09-22T06:31:15+09:00",
-      "retry_count": 2
-    },
-    {
-      "video_id": "C1kHE_XWnBc",
-      "url": "https://www.youtube.com/watch?v=C1kHE_XWnBc",
-      "title": "#さらば青春の光 #鍼灸マッサージ #訪問マッサージ #フレアス",
-      "channel": "さらば青春の光の100億円プロジェクト",
-      "published_at": "2026-09-21T09:55:51+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/C1kHE_XWnBc/hqdefault.jpg",
-      "channel_id": "UChHPxF0EpS-V6iO7VRci1Ug",
-      "summary": "動画の要約は以下の通りです。\n\nある起業家が語る「へそからピンクの水が出た」という信じ難い怪奇現象を検証している。\n・高齢者を支える訪問マッサージ事業の起業のキッカケが「ピンクの水」だった。\n・「ピンクの水」の正体は「湿気の邪気」であると語られている。\n・入社する従業員全員が体験しているという。",
-      "status": "ok",
-      "summarized_at": "2026-09-21T20:39:04+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "9ZLPazehkHk",
-      "url": "https://www.youtube.com/watch?v=9ZLPazehkHk",
-      "title": "1587回　残業45時間緩和＆定年撤廃から考える副業のススメ",
-      "channel": "髙橋洋一チャンネル",
-      "published_at": "2026-09-21T09:00:32+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/9ZLPazehkHk/hqdefault.jpg",
-      "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "残業45時間の一律指導緩和や塩野義製薬の定年廃止をきっかけに、今後の働き方や副業・リタイアのあり方について議論している。\n・公務員や大学教員など労働基準法の適用外の働き方や、役所での実態について言及している。\n・本業の先読みや信頼できる部下との連携、定時前の帰宅など自身の働き方を振り返っている。\n・残業せず早く帰って文章を書くなどの副業で稼ぐ方法や、市場価値を知る重要性を解説している。\n・AIに駆逐されにくい仕事として、Uber Eats等の配達やマッサージなどの肉体労働を挙げている。",
-      "status": "ok",
-      "summarized_at": "2026-09-21T20:39:55+09:00",
       "retry_count": 0
     }
   ]
