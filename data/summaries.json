@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-18T04:55:53+09:00",
+  "updated_at": "2026-10-18T19:11:36+09:00",
   "items": [
+    {
+      "video_id": "vSMcFXfjOy0",
+      "url": "https://www.youtube.com/watch?v=vSMcFXfjOy0",
+      "title": "【LIVE】博多駅前から街頭演説。センキョタイムズ→吉松県議→さいとう元孝",
+      "channel": "センキョタイムズ",
+      "published_at": "2026-10-18T05:10:08+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/vSMcFXfjOy0/hqdefault.jpg",
+      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
+      "summary": "福岡県議会の100条委員会設置をめぐる動きについて、選挙タイムズの記者が現地の様子や背景を解説している。\n・福岡県議会での100条委員会（強制的な調査権を持つ特別委員会）設置に対し、当初は事務局の予算不足などを理由に強い抵抗や反対があった。\n・委員会の設置には厳しいハードルや議員間の駆け引きが存在したが、市民や県民の声や怒りが背景となって設置への圧力が働いた。\n・自民党や公明党などの既存政党に対する不信感が高まる中、市民運動やネット配信等を通じた情報発信が世論を動かす要因となっている。\n・今後は福岡市や横浜市などの選挙動向も含め、有権者の意識の変化や既存政党の対応が政治の行方を大きく左右する重要な局面を迎えている。",
+      "status": "ok",
+      "summarized_at": "2026-10-18T19:11:36+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "9YJ0PW9dEfw",
       "url": "https://www.youtube.com/watch?v=9YJ0PW9dEfw",
@@ -2587,19 +2600,6 @@
       "status": "ok",
       "summarized_at": "2026-09-22T19:45:19+09:00",
       "retry_count": 0
-    },
-    {
-      "video_id": "V-c9e8dsGVg",
-      "url": "https://www.youtube.com/watch?v=V-c9e8dsGVg",
-      "title": "【LIVE】関西テレビと戦争終結",
-      "channel": "センキョタイムズ",
-      "published_at": "2026-09-22T08:28:37+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/V-c9e8dsGVg/hqdefault.jpg",
-      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "関西テレビ等との一連の騒動について、選挙タイムズが経緯や今後の対応を語った。\n\n・関西テレビの番組で使用されたタイタニックの写真や「リーク」という表現を巡り、選挙タイムズ側が抗議と謝罪を求めた。\n・関西テレビ側から謝罪と訂正の回答が得られなかったため、放送法第9条に基づく訂正放送の請求などの法的対応を検討した。\n・その後、関西テレビ側から訂正と謝罪の書面による回答が得られ、YouTubeの修正版配信などの対応が行われた。\n・一連の問題を通じてSNS等で多くの反響があり、メディア対応の重要性や今後の情報発信への姿勢について言及された。",
-      "status": "ok",
-      "summarized_at": "2026-09-23T05:44:34+09:00",
-      "retry_count": 1
     }
   ]
 }
