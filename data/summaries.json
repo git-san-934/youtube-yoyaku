@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-19T20:47:52+09:00",
+  "updated_at": "2026-10-20T03:08:08+09:00",
   "items": [
+    {
+      "video_id": "Wh1zlJXKy1M",
+      "url": "https://www.youtube.com/watch?v=Wh1zlJXKy1M",
+      "title": "The Race To Power AI Is Reshaping America's Electric Grid",
+      "channel": "CNBC",
+      "published_at": "2026-10-19T14:00:06+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/Wh1zlJXKy1M/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "AIブームに伴う電力需要の急増がアメリカの送電網に与える影響と課題、およびその対策について。\n・米グーグルはミネソタ州パインアイランドに大規模データセンターを計画しており、地域の電力需要が急増している。\n・データセンターの急拡大により全米の老朽化した送電網のアップグレードや膨大な電力確保が急務となっている。\n・イーロン・マスク氏のxAIなどが導入したガス発電機は、騒音や大気汚染を引き起こし住民の反発を招いている。\n・グーグルとエクセル・エナジーの協定のように、クリーンエネルギーや蓄電池を活用して電力網を強化する動きもある。",
+      "status": "ok",
+      "summarized_at": "2026-10-20T03:05:38+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "Xq9qDQymquE",
+      "url": "https://www.youtube.com/watch?v=Xq9qDQymquE",
+      "title": "「怖くて息できない」社長室のオーラに絶句 #さらば青春の光 #お笑い #建設 #大学生 #会社",
+      "channel": "さらば青春の光の100億円プロジェクト",
+      "published_at": "2026-10-19T12:00:18+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/Xq9qDQymquE/hqdefault.jpg",
+      "channel_id": "UChHPxF0EpS-V6iO7VRci1Ug",
+      "summary": "若い社員が社長室での1対1の提案を終え、その独特の緊張感や圧倒的なオーラに圧倒される様子を描いている。\n・売上7億円の企業において、入社9年目の若手社員が社長と1対1で直接提案を行う環境がある。\n・社長室はガラス張りの空間となっており、その独特の雰囲気や存在感が動画内で強調されている。\n・提案を終えた社員が、緊張とプレッシャーから心身ともに疲れ果てた様子を見せている。\n・視聴者に向けて本編動画の配信中であることが案内されている。",
+      "status": "ok",
+      "summarized_at": "2026-10-20T03:06:26+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "w5ZH3oFBCy0",
       "url": "https://www.youtube.com/watch?v=w5ZH3oFBCy0",
@@ -61,9 +87,9 @@
       "published_at": "2026-10-19T07:42:46+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/0d7firqqw7Y/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "米株・日経平均の動向とAI関連株・主要企業の決算予定について解説している。\n・先週はAI関連株の下落や金利上昇への懸念から米株と日経平均が大きく下落した。\n・今週の焦点はNetflix、SpaceX、Tesla、Metaなどの主要企業の決算発表である。\n・コアウィーブ社等の巨額赤字や高金利での借入にAI投資の収益化への懸念が残っている。\n・米国10年債利回りは低下したものの依然5%超で、株価の下支え要因となっている。",
+      "status": "ok",
+      "summarized_at": "2026-10-20T03:07:23+09:00",
       "retry_count": 0
     },
     {
@@ -77,7 +103,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 0
+      "retry_count": 1
     },
     {
       "video_id": "EUnOUO4ZijU",
@@ -2573,32 +2599,6 @@
       "summary": "佐賀県議会の伊村理恵子議員をゲストに迎え、佐賀アリーナを視察し、知事選や議員の活動実態について語る動画。\n・伊村議員へのインタビューを通じて、佐賀アリーナの運営実態や、県の施設管理に関する問題点を検証している。\n・佐賀アリーナは、SAGAサンライズパーク全体で540億円を投じて建設され、年間5億円の利用料と指定管理料が設定されている。\n・県議会の議員は、一般的に現職の知事の信任や選挙に支持を出さないが、異例の状況についても言及されている。\n・佐賀アリーナ内には一般に知られていない「隠し部屋」と呼ばれる非公開スペースが存在し、その利用目的や実態について議論が行われている。",
       "status": "ok",
       "summarized_at": "2026-09-25T05:59:49+09:00",
-      "retry_count": 1
-    },
-    {
-      "video_id": "WUtYv2Z1UQs",
-      "url": "https://www.youtube.com/watch?v=WUtYv2Z1UQs",
-      "title": "Inside Texas's Growing Political Fight Over Data Centers",
-      "channel": "CNBC",
-      "published_at": "2026-09-23T14:00:29+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/WUtYv2Z1UQs/hqdefault.jpg",
-      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
-      "summary": "テキサス州におけるデータセンターの急増と、それに伴う政治的対立について解説している。\n・テキサス州はデータセンターの主要な市場となっているが、住民からは透明性や電力・水資源の不足、環境負荷に対する懸念の声が上がっている\n・州内の政治家や知事候補（ジェームズ・タラリコ、ジーナ・ヒノホサ、ケン・パクストンら）の間で、データセンターに対する規制強化や計画の凍結をめぐる議論が活発化している\n・ドナルド・トランプ前大統領らはデータセンターの開発を支持する姿勢を示している一方で、地元の有権者や住民の間では不満が高まっている\n・AI技術自体の危険性や規制（FRONTIER法案など）に関する議論も絡み、テキサス州の動向が今後の全米のデータセンター政策の試金石になると見られている",
-      "status": "ok",
-      "summarized_at": "2026-09-24T00:57:29+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "hxmA7RKra9g",
-      "url": "https://www.youtube.com/watch?v=hxmA7RKra9g",
-      "title": "HDDメーカーのシーゲイトの株価が3倍になった本当の理由とは？元研究開発者が解説",
-      "channel": "もふもふ不動産",
-      "published_at": "2026-09-23T12:28:09+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/hxmA7RKra9g/hqdefault.jpg",
-      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "AI時代におけるハードディスク（HDD）の重要性と、投資対象としての将来性について解説した動画。\n\n・AI時代の到来に伴い、学習やデータ保管に必要な大容量データ保存先としてHDDが再注目されている。\n・NAND Flashメモリの価格高騰と枯渇が進んだことで、相対的に低コストなHDDへの置き換えが進む。\n・HDDのメーカーはシーゲート、ウェスタンデジタル、東芝の3社に淘汰されており、急な増産が難しく好業績となっている。\n・垂直磁気記録、TMR（トンネル磁気抵抗効果）、ヘリウム充填、熱アシスト記録などの新技術によりHDDの大容量化・高速化が進んでいる。",
-      "status": "ok",
-      "summarized_at": "2026-09-24T05:55:57+09:00",
       "retry_count": 1
     }
   ]
