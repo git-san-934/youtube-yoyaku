@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-20T11:58:09+09:00",
+  "updated_at": "2026-10-20T19:50:31+09:00",
   "items": [
+    {
+      "video_id": "kJWYlH7a77Q",
+      "url": "https://www.youtube.com/watch?v=kJWYlH7a77Q",
+      "title": "GE Aerospace, RTX, GM, 3M決算発表解説！花子の毎日米国株ニュース今夜２２時半から！",
+      "channel": "高校生でも分かる米国株",
+      "published_at": "2026-10-20T10:08:21+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/kJWYlH7a77Q/hqdefault.jpg",
+      "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 1
+    },
+    {
+      "video_id": "BlWNAMjisZc",
+      "url": "https://www.youtube.com/watch?v=BlWNAMjisZc",
+      "title": "1607回　日本に二大政党が出来ない理由",
+      "channel": "髙橋洋一チャンネル",
+      "published_at": "2026-10-20T09:00:23+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/BlWNAMjisZc/hqdefault.jpg",
+      "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
+      "summary": "日本の政治で二大政党制が定着しない理由について、小選挙区制の導入経緯や比例代表制との兼ね合いから解説している。\n\n・日本で二大政党制が定着しないのは、まとまりのある野党が育たず、小選挙区制を導入しても比例代表制が残っているためである。\n・数学的・経済学的なデュベルジェの法則によれば、完全な小選挙区制に移行すれば二大政党に集約されやすくなる。\n・現在、小選挙区の比例復活等で議席を得ている小政党や野党は、二大政党制や定数削減に強く反対する傾向にある。\n・参議院の比例代表制などを活用しながら二院制の利点を生かす形であれば、日本でも二大政党制の導入の余地はある。",
+      "status": "ok",
+      "summarized_at": "2026-10-20T19:46:32+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "1BpgVXhvTok",
+      "url": "https://www.youtube.com/watch?v=1BpgVXhvTok",
+      "title": "2026年10月20日【韓国株急落に連れ安　止まらない不安の連鎖】（市況放送【毎日配信】）",
+      "channel": "朝倉慶のASK1",
+      "published_at": "2026-10-20T08:47:21+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/1BpgVXhvTok/hqdefault.jpg",
+      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
+      "summary": "10月20日火曜日の株式市場は、前日の米国株市場の動向や韓国市場の急落を背景に、日経平均株価などが下落した。\n・日経平均株価は6万4075円841円安、TOPIXは4009ポイント58ポイント安、グロース250は745ポイント21ポイント安と主要指数が全面安となった。\n・韓国株式市場コスピが4%を超える下落となり、テック系銘柄や半導体関連株に大きな影響を与えた。\n・ファーストリテイリングや光栄テクモホールディングスなど一部の個別銘柄では好材料による買いが入った。\n・ドル円は158.08円、ユーロ円は177.50円前後で推移した。",
+      "status": "ok",
+      "summarized_at": "2026-10-20T19:47:30+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "Wh1zlJXKy1M",
       "url": "https://www.youtube.com/watch?v=Wh1zlJXKy1M",
@@ -100,9 +139,9 @@
       "published_at": "2026-10-19T06:23:53+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/jMFg93HsxpI/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "福岡市長選挙のシリーズ第3弾として、陣の元気氏を迎えて選挙や行政に関する話題について対談が行われた。\n・陣の元気氏の経歴や、過去に学生ベンチャーやAIドリル事業「キュビナ」を立ち上げた背景が語られた。\n・福岡市の教育改革において、子ども主体や個別最適な学びの実現を目指す「学習指導要領（2030年案）」の重要性が説明された。\n・不登校問題や、教員の働き方改革（ローテクな業務の効率化など）の必要性について議論された。\n・外国人住民の増加に伴う対応や、市民との対話を重視した民主主義のあり方についての考えが示された。",
+      "status": "ok",
+      "summarized_at": "2026-10-20T19:50:31+09:00",
       "retry_count": 2
     },
     {
@@ -2561,45 +2600,6 @@
       "status": "ok",
       "summarized_at": "2026-09-24T19:54:28+09:00",
       "retry_count": 0
-    },
-    {
-      "video_id": "THld2K-bdO4",
-      "url": "https://www.youtube.com/watch?v=THld2K-bdO4",
-      "title": "1590回　中道の一人受け子は論外！選挙は自己資金でやるもの",
-      "channel": "髙橋洋一チャンネル",
-      "published_at": "2026-09-24T09:00:11+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/THld2K-bdO4/hqdefault.jpg",
-      "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "政治家の選挙活動や新党設立の資金についての持論や経験談が語られている。\n・政治家の選挙や新党設立では、失敗した際のリスクを考慮して自己資金を用意するのが当然であると主張している。\n・高市早苗の初出馬時の多額の落選費用や、自身の経営する会社が「みんなの党」に対して多額の売掛債権を全額損失処理した経験に触れている。\n・浅尾慶一郎と「みんなの党」の債権債務の整理プロセスについて銀行マン出身らしい手腕だったと評価している。\n・政治家や政治記者との常識のズレに言及し、自己資金の重要性や美学について述べている。",
-      "status": "ok",
-      "summarized_at": "2026-09-24T19:55:19+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "JvDA5vdB6zQ",
-      "url": "https://www.youtube.com/watch?v=JvDA5vdB6zQ",
-      "title": "【LIVE】福岡県議会の”醜態”動画が続々届いています。とにかく、松尾統章がトンピンすぎて福岡の恥であります。",
-      "channel": "センキョタイムズ",
-      "published_at": "2026-09-24T07:48:28+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/JvDA5vdB6zQ/hqdefault.jpg",
-      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "福岡県議会の動画について配信している。\n\n・福岡県議会についての動画や、その裏側についてのトークが行われた\n・政治家の不祥事や疑惑に対する厳しい意見が出された\n・今後の選挙や政治家の動向について議論が交わされた",
-      "status": "ok",
-      "summarized_at": "2026-09-24T19:56:22+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "E2-Gw960MwM",
-      "url": "https://www.youtube.com/watch?v=E2-Gw960MwM",
-      "title": "【LIVE】明日の朝刊トップを飾るかもしれない！？噂のあの人が生暴露。",
-      "channel": "センキョタイムズ",
-      "published_at": "2026-09-24T05:19:52+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/E2-Gw960MwM/hqdefault.jpg",
-      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "佐賀県議会の伊村理恵子議員をゲストに迎え、佐賀アリーナを視察し、知事選や議員の活動実態について語る動画。\n・伊村議員へのインタビューを通じて、佐賀アリーナの運営実態や、県の施設管理に関する問題点を検証している。\n・佐賀アリーナは、SAGAサンライズパーク全体で540億円を投じて建設され、年間5億円の利用料と指定管理料が設定されている。\n・県議会の議員は、一般的に現職の知事の信任や選挙に支持を出さないが、異例の状況についても言及されている。\n・佐賀アリーナ内には一般に知られていない「隠し部屋」と呼ばれる非公開スペースが存在し、その利用目的や実態について議論が行われている。",
-      "status": "ok",
-      "summarized_at": "2026-09-25T05:59:49+09:00",
-      "retry_count": 1
     }
   ]
 }
