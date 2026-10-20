@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-10-20T19:50:31+09:00",
+  "updated_at": "2026-10-21T01:14:05+09:00",
   "items": [
+    {
+      "video_id": "SgZokpl4SxI",
+      "url": "https://www.youtube.com/watch?v=SgZokpl4SxI",
+      "title": "「家にテレビない」激安食堂ひょうろく #さらば青春の光 #お笑い #建設 #大学生 #会社",
+      "channel": "さらば青春の光の100億円プロジェクト",
+      "published_at": "2026-10-20T14:30:11+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/SgZokpl4SxI/hqdefault.jpg",
+      "channel_id": "UChHPxF0EpS-V6iO7VRci1Ug",
+      "summary": "動画の要約は以下の通りです。\n\nお笑いタレントの「ひょっこりはん」が社員食堂をレポートする内容です。\n・信和グループの社員食堂では日替わりで2種類のランチが選べ、価格は450円と安価に提供されている。\n・ランチ交流を通じて、部署が違う社員同士のコミュニケーションを図ることができる。\n・入社式で丸尾社長と新入社員が会話をした際、「家にテレビがない」というエピソードが語られた。",
+      "status": "ok",
+      "summarized_at": "2026-10-21T01:08:18+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "61Rgg5qY6yI",
+      "url": "https://www.youtube.com/watch?v=61Rgg5qY6yI",
+      "title": "ブランド名が言えない…噛み倒すひょうろく #さらば青春の光 #お笑い #社長  #大学生 #会社",
+      "channel": "さらば青春の光の100億円プロジェクト",
+      "published_at": "2026-10-20T13:23:02+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/61Rgg5qY6yI/hqdefault.jpg",
+      "channel_id": "UChHPxF0EpS-V6iO7VRci1Ug",
+      "summary": "お笑い芸人のひょろくが不動産ブランドの名前が言えず噛み倒す様子を映した動画である。\n・移動中の車内でひょろくがマンションブランド「スプランディッド」と「ドルチェヴィータ」の名前を言い間違えて噛み倒した。\n・「スプランディッド」はイタリア語で「光り輝く」という意味の賃貸マンションシリーズである。\n・「ドルチェヴィータ」はイタリア語で「甘い生活」という意味の分譲マンションシリーズである。\n・その後、実際にブランドのマンション物件を訪れた。",
+      "status": "ok",
+      "summarized_at": "2026-10-21T01:09:37+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "6dL8e5voGbM",
+      "url": "https://www.youtube.com/watch?v=6dL8e5voGbM",
+      "title": "DeepSeekショックでNVIDIAが1日で約80兆円吹き飛んだ また来る? #NVIDIA #DeepSeek #半導体株 #もふもふ不動産",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-10-20T13:14:40+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/6dL8e5voGbM/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "2025年1月のNVIDIA株の急落（DeepSeekショック）の原因とその株価への影響について解説している。\n・2025年1月、中国のAI企業DeepSeekの新モデル公開により、NVIDIA株は1日で17%下落し過去最大の時価総額減少を記録した。\n・アドバンテストなどの半導体銘柄も大幅に下落した。\n・その後、NVIDIA株は約5ヶ月でショック前の高値を回復した。\n・業績への影響は少ないとみられるが、株価は再び大きく変動する可能性がある。",
+      "status": "ok",
+      "summarized_at": "2026-10-21T01:10:45+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "EMaDegQP0bc",
+      "url": "https://www.youtube.com/watch?v=EMaDegQP0bc",
+      "title": "【第2のDeepSeekショック!?】AIで高性能半導体が不要になるのか？株価大暴落が再来するか？",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-10-20T11:30:27+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/EMaDegQP0bc/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 1
+    },
     {
       "video_id": "kJWYlH7a77Q",
       "url": "https://www.youtube.com/watch?v=kJWYlH7a77Q",
@@ -2548,58 +2600,6 @@
       "status": "failed",
       "summarized_at": null,
       "retry_count": 3
-    },
-    {
-      "video_id": "UxjsMSuf2Ag",
-      "url": "https://www.youtube.com/watch?v=UxjsMSuf2Ag",
-      "title": "2026年9月25日　世界はお金を奪い合う（金利高）　幻想を捨てろ！【朝倉慶の株式投資・株式相場解説】",
-      "channel": "朝倉慶のASK1",
-      "published_at": "2026-09-25T03:46:39+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/UxjsMSuf2Ag/hqdefault.jpg",
-      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "世界的な利上げや円安の進行を背景に、日本がこれまでの低金利政策を続けることは困難であり、時代の変化を受け入れる必要がある。\n\n- 世界的なインフレとAIなどの新技術への投資ラッシュにより、世界的な金利高の流れは止まらない。\n- 日本だけが低金利を維持し続ければ、円安や輸入物価の高騰を招き、さらなる苦境に陥る。\n- 日本銀行が今後も追加の利上げを行うことは、物価高やインフレに対処するための不可避な現実である。\n- 過去の低金利政策に固執する幻想を捨て、金利上昇を受け入れた上で今後の投資やビジネス戦略を考えるべきである。",
-      "status": "ok",
-      "summarized_at": "2026-09-27T05:31:38+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "-ZstoJNN-NY",
-      "url": "https://www.youtube.com/watch?v=-ZstoJNN-NY",
-      "title": "The race to bypass the Strait of Hormuz",
-      "channel": "CNBC",
-      "published_at": "2026-09-24T14:00:38+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/-ZstoJNN-NY/hqdefault.jpg",
-      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
-      "summary": "ホルムズ海峡（石油輸送の要衝）の迂回を目指し、湾岸諸国や周辺国で代替パイプラインや港湾インフラの整備が加速している。\n・イラクのバスラからトルコ・シリア・ヨルダンを結ぶ計画は、3〜5年で日量200万バレルの輸出能力追加を見込む。\n・サウジアラビアの「東西パイプライン」は現行の日量700万バレルから、さらに100万〜200万バレルの拡張が議論されている。\n・UAE（アラブ首長国連邦）もアブダビ原油パイプライン（日量180万バレル）やフジラ港の改修で海峡迂回を進める。\n・専門家はパイプラインの拡張は重要としつつも、攻撃などの安全保障リスクを完全に回避できるわけではないと指摘している。",
-      "status": "ok",
-      "summarized_at": "2026-09-25T01:30:41+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "XuBDfaCn0oQ",
-      "url": "https://www.youtube.com/watch?v=XuBDfaCn0oQ",
-      "title": "2026年9月24日【日経平均一時1200円高も失速　メタ・インテルの上昇で注目度上がるCPU　日本株にも恩恵あるか】（市況放送【毎日配信】）",
-      "channel": "朝倉慶のASK1",
-      "published_at": "2026-09-24T09:28:40+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/XuBDfaCn0oQ/hqdefault.jpg",
-      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "9月24日の株式市場解説と今後の展望。\n・日経平均は495円高の65,513円となり、米国市場のAI・半導体株高の流れを受けて買いが先行した\n・米国の長期金利上昇やインフレへの警戒感からハイテク株を中心に高値圏の銘柄で売りが出た\n・個別銘柄ではAI関連や半導体関連（アドバンテスト、エビデンなど）が買われる一方、決算を発表したアドバンスクリエイトなどが売られた\n・今後は年末高に向けた動きが期待されるものの、日米の金利上昇や為替動向を注意深く見極める必要がある",
-      "status": "ok",
-      "summarized_at": "2026-09-24T19:53:34+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "gxA9ogK0w4I",
-      "url": "https://www.youtube.com/watch?v=gxA9ogK0w4I",
-      "title": "設計者が語るランドスケープデザインのヒミツ【都立明治公園（MEIJI PARK）】東西8mの高低差を克服せよ｜公園と歩道の境界に施した超こだわり",
-      "channel": "日経クロステック【公式】",
-      "published_at": "2026-09-24T09:00:14+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/gxA9ogK0w4I/hqdefault.jpg",
-      "channel_id": "UCwPgJIiUAYhdN3AYkmm5YYA",
-      "summary": "2023年に開園した都立明治公園は、建築と土木・ランドスケープの融合や敷地の高低差を活かした様々なデザインの工夫により、訪れる人に心地よい緑の空間を提供している。\n・敷地の高低差を処理し、都会と公園の境界を曖昧にする「ステップガーデン」を整備した\n・園路を蛇行させて距離を稼ぎ、勾配を緩やかにすることで傾斜を感じさせない設計にした\n・インクルーシブ広場では敷地の傾斜を活用して子どもたちの遊び場を整備した\n・園内に降った雨が公園内で処理できるような雨水循環の仕組みを取り入れた",
-      "status": "ok",
-      "summarized_at": "2026-09-24T19:54:28+09:00",
-      "retry_count": 0
     }
   ]
 }
