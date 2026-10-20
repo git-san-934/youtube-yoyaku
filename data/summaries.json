@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T03:08:08+09:00",
+  "updated_at": "2026-10-20T11:58:09+09:00",
   "items": [
     {
       "video_id": "Wh1zlJXKy1M",
@@ -103,7 +103,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "video_id": "EUnOUO4ZijU",
@@ -113,9 +113,9 @@
       "published_at": "2026-10-19T06:00:47+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/EUnOUO4ZijU/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "渡辺久也氏へのインタビューを通じ、福岡市に求められるこれからの市政や人口減少への対応について議論している。\n・福岡市を世界で最も尊敬される日本の都市にするため、行政が課題に正面から主体的に取り組むことの重要性を指摘する\n・福岡市内の大規模校の数が増加しており、小学生の3人に1人が大規模校に通う現状への対策として、学校規模の適正化を議論している\n・福岡市の人口が増加を続ける中、交通システムや下水道などのインフラ整備の強化について話し合っている\n・オープンな議論と納得のプロセスによる市政運営を通じて、誰も取り残さない市政を実現する必要性を強調している",
+      "status": "ok",
+      "summarized_at": "2026-10-20T11:55:57+09:00",
       "retry_count": 0
     },
     {
@@ -126,9 +126,9 @@
       "published_at": "2026-10-19T03:58:49+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/F4JJsgUKp1w/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "福岡市市長選に向けた立候補表明者へのインタビュー企画第1弾として、NPO法人代表の永澤寛太氏が出演した。\n・NPO法人の活動を通じて見えてきた課題や、福岡市に「7つの風の谷」を作る独自の政策について語った。\n・学校のアップデート、スマホで手続きできるDX（デジタルトランスフォーメーション）推進などを政策として掲げている。\n・選挙への立候補にあたり、経済的余裕がなくても挑戦できる仕組みの必要性や、既存の政治手法への疑問を述べた。",
+      "status": "ok",
+      "summarized_at": "2026-10-20T11:58:09+09:00",
       "retry_count": 0
     },
     {
