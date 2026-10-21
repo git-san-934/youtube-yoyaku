@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-10-21T11:49:56+09:00",
+  "updated_at": "2026-10-21T19:59:58+09:00",
   "items": [
+    {
+      "video_id": "DCCviHh-h2I",
+      "url": "https://www.youtube.com/watch?v=DCCviHh-h2I",
+      "title": "1608回　城内大臣が毎日新聞を公開処刑！なぜ裏取りもせず記事にする？プライドだけ高いマスコミよ",
+      "channel": "髙橋洋一チャンネル",
+      "published_at": "2026-10-21T09:00:23+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/DCCviHh-h2I/hqdefault.jpg",
+      "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
+      "summary": "高市早苗政権下の政治取材のあり方や、メディアと政治の関係性について論じた動画。\n・高市早苗政権では夜の宴会等がないため、従来の政治記者クラブとの情報交換とは異なる仕組みになっている。\n・著者は、政権側の情報公開や透明性が高い一方で、従来の政治記者クラブの活動スタイルが機能しなくなっていると指摘する。\n・マスコミ業界の序列や、大学卒業後の進路構造について独自の視点から解説を行っている。",
+      "status": "ok",
+      "summarized_at": "2026-10-21T19:57:05+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "QAuMl-qyGPQ",
+      "url": "https://www.youtube.com/watch?v=QAuMl-qyGPQ",
+      "title": "安いAIでAI投資は終わる?第二のDeepSeekショックは来る? #AI #半導体株 #DeepSeek #もふもふ不動産",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-10-21T09:00:11+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/QAuMl-qyGPQ/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "ジェボンのパラドックスから、AIの効率化がAI投資や需要の減少には直結しない理由を解説している。\n・AIや半導体株が売られる原因となった、AIが古いGPUで簡単に動く問題について言及\n・石炭炉の効率化が燃料の消費量を増やした「ジェボンのパラドックス」の例を挙げ、効率の向上がAIの普及や利用増加を促すと説明\n・パソコンのDRAMが8MBから16GBへ増加した歴史を例に、価格の下落と容量の増加が需要を拡大させた経緯を紹介",
+      "status": "ok",
+      "summarized_at": "2026-10-21T19:57:53+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "SR_pX7udceo",
+      "url": "https://www.youtube.com/watch?v=SR_pX7udceo",
+      "title": "スペースX、NETFLIX決算発表解説！花子の毎日米国株ニュース今夜２２時半から！",
+      "channel": "高校生でも分かる米国株",
+      "published_at": "2026-10-21T08:53:23+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/SR_pX7udceo/hqdefault.jpg",
+      "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 1
+    },
+    {
+      "video_id": "zcngPWqnNDs",
+      "url": "https://www.youtube.com/watch?v=zcngPWqnNDs",
+      "title": "2026年10月21日【スペースX好決算　AI需要は不変】（市況放送【毎日配信】）",
+      "channel": "朝倉慶のASK1",
+      "published_at": "2026-10-21T07:54:56+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/zcngPWqnNDs/hqdefault.jpg",
+      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
+      "summary": "10月21日（水）の株式市場の概況と今後の見通しに関する動画。\n・日経平均株価は6万4621円（前日比+545円）、TOPIXは4043（+34）で終了した。\n・米国市場はダウが529ドル高と好調で、AI関連株や決算好調の企業に買いが入った。\n・東京市場はリスクオフの巻き戻しで堅調な展開となったが、投資家心理には依然として不安感がある。\n・韓国株式市場や海外の物価高・暴動など、地政学リスクや景気不安の要因が指摘されている。",
+      "status": "ok",
+      "summarized_at": "2026-10-21T19:59:58+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "0qd80_rXaxo",
       "url": "https://www.youtube.com/watch?v=0qd80_rXaxo",
@@ -2547,58 +2599,6 @@
       "summary": "福岡市長選の候補者・佐々木彩乃氏について、支持層の傾向や対立候補の動向、グローバリスト（世界規模での活動を重視する立場）的な側面などを中心に解説している。\n・佐々木彩乃氏は福岡市出身の29歳で、ボストン・コンサルティング・グループを経て、現在は「カタリスト九州」の代表を務める。\n・福岡市長選には現在12名ほどが名乗りを上げており、保守層の間では佐々木氏に対する賛否が分かれている。\n・佐々木氏は親中派やグローバリスト的であると評される一方、若い世代や女性、医療従事者としての経歴に期待する声もある。\n・動画出演者らは、佐々木氏のような候補者の台頭が保守層の有権者に与える影響や、今後の選挙戦の行方について議論している。",
       "status": "ok",
       "summarized_at": "2026-09-25T19:56:34+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "dspFL1q38_o",
-      "url": "https://www.youtube.com/watch?v=dspFL1q38_o",
-      "title": "【LIVE】林泰輔の裏垢攻撃を刑事告訴。天網恢恢疎にして漏らさず（政治ニュース7days）",
-      "channel": "センキョタイムズ",
-      "published_at": "2026-09-25T09:47:39+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/dspFL1q38_o/hqdefault.jpg",
-      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "福岡県議会の政治ニュースを配信する選挙タイムズの番組内容の要約は以下の通りです。\n\n・選挙タイムズによる政治ニュースの今週の配信内容と視聴者からのメッセージが紹介された。\n・福岡県議会の動向や、関西テレビとの紛争終結に関する裏話が取り上げられた。\n・筑後市県議選の告示に伴う自民党や公明党の動きが報じられた。\n・大任町の永原町長による9,000億円規模のIR構想が話題にされた。\n・香春町議会の取材制限や、高市首相の国連でのICC（国際刑事裁判所）支持発言について解説された。",
-      "status": "ok",
-      "summarized_at": "2026-09-26T05:59:24+09:00",
-      "retry_count": 1
-    },
-    {
-      "video_id": "RbRfvQd2mVE",
-      "url": "https://www.youtube.com/watch?v=RbRfvQd2mVE",
-      "title": "1591回　トランプ交渉術が見事にはまったグリーンランド",
-      "channel": "髙橋洋一チャンネル",
-      "published_at": "2026-09-25T09:00:07+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/RbRfvQd2mVE/hqdefault.jpg",
-      "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "トランプ前米大統領がグリーンランドで中露の基地設置を禁止する米デンマーク合意を主導した経緯について、地政学的観点から評価している。\n・グリーンランドは北極海における戦略上の要衝であり、従来から中露が接近を図っていた地域である。\n・トランプ氏は影響力を高める交渉手法を用い、デンマークに所有権を残したまま安全保障面を米国が実質的に管轄する形をとった。\n・これにより米国は莫大な維持費を抑えつつ安全保障上の目的を達成し、デンマークにとっても国防上の利点がある。\n・カナダなど他の地域においても、米国の外交・安全保障政策において同様の交渉スタイルがとられる可能性がある。",
-      "status": "ok",
-      "summarized_at": "2026-09-25T19:58:10+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "EFshCH5Qmsc",
-      "url": "https://www.youtube.com/watch?v=EFshCH5Qmsc",
-      "title": "2026年9月25日【金融・半導体がけん引　日経平均850円高　来週も続くのか】（市況放送【毎日配信】）",
-      "channel": "朝倉慶のASK1",
-      "published_at": "2026-09-25T08:56:25+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/EFshCH5Qmsc/hqdefault.jpg",
-      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "9月25日の株式市場は、前日の米国市場の急落懸念が和らぎ、日経平均株価やTOPIXは大幅続伸して引けた。\n・日経平均株価は前日比850円高の66,364円と大幅続伸し、TOPIXも高値更新。\n・米国市場でのインフレ加速への警戒が和らいだことや、ホノルズ海峡再開に向けた動きが安心感につながった。\n・個別銘柄では、三菱UFJフィナンシャル・グループなどの金融関連株や、半導体関連株が買われた。\n・グロース250指数は反落したが、売買代金が膨らむなど活発な動きが見られた。",
-      "status": "ok",
-      "summarized_at": "2026-09-26T06:00:22+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "UExLzZ470jQ",
-      "url": "https://www.youtube.com/watch?v=UExLzZ470jQ",
-      "title": "緊急！【速報解説】米中首脳会談＆日米首脳会談の成果",
-      "channel": "髙橋洋一チャンネル",
-      "published_at": "2026-09-25T07:16:32+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/UExLzZ470jQ/hqdefault.jpg",
-      "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "米中首脳会談は中身がほとんどなく、台湾への武器輸出やウクライナ問題などについてトランプ大統領と習近平国家主席は互いに何も発言しなかったと推測される。\n・米中首脳会談では中身がなく、通常行われる共同記者会見も、予定や事後の発言・記録もなかった。\n・会談では台湾への武器輸出問題について、お互いに発言せず、トランプ大統領からの言及はなかったとみられる。\n・日米・米中首脳会談等の国際会議の日程や内容を分析すると、今回の米中会談でのトランプ側の沈黙や成果の乏しさが浮き彫りになる。\n・今回の米中首脳会談の結果、日米同盟関係や他国の対応、今後の外交政策への影響や懸念が指摘されている。",
-      "status": "ok",
-      "summarized_at": "2026-09-26T06:02:13+09:00",
       "retry_count": 0
     }
   ]
