@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T01:34:20+09:00",
+  "updated_at": "2026-10-22T06:10:46+09:00",
   "items": [
     {
       "video_id": "BMdLiG8J7-g",
@@ -74,9 +74,9 @@
       "published_at": "2026-10-21T02:31:45+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/0qd80_rXaxo/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "福岡市市長選へ立候補する阿部秀樹氏を招き、出馬の背景や今後の政策について議論した。\n・阿部氏は福岡市出身の31歳で、医師や市議会議員の経歴を持ち、市議会での活動やコロナ禍での社会情勢の変化が政治への関心を深めるきっかけとなった。\n・交通渋滞の緩和や地下鉄・モノレール・路面電車の可能性について、コストや道路事情を考慮しながら新たな交通インフラの整備を訴えている。\n・医療や福祉に関して、医師としての経験を活かした予防医療や介護予防の推進、少子化対策としての保育料の無償化などの重要性を語った。\n・外国人労働者の受け入れについては、労働力の補填というメリットがある一方で、生活環境の整備やマナーの周知など課題にも目を向ける必要性を指摘している。",
+      "status": "ok",
+      "summarized_at": "2026-10-22T06:06:55+09:00",
       "retry_count": 2
     },
     {
@@ -87,9 +87,9 @@
       "published_at": "2026-10-21T02:29:53+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/-RI7DJAL5Fo/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "・福岡市長選2026への立候補を表明した「NHKから国民を守る党」の井上潔氏が、立候補の経緯や減税政策について語る。\n・川村たかし氏との電話をきっかけに政治に関心を持ち、50歳で行政書士や精神保健福祉士の資格を取得した。\n・減税を行うことで税収が増加するという名古屋市のモデルを福岡市でも実現したいと主張している。\n・子供の貧困対策として、中学校や高校の敷地内にスクールカウンセラーを配置する政策を掲げている。",
+      "status": "ok",
+      "summarized_at": "2026-10-22T06:10:01+09:00",
       "retry_count": 2
     },
     {
@@ -103,7 +103,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "video_id": "UiTN0sNhD_U",
