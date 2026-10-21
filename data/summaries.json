@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-10-21T06:07:23+09:00",
+  "updated_at": "2026-10-21T11:49:56+09:00",
   "items": [
+    {
+      "video_id": "0qd80_rXaxo",
+      "url": "https://www.youtube.com/watch?v=0qd80_rXaxo",
+      "title": "【LIVE】福岡市長選挙_阿部秀樹",
+      "channel": "センキョタイムズ",
+      "published_at": "2026-10-21T02:31:45+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/0qd80_rXaxo/hqdefault.jpg",
+      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 1
+    },
+    {
+      "video_id": "-RI7DJAL5Fo",
+      "url": "https://www.youtube.com/watch?v=-RI7DJAL5Fo",
+      "title": "【LIVE】福岡市長選挙_井上潔",
+      "channel": "センキョタイムズ",
+      "published_at": "2026-10-21T02:29:53+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/-RI7DJAL5Fo/hqdefault.jpg",
+      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 1
+    },
+    {
+      "video_id": "8xb47drenBQ",
+      "url": "https://www.youtube.com/watch?v=8xb47drenBQ",
+      "title": "【LIVE】福岡県議会の恥部発見！松本國寛（自民党福岡県連会長）と豊福るみ子（立憲民主党・県議会議員）のハレンチな関係・・・。",
+      "channel": "センキョタイムズ",
+      "published_at": "2026-10-21T02:27:39+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/8xb47drenBQ/hqdefault.jpg",
+      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 1
+    },
+    {
+      "video_id": "UiTN0sNhD_U",
+      "url": "https://www.youtube.com/watch?v=UiTN0sNhD_U",
+      "title": "声が弱すぎてクビ、地獄の声出し練習w #さらば青春の光 #お笑い #建設 #大学生 #会社",
+      "channel": "さらば青春の光の100億円プロジェクト",
+      "published_at": "2026-10-20T22:00:18+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/UiTN0sNhD_U/hqdefault.jpg",
+      "channel_id": "UChHPxF0EpS-V6iO7VRci1Ug",
+      "summary": "動画の要約は以下の通りです。\n\n・建設現場での「声出し練習」を通じて、大きな声で伝える重要性を体験する動画\n・最初は声の小さかった参加者が、指導を受けて徐々に大きな声を出せるようになる\n・「立ち入り禁止よし！」などの安全確認の掛け声を練習する\n・最終的には大きな声で元気よく掛け声を出せるようになる",
+      "status": "ok",
+      "summarized_at": "2026-10-21T11:49:56+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "SgZokpl4SxI",
       "url": "https://www.youtube.com/watch?v=SgZokpl4SxI",
@@ -2548,58 +2600,6 @@
       "status": "ok",
       "summarized_at": "2026-09-26T06:02:13+09:00",
       "retry_count": 0
-    },
-    {
-      "video_id": "ApUVB6KiWzA",
-      "url": "https://www.youtube.com/watch?v=ApUVB6KiWzA",
-      "title": "Part8 株はもう下がらない！【後編】｜2025年11月15日開催ASAKUKRA経済セミナー「株はもう下がらない！」ハイライト#朝倉慶#投資#株式#資産運用",
-      "channel": "朝倉慶のASK1",
-      "published_at": "2026-09-25T07:07:46+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/ApUVB6KiWzA/hqdefault.jpg",
-      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "日本における物価上昇のメカニズムとインフレ政策の落とし穴について解説している。\n・米の価格が過去最高値になったのは、高齢化による供給力不足が主な原因である。\n・米は栽培から製米、輸送まですべて人手に依存しており、人手不足が価格上昇を招いている。\n・供給不足が原因であるにもかかわらず補助金を出して需要を増やせば、さらに価格が上がる。\n・政府の短期的な補助金などのメリットは目立つが、長期的なコスト増加やインフレは気づかれにくい。",
-      "status": "ok",
-      "summarized_at": "2026-09-26T06:03:02+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "PgVo6cZFg0I",
-      "url": "https://www.youtube.com/watch?v=PgVo6cZFg0I",
-      "title": "岡崎良介×永濱利廣【利上げイコール円安ではない「FRBの利上げとドル円のトレンド」｜リフレの本家は米国『米国のリフレ脱却」要請と日米経済政策の逆説的実態』鈴木銘柄分析】9月25日公開",
-      "channel": "マーケットマスターズ",
-      "published_at": "2026-09-25T07:00:20+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/PgVo6cZFg0I/hqdefault.jpg",
-      "channel_id": "UCXvjRTXoDa8tKwdkTaukGug",
-      "summary": "金利上昇局面における米国の動向やその市場への影響について多角的に分析・解説している。\n・米国の10年国債利回りが急上昇しており、住宅ローン金利などへの影響から株式市場などへ波及する懸念がある\n・過去の米国の利上げ局面とドル円の推移を比較すると、利上げとドル安・ドル高の相関関係には様々なパターンが存在する\n・日本のリフレ政策は財政赤字の縮小や政策金利の引き上げなどで米国とは異なった実態にある\n・日米のインフレの質やマネタリーベースの比較において、米国の方がリフレ推進度合いが強い状況にある",
-      "status": "ok",
-      "summarized_at": "2026-09-26T11:55:26+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "gn5p2xMaFyM",
-      "url": "https://www.youtube.com/watch?v=gn5p2xMaFyM",
-      "title": "2026年9月25日　銘柄マスター長谷川伸一　９月の注目銘柄【朝倉慶の株式投資・株式相場解説】",
-      "channel": "朝倉慶のASK1",
-      "published_at": "2026-09-25T06:30:40+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/gn5p2xMaFyM/hqdefault.jpg",
-      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "AI・半導体関連の成長株や大手金融の好調な業績背景と中長期の株価動向を、長谷川伸一氏が解説している。\n・キオクシアホールディングス：生成AI向けSSDの需要急増と第1四半期の好業績によりメモリ株に対する見方が変化している\n・フジクラ：光ファイバ関連の好調な業績や日米での大規模な戦略的投資を背景に一段の株価上昇が期待される\n・アドバンテスト：半導体テスター市場における圧倒的なシェアや高い利益率を強みに、さらなる需要拡大を見込む\n・SBIホールディングス：新生銀行や証券事業などの好調な業績を受け、四半期ベースで過去最高を更新している",
-      "status": "ok",
-      "summarized_at": "2026-09-26T11:56:26+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "eesi0jXmKEw",
-      "url": "https://www.youtube.com/watch?v=eesi0jXmKEw",
-      "title": "【LIVE】福岡県議会の恥部発見！松本國寛（自民党福岡県連会長）と豊福るみ子（立憲民主党・県議会議員）のハレンチな関係・・・。",
-      "channel": "センキョタイムズ",
-      "published_at": "2026-09-25T06:26:53+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/eesi0jXmKEw/hqdefault.jpg",
-      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
-      "retry_count": 3
     }
   ]
 }
