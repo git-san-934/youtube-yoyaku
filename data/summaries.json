@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-21T19:59:58+09:00",
+  "updated_at": "2026-10-22T01:34:20+09:00",
   "items": [
+    {
+      "video_id": "BMdLiG8J7-g",
+      "url": "https://www.youtube.com/watch?v=BMdLiG8J7-g",
+      "title": "Why The Era Of Easy-To-Ignore Bonds Might Be Over",
+      "channel": "CNBC",
+      "published_at": "2026-10-21T14:00:26+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/BMdLiG8J7-g/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "米10年国債利回りが20年ぶりの高水準となる5%を超え、市場で警戒感が高まっている。\n・国債の利回りは、固定利息の支払いと債券価格の変動（価格下落で利回りが上昇するシーソー関係）によって決まる\n・長年の低金利環境から脱却し、連邦準備制度（FRB）の継続的な高金利政策の姿勢が背景にある\n・AI関連企業などの民間セクターや政府による多額の資金需要が、国債との競合を生んでいる\n・ブラックロックが米国債を格上げする動きなど、一部の投資家は株式から債券へのシフトを検討し始めている",
+      "status": "ok",
+      "summarized_at": "2026-10-22T01:24:01+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "DCCviHh-h2I",
       "url": "https://www.youtube.com/watch?v=DCCviHh-h2I",
@@ -35,9 +48,9 @@
       "published_at": "2026-10-21T08:53:23+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/SR_pX7udceo/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "・スペースXとネットフリックスの決算内容と株価動向の解説。\n・スペースXは収益が前年同期比約2.6倍となり、黒字転換を達成した。\n・AI関連部門（SI）の「Super Intelligence」が好調で、大手AI企業からの利用料が貢献した。\n・ネットフリックスは会員増や広告収入拡大により増収増益となったが、広告事業の通期見通しは下方修正された。",
+      "status": "ok",
+      "summarized_at": "2026-10-22T01:24:59+09:00",
       "retry_count": 1
     },
     {
@@ -64,7 +77,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "video_id": "-RI7DJAL5Fo",
@@ -77,7 +90,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "video_id": "8xb47drenBQ",
@@ -2586,19 +2599,6 @@
       "summary": "さらば青春の光がスーツケース修理専門店「MY SUITCASE」を運営するカルチャーズジャパンにリアル潜入し、その事業や成長の秘訣を学ぶ。\n・2023年11月創業の「MY SUITCASE」は、全国20店舗を展開し売上約3億円を誇るスーツケース修理・メンテナンス・買取・リユースの専門店。\n・「壊れても直して大切に長く使っていただきたい」という理念のもと、キャスター交換やボディクリーニング、シール剥がしなどあらゆる破損に対応し、最短即日対応も実現。\n・車の修理経験者を採用して技術を広げたほか、スタッフ間でのLINEグループを活用した連携により、採用難の時代でも約2ヶ月に1店舗のハイペースな店舗拡大に成功。\n・札幌市や観光協会との提携による放置スーツケース問題の解決や、韓国の人気ブランド「RAWROW」の日本修理窓口を務めるなど、事業の幅を広げている。",
       "status": "ok",
       "summarized_at": "2026-09-25T19:55:33+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "yvwvXBnimBc",
-      "url": "https://www.youtube.com/watch?v=yvwvXBnimBc",
-      "title": "【LIVE】佐々木彩乃とは何者なのか？福岡市長選",
-      "channel": "センキョタイムズ",
-      "published_at": "2026-09-25T09:49:44+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/yvwvXBnimBc/hqdefault.jpg",
-      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "福岡市長選の候補者・佐々木彩乃氏について、支持層の傾向や対立候補の動向、グローバリスト（世界規模での活動を重視する立場）的な側面などを中心に解説している。\n・佐々木彩乃氏は福岡市出身の29歳で、ボストン・コンサルティング・グループを経て、現在は「カタリスト九州」の代表を務める。\n・福岡市長選には現在12名ほどが名乗りを上げており、保守層の間では佐々木氏に対する賛否が分かれている。\n・佐々木氏は親中派やグローバリスト的であると評される一方、若い世代や女性、医療従事者としての経歴に期待する声もある。\n・動画出演者らは、佐々木氏のような候補者の台頭が保守層の有権者に与える影響や、今後の選挙戦の行方について議論している。",
-      "status": "ok",
-      "summarized_at": "2026-09-25T19:56:34+09:00",
       "retry_count": 0
     }
   ]
