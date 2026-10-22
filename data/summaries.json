@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-22T19:59:57+09:00",
+  "updated_at": "2026-10-23T01:29:47+09:00",
   "items": [
+    {
+      "video_id": "0Ri4QtEwLXs",
+      "url": "https://www.youtube.com/watch?v=0Ri4QtEwLXs",
+      "title": "Inside Texas' growing political fight over data centers",
+      "channel": "CNBC",
+      "published_at": "2026-10-22T14:00:26+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/0Ri4QtEwLXs/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "テキサス州におけるデータセンターの建設ラッシュが住民の間で反発を招いており、政治的な争点となっている。\n・テキサス州では、プロビジネスの方針と広大な土地によりデータセンターが急増し、2030年までに世界最大級の市場になる見込みである\n・一方で、住民の間では、不透明性、光公害、水資源の使用量増加、電気料金の高騰、不動産価格への影響について懸念が高まっている\n・この反発は、共和党の知事・司法長官の再選に向けた選挙戦にも影響を与える可能性がある\n・民主党のジェームズ・タラリコ州議会議員などは、データセンターが生活費、汚職、人工知能、政府の規制不足といった問題を結びつける契機になっていると指摘している",
+      "status": "ok",
+      "summarized_at": "2026-10-23T01:24:58+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "NK6C29SZWro",
+      "url": "https://www.youtube.com/watch?v=NK6C29SZWro",
+      "title": "100億企業への助言「お金を追わないこと」 #さらば青春の光 #お笑い #経営 #大学生 #会社",
+      "channel": "さらば青春の光の100億円プロジェクト",
+      "published_at": "2026-10-22T13:00:05+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/NK6C29SZWro/hqdefault.jpg",
+      "channel_id": "UChHPxF0EpS-V6iO7VRci1Ug",
+      "summary": "動画の要約は以下の通りです。\n\n100億企業への助言として「お金を追わないこと」が重要視されている。\n・100億企業への成長に向けたアドバイスとして「お金を追わないこと」が挙げられている。\n・個人では限界があるため、周りの仲間や関わる人々を大切にする姿勢が必要とされる。\n・厳しいことも言いつつ適切な関係性を築ける仲間がいることで、自然と人も金銭も増えていく。\n・最終的に「人は大事にしている」という姿勢が事業の成長において最も重要であると強調されている。",
+      "status": "ok",
+      "summarized_at": "2026-10-23T01:26:30+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "0EjYr-SfuH8",
+      "url": "https://www.youtube.com/watch?v=0EjYr-SfuH8",
+      "title": "売上755億の秘訣、数字は後からついてくる #さらば青春の光 #お笑い #建設 #大学生 #会社",
+      "channel": "さらば青春の光の100億円プロジェクト",
+      "published_at": "2026-10-22T11:00:17+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/0EjYr-SfuH8/hqdefault.jpg",
+      "channel_id": "UChHPxF0EpS-V6iO7VRci1Ug",
+      "summary": "信和グループの売上755億円達成の秘訣は、明確な数値目標の設定とアメーバ経営による各組織の独立採算化にある。\n・2012年に売上高100億円を達成し、その後も急成長を遂げた\n・「アメーバ経営」を導入し、組織を細分化して各部門で長（責任者）を立てる手法をとっている\n・各ポジションで売上や数字を明確に出し、競い合って成果を上げる体制を作っている\n・かつては曖昧だった部分もあったが、会社を分けてそれぞれで数字を管理する意識づけが成功の要因となった",
+      "status": "ok",
+      "summarized_at": "2026-10-23T01:27:50+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "ONuIRusfmzc",
       "url": "https://www.youtube.com/watch?v=ONuIRusfmzc",
@@ -61,9 +100,9 @@
       "published_at": "2026-10-22T09:00:35+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/mWMATjlUaeQ/hqdefault.jpg",
       "channel_id": "UCwPgJIiUAYhdN3AYkmm5YYA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "AIの普及により公共交通機関の変革や課題が浮き彫りになっており、実証実験や効率化が進められています。\n・大阪メトロはAIを活用し、勤務計画の作成期間を3カ月から2週間に短縮した。\n・大阪メトロのオンデマンドバスは、AIで需要を分析し相乗りルートを算出する仕組みを取り入れている。\n・東武鉄道と日立製作所は、車両メンテナンスのDXを進め、AI技術で車内の屋根や床などの目視点検の自動化を目指している。\n・AI実装における最大の課題は採算性にあり、AIの精度向上と人とAIのハイブリッド運用で収益性や業務の質の向上が図られている。",
+      "status": "ok",
+      "summarized_at": "2026-10-23T01:29:47+09:00",
       "retry_count": 0
     },
     {
@@ -2560,45 +2599,6 @@
       "summary": "天然ダイヤモンドの価格が下落した背景には、安価なラボグロウン（人工）ダイヤモンドの普及がある。\n・天然ダイヤモンド価格は、2022年の約1万ドルから2026年には約3,900ドルへと約60%急落した。\n・2026年には米国の婚約指輪の61%にラボグロウンセンター石が使用され、2020年比で239%増加した。\n・環境面でも、ラボグロウンダイヤモンドは同サイズの天然ダイヤモンドに比べ、炭素フットプリントが約90%低いとアピールされている。\n・De Beers社などの大手が採掘やブランド展開で方針転換を迫られるなど、業界構造に大きな変化が生じている。",
       "status": "ok",
       "summarized_at": "2026-09-28T01:09:35+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "lfZOA372MH4",
-      "url": "https://www.youtube.com/watch?v=lfZOA372MH4",
-      "title": "住宅ローン破産も⁉不景気入りして生活が苦しくなる理由とは？円安を止められるのか？1.25%から加速して利上げする影響をわかりやすく解説",
-      "channel": "もふもふ不動産",
-      "published_at": "2026-09-27T05:51:03+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/lfZOA372MH4/hqdefault.jpg",
-      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "・日銀が31年ぶりに政策金利を1.25%に引き上げ、さらに利上げを加速させる方針を示したことで生活や経済の悪化が懸念されている。\n・日銀が決める政策金利（短期金利）と市場で決まる国債の金利（長期金利）は別物であり、両者の動きや連動性について解説している。\n・日銀の利上げは円安を是正するための措置だが、日本の低いインフレ率や弱い経済状況の中で利上げを急ぐことへのリスクが指摘されている。\n・住宅ローンの変動金利上昇や5年ルール、125%ルールの影響について説明し、今後の利上げ局面における対策への注意を促している。",
-      "status": "ok",
-      "summarized_at": "2026-09-27T20:08:50+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "t4nZVIvufzs",
-      "url": "https://www.youtube.com/watch?v=t4nZVIvufzs",
-      "title": "博多駅前での街頭演説！",
-      "channel": "センキョタイムズ",
-      "published_at": "2026-09-27T04:32:17+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/t4nZVIvufzs/hqdefault.jpg",
-      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "・福岡市博多駅前で「命を守ろう！プロジェクト九州」および「しゃ文字一揆」による街頭活動が実施され、多くの参加者が集まった。\n・高齢化や増税、社会保険料の負担増など、現在の日本が直面する危機について訴えられた。\n・自民党の議員らが「不信任決議案」をめぐり、党内での一貫性のない動きをしていることが批判された。\n・民主党・自民党を含む既存政党に対する不信感が示され、有権者が主導して政治を取り戻す必要性が呼びかけられた。",
-      "status": "ok",
-      "summarized_at": "2026-09-27T20:09:47+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "r9xpmi1aHbs",
-      "url": "https://www.youtube.com/watch?v=r9xpmi1aHbs",
-      "title": "ソフトバンクエナジーは循環取引の懸念で上場延期 #もふもふ不動産",
-      "channel": "もふもふ不動産",
-      "published_at": "2026-09-27T00:00:39+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/r9xpmi1aHbs/hqdefault.jpg",
-      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "動画の要約は以下の通りです。\n\nソフトバンクグループ傘下のデータセンター企業の上場延期の背景には、関連企業間での循環取引の疑いがあります。\n・ソフトバンクグループはOpenAIに出資する一方で、OpenAIはSBエナジーのデータセンターのリース料を発注する関係にあります。\n・NVIDIAはOpenAIに出資や保証を行うとともに、SBエナジーなどへAIチップを提供しています。\n・資金がグループ企業や関係企業の間を循環している構造になっています。\n・SBエナジーが約8兆円規模の高額な時価総額で上場しようとしたため、循環取引の懸念から上場が延期されました。",
-      "status": "ok",
-      "summarized_at": "2026-09-27T20:10:34+09:00",
       "retry_count": 0
     }
   ]
