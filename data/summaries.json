@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-23T19:54:10+09:00",
+  "updated_at": "2026-10-24T01:16:31+09:00",
   "items": [
+    {
+      "video_id": "-IUTlm0sAc0",
+      "url": "https://www.youtube.com/watch?v=-IUTlm0sAc0",
+      "title": "Are diamonds losing their luster?",
+      "channel": "CNBC",
+      "published_at": "2026-10-23T14:00:02+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/-IUTlm0sAc0/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "天然ダイヤモンドの価格が下落している背景には、ラボで作られる人工ダイヤの普及があります。\n\n・天然ダイヤの価格は5年間で約60%下落し、2022年3月の約1万ドルから下落トレンドが続いている。\n・価格下落の主な要因は、コストが安く大量生産できる「ラボグロウンダイヤ（人工ダイヤ）」の人気急上昇。\n・ロシアの国営企業アルロサ社などの大手生産者が生産量を減少させるなど、業界構造の変化が起きている。\n・アメリカにおける2026年の婚約指輪の61%にラボグロウンダイヤのセンター石が選ばれるなど、消費者動向も大きく変化している。",
+      "status": "ok",
+      "summarized_at": "2026-10-24T01:13:56+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "ILm3MLGuXhM",
+      "url": "https://www.youtube.com/watch?v=ILm3MLGuXhM",
+      "title": "矢嶋康次【2027年世界経済に大きな屈折ない 分水嶺は超金利｜4大メガトレンド 絶対に起こしてはいけない「歴史の韻」｜ポストトランプのリーダーは】スズキノチャンネル ゲスト:矢嶋康次 10月23日配信",
+      "channel": "マーケットマスターズ",
+      "published_at": "2026-10-23T11:00:38+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/ILm3MLGuXhM/hqdefault.jpg",
+      "channel_id": "UCXvjRTXoDa8tKwdkTaukGug",
+      "summary": "・2027年までの日米などの経済動向や金利、AIなどの世界経済について鈴木一之氏と矢嶋康次氏が対談している。\n・ニッセイ基礎研究所の見通しでは、2027年まで世界経済の成長率やインフレは緩やかで、金利は上昇するものの劇的な変動はないとしている。\n・トランプ大統領後期のシナリオとして、財政悪化やインフレ・金利上昇、AIの爆発的普及などが指摘され、歴史の「因（いん）」を踏まないリスクが語られている。\n・米国の長期金利（10年国債利回り）上昇は赤信号の手前（現在約5.1%、6%台が目安）であり、AI投資の資金繰り悪化が要監視とされている。\n・トランプ政権時の大統領任期中の米国株の動向として、共和党政権は3年目に強く、株価が下がる制約要因にはならないと分析されている。",
+      "status": "ok",
+      "summarized_at": "2026-10-24T01:14:56+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "XH5vQzA5MKg",
+      "url": "https://www.youtube.com/watch?v=XH5vQzA5MKg",
+      "title": "成功者の引きの強さ! 5万円を賭けた心理戦 #さらば青春の光 #お笑い #経営 #大学生 #会社",
+      "channel": "さらば青春の光の100億円プロジェクト",
+      "published_at": "2026-10-23T11:00:21+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/XH5vQzA5MKg/hqdefault.jpg",
+      "channel_id": "UChHPxF0EpS-V6iO7VRci1Ug",
+      "summary": "成功者の「ヒキ」の強さを試す「謝礼チャレンジ」企画の検証。\n・社長のヒキを見たいという趣旨で、5万円を払うか払われるかの心理戦を展開\n・成功者として、ここで運を使いたくないという発言も出たが、運試しが行われた\n・迷いなくカードを引いた結果、「0円」を引き当てて大喜びする場面があった\n・全員の予想と裏腹な結果に、お互いの駆け引きやリアクションが盛り上がりを見せた",
+      "status": "ok",
+      "summarized_at": "2026-10-24T01:15:45+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "_08cNPNn5hk",
       "url": "https://www.youtube.com/watch?v=_08cNPNn5hk",
@@ -156,6 +195,19 @@
       "status": "failed",
       "summarized_at": null,
       "retry_count": 0
+    },
+    {
+      "video_id": "NI7TY6kjW-U",
+      "url": "https://www.youtube.com/watch?v=NI7TY6kjW-U",
+      "title": "【LIVE】福岡県議会の恥部発見！松本國寛（自民党福岡県連会長）と豊福るみ子（立憲民主党・県議会議員）のハレンチな関係・・・。",
+      "channel": "センキョタイムズ",
+      "published_at": "2026-10-23T02:40:17+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/NI7TY6kjW-U/hqdefault.jpg",
+      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 1
     },
     {
       "video_id": "CXzjvHVnkQc",
@@ -2548,58 +2600,6 @@
       "status": "ok",
       "summarized_at": "2026-09-30T02:25:10+09:00",
       "retry_count": 0
-    },
-    {
-      "video_id": "P9BTn-kxMcc",
-      "url": "https://www.youtube.com/watch?v=P9BTn-kxMcc",
-      "title": "Why Gen Z is driving the box office",
-      "channel": "CNBC",
-      "published_at": "2026-09-29T14:00:33+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/P9BTn-kxMcc/hqdefault.jpg",
-      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
-      "summary": "AIによる動画の要約は以下の通りです。\n\n近年、アメリカ・カナダの映画興行収入と動員数が回復傾向にあり、その成長を牽引しているのはZ世代とミレニアル世代です。\n・2026年時点の国内興行収入は前年同期比で12.5%増となり、年間売上は2019年以来となる100億ドル規模に達する見込み\n・Z世代やミレニアル世代は他の世代よりも映画館への来場頻度が高く、1人あたりの平均鑑賞本数も多い\n・2025年において、Z世代の映画ファンは年平均約7本の映画を鑑賞し、北米の全映画観客の約40%を占めた\n・「Z世代は外出しない」という一般的なイメージとは異なり、彼らは実際の映画館体験を好む傾向にある",
-      "status": "ok",
-      "summarized_at": "2026-09-30T02:26:12+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "oNL_Szm10qM",
-      "url": "https://www.youtube.com/watch?v=oNL_Szm10qM",
-      "title": "GACKTが「NISAやってるやつはバカなの？」で炎上…NISAとiDeCoの違いを分かりやすく解説",
-      "channel": "もふもふ不動産",
-      "published_at": "2026-09-29T12:43:02+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/oNL_Szm10qM/hqdefault.jpg",
-      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "GACKTが「NISAで利益が出る理由を誰も説明できない」と発言しSNSで炎上した件を受け、投資歴20年以上のプロ投資家がNISAとiDeCoの仕組みや正しい投資のあり方を解説している。\n・NISA自体は金融商品ではなく、株や投資信託の売買益や配当に税金がかからなくなる制度のことである。\n・NISA口座の枠内では「つみたて枠（年120万円）」と「成長枠（年240万円）」が併用でき、非課税保有限度額は計1,800万円まで拡大されている。\n・GACKTがかかわった仮想通貨プロジェクト「SPINDLE」では、過去に違法勧誘などの疑いで金融庁から資金決済法違反の指摘を受けた経緯がある。\n・NISAは純粋に投資目的の資産形成に向いており、iDeCo（60歳まで資金拘束）や他の金融商品と比較した上で自身の資金計画に合わせて活用すべきである。",
-      "status": "ok",
-      "summarized_at": "2026-09-30T02:27:56+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "AFR6c-FZahk",
-      "url": "https://www.youtube.com/watch?v=AFR6c-FZahk",
-      "title": "#さらば青春の光 #鍼灸マッサージ #訪問マッサージ #フレアス",
-      "channel": "さらば青春の光の100億円プロジェクト",
-      "published_at": "2026-09-29T11:00:18+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/AFR6c-FZahk/hqdefault.jpg",
-      "channel_id": "UChHPxF0EpS-V6iO7VRci1Ug",
-      "summary": "動画の要約は以下の通りです：\n\n・訪問マッサージ事業を手がける会社の社長が、自身の腕前や社員のレベルについてトークを繰り広げている。\n・社長は自らを「ゴッドハンド」と自称していたが、会社内にはそれ以上に上手い社員が存在している。\n・社長自身は現場に出ていないものの、マッサージの技術の基本や内容はすべて把握していると語っている。\n・現場の従業員に対しては、さらなるレベルアップが進んでいる状況であることが示されている。",
-      "status": "ok",
-      "summarized_at": "2026-09-29T20:54:45+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "o_mbou0L-NA",
-      "url": "https://www.youtube.com/watch?v=o_mbou0L-NA",
-      "title": "【LIVE】参政党・神谷宗幣の街頭演説@博多駅",
-      "channel": "センキョタイムズ",
-      "published_at": "2026-09-29T10:42:17+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/o_mbou0L-NA/hqdefault.jpg",
-      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "参政党が福岡市博多駅前で街頭演説会を開催し、多くの支持者や報道陣が集まった。\n・博多駅前での演説会には、参政党代表の神谷宗幣氏、木下俊日氏、福岡市長選に立候補予定の吉富恵子氏、参議院議員の中田有紀子氏らが登壇した。\n・吉富恵子氏は、医師としての経験から過度な医療費の削減や健康的な体を取り戻すことの重要性を訴え、福岡市長選への立候補への決意を表明した。\n・神谷宗幣氏は、グローバリズムが進む中で海外に富が流出している現状や、地方の衰退、社会全体の課題について警鐘を鳴らした。\n・中田有紀子氏は、福山市内の人口減少や医療・経済の課題に触れ、市民が主役となる市政や政治参加の必要性を強調した。",
-      "status": "ok",
-      "summarized_at": "2026-09-30T06:44:04+09:00",
-      "retry_count": 2
     }
   ]
 }
