@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T06:06:32+09:00",
+  "updated_at": "2026-10-23T11:50:59+09:00",
   "items": [
     {
       "video_id": "0Ri4QtEwLXs",
@@ -165,9 +165,9 @@
       "published_at": "2026-10-22T06:05:38+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/C7J4BL-C1kM/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "福岡市長選に立候補した佐々木あやの氏へのインタビュー。\n・佐々木氏は九州大学出身で、ボストンコンサルティンググループや一般社団法人での経験を持つ。\n・福岡市を「ダボス（世界経済フォーラム）に匹敵するアジアのトップリーダーが集まる街にしたい」と語る。\n・外国籍住民との共生や、市民目線の生活しやすい環境づくりに意欲を示している。\n・幼少期の福岡居住経験や、海外の大学院での学びが自身の政治家の原点になったと語る。",
+      "status": "ok",
+      "summarized_at": "2026-10-23T11:49:58+09:00",
       "retry_count": 0
     },
     {
@@ -178,9 +178,9 @@
       "published_at": "2026-10-22T04:30:46+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/vaxCEPWsI2o/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "福岡市長選に向け、新村まさる氏が自身の半生や政治への想いを語った。\n・新村氏は大堀高校や朝日ビールを経て政治の道を志した。\n・前回の落選時には多くの支持者に支えられ、大きな経験を得た。\n・外国人の増加や防災体制の強化など、市民に寄り添う施策を掲げる。\n・行政と市民の対話を重視し、暮らしやすい福岡市を目指す。",
+      "status": "ok",
+      "summarized_at": "2026-10-23T11:50:59+09:00",
       "retry_count": 0
     },
     {
