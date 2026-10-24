@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-24T19:07:57+09:00",
+  "updated_at": "2026-10-25T00:12:23+09:00",
   "items": [
+    {
+      "video_id": "ZYsP8qM6bPE",
+      "url": "https://www.youtube.com/watch?v=ZYsP8qM6bPE",
+      "title": "Why Young Airplanes Are Being Torn Apart For Scrap",
+      "channel": "CNBC",
+      "published_at": "2026-10-24T14:00:26+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/ZYsP8qM6bPE/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "Spirit航空の破綻等により、まだ新しい航空機やそのエンジンがリサイクルされる事例が増加している。\n・Spirit航空などの破綻やPratt & Whitney社製エンジンのリコールにより、航空機やエンジンの不足が生じている\n・部品取りの需要が高まったことで、製造から日の浅い機体（エアバスA320neoなど）が早期に解体されている\n・エンジンのレンタル料や中古エンジンの価格が急騰し、航空機本体より高価なエンジン等の部品価値が重要視されている\n・GE・アロースペースやRTXなどは修理・メンテナンス体制への投資を進めているが、多くの機体が砂漠などで待機を余儀なくされている",
+      "status": "ok",
+      "summarized_at": "2026-10-25T00:10:40+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "S75HSkTo2WI",
       "url": "https://www.youtube.com/watch?v=S75HSkTo2WI",
@@ -246,7 +259,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "video_id": "CXzjvHVnkQc",
@@ -256,9 +269,9 @@
       "published_at": "2026-10-23T02:36:26+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/CXzjvHVnkQc/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "日経平均が急落した中、個別銘柄ではAI関連の人気の差が激しく、相場に表裏がある状態です。\n・前日比の日経平均の下落と、全体の45%の銘柄が値上がりしたことのギャップ\n・ヘッジファンド（機関投資家等）のショート戦略（空売り）による影響\n・AI・半導体銘柄の人気集中と空売りの増加\n・中東不安等による原油高の懸念と市場への影響",
+      "status": "ok",
+      "summarized_at": "2026-10-25T00:12:23+09:00",
       "retry_count": 0
     },
     {
@@ -2586,19 +2599,6 @@
       "summary": "佐賀県知事の山口祥義氏がSAGAアリーナ内に知事専用の隠し部屋（飲み部屋）を隠蔽している疑惑について解説しています。\n・佐賀アリーナ内には知事専用の「S部屋」と「G部屋」という秘密の部屋が存在する\n・この部屋の存在や利用状況は県議会で非公開とされ、セキュリティを理由に情報開示が拒まれている\n・G部屋の冷蔵庫や棚には大量の高級酒やワイングラスなどが備えられており、事実上の知事専用の飲み部屋となっている\n・県はアリーナ整備等に多額の公費を投じているが、知事専用施設の有無や利用実態について不透明な点が多い",
       "status": "ok",
       "summarized_at": "2026-09-30T20:46:30+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "1KRzn3zh3IQ",
-      "url": "https://www.youtube.com/watch?v=1KRzn3zh3IQ",
-      "title": "2026年9月30日【さぁ10月相場だ！　米利上げ観測後退】（市況放送【毎日配信】）",
-      "channel": "朝倉慶のASK1",
-      "published_at": "2026-09-30T07:37:24+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/1KRzn3zh3IQ/hqdefault.jpg",
-      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "9月30日の日経平均株価は前日比1,272円高の66,753円と大幅続伸し、3営業日ぶりに反発した。\n・サウジアラビアの主要パイプラインの半分解除を受けた安心感から、主要3指数はまちまちの展開で始まった。\n・FOMC（米連邦公開市場委員会）高官による追加利上げ支持発言で長期金利が上昇し、指数は下落に転じた。\n・東京株式市場では中東情勢の警戒が和らぎ、半導体関連や電線などの買いが先行して上げ幅を拡大した。\n・個別銘柄ではテイクアンドギブ・ニーズが株主優待制度の導入を発表して買われ、ソフトバンクグループは米オープンAIの資金調達計画を受けて上昇した。",
-      "status": "ok",
-      "summarized_at": "2026-09-30T20:47:39+09:00",
       "retry_count": 0
     }
   ]
