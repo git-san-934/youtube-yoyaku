@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T05:54:13+09:00",
+  "updated_at": "2026-10-24T11:50:49+09:00",
   "items": [
     {
       "video_id": "-IUTlm0sAc0",
@@ -139,9 +139,9 @@
       "published_at": "2026-10-23T08:21:33+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/UNCzWm6jU84/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "米国株の市場は依然として下落トレンドではなく、長期的な視点では堅調であると解説した動画。\n・ダウ平均株価やナスダックなどの米国株インデックスは年初来および過去5年で大きく上昇している。\n・個別株の投資においては、高値掴みを避け、インデックス投資を土台にしつつバランスを取ることが重要である。\n・SpaceXが提供する衛星通信サービス「Starlink（スターリンク）」のルーマンプランを活用したテスラ車のV2L（Vehicle to Load）機能のアップデートに注目している。",
+      "status": "ok",
+      "summarized_at": "2026-10-24T11:47:01+09:00",
       "retry_count": 0
     },
     {
@@ -152,9 +152,9 @@
       "published_at": "2026-10-23T08:05:25+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/oPwCXaJ7I-0/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "10月23日金曜日の市場解説。\n・日経平均株価は前日比214円安の62,693円、TOPIXは3,965、ドル円は156.96円、ユーロ円は176.00円で推移。\n・米市場ではハイテク株の売買やセクターローテーション、モルダナのワクチンを巡る報道等からダウやナスダックが下落。\n・東京市場でも、前日の米市場におけるハイテク株安や半導体関連銘柄の下落を受けて売りが先行。\n・メルカリがペルソナAIエージェント「ミュズ」提供開始の好材料で上昇、大塚ホールディングスや日本光電工業等の個別銘柄について解説。",
+      "status": "ok",
+      "summarized_at": "2026-10-24T11:47:56+09:00",
       "retry_count": 0
     },
     {
@@ -165,9 +165,9 @@
       "published_at": "2026-10-23T07:24:42+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/RdrvO3iUNcQ/hqdefault.jpg",
       "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "AIの処理に不可欠な超高級メモリ「HBM」が、高度な技術力を要するため世界で3社しか作れない理由と今後の展望について解説している。\n\n・SKハイニックス、サムスン、マイクロンの3社がHBM市場をほぼ独占している。\n・HBM製造には高い技術が必要なため、中国のCXMTなどの新規参入は難しい。\n・HBMは価格が高く、メモリメーカーに大きな利益をもたらしている。\n・今後はNAND型フラッシュメモリを活用した安価で大容量化するトレンドが予想される。\n・GPUとHBM間の爆速なやり取りが必須なため、HBMの重要性は今後も変わらない。",
+      "status": "ok",
+      "summarized_at": "2026-10-24T11:48:43+09:00",
       "retry_count": 0
     },
     {
@@ -178,9 +178,9 @@
       "published_at": "2026-10-23T05:07:34+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/fbPcQ3APmPo/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "福岡市長選挙に2026年出馬予定の稲冨修二氏へのインタビュー動画。\n・稲冨修二氏は衆議院議員などの経歴を持ち、現在は無所属で活動している。\n・福岡市における福祉や経済の現状について、独自の視点から政策や課題を語っている。\n・外国人労働者の受け入れをはじめとする各種施策の重要性を指摘している。\n・SNSなどを活用した情報発信や、今後の活動方針についても言及している。",
+      "status": "ok",
+      "summarized_at": "2026-10-24T11:50:49+09:00",
       "retry_count": 0
     },
     {
