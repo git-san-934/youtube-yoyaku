@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T00:12:23+09:00",
+  "updated_at": "2026-10-25T05:02:33+09:00",
   "items": [
     {
       "video_id": "ZYsP8qM6bPE",
@@ -259,7 +259,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 2
+      "retry_count": 3
     },
     {
       "video_id": "CXzjvHVnkQc",
