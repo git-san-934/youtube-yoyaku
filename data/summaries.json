@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-25T19:29:50+09:00",
+  "updated_at": "2026-10-26T00:22:28+09:00",
   "items": [
+    {
+      "video_id": "keAEh70anhs",
+      "url": "https://www.youtube.com/watch?v=keAEh70anhs",
+      "title": "Why Investors Love Wonder",
+      "channel": "CNBC",
+      "published_at": "2026-10-25T14:00:30+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/keAEh70anhs/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "実業家のマーク・ロアが創業したフードデリバリー・飲食店プラットフォームの「Wonder」のビジネスモデル、成長戦略、および課題について解説している。\n・Wonderは、30以上のレストランの食事を1か所で調理・提供する「フードホール」とデリバリーのハイブリッド型サービスを展開している。\n・スパイス（Spyce）の「Infinite Makeline（自動調理技術）」やAIを活用した「Wonder Create」により、低コストかつ効率的な多店舗展開やブランド立ち上げを目指している。\n・これまでにGoogleやネスレなどから30億ドル以上を調達し、評価額は9億ドル以上に達しているが、高額な買収や設備投資による巨額の赤字も報じられている。\n・今後はニューヨーク中心の展開からテキサス州への進出などエリア拡大を進めているが、競合との激しい市場競争や顧客の定着化、収益性の向上が今後の課題となっている。",
+      "status": "ok",
+      "summarized_at": "2026-10-26T00:22:28+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "D0igUQDsPbM",
       "url": "https://www.youtube.com/watch?v=D0igUQDsPbM",
@@ -2586,19 +2599,6 @@
       "summary": "訪問医療マッサージ等における利用者との信頼関係や、現場スタッフの異変察知能力を紹介している。\n・利用歴2年の60代後半の男性に対し、訪問時に血圧などを計測・記録している。\n・施術中、スタッフは「お疲れ様」「マッサージやってきますよ」と優しく声をかけている。\n・2年間で培った信頼関係により、異変にも気づきやすい環境が築かれている。",
       "status": "ok",
       "summarized_at": "2026-09-30T20:42:33+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "y_DIQoXyoVk",
-      "url": "https://www.youtube.com/watch?v=y_DIQoXyoVk",
-      "title": "臨時配信！中国の兵法そのままのやり口に踊らされるな！岩屋訪中と日中関係を紐解く",
-      "channel": "髙橋洋一チャンネル",
-      "published_at": "2026-09-30T09:12:52+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/y_DIQoXyoVk/hqdefault.jpg",
-      "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "・岩屋前外務大臣の訪中と中国の兵法書「六韜（中国の古典）」との類似性について考察した動画。\n・岩屋氏は日本国際貿易促進協会の新会長として訪中し、王毅外相や福田元首相らと会談した。\n・王毅外相は「未来」「経済」を強調、福田元首相は日本企業の中国進出を歓迎し、高市氏の発言修正を求めた。\n・日中関係改善の動きの背後には、中国の古典「六韜」における「無能な相手ほど厚遇し有能なものは冷遇する」という外交戦略があるのではないかと指摘している。\n・岩屋氏に対する手厚い待遇や発言内容が「六韜」の戦略に合致していると著者は分析している。",
-      "status": "ok",
-      "summarized_at": "2026-09-30T20:44:32+09:00",
       "retry_count": 0
     }
   ]
