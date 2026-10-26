@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-26T21:04:38+09:00",
+  "updated_at": "2026-10-27T07:11:37+09:00",
   "items": [
+    {
+      "video_id": "jAncH1JCTZc",
+      "url": "https://www.youtube.com/watch?v=jAncH1JCTZc",
+      "title": "China wants in on U.S. AI data center boom",
+      "channel": "CNBC",
+      "published_at": "2026-10-26T14:00:08+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/jAncH1JCTZc/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "中国のメーカーPrefabDCは、米国のAIデータセンターのブームに参入しようとしている。\n・米国のデータセンター数は5427で、中国（449）を大きく上回り需要が急増している\n・米国では需要過多やサプライチェーンの課題で供給不足が起きており、建設には2〜3年かかる\n・中国企業PrefabDCは、プレハブ方式（モジュール式の事前製造）により建設期間を半減させている\n・米国内ではサイバーセキュリティリスクや中国への依存を懸念する声もある",
+      "status": "ok",
+      "summarized_at": "2026-10-27T07:09:29+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "Ilkei_CZw8I",
       "url": "https://www.youtube.com/watch?v=Ilkei_CZw8I",
@@ -35,9 +48,9 @@
       "published_at": "2026-10-26T08:34:22+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/fG60-buqwn8/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "アンソロピックの目論見書を基に財務状況やIPO計画の解説を行っている。\n・アンソロピックがIPO申請し、最大1,000億ドルの調達を目指す\n・2025年6月期までの売上高は増加しているが、巨額の営業損失が続いている\n・転換優先株の評価損などが最終損益を大きく押し下げる要因となっている\n・今週はFOMCやビッグテックの決算発表が予定され、市場への影響が注目される",
+      "status": "ok",
+      "summarized_at": "2026-10-27T07:10:28+09:00",
       "retry_count": 1
     },
     {
@@ -61,9 +74,9 @@
       "published_at": "2026-10-26T02:33:39+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/KvstO0DwC30/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "参政党は、2027年の統一地方選挙に向け、佐賀県知事選挙の公認候補予定者として吉田ゆかり氏を擁立し、政策協定を締結した。\n・神谷宗幣代表は、新幹線の未接続解消や外国人労働者問題などを理由に、佐賀県支部からの推薦要請を受理したと説明した。\n・吉田ゆかり氏は、無所属での出馬予定としつつ、保守系政党として新幹線の早期開業や教育・医療体制の充実を図りたいと述べた。\n・記者からは、佐賀空港の機能拡張や外国人労働者の受け入れルール整備などに関する質問が出され、両氏が党の考えを示した。",
+      "status": "ok",
+      "summarized_at": "2026-10-27T07:11:37+09:00",
       "retry_count": 0
     },
     {
@@ -2586,19 +2599,6 @@
       "summary": "動画の要約は以下の通りです。\n\n金融政策を重視する「リフレ派」の定義や、経済政策を多面的に捉える自身の考え方について解説している。\n・リフレ派とは金融政策を重視・限定する立場とされるが、多くの人は雰囲気やレッテル貼りで使っている\n・経済政策は金融や財政、ミクロ政策など複数の要素（連立方程式）が絡み合うため単一の政策だけで語るべきではない\n・マスコミや一般には複雑な話を1つの要素にまとめて「〇〇派」と二分したがる傾向がある\n・高市早苗大臣に関する報道等も同様に、過去の安倍政権時からのフェーズの変化に伴う説明の仕方の違いに過ぎない",
       "status": "ok",
       "summarized_at": "2026-10-01T21:17:59+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "_J7MOlniNHM",
-      "url": "https://www.youtube.com/watch?v=_J7MOlniNHM",
-      "title": "【アクセンチュア】AIが迫るパワポコンサルの終焉｜「コンサル不要論」への対抗戦略｜切り札は新人材「RDE」 育成現場に潜入",
-      "channel": "日経クロステック【公式】",
-      "published_at": "2026-10-01T09:00:08+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/_J7MOlniNHM/hqdefault.jpg",
-      "channel_id": "UCwPgJIiUAYhdN3AYkmm5YYA",
-      "summary": "生成AIの台頭で「コンサル不要論」が囁かれる中、大手アクセンチュアがどのように対抗し変革に挑んでいるかを追う。\n・2026年6月、アクセンチュアは8月期の業績予測の下方修正を発表し、株価が一時19%下落するなど影響が表面化した。\n・こうした動きに対抗するため、AIを活用し少人数で戦略立案からエンジニアリングまで幅広いサービスを提供する新しい職種「RDE（リーンべンション・デプロイド・エンジニア）」の育成に注力している。\n・RDEの育成現場では、非エンジニアとエンジニアが2人1組のタッグを組み、AIを用いて短期間で課題解決アプリを作成する研修を実施している。\n・米アクセンチュアのジュリー・スウィートCEOや日本法人の浜岡社長への取材を通じ、資料作成などの単純な業務はAIに代替される一方で、「変革屋」としての人の変革をやり切る高度なコンサルティングの価値はむしろ高まっていると指摘している。",
-      "status": "ok",
-      "summarized_at": "2026-10-02T07:18:03+09:00",
       "retry_count": 0
     }
   ]
