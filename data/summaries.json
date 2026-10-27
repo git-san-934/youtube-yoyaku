@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-27T07:11:37+09:00",
+  "updated_at": "2026-10-27T20:26:14+09:00",
   "items": [
+    {
+      "video_id": "GYGIoqg3_mM",
+      "url": "https://www.youtube.com/watch?v=GYGIoqg3_mM",
+      "title": "1612回　GMOがやられた原因は脆弱システムとずさんな技術ホワイトハッカーが泣く",
+      "channel": "髙橋洋一チャンネル",
+      "published_at": "2026-10-27T09:16:27+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/GYGIoqg3_mM/hqdefault.jpg",
+      "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
+      "summary": "GMOの不正アクセス問題と能動的サイバー防御の要請を巡るリスクや背景の考察。\n・GMOインターネットグループの熊谷正寿会長兼社長が政府に「能動的サイバー防御」の適用を要請した\n・ホワイトハッカーとしての技術を自負していた同社が不正アクセスを受けたことについて、経営判断のミスだったと分析している\n・仮想プライベートサーバーやリモートデスクトッププロトコル等のITインフラの仕組み上、同社のシステムだけでなく顧客のPCや情報資産にも被害が及ぶリスクを指摘している\n・金融や証券・FX取引などを行う顧客層のパソコンが乗っ取られた場合の深刻さや、その対応としての電源オフ要請の妥当性について言及している",
+      "status": "ok",
+      "summarized_at": "2026-10-27T20:24:21+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "P8ruC0ZWhGI",
+      "url": "https://www.youtube.com/watch?v=P8ruC0ZWhGI",
+      "title": "2026年10月27日【日経1078円高　今週ハイパースケーラー決算　11/3中間選挙】（市況放送【毎日配信】）",
+      "channel": "朝倉慶のASK1",
+      "published_at": "2026-10-27T09:01:46+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/P8ruC0ZWhGI/hqdefault.jpg",
+      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
+      "summary": "10月27日火曜日の株式市場の動向について解説している。\n・日経平均株価は63,268円で、前日比＋1078円と大幅に上昇した。\n・米国のアンスロピックのIPO申請を契機にAI需要への期待が高まり、半導体などハイテク株を中心に買いが集まった。\n・個別銘柄ではリコー（7752）などが買われた一方、アモノ（6436）は連結純利益が前期比28%減となる予想を発表し下落した。\n・今後は米国での主要企業の決算発表や中東の選挙・戦争の動向などが注目される。",
+      "status": "ok",
+      "summarized_at": "2026-10-27T20:25:29+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "qd80-uXPQWI",
+      "url": "https://www.youtube.com/watch?v=qd80-uXPQWI",
+      "title": "コカコーラ、ペイパル、UPS、ボーイング決算発表！解説します！花子の毎日米国株ニュース今夜２２時半から！",
+      "channel": "高校生でも分かる米国株",
+      "published_at": "2026-10-27T08:16:04+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/qd80-uXPQWI/hqdefault.jpg",
+      "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 1
+    },
     {
       "video_id": "jAncH1JCTZc",
       "url": "https://www.youtube.com/watch?v=jAncH1JCTZc",
@@ -2560,45 +2599,6 @@
       "summary": "マイクロンの2026年度第4四半期決算は売上高が前年比4.5倍、利益が12倍となる記録的な爆益を達成しました。\n・売上高は54.2億ドル（約8兆円）で、特にDRAM（半導体メモリ）やHBM（AI向け高帯域幅メモリ）の売上が急増しています。\n・長期の戦略的顧客契約（SCA）を通じて大半の売上を確保し、既に5兆円規模の現金を前払いされている状況です。\n・2027〜2028年もメモリの需要過小が予想され、各社が巨額の設備投資（Capex）を前倒しで進めています。\n・ハイパースケーラー（大規模データセンター事業者）の巨額投資による需要持続や、支払い能力に対する懸念も指摘されています。",
       "status": "ok",
       "summarized_at": "2026-10-01T21:13:08+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "9FZjrXMfsq0",
-      "url": "https://www.youtube.com/watch?v=9FZjrXMfsq0",
-      "title": "#さらば青春の光 #スーツケース #修理 #株式会社カルチャーズジャパン",
-      "channel": "さらば青春の光の100億円プロジェクト",
-      "published_at": "2026-10-01T11:00:02+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/9FZjrXMfsq0/hqdefault.jpg",
-      "channel_id": "UChHPxF0EpS-V6iO7VRci1Ug",
-      "summary": "お笑いコンビ・さらば青春の光のYouTubeチャンネルで、スーツケース修理専門店が紹介された。\n\n・さらば青春の光がスーツケース修理専門店にリアル潜入した\n・ボキボキに破損したスーツケースも綺麗に修理可能であることを実演した\n・韓国の「RAWROW（ロウロウ）」というブランドの店舗であると紹介された\n・番組内で新品のスーツケースがプレゼントされるサプライズがあり出演者が驚いた",
-      "status": "ok",
-      "summarized_at": "2026-10-01T21:14:07+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "zreJeXj5cSE",
-      "url": "https://www.youtube.com/watch?v=zreJeXj5cSE",
-      "title": "2026年10月1日【日経平均2200円高　今後の業績相場に期待】（市況放送【毎日配信】）",
-      "channel": "朝倉慶のASK1",
-      "published_at": "2026-10-01T09:00:53+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/zreJeXj5cSE/hqdefault.jpg",
-      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "10月1日の株式市場は、前日の米国市場でアドバンテストなどの半導体関連株が好決算を受けて上昇した流れを受け、日経平均株価が大幅に値を上げ6万8,000円台で取引を終えた。\n・10月1日の日経平均株価は6万8,956円（前日比＋2,203円）、TOPIXは4,131（＋23）、グロース250は800（＋2）となった。\n・アドバンテストやエレクトロンなどの半導体関連株が、米マイクロン・テクノロジーの好決算やAI関連需要の強さを背景に大きく値を上げた。\n・スルガ銀行が27年3月期の連結業績予想の上方修正と増配を発表し、上場来高値を更新した。\n・為替はドル円が158円21銭、ユーロ円が179円11銭で推移した。",
-      "status": "ok",
-      "summarized_at": "2026-10-01T21:16:12+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "_5M92YfFGj0",
-      "url": "https://www.youtube.com/watch?v=_5M92YfFGj0",
-      "title": "1594回　リフレ派のレッテル貼りは理解出来ないマスゴミの手法【私の考え方を教えます】",
-      "channel": "髙橋洋一チャンネル",
-      "published_at": "2026-10-01T09:00:14+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/_5M92YfFGj0/hqdefault.jpg",
-      "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "動画の要約は以下の通りです。\n\n金融政策を重視する「リフレ派」の定義や、経済政策を多面的に捉える自身の考え方について解説している。\n・リフレ派とは金融政策を重視・限定する立場とされるが、多くの人は雰囲気やレッテル貼りで使っている\n・経済政策は金融や財政、ミクロ政策など複数の要素（連立方程式）が絡み合うため単一の政策だけで語るべきではない\n・マスコミや一般には複雑な話を1つの要素にまとめて「〇〇派」と二分したがる傾向がある\n・高市早苗大臣に関する報道等も同様に、過去の安倍政権時からのフェーズの変化に伴う説明の仕方の違いに過ぎない",
-      "status": "ok",
-      "summarized_at": "2026-10-01T21:17:59+09:00",
       "retry_count": 0
     }
   ]
