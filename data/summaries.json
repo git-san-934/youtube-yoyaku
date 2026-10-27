@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-27T20:26:14+09:00",
+  "updated_at": "2026-10-28T02:12:32+09:00",
   "items": [
+    {
+      "video_id": "XXlilW6RaVI",
+      "url": "https://www.youtube.com/watch?v=XXlilW6RaVI",
+      "title": "Why The Measles Outbreak Signals A Bigger Problem In The U.S.",
+      "channel": "CNBC",
+      "published_at": "2026-10-27T14:00:22+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/XXlilW6RaVI/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "アメリカで20年ぶりの大規模な麻疹（はしか）の流行が発生し、公衆衛生上の重大な懸念となっている。\n・米国における2026年の麻疹患者数は4,400人を超え、1991年以降で最悪の規模となっている\n・幼稚園におけるMMR（麻疹・おたふく風邪・風疹）ワクチンの接種率は92.4%と、推奨される95%を下回っている\n・トランプ政権によるワクチンの分割接種の提案や、CDC（疾病対策センター）等の機関での職員解雇・予算削減が懸念材料として挙げられている\n・専門家は、こうした公衆衛生上の脆弱性が、将来の新たな感染症危機への対応を複雑化させると指摘している",
+      "status": "ok",
+      "summarized_at": "2026-10-28T02:09:50+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "cOiUQ8LdHVU",
+      "url": "https://www.youtube.com/watch?v=cOiUQ8LdHVU",
+      "title": "GMOの顧客情報流出、ハッカー曰く1行消せば防げたのか #ハッキング #お名前FX #もふもふ不動産",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-10-27T13:16:18+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/cOiUQ8LdHVU/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "GMOのFX自動売買ツールがハッキングされ顧客情報が流出した事件について、GMO側とハッカー側の主張の違いや対策が解説されている。\n・GMO側は、社内のホワイトハッカーから事前に課題を指摘されていたが、サービスの可動性などを考慮して慎重に対応を進めた結果、対応が遅れ攻撃者に入り込まれたと主張している。\n・ハッカー側はブログで、RDP（リモートデスクトップ）の脆弱性について「.rdpファイルから1行削除するだけ」で簡単に防げたと指摘している。\n・問題の1行（drivestoredirect:s:*）を削除することで、リモートデスクトップ接続時にドライブを見えなく設定でき、被害を防げたとしている。\n・ハッカー側が親切に対策方法を指摘している状態である。",
+      "status": "ok",
+      "summarized_at": "2026-10-28T02:10:38+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "uZd1-sDlaLU",
+      "url": "https://www.youtube.com/watch?v=uZd1-sDlaLU",
+      "title": "ハッカーの手口とは？どうやって個人情報を取得したか？GMOサイバー攻撃で自分が被害にあわないためにはどうするべき？",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-10-27T11:41:52+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/uZd1-sDlaLU/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "GMOのFX自動売買ツール（VPS）がハッキングされ、顧客の資産損失および個人情報流出の被害が発生した。\n・ハッカーの主張によると、VPSネットワークにActive Directory（Windowsの管理システム）環境が使われ、管理アカウントが共通化されていたことが侵害の要因とされた。\n・VPS接続時にローカルPCのドライブがデフォルトで共有される設定になっていたため、顧客のローカルPC内の情報まで流出した。\n・ハッカー側はブログを通じて脆弱性の原因や対策（RDPファイルから1行削除するなど）を公開している。\n・GMOインターネットグループの熊谷代表は、ホワイトハッカーからの指摘への対応速度が不十分であったとブログで言及している。",
+      "status": "ok",
+      "summarized_at": "2026-10-28T02:11:32+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "GYGIoqg3_mM",
       "url": "https://www.youtube.com/watch?v=GYGIoqg3_mM",
@@ -35,9 +74,9 @@
       "published_at": "2026-10-27T08:16:04+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/qd80-uXPQWI/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "米株は小幅上昇し、企業決算やFOMC結果への注目が高まる中、主要企業のQ3（第3四半期）決算が解説された。\n・米企業はAI投資の巨額コストと回収への不安、金利の据え置きや追加利上げ観測が意識されている。\n・コカ・コーラは売上高と利益がともに増加し、通期見通しを上方修正した。\n・ペイパルは取引利用が伸び通期見通しを上方修正したものの、利益は減少した。\n・UPSは外部委託費用や燃料料金の増加により営業利益・純利益が減少した。\n・ボーイングは航空機事業が苦戦するも、防衛サービス事業が成長を支えた。",
+      "status": "ok",
+      "summarized_at": "2026-10-28T02:12:32+09:00",
       "retry_count": 1
     },
     {
@@ -2560,45 +2599,6 @@
       "summary": "動画の内容を要約しました。\n\n- 福岡県庁で行われる樋口県議の記者会見に際し、記者クラブ側から外部メディアの参加が拒否されたトラブルが語られている。\n- 福岡県庁の8階記者会見室前において、ゼニキョウタイムズの出演者2人が取材規制の不当さや対応への不満について議論している。\n- 過去の不祥事や処分を巡る自民党内の対応の甘さ、一連の対応に一貫性がない点について問題視している。\n- 樋口県議が姿を現した際に直接質問や撮影を試みたものの、最終的に取材が制限される様子が映されている。",
       "status": "ok",
       "summarized_at": "2026-10-03T06:47:47+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "Mh6re_AX26Q",
-      "url": "https://www.youtube.com/watch?v=Mh6re_AX26Q",
-      "title": "How circuit boards could be the next AI chokepoint",
-      "channel": "CNBC",
-      "published_at": "2026-10-01T14:00:22+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/Mh6re_AX26Q/hqdefault.jpg",
-      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
-      "summary": "AIブームや地政学的リスクにより、半導体の基盤となるプリント基板（PCB）のサプライチェーンが新たなボトルネックとして懸念されている。\n・AIサーバーや防衛装備品に不可欠なPCBの大部分が中国で生産されており、安全保障上のリスクが指摘されている\n・世界的なAIサーバー向けチップの需要急増と、ウクライナ・中東での紛争の影響が重なり、基板の供給不足と価格高騰を招いている\n・アメリカ国防総省は、米国内の製造能力を高め、中国製への依存を減らす方針を示している\n・米国の主要メーカーであるTTMなどが国内生産を強化し、サプライチェーンの再構築を図っている",
-      "status": "ok",
-      "summarized_at": "2026-10-02T07:12:37+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "-gHAE8e0qLo",
-      "url": "https://www.youtube.com/watch?v=-gHAE8e0qLo",
-      "title": "マイクロン9〜11月の売上高4.5倍の見通し",
-      "channel": "もふもふ不動産",
-      "published_at": "2026-10-01T12:59:11+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/-gHAE8e0qLo/hqdefault.jpg",
-      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "・マイクロンの9〜11月期の売上高は4.5倍、営業利益は前年同期比12倍の爆益になる見通し\n・マイクロンの戦略的長期契約（SCA）の締結はこれまでに26件に上り、2030年までの売上の約35%を占める\n・マイクロンの市場見通しでは、2027年・2028年のメモリ（DRAM）は2026年よりも大幅にひっ迫すると予想している\n・DRAMのクリーンルーム増設計画を考慮しても、顧客からの強い需要動向を踏まえると需給が均衡に戻る時期は見通せないとしている",
-      "status": "ok",
-      "summarized_at": "2026-10-02T07:14:47+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "_AWQ_QpVbyE",
-      "url": "https://www.youtube.com/watch?v=_AWQ_QpVbyE",
-      "title": "【決算解説】マイクロン爆益！メモリ不足がずっと継続。キオクシアにも追い風。元キオクシア研究開発者が解説",
-      "channel": "もふもふ不動産",
-      "published_at": "2026-10-01T11:30:47+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/_AWQ_QpVbyE/hqdefault.jpg",
-      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "マイクロンの2026年度第4四半期決算は売上高が前年比4.5倍、利益が12倍となる記録的な爆益を達成しました。\n・売上高は54.2億ドル（約8兆円）で、特にDRAM（半導体メモリ）やHBM（AI向け高帯域幅メモリ）の売上が急増しています。\n・長期の戦略的顧客契約（SCA）を通じて大半の売上を確保し、既に5兆円規模の現金を前払いされている状況です。\n・2027〜2028年もメモリの需要過小が予想され、各社が巨額の設備投資（Capex）を前倒しで進めています。\n・ハイパースケーラー（大規模データセンター事業者）の巨額投資による需要持続や、支払い能力に対する懸念も指摘されています。",
-      "status": "ok",
-      "summarized_at": "2026-10-01T21:13:08+09:00",
       "retry_count": 0
     }
   ]
