@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-28T20:58:08+09:00",
+  "updated_at": "2026-10-29T03:02:32+09:00",
   "items": [
+    {
+      "video_id": "2I3D4pUQnAU",
+      "url": "https://www.youtube.com/watch?v=2I3D4pUQnAU",
+      "title": "【決算解説】Hynixが爆益でメモリが足らない！キオクシアも株価爆上げ！シリコンサイクルは来ない？",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-10-28T13:08:17+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/2I3D4pUQnAU/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "SK Hynixの爆益とメモリ需要の高まりについて解説している。\n・SK Hynixの2026年第3四半期決算は、売上高約12兆円、営業利益約10兆円と過去最高を記録した。\n・HBM（AI向け広帯域メモリ）の出荷増加や長期契約により、2030年までメモリの供給不足が続くと見込まれている。\n・好調な業績を受け、SK Hynixは大規模な自社株買いや増配などの株主還元を予定している。\n・AIバブル崩壊や顧客の支払い不能リスクなどの懸念材料も残されている。",
+      "status": "ok",
+      "summarized_at": "2026-10-29T02:51:05+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "IRrwL8cgvmM",
       "url": "https://www.youtube.com/watch?v=IRrwL8cgvmM",
@@ -25,7 +38,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "video_id": "dIQ4m5iU6f0",
@@ -61,9 +74,9 @@
       "published_at": "2026-10-28T07:23:55+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/bDNW6sOCFm0/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "10月28日の株式市場は米国の株高や原油価格の下落を好感して日経平均株価などが上昇した。\n・10月28日の日経平均株価は63,954円（+685円）と大幅上昇。\n・米国市場でのAI関連株の買いや原油価格の下落が市場を下支えした。\n・個別では村田製作所などがAI半導体関連の買いで上昇し、GMOインターネットグループなどはサイト閉鎖の懸念後退で買われた。\n・キヤノンは営業利益が市場予想を上回った一方、業績の下方修正が嫌気されて売られた。",
+      "status": "ok",
+      "summarized_at": "2026-10-29T02:57:26+09:00",
       "retry_count": 0
     },
     {
@@ -77,7 +90,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 0
+      "retry_count": 1
     },
     {
       "video_id": "XXlilW6RaVI",
@@ -2586,19 +2599,6 @@
       "summary": "破損したキャリーケースを新品同様に修理する技術を紹介している動画。\n\n・ひび割れやボディのバキバキに破損したスーツケースでもきれいに修理できる\n・キャスター、ボディクリーニング、破損などあらゆる修理に対応している\n・割れを塞いでから塗装をかけることで、まるで新品のような見た目に蘇る\n・本体を丸ごと買い替えるわけではなく、元のケースを修理して再利用している",
       "status": "ok",
       "summarized_at": "2026-10-02T20:42:18+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "h75a6M4xZYc",
-      "url": "https://www.youtube.com/watch?v=h75a6M4xZYc",
-      "title": "木野内栄治【ルービン立ち上がった模様『 テック9・１０月増産確認 来年テック相場へ』米防衛株軟化で原油価格も軟化と判断｜FRBマンデート 米年内利上げないか⁉】スズキノチャンネル♯57 10/2配信",
-      "channel": "マーケットマスターズ",
-      "published_at": "2026-10-02T10:00:32+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/h75a6M4xZYc/hqdefault.jpg",
-      "channel_id": "UCXvjRTXoDa8tKwdkTaukGug",
-      "summary": "テックス9-10月増産確認とルービン立ち上がりによる来年テック相場の展望\n・NVIDIAの新型GPU「ルービン」が7月からサンプル出荷され、韓国のHBM（AI用半導体）生産調整報道や歩留まり悪化に伴う原油ピークアウトが確認された\n・エヌビディアの新製品発売時は粗利率が一時悪化しやすく、過去のブラックウェル発売時も日経平均三兄弟が伸び悩む調整局面となった\n・日本の鉱工業生産統計の電子部品デバイス工業や生産用機械工業の数値から、9月・10月は半導体等の増産やルービン新製品の立ち上がりが見込まれる\n・10月上旬の米雇用統計や米CPIで利下げ回数の織り込みが低下し、FRBのマンデートにおける物価安定・最大雇用・最適な長期金利の観点から市場に影響を与えている",
-      "status": "ok",
-      "summarized_at": "2026-10-02T20:45:48+09:00",
       "retry_count": 0
     }
   ]
