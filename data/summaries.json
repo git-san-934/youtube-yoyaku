@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-29T21:07:49+09:00",
+  "updated_at": "2026-10-30T07:23:56+09:00",
   "items": [
+    {
+      "video_id": "x6-PQBktIwQ",
+      "url": "https://www.youtube.com/watch?v=x6-PQBktIwQ",
+      "title": "The 'Socialist' Bank Thriving In Trump Country",
+      "channel": "CNBC",
+      "published_at": "2026-10-29T14:00:29+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/x6-PQBktIwQ/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "ノースダコタ州立銀行（BND）は、全米で唯一の州有銀行であり、地域経済の安定や危機時の救済に大きく貢献している。\n・BNDは5年前に閉鎖の危機にあったコール・クリーク発電所の買収に際し、1億5000万ドルの債券購入などで資金面を支援した。\n・州有銀行であるため利益を州の一般基金に還元し、これまで約19億ドルを拠出して低税率や財政の安定を支えている。\n・商業銀行のような連邦預金保険（FDIC）の代わりに州の全額信頼と信用で預金が保証されている。\n・マサチューセッツ州やワシントン州など他州でもノースダコタ州をモデルにした公有銀行設立の動きが見られる。",
+      "status": "ok",
+      "summarized_at": "2026-10-30T07:16:19+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "PiROf9b-osQ",
       "url": "https://www.youtube.com/watch?v=PiROf9b-osQ",
@@ -9,9 +22,9 @@
       "published_at": "2026-10-29T09:32:53+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/PiROf9b-osQ/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "・米株市場の下落とFOMC金利据え置き、アルファベットやマイクロソフトなどの決算、PCE物価指数の発表について解説している\n・FOMCは金利据え置きとなったが、市場は12月の利上げを強く意識している\n・米9月PCE物価指数は前年同月比3.6%上昇と予想通りだった\n・アルファベットは決算で検索広告の業績期待外れやAI関連の支出増が嫌気され大幅下落した\n・マイクロソフトはキャッシュフローが市場予想を上回り好感されたが、時間外取引ではマイナスとなった",
+      "status": "ok",
+      "summarized_at": "2026-10-30T07:17:44+09:00",
       "retry_count": 1
     },
     {
@@ -61,9 +74,9 @@
       "published_at": "2026-10-29T08:00:29+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/SLvVrStY2ao/hqdefault.jpg",
       "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "SKハイニックスの決算でメモリ不足の長期化が示唆され、関連するキオクシア株も急騰した。\n\n・SKハイニックスの7〜9月期は営業利益が約10兆円規模の爆益となった\n・メモリ不足は2030年まで続く見込みで、AIや自動運転・ロボット向けの需要が増加する\n・AIなどで人間の頭脳のように数百ギガバイトのメモリ搭載が必要になる\n・ハイニックスの決算やメモリ不足の継続を受け、キオクシアの株価も13%超上昇した",
+      "status": "ok",
+      "summarized_at": "2026-10-30T07:18:31+09:00",
       "retry_count": 0
     },
     {
@@ -77,7 +90,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 0
+      "retry_count": 1
     },
     {
       "video_id": "2I3D4pUQnAU",
@@ -2587,19 +2600,6 @@
       "status": "ok",
       "summarized_at": "2026-10-04T20:38:52+09:00",
       "retry_count": 0
-    },
-    {
-      "video_id": "nmxaG-2f_Pw",
-      "url": "https://www.youtube.com/watch?v=nmxaG-2f_Pw",
-      "title": "【LIVE】福岡県議会の恥部発見！松本國寛（自民党福岡県連会長）と豊福るみ子（立憲民主党・県議会議員）のハレンチな関係・・・。",
-      "channel": "センキョタイムズ",
-      "published_at": "2026-10-03T14:05:59+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/nmxaG-2f_Pw/hqdefault.jpg",
-      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
-      "retry_count": 3
     }
   ]
 }
