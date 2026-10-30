@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T07:23:56+09:00",
+  "updated_at": "2026-10-30T12:56:21+09:00",
   "items": [
     {
       "video_id": "x6-PQBktIwQ",
@@ -87,9 +87,9 @@
       "published_at": "2026-10-29T06:37:31+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/B4kRKtqZ3eM/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "福岡市長選2026の候補者である吉富景子氏をゲストに招き、出馬の背景や政策について語るライブ配信。\n・吉富氏は、14人の候補者の中で自身の存在が埋もれてしまう懸念から討論会への出演を見送ったと説明した。\n・医学部出身の眼科医である経歴を活かし、予防医療の推進や少子化対策、外国人政策の強化を訴えている。\n・消費税の引き下げや飲食店への支援策など、独自の経済政策についても持論を展開した。",
+      "status": "ok",
+      "summarized_at": "2026-10-30T12:56:21+09:00",
       "retry_count": 1
     },
     {
