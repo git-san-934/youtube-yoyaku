@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T02:49:45+09:00",
+  "updated_at": "2026-10-31T06:59:37+09:00",
   "items": [
     {
       "video_id": "mz8P_394xK4",
@@ -100,9 +100,9 @@
       "published_at": "2026-10-30T08:06:01+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/sCU70YICAvI/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "インテル決算後の株価急落をきっかけに、米市場の現状や主要銘柄の業績、株価との向き合い方を解説している。\n・インテル株は四半期決算発表後の時間外取引で約25%下落したが、売上高や営業利益自体は前年同期比で増加している。\n・AWS（アマゾン・ウェブ・サービス）の成長やAI関連投資が好調な一方で、ハイテク株全体の巨額のAI投資とキャッシュ流出への懸念が株価の重荷となっている。\n・日本の金融政策や日銀によるETF（上場投資信託）売却の影響も視野に入れつつ、日米株式市場の動向を分析している。\n・投資においては、株価の短期的な乱高下に惑わされず、長期的な視点や自身の許容範囲に応じたポートフォリオ管理が重要であると説いている。",
+      "status": "ok",
+      "summarized_at": "2026-10-31T06:52:47+09:00",
       "retry_count": 1
     },
     {
@@ -113,9 +113,9 @@
       "published_at": "2026-10-30T08:00:12+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/yTDgceaFOtk/hqdefault.jpg",
       "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "SKハイニックスの長期契約にはAIバブル崩壊時の支払い不能リスクが潜んでいる。\n・SKハイニックスは2027〜2028年の生産能力の50%以上で長期契約を締結している。\n・OpenAIやオラクルなどの主要顧客が支払い不能になれば大問題に発展するリスクがある。\n・銀行の融資停止や方針転換により、AIバブルが崩壊する可能性がある。\n・顧客が破綻すれば長期契約の意味がなくなり、株価上昇への懸念材料となる。",
+      "status": "ok",
+      "summarized_at": "2026-10-31T06:54:12+09:00",
       "retry_count": 0
     },
     {
@@ -129,7 +129,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 0
+      "retry_count": 1
     },
     {
       "video_id": "x6-PQBktIwQ",
