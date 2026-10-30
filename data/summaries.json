@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-30T21:09:01+09:00",
+  "updated_at": "2026-10-31T02:49:45+09:00",
   "items": [
+    {
+      "video_id": "mz8P_394xK4",
+      "url": "https://www.youtube.com/watch?v=mz8P_394xK4",
+      "title": "キオクシアの売上の成長が止まった?次の3か月はなぜ? #キオクシア #決算 #半導体 #もふもふ不動産",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-10-30T16:17:09+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/mz8P_394xK4/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "キオクシアの売上成長が「第3四半期ガイダンス」で停滞している理由と懸念点について解説している。\n・売上収益実績は第2四半期が2兆4,800億円。\n・第3四半期の売上収益ガイダンスは2兆5,000億円で、伸びが停滞している。\n・他社のメモリ関連企業では売上ガイダンスが伸びている中、キオクシアだけ伸びていない。\n・詳細な説明や補足がないため、市場に衝撃を与える可能性がある。",
+      "status": "ok",
+      "summarized_at": "2026-10-31T02:42:41+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "DMdWNQxMlbA",
+      "url": "https://www.youtube.com/watch?v=DMdWNQxMlbA",
+      "title": "Why The Midterms May Not Change America’s $40 Trillion Debt",
+      "channel": "CNBC",
+      "published_at": "2026-10-30T14:00:38+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/DMdWNQxMlbA/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "アメリカの国債残高と財政赤字の急増が経済の大きなリスクとなっており、金利上昇やトランプ政権の政策がその行方に影響を与えている。\n・アメリカの国債残高が40兆ドルを突破し、年間の利払い費も増加している。\n・政府の歳出拡大や減税などが財政赤字を膨らませる主な要因である。\n・トランプ政権はAIなどの技術革新による生産性向上で経済成長を目指すが、財政改善の効果には疑問も残る。\n・多額の借金は長期金利や住宅ローン金利の上昇などを引き起こし、アメリカ経済や国民生活に負担をかけている。",
+      "status": "ok",
+      "summarized_at": "2026-10-31T02:43:38+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "JUgnndDJyUA",
+      "url": "https://www.youtube.com/watch?v=JUgnndDJyUA",
+      "title": "【速報】キオクシアの決算がヤバすぎた…売上成長がストップ。メモリバブル崩壊の予兆なのか？決算を詳しく解説",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-10-30T13:14:01+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/JUgnndDJyUA/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "キオクシアの決算で売上成長の停滞が見られ、市場で不安視されている。\n・4-12期純利益は前年比24倍予想で初の1株90円の中間配当を実施したが、分割前換算のため実質1株30円にとどまる\n・第3四半期の売上ガイダンスが前期と同水準の見込みとなり、競合他社が伸びる中で売上の伸び悩みが懸念されている\n・連結子会社である岩手キオクシアの吸収合併を発表し、北上工場の第3製造棟（K3）建設予定地の整備を開始した\n・第2四半期は売上高2兆4,800億円、ノンGAAP営業利益1兆9,883億円と好調で、自己資本比率は50%まで改善した",
+      "status": "ok",
+      "summarized_at": "2026-10-31T02:44:38+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "LXAFmiYV5Bs",
       "url": "https://www.youtube.com/watch?v=LXAFmiYV5Bs",
@@ -64,7 +103,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 0
+      "retry_count": 1
     },
     {
       "video_id": "yTDgceaFOtk",
@@ -2560,45 +2599,6 @@
       "summary": "自動車修理業界では高精度な先端技術の導入や、ソフトウェアのサブスクリプション費用などで経営コストが急速に上昇している。\n・近代の自動車はADAS（先進運転支援システム）や複雑な電子制御が多数搭載されており、修理の複雑化が進んでいる。\n・独立系修理工場はメーカーや車種ごとに高額な診断ツールやソフトウェアの年間契約が必要となり、大きな金銭的・時間的負担を強いられている。\n・一部のメーカーや車種では情報へのアクセスに制限があり、ディーラーへの依存や不必要な部品交換・再プログラミングが発生している。\n・高額な設備投資が困難な小規模な修理工場は、特定車種への特化や大規模化などのビジネスモデルの転換を余儀なくされている。",
       "status": "ok",
       "summarized_at": "2026-10-06T08:36:36+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "dIonEGbStJA",
-      "url": "https://www.youtube.com/watch?v=dIonEGbStJA",
-      "title": "【記者会見】センキョタイムズ、動きます。来春統一地方選に向けた記者会見。天網恢恢疎にして漏らさず",
-      "channel": "センキョタイムズ",
-      "published_at": "2026-10-05T11:04:08+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/dIonEGbStJA/hqdefault.jpg",
-      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
-      "retry_count": 3
-    },
-    {
-      "video_id": "6mJWJrdClWs",
-      "url": "https://www.youtube.com/watch?v=6mJWJrdClWs",
-      "title": "#さらば青春の光 #スーツケース #修理 #株式会社カルチャーズジャパン",
-      "channel": "さらば青春の光の100億円プロジェクト",
-      "published_at": "2026-10-05T11:00:34+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/6mJWJrdClWs/hqdefault.jpg",
-      "channel_id": "UChHPxF0EpS-V6iO7VRci1Ug",
-      "summary": "この動画では、スーツケースの修理にかかる費用と時間について紹介している。\n・スーツケースのキャスター4箇所の交換費用は13,500円\n・鍵が閉まったまま開かない状態の修理・交換費用は8,800円\n・鍵やキャスターの修理にかかる時間は約30分〜1時間",
-      "status": "ok",
-      "summarized_at": "2026-10-05T22:15:05+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "pFYJpNNGjs0",
-      "url": "https://www.youtube.com/watch?v=pFYJpNNGjs0",
-      "title": "【北村晴男×センキョタイムズ】史上最低の福岡県議会　とっておきのタレコミを暴露！10⧸4日 午後6時ごろ～LIVE配信",
-      "channel": "センキョタイムズ",
-      "published_at": "2026-10-05T10:50:32+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/pFYJpNNGjs0/hqdefault.jpg",
-      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "北村晴男弁護士と「センキョタイムズ」の元木氏・大井氏が、福岡県議会の不可解な解散や議員の裏金づくりなどについて対談した。\n・福岡県議会で新人議員が選挙準備前に解散を求めたり、若手議員が辞職韓国決議案を提出したりした背景について語られた\n・ゼネコンや建設業界等からのタレコミに基づき、政治家による寄付や裏金づくりの実態が暴露された\n・「ワンヘルス」関連事業や海外視察をめぐる不審な金の動きや、メディアへの強硬な圧力が指摘された\n・ガーディアン（サポーター会員制度）の仕組みや入会方法についても紹介された",
-      "status": "ok",
-      "summarized_at": "2026-10-05T22:18:59+09:00",
       "retry_count": 0
     }
   ]
