@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-31T20:33:56+09:00",
+  "updated_at": "2026-11-01T01:38:04+09:00",
   "items": [
+    {
+      "video_id": "Jb-IayX3ZtU",
+      "url": "https://www.youtube.com/watch?v=Jb-IayX3ZtU",
+      "title": "How Gen Z Is Swapping Nightclubs For Fitness",
+      "channel": "CNBC",
+      "published_at": "2026-10-31T14:00:16+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/Jb-IayX3ZtU/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "若者の間で、ランニングやスポーツリーグといったフィットネスを通じた新たな交流・コミュニティ形成が急増している。\n・Diplo’s Run ClubやVolo Sportsなどの参加型イベントやスポーツリーグが人気を集め、若者の参加が急増している\n・米銀行の調査によると、若年層の間でバー（飲酒）よりもフィットネス関連への支出が急速に増加している\n・スポーツイベントと出会いやパーティー要素が融合し、イベント運営側もバーなどと提携して新たな体験を提供している\n・参加者にとって、運動そのもの以上に「共通の趣味を持つ仲間や恋人を見つけること」が大きな動機となっている",
+      "status": "ok",
+      "summarized_at": "2026-11-01T01:38:04+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "h-9-nivXi34",
       "url": "https://www.youtube.com/watch?v=h-9-nivXi34",
@@ -2586,19 +2599,6 @@
       "summary": "キオクシアの株価について、10月・11月のTOPIX（東証株価指数）の構成比率見直しに伴う約3兆円規模の買い注文の期待と懸念点を解説している。\n・キオクシアの上場後の大株主の売りにより浮動株比率が15%から約50%へ上昇し、TOPIX内での比率が3倍以上に増加する試算がある。\n・TOPIX連動ファンド等による買いが10月29日と11月27日の引けに発生する予定である。\n・一方で、大株主である東芝などの売り圧力が継続していることや、信用買い残の重さが懸念材料として挙げられている。\n・引けの日に必ずしも株価が上がるとは限らず、売りと買いのバランスや東芝の売却動向に注意が必要である。",
       "status": "ok",
       "summarized_at": "2026-10-06T21:33:27+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "XH4hXcwD2mU",
-      "url": "https://www.youtube.com/watch?v=XH4hXcwD2mU",
-      "title": "2026年10月6日【日経平均2日で2374円の大幅高　最高値更新まであとわずか！！】（市況放送【毎日配信】）",
-      "channel": "朝倉慶のASK1",
-      "published_at": "2026-10-06T10:15:18+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/XH4hXcwD2mU/hqdefault.jpg",
-      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "10月6日の株式市場の振り返りと今後の動向について解説する。\n・日経平均は7万683円と大幅高になり、アドバンテストなどの大型ハイテク株が市場を牽引した。\n・長期金利の上昇やインフレ加速への見方から銀行株への資金流入が続く。\n・半導体や電子部品などの好業績セクターが強含む一方、データセンターの需要も堅調である。\n・米国市場でもハイテク株の好調さが続いており、日本市場でも業績期待や好業績銘柄への物色が広がっている。",
-      "status": "ok",
-      "summarized_at": "2026-10-06T21:35:16+09:00",
       "retry_count": 0
     }
   ]
