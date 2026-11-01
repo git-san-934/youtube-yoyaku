@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-01T21:29:55+09:00",
+  "updated_at": "2026-11-02T06:33:16+09:00",
   "items": [
+    {
+      "video_id": "W4xJ3L6Vp2Q",
+      "url": "https://www.youtube.com/watch?v=W4xJ3L6Vp2Q",
+      "title": "Why Crypto PACs Are Pouring $200 Million Into The 2026 Midterms",
+      "channel": "CNBC",
+      "published_at": "2026-11-01T15:00:27+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/W4xJ3L6Vp2Q/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "暗号資産（仮想通貨）業界は巨額の政治献金を通じて米議会や選挙戦に強い影響力を及ぼし、一定の成果を上げたものの、包括的な法整備の実現には課題を残している。\n・2024年の選挙で暗号資産関連のスーパーPAC（政治行動委員会）は約2億5,000万ドルを投じ、推し進めた候補者の91%が勝利した\n・トランプ大統領の就任後は「GENIUS法」の成立や規制見直しなど親暗号資産的な政策が進められたが、包括的な市場構造法案「Clarity Act」は上院で否決された\n・業界は小口献金やボランティア活動を行う「Stand With Crypto」などの組織を活用し、引き続き議員への働きかけを強化している\n・政府の汚職や大統領の利益相反に対する世論の懸念が根強く残る中、業界はさらなる規制の明確化と法的整備を目指している",
+      "status": "ok",
+      "summarized_at": "2026-11-02T06:33:16+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "lNZF4fC5tYw",
       "url": "https://www.youtube.com/watch?v=lNZF4fC5tYw",
@@ -2586,19 +2599,6 @@
       "summary": "キオクシアの株価がサンディスクの半分程度に留まっている理由と今後の展望について解説している。\n・キオクシアとサンディスクは同じ工場で生産しているが、株価評価（予想PER）に大きな差がある。\n・サンディスクが米国市場に上場し世界中の投資家が買いやすいことや、IRの分かりやすさが高い評価の要因となっている。\n・キオクシアはベインキャピタルや東芝といった大株主による市場での売りが続いていることが株価低迷の一因である。",
       "status": "ok",
       "summarized_at": "2026-10-08T07:31:06+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "prNvrE6jyK0",
-      "url": "https://www.youtube.com/watch?v=prNvrE6jyK0",
-      "title": "【緊急】藏内教から脱会できない大田京子⋯国民民主党・福岡県連の県議選戦略の呆れた実態。",
-      "channel": "センキョタイムズ",
-      "published_at": "2026-10-07T07:14:59+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/prNvrE6jyK0/hqdefault.jpg",
-      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "宗方市議会議員の斉藤元高氏をゲストに迎え、自民党支持層から立憲民主党への移行や野党勢力の動向について議論した。\n・斉藤氏はかつて自民党の活動家で、第2次世界大戦前の日本帝国憲法を研究していた。\n・国民民主党から立憲民主党へ移る議員が多く、その背景には資金や政治的方針の変化が関係している。\n・福岡の県議会選挙では、自民党支持者が一定数存在しつつも、立憲民主党や野党勢力との複雑な力関係がある。\n・今後の選挙に向けて、各政党がどのような候補者を立て、どのように支持層を維持していくかが鍵となる。",
-      "status": "ok",
-      "summarized_at": "2026-10-08T07:32:36+09:00",
       "retry_count": 0
     }
   ]
