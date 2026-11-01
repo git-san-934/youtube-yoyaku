@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-11-01T01:38:04+09:00",
+  "updated_at": "2026-11-01T21:29:55+09:00",
   "items": [
+    {
+      "video_id": "lNZF4fC5tYw",
+      "url": "https://www.youtube.com/watch?v=lNZF4fC5tYw",
+      "title": "売上が減ったのに7倍のインテル株価、暴落はAIバブル崩壊か? #インテル #AIバブル #もふもふ不動産",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-11-01T11:36:12+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/lNZF4fC5tYw/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "インテル株の急上昇と急落の背景には、業績の悪化とAI関連の期待先行がある。\n・インテルの売上高や営業利益は減少傾向にあり、赤字決算の時期もあった\n・約20ドル前後だった株価が一時140ドルまで7倍に急騰した\n・株価急騰の背景にはテラファブやイーロン・マスクに関する噂などの期待があった\n・決算発表を契機として株価が大幅に下落した",
+      "status": "ok",
+      "summarized_at": "2026-11-01T21:27:05+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "jtt9BMAjumg",
+      "url": "https://www.youtube.com/watch?v=jtt9BMAjumg",
+      "title": "【決算解説】Googleの株価が大暴落した本当の理由とは？AIへの過剰な投資に耐えきれるのか不安が。バブル崩壊のリスク。アルファベットの決算解説",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-11-01T11:24:57+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/jtt9BMAjumg/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "・アルファベットの決算後に株価が13%下落して時価総額が約80兆円減少した原因について解説している。\n・売上高や営業利益は前年同期比で増加しており、純利益の減少はSpaceX株の評価損が原因である。\n・検索の伸びが鈍化したことや、AI Modeの広告収入が低いこと、およびAIへの巨額な設備投資が株価下落の主な要因とされている。\n・Googleは独自AIチップ「TPU」への投資を大幅に増やしており、その投資が過剰であることや将来のフリーキャッシュフローのマイナスが懸念されている。",
+      "status": "ok",
+      "summarized_at": "2026-11-01T21:27:57+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "1bNC7xZ83Yc",
+      "url": "https://www.youtube.com/watch?v=1bNC7xZ83Yc",
+      "title": "【LIVE】神谷宗幣さんと福岡市長選挙！",
+      "channel": "センキョタイムズ",
+      "published_at": "2026-11-01T08:16:51+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/1bNC7xZ83Yc/hqdefault.jpg",
+      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
+      "summary": "参政党の神谷宗幣代表が参政党×センキョタイムズのコラボ動画に出演し、参政党の選挙制度や党運営の独自性について語った。\n・参政党の候補者選定では公認申請や地元の意向が重視され、党が党員や候補者と密にコミュニケーションを取る仕組みになっている\n・供託金の没収リスクがある選挙制度において、地方議会や国政選挙での党勢拡大に向けた独自の戦略や苦労が語られた\n・外国人問題などの特定の社会課題に関しては、政党としてのスタンスや他党との違いについて議論がなされた\n・党の組織運営や情報発信のあり方、サポーター制度などの支援体制についても言及された",
+      "status": "ok",
+      "summarized_at": "2026-11-01T21:29:08+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "p5_7TkzZFTw",
+      "url": "https://www.youtube.com/watch?v=p5_7TkzZFTw",
+      "title": "インテル株価大暴落で約30%下落した理由とは? #インテル #半導体 #もふもふ不動産",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-11-01T06:16:20+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/p5_7TkzZFTw/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "インテル株が約30%暴落した背景には、過度な期待と決算の乖離がある。\n・インテル株が約30%下落し、50年ぶりの急落率を記録\n・日経等の報道ではPC向け不振が原因とされたが、売上の減少幅はごくわずか\n・決算自体は非常に悪いわけではなく、過度な期待の反動による暴落とみられる\n・データセンター向けなどの売上や業績見通しには底堅さが見られる",
+      "status": "ok",
+      "summarized_at": "2026-11-01T21:29:55+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "Jb-IayX3ZtU",
       "url": "https://www.youtube.com/watch?v=Jb-IayX3ZtU",
@@ -2547,58 +2599,6 @@
       "summary": "宗方市議会議員の斉藤元高氏をゲストに迎え、自民党支持層から立憲民主党への移行や野党勢力の動向について議論した。\n・斉藤氏はかつて自民党の活動家で、第2次世界大戦前の日本帝国憲法を研究していた。\n・国民民主党から立憲民主党へ移る議員が多く、その背景には資金や政治的方針の変化が関係している。\n・福岡の県議会選挙では、自民党支持者が一定数存在しつつも、立憲民主党や野党勢力との複雑な力関係がある。\n・今後の選挙に向けて、各政党がどのような候補者を立て、どのように支持層を維持していくかが鍵となる。",
       "status": "ok",
       "summarized_at": "2026-10-08T07:32:36+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "A5PTKMcQzro",
-      "url": "https://www.youtube.com/watch?v=A5PTKMcQzro",
-      "title": "Williams-Sonoma's stock has soared in a sluggish housing market. Here's how it won over Wall Street",
-      "channel": "CNBC",
-      "published_at": "2026-10-06T14:30:22+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/A5PTKMcQzro/hqdefault.jpg",
-      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
-      "summary": "ホーム家具小売りのウィリアムズ・ソノマが競合を上回る実績を上げ、高収益を維持している理由を解説する動画。\n\n・ウィリアムズ・ソノマは、ポッタリーバーンやウエスト・エルムなどのブランドを所有し、S&P 500や競合他社を上回る実績を記録している\n・米国の住宅市場低迷や生活コスト高騰の逆風下でも、顧客が割引なしのフル価格で購入する傾向を維持している点に強みがある\n・2025年の売上高は2021年を下回る一方、営業利益は同水準を維持し、収益性の高さを示している\n・複数ブランドの展開と店舗・ECを統合したオムニチャネル戦略が、分散した家具業界における強力な競争優位性になっている",
-      "status": "ok",
-      "summarized_at": "2026-10-07T07:06:05+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "lOstz4ACfik",
-      "url": "https://www.youtube.com/watch?v=lOstz4ACfik",
-      "title": "10月にキオクシア株価爆上げ？3兆円の買いがはいる！ #もふもふ不動産",
-      "channel": "もふもふ不動産",
-      "published_at": "2026-10-06T14:22:58+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/lOstz4ACfik/hqdefault.jpg",
-      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "SMBC日興証券の試算によると、キオクシア株に約3兆円の買いが入り、株価が急上昇する可能性がある。\n・10月と11月に、大株主であるベインや東芝が上場後に株を大量に売却することが予想される\n・大株主が株を売ることで市場に流通する浮動株が増加し、TOPIX（東証株価指数）などの指数に組み込まれることで、ファンド等による買いが期待される\n・約3兆円の買いは、8月の自社株買い（約8000億円）の約4倍に相当する規模である\n・この大規模な買いは、キオクシアの株価上昇にとってポジティブな要因になる可能性がある",
-      "status": "ok",
-      "summarized_at": "2026-10-07T07:06:53+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "7r0STkZqmDk",
-      "url": "https://www.youtube.com/watch?v=7r0STkZqmDk",
-      "title": "#さらば青春の光 #芸人 #スーツケース #修理 #カルチャーズジャパン",
-      "channel": "さらば青春の光の100億円プロジェクト",
-      "published_at": "2026-10-06T12:00:14+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/7r0STkZqmDk/hqdefault.jpg",
-      "channel_id": "UChHPxF0EpS-V6iO7VRci1Ug",
-      "summary": "以下が動画の要約です。\n\n30年使い込んだ思い入れのあるスーツケースの車輪を修理する様子を描いた動画。\n・松本りんすが30年使っている紫色のスーツケースが登場する。\n・スーツケースは車輪が動かしにくく破損している状態である。\n・新婚旅行でモルディブに行く際にもこのスーツケースを持っていった思い出の品である。\n・思い出がたくさん詰まっているため、修理して直るのか懸念されている。",
-      "status": "ok",
-      "summarized_at": "2026-10-06T21:32:33+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "cDKnWUNJ-Qo",
-      "url": "https://www.youtube.com/watch?v=cDKnWUNJ-Qo",
-      "title": "【株価爆上げ？】10月にキオクシアに3兆円の買い注文⁉株価爆上げになるか？",
-      "channel": "もふもふ不動産",
-      "published_at": "2026-10-06T11:54:53+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/cDKnWUNJ-Qo/hqdefault.jpg",
-      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "キオクシアの株価について、10月・11月のTOPIX（東証株価指数）の構成比率見直しに伴う約3兆円規模の買い注文の期待と懸念点を解説している。\n・キオクシアの上場後の大株主の売りにより浮動株比率が15%から約50%へ上昇し、TOPIX内での比率が3倍以上に増加する試算がある。\n・TOPIX連動ファンド等による買いが10月29日と11月27日の引けに発生する予定である。\n・一方で、大株主である東芝などの売り圧力が継続していることや、信用買い残の重さが懸念材料として挙げられている。\n・引けの日に必ずしも株価が上がるとは限らず、売りと買いのバランスや東芝の売却動向に注意が必要である。",
-      "status": "ok",
-      "summarized_at": "2026-10-06T21:33:27+09:00",
       "retry_count": 0
     }
   ]
