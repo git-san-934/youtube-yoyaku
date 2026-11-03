@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T23:28:39+09:00",
+  "updated_at": "2026-11-03T09:18:45+09:00",
   "items": [
     {
       "video_id": "C48ARr2I7Pw",
@@ -61,9 +61,9 @@
       "published_at": "2026-11-02T08:07:54+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/Jz3egefSUmk/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "・米株市場の動向と注目企業の決算、米中間選挙など今週のスケジュールを解説\n・米株市場は主要指数がそろって上昇し、先週の下落から持ち直す展開となった\n・エスティローダーは売上高と純利益が増加したものの中国市場の伸び悩みや利益率の低さが課題視されている\n・マリオットは宿泊需要や手数料収入が好調で通期見通しを上方修正した\n・米中間選挙や大企業によるAI分野への巨額投資に対する投資家の警戒感が指摘されている",
+      "status": "ok",
+      "summarized_at": "2026-11-03T09:18:00+09:00",
       "retry_count": 0
     },
     {
@@ -207,7 +207,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 0
+      "retry_count": 1
     },
     {
       "video_id": "mz8P_394xK4",
