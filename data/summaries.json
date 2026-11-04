@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-04T22:37:43+09:00",
+  "updated_at": "2026-11-05T08:08:22+09:00",
   "items": [
+    {
+      "video_id": "IQC_Q9NMovs",
+      "url": "https://www.youtube.com/watch?v=IQC_Q9NMovs",
+      "title": "As the Democrats prepare to gain control of Congress, what will be their legislative agenda?",
+      "channel": "CNBC",
+      "published_at": "2026-11-04T19:00:09+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/IQC_Q9NMovs/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "民主党が米議会の中間選挙で勝利したことを受け、今後の立法・調査の優先課題や党幹部の見解についてCNBCの記者が解説している。\n・民主党は「手頃な価格（生活費の負担軽減）」と「説明責任」の2つを立法アジェンダの柱に掲げる\n・「メディケア（高齢者向け医療保険）の削減撤回」「対イラン戦争の終結」「トランプ大統領の関税に対する議会権限の牽制」などが検討されている\n・下院の次期議長候補であるハキーム・ジェフリーズ氏は、アメリカの資本主義のあり方を見直し、全ての労働者・中産階級のための経済を作る必要があると述べている\n・上院の次期多数党リーダー候補であるチャック・シューマー氏は、「汚職の追求」が重要であると指摘している",
+      "status": "ok",
+      "summarized_at": "2026-11-05T08:03:23+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "9ni9qo2fooE",
       "url": "https://www.youtube.com/watch?v=9ni9qo2fooE",
@@ -48,9 +61,9 @@
       "published_at": "2026-11-04T09:34:39+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/poEmyij_-tg/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "米国の中間選挙で民主党が勝利し、市場への影響や各企業の動向が解説されている。\n\n- 米中間選挙で民主党が上下両院の多数派を獲得し、トランプ政権との対立で法案の成立が難しくなる可能性がある。\n- 民主党優勢の業種として再生可能エネルギーや病院運営の株が買われる一方、AI・データセンター運営、暗号資産関連、製薬、石油・ガス、防衛・軍需などは規制強化や予算減額への懸念から不利になると予想されている。\n- テスラやスペースXは、テキサス州新知事との対立や巨額投資失敗の影響を受け下落した。\n- CVSヘルスは巨額の減損計上により当期は営業利益が黒字転換したものの、部門のスピンオフ発表により株価は下落した。",
+      "status": "ok",
+      "summarized_at": "2026-11-05T08:05:36+09:00",
       "retry_count": 1
     },
     {
@@ -61,9 +74,9 @@
       "published_at": "2026-11-04T09:18:35+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/q9EQM8imjWI/hqdefault.jpg",
       "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "米中間選挙の開票結果と、予測市場データの正確性や影響について解説する。\n・高橋氏は、世論調査より参加者がお金を賭ける予測市場の方が選挙予測の信頼性が高いと主張している。\n・ガソリン価格や支持率などの変数から算出された予測市場のデータは、実際の選挙結果と近い傾向にある。\n・共和党が下院で負けた場合、トランプ政権時の予算政策などで共和党は不利になり、次の大統領選にも影響を与える可能性がある。\n・イランと中国の動向や北朝鮮問題における米国の政策も、今後の外交や選挙戦に影響を及ぼす可能性がある。",
+      "status": "ok",
+      "summarized_at": "2026-11-05T08:07:29+09:00",
       "retry_count": 0
     },
     {
@@ -74,9 +87,9 @@
       "published_at": "2026-11-04T07:38:09+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/oVSs-tdXIwg/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "・11月8日水曜日の日経平均株価は前日比893円安の6万2188円と急落した。\n・前日の米国市場では、中間選挙の開票結果を見極めたいムードが強く、利益確定やポジション調整の売りが中心となった。\n・日本市場でも、中間選挙の動向や米国でのAI規制に対する警戒感から先物主導の売りが強まり、一時3000円を超える下落場面が見られた。\n・大引けにかけては売り幅が縮小し、日経平均は6万2188円で取引を終えた。\n・個別銘柄では、ヤマトホールディングスや三井住友などが買われる一方で、東京エレクトロンなどの半導体関連株は売られた。",
+      "status": "ok",
+      "summarized_at": "2026-11-05T08:08:22+09:00",
       "retry_count": 0
     },
     {
@@ -2586,19 +2599,6 @@
       "summary": "・政権の利権疑惑に関する独自の取材内容と、メディアの報道姿勢を巡る議論が展開された。\n・北村晴男弁護士とのコラボ企画で、外国人問題の深刻さや他国の失敗から学ぶ必要性が議論された。\n・福岡県議会を巡り、新井富美子県議や蔵内勇夫議員に関連するパワハラ問題や利権の実態が取り上げられた。\n・福岡県のみやま市におけるワンヘルス施設の建設工事の一般競争入札で、落札率が99.9%であったことが問題視された。",
       "status": "ok",
       "summarized_at": "2026-10-09T21:24:54+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "z4WlXhh_lXI",
-      "url": "https://www.youtube.com/watch?v=z4WlXhh_lXI",
-      "title": "#さらば青春の光 #芸人 #スーツケース #修理 #カルチャーズジャパン",
-      "channel": "さらば青春の光の100億円プロジェクト",
-      "published_at": "2026-10-09T10:00:05+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/z4WlXhh_lXI/hqdefault.jpg",
-      "channel_id": "UChHPxF0EpS-V6iO7VRci1Ug",
-      "summary": "放置されたスーツケースの回収・修理・再販を行う札幌市公認のビジネスについて解説している動画。\n・札幌市観光協会や札幌旅館組合と連携し、ホテルに放置されたスーツケースの処分問題に対応している。\n・スーツケースを一旦引き取り、修理できるものは直して再販する仕組みになっている。\n・韓国の大手メーカーからも修理を委託されている。",
-      "status": "ok",
-      "summarized_at": "2026-10-09T21:25:41+09:00",
       "retry_count": 0
     }
   ]
