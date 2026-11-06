@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-06T22:36:07+09:00",
+  "updated_at": "2026-11-07T07:39:27+09:00",
   "items": [
+    {
+      "video_id": "6Q08nql7vCA",
+      "url": "https://www.youtube.com/watch?v=6Q08nql7vCA",
+      "title": "Midterms raise U.S. debt ceiling risks",
+      "channel": "CNBC",
+      "published_at": "2026-11-06T15:00:04+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/6Q08nql7vCA/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "米国の中間選挙が連邦議会と国家の財政軌道に与えるリスクについて\n・米国債務は40兆ドルを超え、債務上限の41.1兆ドルに迫っている\n・財務省が算出する「Xデー」を迎えると、米国政府は債務不履行に陥るリスクがある\n・債務上限問題で合意できない場合、クレジットカードや住宅ローンなどの消費者金利が高騰する恐れがある",
+      "status": "ok",
+      "summarized_at": "2026-11-07T07:36:26+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "tyl3ksA_t9I",
+      "url": "https://www.youtube.com/watch?v=tyl3ksA_t9I",
+      "title": "AIバブル崩壊か 半導体株が大暴落 日経平均5万6千円 今何が起こっている? #日経平均 #半導体株 #もふもふ不動産",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-11-06T13:46:04+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/tyl3ksA_t9I/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "AI半導体株の大暴落が引き金となり、世界的な株安とバブル崩壊の懸念が生じている。\n・日経平均株価は7万円台から5万6000円割れへと急落した。\n・キオクシアなどの関連企業株も決算発表以降に大きく下落した。\n・米国市場でもNVIDIAやマイクロソフトなどS&P500の主要銘柄が軒並み下落した。\n・背景にはAI半導体の過剰投資リスクが表面化している問題がある。",
+      "status": "ok",
+      "summarized_at": "2026-11-07T07:37:14+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "ctqM7LAZ5So",
       "url": "https://www.youtube.com/watch?v=ctqM7LAZ5So",
@@ -61,9 +87,9 @@
       "published_at": "2026-11-06T08:49:10+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/t1JWwQMbgVI/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "政治家の発言における虚偽やその責任に関する問題点を論じています。\n・倉持弁護士の会見での発言と、それに対する疑問や批判について言及\n・第三者委員会での発言や証言の信憑性、および矛盾点について議論\n・政治家の虚偽発言や名誉毀損に対する法的リスクやその扱いの難しさを指摘\n・今後の配信やイベントの告知を行い、視聴者に向けた案内を伝えている",
+      "status": "ok",
+      "summarized_at": "2026-11-07T07:38:29+09:00",
       "retry_count": 0
     },
     {
@@ -74,9 +100,9 @@
       "published_at": "2026-11-06T08:03:05+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/oIFdgpSQNLQ/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "11月6日の日本株式市場はアメリカ市場の急落や中選挙を巡るAI規制の懸念、データセンター建設ペースの鈍化などを背景に、日経平均株価が5万7,434円（3,643円安）と大幅に下落した。\n・アメリカ市場の軟調やハイテク株安の流れを引き継ぎ、日経平均株価は前日比3,643円安、TOPIXは232ポイント安と大幅な下落となった。\n・半導体関連やAI関連、データセンター関連銘柄などを中心に売りが広がり、東京株式市場の全業種が下落した。\n・プライム市場の売買代金は12兆円、グロース市場は2,500億円となり、売りが先行した。\n・日経平均株価が5万8,000円を割り込んだのは4月14日以来、約7ヶ月ぶりとなる。",
+      "status": "ok",
+      "summarized_at": "2026-11-07T07:39:27+09:00",
       "retry_count": 0
     },
     {
@@ -2573,32 +2599,6 @@
       "summary": "福岡県議会に対し百条委員会の設置を求める議案が提出され、今後の議会運営や採決に向けた動きが報じられている。\n\n・百条委員会（強制力を伴う調査を行う特別委員会）の設置を求める議案が提出された。\n・提出された議案は10月16日の本会議で採決される予定である。\n・議会側からは、調査の必要性や費用、費用弁償の妥当性を巡って活発な質疑が行われた。\n・自民党や他の会派の間では、百条委員会の設置や資金負担に関する賛否の議論が続いている。",
       "status": "ok",
       "summarized_at": "2026-10-13T22:24:12+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "hJeCjaARFsY",
-      "url": "https://www.youtube.com/watch?v=hJeCjaARFsY",
-      "title": "Part11 株はもう下がらない！【後編】｜2025年11月15日開催ASAKUKRA経済セミナー「株はもう下がらない！」ハイライト#朝倉慶#投資#株式#資産運用",
-      "channel": "朝倉慶のASK1",
-      "published_at": "2026-10-13T02:08:11+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/hJeCjaARFsY/hqdefault.jpg",
-      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "inflation税がもたらす財政赤字の減少と経済への影響について解説している動画。\n- 2015年から2025年にかけての消費者物価や名目税収、実質税収、財政赤字の推移データを提示している\n- 2022年を境に金融インフレから実体インフレへ移行し、インフレが進むにつれて財政赤字が減少している\n- 消費者物価が3.5%、名目税収が80兆円、実質税収が70兆円となった2025年には財政赤字が4.5%まで減少する\n- 財政赤字の減少は買い手力の限界による名目税収の膨張がもたらした結果であると説明している",
-      "status": "ok",
-      "summarized_at": "2026-10-14T07:08:13+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "d8lA8rc1Syc",
-      "url": "https://www.youtube.com/watch?v=d8lA8rc1Syc",
-      "title": "Why election officials are worried about prediction markets",
-      "channel": "CNBC",
-      "published_at": "2026-10-12T14:00:13+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/d8lA8rc1Syc/hqdefault.jpg",
-      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
-      "summary": "ペルベニア州デラウェア郡が全米で初めて、選挙管理スタッフ等に対し「選挙予測マーケット（結果を予測して金銭を賭ける仕組み）」への参加を禁止する規制を導入した。\n・デラウェア郡では、選挙管理の厳正さを保つため、従来からある「選挙への賭けや賭博を禁じる宣誓」に予測マーケットへの不参加も追加した。\n・既存の法律は賭けや賭博を禁止しているが、予測マーケットは「取引」を称しているため、規制対象が曖昧であるという課題がある。\n・選挙管理関係者は、予測マーケットは形を変えたギャンブルであり、関係者が資金を投じれば選挙の信頼失墜につながることを懸念している。\n・現状では選挙スタッフの予測マーケット利用の実証データはないものの、問題化する前にルールを明確化する狙いがある。",
-      "status": "ok",
-      "summarized_at": "2026-10-13T09:00:27+09:00",
       "retry_count": 0
     }
   ]
