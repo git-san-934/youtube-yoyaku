@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T08:10:47+09:00",
+  "updated_at": "2026-11-06T13:34:13+09:00",
   "items": [
     {
       "video_id": "xAEW7jsJMdk",
@@ -100,9 +100,9 @@
       "published_at": "2026-11-05T06:09:07+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/olctIeGWQyU/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "YouTube動画「福岡市長選挙アンケートについて」の要約は以下の通りです。\n\n・福岡市長選に伴い実施された、13人の候補者の政策アンケート結果の公開について解説している動画である。\n・チャンネル登録者数の現状と、目標達成に向けた意気込みについて語られている。\n・一部候補者の事務所訪問の様子や、支持者の反応について紹介されている。\n・投票マッチング機能や「センキョダービー」といった、選挙を楽しむための企画について説明している。",
+      "status": "ok",
+      "summarized_at": "2026-11-06T13:33:19+09:00",
       "retry_count": 0
     },
     {
@@ -113,9 +113,9 @@
       "published_at": "2026-11-05T04:41:02+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/6xyx5Yyt8WE/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "福岡県議会の百条委員会の委員就任をめぐる騒動について、選挙タイムズ編集長らが解説している。\n・11月5日の福岡県議会で百条委員会のメンバーを決定する会議が開催された。\n・民主系や公明系などの会派から1人ずつ選出することとなり、多数会派で調整が行われた。\n・新政会やみずほ屋さん側は百条委員会設置に反対しており、委員就任をめぐる駆け引きや混乱が生じた。\n・最終的に、新政会から林泰輔議員がくじ引きで委員に選ばれる事態となった。",
+      "status": "ok",
+      "summarized_at": "2026-11-06T13:34:13+09:00",
       "retry_count": 0
     },
     {
