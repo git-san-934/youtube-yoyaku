@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-11-07T13:02:29+09:00",
+  "updated_at": "2026-11-07T21:15:57+09:00",
   "items": [
+    {
+      "video_id": "6g08Sjs-H2A",
+      "url": "https://www.youtube.com/watch?v=6g08Sjs-H2A",
+      "title": "11/7LIVE！消費税減税で造反＆米中間選挙＆イスラエル＆辺野古沖事故",
+      "channel": "髙橋洋一チャンネル",
+      "published_at": "2026-11-07T10:15:24+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/6g08Sjs-H2A/hqdefault.jpg",
+      "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
+      "summary": "政治や選挙を巡る話題について、数字やデータ、政界の裏事情を踏まえて持論が展開された。\n・高橋氏は、消費増税を巡る議論や各種予測データに基づき、政局や選挙における様々な思惑や背景を詳しく解説している\n・小口友弘氏らの動きや、衆参両院の動向、各政党の思惑が選挙結果や政策判断にどう影響するかについて論じている\n・イラン情勢やアメリカの政策変化などが政治や経済に与える影響や、それぞれの立場の違いについて言及している\n・政治的な動きを読み解く上で、イデオロギーよりも経済的要因や現実的な利害関係が重要になる場面が多いとの見解を示している",
+      "status": "ok",
+      "summarized_at": "2026-11-07T21:13:20+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "LTKMtXgmG7A",
+      "url": "https://www.youtube.com/watch?v=LTKMtXgmG7A",
+      "title": "【金銭感覚バグ】ロボット案件で10億の世界　#さらば青春の光の100億円プロジェクト",
+      "channel": "さらば青春の光の100億円プロジェクト",
+      "published_at": "2026-11-07T10:00:14+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/LTKMtXgmG7A/hqdefault.jpg",
+      "channel_id": "UChHPxF0EpS-V6iO7VRci1Ug",
+      "summary": "スマート工場向けのロボットシステム導入にかかるコストとその経済的効果について議論している。\n・工場へのロボットシステムの導入コストは、安い場合でも1システムあたり2〜3千万円かかる\n・動画で紹介された事例のシステムは、1システムではなく10億円規模の案件である\n・初期投資は大きくなるが、長期的には効率が上がり、人件費などを含めても結果的に利益につながるケースがある\n・初期投資は高いものの途中で逆転現象が起こり、以降は利益が出る仕組みとなっている",
+      "status": "ok",
+      "summarized_at": "2026-11-07T21:14:09+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "TrewqKrHoMY",
+      "url": "https://www.youtube.com/watch?v=TrewqKrHoMY",
+      "title": "工場ロボット10億円！？スケールがレベチ。　#さらば青春の光の100億円プロジェクト",
+      "channel": "さらば青春の光の100億円プロジェクト",
+      "published_at": "2026-11-07T10:00:06+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/TrewqKrHoMY/hqdefault.jpg",
+      "channel_id": "UChHPxF0EpS-V6iO7VRci1Ug",
+      "summary": "工場ロボット導入にかかる費用の規模感や費用対効果についてのトーク。\n・工場ロボットの導入費用は、1システムあたり2〜3千万円程度から。\n・映像の事例のシステムには「10億円案件」のものもある。\n・初期投資は高額だが、稼働効率が上がり、長期的には人件費等の抑制により逆転現象が起きる。",
+      "status": "ok",
+      "summarized_at": "2026-11-07T21:14:57+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "thPWCqN3xMI",
+      "url": "https://www.youtube.com/watch?v=thPWCqN3xMI",
+      "title": "【LIVE】福岡市長選_吉富けいこ候補の演説",
+      "channel": "センキョタイムズ",
+      "published_at": "2026-11-07T09:59:21+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/thPWCqN3xMI/hqdefault.jpg",
+      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
+      "summary": "福岡市長選挙に立候補している吉富景子氏の街頭演説の模様を伝える。\n・吉富景子氏は看護師や保健師の経験を生かし、福岡市民ファーストの市政を目指す。\n・福岡市の成長による利益が市民や地元企業に還元されていない現状を指摘する。\n・急増する外国人住民への対応や生活ルールの徹底、マナーの向上を訴えている。\n・参政党の支援を受け、市民の生活や治安を守るための具体的な政策を掲げている。",
+      "status": "ok",
+      "summarized_at": "2026-11-07T21:15:57+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "6Q08nql7vCA",
       "url": "https://www.youtube.com/watch?v=6Q08nql7vCA",
@@ -2547,58 +2599,6 @@
       "summary": "低金利期に変動金利型住宅ローン（ARM）を選んだ人々が、金利上昇による返済額増加のリスクに直面している。\n・2020年に2.9%だった5/1ARMの金利は、現在6.5%に上昇している\n・インフレや地政学的不確実性が、10年物国債利回りを通じて金利を押し上げている\n・2026年後半から2027年にかけ、多くのARM利用者が初めて金利変動を迎える\n・ARMは初期の低金利が魅力だが、金利急上昇時の返済負担増というリスクがある",
       "status": "ok",
       "summarized_at": "2026-10-16T05:50:24+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "aF1Dp8ptjJ0",
-      "url": "https://www.youtube.com/watch?v=aF1Dp8ptjJ0",
-      "title": "1602回　簗農水大臣は小物のホラッチョ　そんな実力はない",
-      "channel": "髙橋洋一チャンネル",
-      "published_at": "2026-10-13T09:26:10+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/aF1Dp8ptjJ0/hqdefault.jpg",
-      "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "衆院予算委員会における野党の野村農水大臣への追及について、データや自治体の実態を踏まえて解説している。\n・公共事業の予算において50%減となる事例は、全国の自治体の中で一定の割合で発生するごく一般的な現象である。\n・複数の年度にまたがる事業の進捗調整や市町村の受け入れキャパシティによって予算額は変動する。\n・栃木3区の歴史的な選挙区事情や渡辺氏の傾向など、政治的な背景が大きく影響している。\n・国交省の官僚からすれば、政治案件に対する対応は規定通り行われており、特別に負担が大きいわけではない。",
-      "status": "ok",
-      "summarized_at": "2026-10-13T22:19:09+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "4rIDHYkMs2U",
-      "url": "https://www.youtube.com/watch?v=4rIDHYkMs2U",
-      "title": "2026年10月13日【日経平均1253円安もTOPIXは小幅高　プライム市場の73％は上昇】（市況放送【毎日配信】）",
-      "channel": "朝倉慶のASK1",
-      "published_at": "2026-10-13T08:51:35+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/4rIDHYkMs2U/hqdefault.jpg",
-      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "10月13日（火）の株式市場は、日経平均が大幅続落し、半導体関連株などが下げを主導した。\n・日経平均は前日比1,253円安の67,777円、TOPIXは4,110、グロース250は797で引けた。\n・米市場における半導体株の下落や、中東情勢の緊迫化による原油高などが嫌気され、東京市場でも売りが優勢となった。\n・半導体メモリーの競争激化懸念や中東情勢の緊迫化が投資家心理を冷え込ませ、日経平均を押し下げる展開となった。\n・主力企業やAI投資への期待から、一部の銘柄では底堅い動きや押し目買いも見られた。",
-      "status": "ok",
-      "summarized_at": "2026-10-13T22:21:16+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "drp2Ok5BAc8",
-      "url": "https://www.youtube.com/watch?v=drp2Ok5BAc8",
-      "title": "【LIVE】情報漏洩タウン・田川郡大任町へ直撃",
-      "channel": "センキョタイムズ",
-      "published_at": "2026-10-13T06:02:54+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/drp2Ok5BAc8/hqdefault.jpg",
-      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "田川郡大任町のIR計画情報を巡り、選挙タイムズ大王氏が役場担当者と電話で確認を取る生配信の一部始終。\n・選挙タイムズが大任町のIR計画情報漏洩に関して、町長などの責任追及や情報の事実確認を求めて役場に電話した。\n・対応した総務課の杉原課長は、情報漏洩や当事者の状況について「会議中」「分からない」と繰り返した。\n・職員や町長への連絡もつかず、役場側が誠実に対応しない姿勢が浮き彫りになった。\n・選挙タイムズ側は、不誠実な対応や情報の不透明さを強く批判し、引き続きこの問題を追及していく姿勢を示した。",
-      "status": "ok",
-      "summarized_at": "2026-10-13T22:22:55+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "FEntUNpvzDE",
-      "url": "https://www.youtube.com/watch?v=FEntUNpvzDE",
-      "title": "【LIVE】吉松県議・百条委員会の申し入れ！",
-      "channel": "センキョタイムズ",
-      "published_at": "2026-10-13T02:38:06+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/FEntUNpvzDE/hqdefault.jpg",
-      "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "福岡県議会に対し百条委員会の設置を求める議案が提出され、今後の議会運営や採決に向けた動きが報じられている。\n\n・百条委員会（強制力を伴う調査を行う特別委員会）の設置を求める議案が提出された。\n・提出された議案は10月16日の本会議で採決される予定である。\n・議会側からは、調査の必要性や費用、費用弁償の妥当性を巡って活発な質疑が行われた。\n・自民党や他の会派の間では、百条委員会の設置や資金負担に関する賛否の議論が続いている。",
-      "status": "ok",
-      "summarized_at": "2026-10-13T22:24:12+09:00",
       "retry_count": 0
     }
   ]
