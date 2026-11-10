@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-10T23:06:40+09:00",
+  "updated_at": "2026-11-11T07:45:28+09:00",
   "items": [
+    {
+      "video_id": "rkDiNKDv3Cg",
+      "url": "https://www.youtube.com/watch?v=rkDiNKDv3Cg",
+      "title": "Why investors are borrowing money to buy stocks",
+      "channel": "CNBC",
+      "published_at": "2026-11-10T15:00:27+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/rkDiNKDv3Cg/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "投資家のハイ・ルー氏は高いリスク許容度から証券会社から借金をする「信用取引」を利用してテスラ株に投資している。\n・ハイ・ルー氏は「信用取引」を使って約14万7,000ドルの借金を抱えながら、約71万2,000ドル分のテスラ株を保有している。\n・2022年7月、テスラ株価が173ドルに下がると証券会社から資金追加を求められる「追証」が発生する計算だったが、株価はそれを上回って推移した。\n・株価下落による追証を避けるため、自宅を担保に追加で3万ドルの融資を受け、信用取引の借金返済に充てた。\n・現在も信用取引でのテスラ株の買い増しを続け、利益を得ながら借金を返済する計画を維持している。",
+      "status": "ok",
+      "summarized_at": "2026-11-11T07:42:18+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "WjrlIaEx2JU",
       "url": "https://www.youtube.com/watch?v=WjrlIaEx2JU",
@@ -61,9 +74,9 @@
       "published_at": "2026-11-10T06:42:49+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/LpnYrDlATSg/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "福岡市長選挙における候補者の動向やネット調査・出口調査の結果、県議会の100条委員会設置をめぐる状況などについて議論している。\n・選挙ドットコムの情勢調査では稲富氏がややリードし、森下氏や知久氏らが追う展開となっている。\n・読売新聞の出口調査では、期日前投票で稲富氏が21.6%で1位となり、森下氏、二村氏らが続く結果となった。\n・県議会の百条委員会設置をめぐり、設置案を提出した会派から6人が選出され、各会派からも委員が選ばれて議論が進められている。\n・番組では、林泰輔議員に対する請願書への署名を視聴者に呼びかけ、オンライン署名の活用や今後の配信についても案内している。",
+      "status": "ok",
+      "summarized_at": "2026-11-11T07:43:47+09:00",
       "retry_count": 0
     },
     {
@@ -74,9 +87,9 @@
       "published_at": "2026-11-10T01:09:02+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/n02cpzY6yiM/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "動画の要約は以下の通りです。\n\n米国株（S&P500など）の長期インデックス投資戦略と暴落時の行動について解説しています。\n・インデックス投資は個別株より下落が緩やかで、リスク分散が効くため長期投資に向いている。\n・過去の数々の暴落（コロナショックなど）を振り返っても、市場は時間をかけて必ず回復してきた。\n・下落時に焦って売却すると、その後の株価上昇や為替利益のチャンスを逃し損をする。\n・米国経済の成長を信じ、長期的な視点で毎月の投資を継続することが重要である。",
+      "status": "ok",
+      "summarized_at": "2026-11-11T07:44:39+09:00",
       "retry_count": 0
     },
     {
@@ -87,9 +100,9 @@
       "published_at": "2026-11-09T15:00:28+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/9YLr-qa6Qq8/hqdefault.jpg",
       "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "自動車業界で3Dプリンティング（付加製造）の活用が進み、コスト削減や時間短縮に貢献している。\n・フォードやリヴィアン、メルセデス・ベンツなどがプロトタイプやツール、部品の製造に3Dプリンティングを活用している\n・リヴィアンは3Dプリンティングに500万ドル以上を投資し、年間170万ドルの材料費をかけている\n・フォードのルージュ工場では、3Dプリンターで約2ダースのツールを製造し業務の効率化を図っている\n・GMはキャデラックのEV車「セレスティック」のメダリオンなどのパーツ製造に3Dプリンティングを取り入れている",
+      "status": "ok",
+      "summarized_at": "2026-11-11T07:45:28+09:00",
       "retry_count": 0
     },
     {
@@ -2586,19 +2599,6 @@
       "summary": "キオクシアは業績や売上が好調である一方、株価の下落が続いている。\n・業績は増えておりPER（株価収益率）は約5倍割れと割安水準にある。\n・2027年からのAI専用NAND（半導体メモリ）導入などを見据えて長期契約ベースの売り上げは増加中。\n・東芝が毎月約1%ずつキオクシア株を売却しており、そのペースが1年ほど続く見込み。\n・株価下落が続く理由について市場はまだ上昇を信じていない状態となっている。",
       "status": "ok",
       "summarized_at": "2026-10-16T01:05:41+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "MCORKDkdznI",
-      "url": "https://www.youtube.com/watch?v=MCORKDkdznI",
-      "title": "【ヤバイ】AIバブル崩壊の兆し？コアウィーブショックで日経平均大暴落。何が起こったのか投資家が解説",
-      "channel": "もふもふ不動産",
-      "published_at": "2026-10-15T13:17:09+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/MCORKDkdznI/hqdefault.jpg",
-      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "アメリカのコアウイーブ社の社債急落（コアウイーブショック）をきっかけに、日経平均株価が史上3番目の大暴落となった。\n・コアウイーブ社は、AI向けのデータセンター事業に必要な計算リソース（GPUなど）の貸し出しを行い、巨額の社債発行により資金調達と投資を進めてきた。\n・米国の消費者物価指数（CPI）の上昇による利上げ懸念からコアウイーブ社の社債が急落し、株価も大きく下落した。\n・AI関連企業への巨額投資が回収できるかという懸念や、借入金返済への不安から、日本株を含む半導体関連銘柄にも波及して下落を引き起こした。\n・AIや半導体需要そのものが消滅したわけではないが、過剰な投資や債務リスクに対する市場の警戒感が強まっている。",
-      "status": "ok",
-      "summarized_at": "2026-10-16T01:06:49+09:00",
       "retry_count": 0
     }
   ]
