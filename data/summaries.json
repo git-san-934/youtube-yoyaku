@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T23:54:05+09:00",
+  "updated_at": "2026-11-10T10:06:42+09:00",
   "items": [
     {
       "video_id": "vVvNprmCPwY",
@@ -61,9 +61,9 @@
       "published_at": "2026-11-09T09:00:27+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/m9RLfLJNfFw/hqdefault.jpg",
       "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "動画の要約は以下の通りです。\n\n住宅ローンの固定と変動の選択は金利の予測ではなく、自身の所得形態と支出のバランスから判断すべきである。\n\n・フラット35の金利上昇に関するネットニュースの議論は、金利動向の予測を前提としており、本質的ではない\n・金利の先行き予測は困難であるため、固定・変動のどちらが得かではなく、自身の所得や収入が安定型か景気変動型かを考慮して選ぶことが重要である\n・公務員など安定的な所得の人は固定金利が適しており、景気に左右される所得の人は変動金利でも対応可能である\n・単純に借入総額の増加額だけを見るのではなく、複利の計算などを活用して自身の収支全体を把握し、無理のない返済計画を立てる必要がある",
+      "status": "ok",
+      "summarized_at": "2026-11-10T10:02:05+09:00",
       "retry_count": 0
     },
     {
@@ -74,9 +74,9 @@
       "published_at": "2026-11-09T08:57:44+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/2JekrtzoRkc/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "11月9日の株式市場や今後の展望、注目企業の決算などを解説\n・日経平均株価は反発し、58,775円（+1,340円）で終了\n・米10月雇用統計が市場予想を上回り、AI投資への不安心後から押し目買いが入った\n・古河電工やメイコーなどの企業で好決算や業績上方修正が発表された\n・今週はソフトバンクグループなどの大型決算発表や外環境の動向が注目される",
+      "status": "ok",
+      "summarized_at": "2026-11-10T10:03:45+09:00",
       "retry_count": 0
     },
     {
@@ -87,9 +87,9 @@
       "published_at": "2026-11-09T05:33:30+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/ZgXFm05pKgE/hqdefault.jpg",
       "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "立憲民主党の稲富修二衆院議員が福岡県改革協議会から計1,000万円を受領していた疑惑について、脱法的裏金問題として検証している。\n・稲富氏は福岡県改革協議会などから寄付金を受け取っており、同協議会は旧国民民主党の資金の流れをくむ政治団体であった。\n・政治資金収支報告書の調査から、こうした団体を介した金の移動は「解党マネー」等を利用した脱法的な仕組みであると指摘されている。\n・稲富氏のほかにも複数の県議らが同様に資金を受け取っており、その実態や資金使途の不透明さが浮き彫りになっている。\n・党内のガバナンスや政治資金の透明性をめぐり、今後の調査や関係者の説明責任が強く求められている。",
+      "status": "ok",
+      "summarized_at": "2026-11-10T10:05:56+09:00",
       "retry_count": 0
     },
     {
@@ -103,7 +103,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 0
+      "retry_count": 1
     },
     {
       "video_id": "HS9qBzWvxCU",
