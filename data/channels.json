@@ -1,10 +1,5 @@
 [
   {
-    "handle": "@senxotimes",
-    "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-    "name": "センキョタイムズ"
-  },
-  {
     "handle": "@USStockhanako",
     "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
     "name": "高校生でも分かる米国株"
@@ -23,11 +18,6 @@
     "handle": "@mofmof-investor",
     "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
     "name": "もふもふ不動産"
-  },
-  {
-    "handle": "@saraba_100PJ",
-    "channel_id": "UChHPxF0EpS-V6iO7VRci1Ug",
-    "name": "さらば青春の光の100億円プロジェクト"
   },
   {
     "handle": "@CNBC",
