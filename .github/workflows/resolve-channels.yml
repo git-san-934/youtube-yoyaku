@@ -24,7 +24,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: @名からチャンネルIDと表示名を解決
+      - name: "@名からチャンネルIDと表示名を解決"
         run: python scripts/resolve_channels.py || echo "一部は変換できませんでした（変換待ちのまま）"
 
       - name: 変更があればコミットして push
