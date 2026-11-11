@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-11T22:24:38+09:00",
+  "updated_at": "2026-11-12T08:57:44+09:00",
   "items": [
+    {
+      "video_id": "x_iD6rni888",
+      "url": "https://www.youtube.com/watch?v=x_iD6rni888",
+      "title": "Why Cheaper Car Sales Have Fallen",
+      "channel": "CNBC",
+      "published_at": "2026-11-11T15:00:34+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/x_iD6rni888/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "自動車業界における値上がりに伴う購入層の変化や家計への負担を解説。\n・燃料費の高騰により、84か月以上の長期ローンを利用して新車を購入する人が過去最多を記録している。\n・コンパクトSUVなど安価な一部のセグメントの需要は高まっているが、小型車全体のラインナップが縮小している。\n・購入時の価格が高騰している影響で、1/3の購入者がローンの残債が車の価値を上回る「ネガティブ・エクイティ」の状況に陥っている。\n・金利の上昇やガス価格の高騰に加え、メーカーがインセンティブやリースを縮小しているため、消費者の負担が増加している。",
+      "status": "ok",
+      "summarized_at": "2026-11-12T08:54:51+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "yMg4Q5po5Dk",
       "url": "https://www.youtube.com/watch?v=yMg4Q5po5Dk",
@@ -25,6 +38,19 @@
       "summary": "ソフトバンクグループの2026年度上期決算は最終赤字となったが、NAV（純資産）減少の主因はArm社の株価下落による一時的なものである。\n・2026年度上期の最終損益は7,680億円の赤字、NAVは44.7兆円に減少\n・Arm社の株価が June のピークから下がったことがNAV減少の主な要因\n・OpenAIへの約30億ドル（約4.7兆円）の追加出資など、AI・データセンターへの投資を継続\n・LTV（借入比率）は15.9%、手元流動性は5.0兆円と、財務方針を堅持している",
       "status": "ok",
       "summarized_at": "2026-11-11T22:21:50+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "FrqsGDYzf5w",
+      "url": "https://www.youtube.com/watch?v=FrqsGDYzf5w",
+      "title": "失われた30年を取り戻すチャンス到来か？投資が活性化しつつある国内市場の期待と課題とは？【マイキー佐野　株価】",
+      "channel": "マイキーの非道徳な社会学",
+      "published_at": "2026-11-11T10:00:12+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/FrqsGDYzf5w/hqdefault.jpg",
+      "channel_id": "UCgXl5H1V4Fq4q0_gJYXR3bw",
+      "summary": "日本企業は過去30年間の資金余剰から資金不足へと構造転換を迎えている。\n・バブル崩壊後の長期低迷を経て、設備投資が大幅に増加\n・日銀の資金循環統計によると、2026年4月〜6月の民間企業資金余剰が減少\n・米中問題や地政学リスクにより、国内生産拠点や先端半導体などの設備投資が活発化\n・一方で社債市場の流動性不足や政府との資金獲得競合など、設備投資を阻む3つの壁が存在",
+      "status": "ok",
+      "summarized_at": "2026-11-12T08:55:44+09:00",
       "retry_count": 0
     },
     {
@@ -67,6 +93,19 @@
       "retry_count": 0
     },
     {
+      "video_id": "VBqDpA-Mquw",
+      "url": "https://www.youtube.com/watch?v=VBqDpA-Mquw",
+      "title": "Why the Clean Grid and AI Both Rely on Solid State Transformers",
+      "channel": "Bloomberg Originals",
+      "published_at": "2026-11-10T17:00:32+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/VBqDpA-Mquw/hqdefault.jpg",
+      "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+      "summary": "・ソリッドステートトランスフォーマーは、高周波で動作する次世代の電力変換機器である。\n・半導体とパワーエレクトロニクスを利用して高速度で電圧変換や直流・交流の双方向変換を行う。\n・従来の変圧器に比べ、再生可能エネルギーの変動や電圧の違いに対応しやすく安定した電力を供給できる。\n・AI関連で電力需要が急増しているデータセンターでの活用が特に注目を集めている。",
+      "status": "ok",
+      "summarized_at": "2026-11-12T08:56:33+09:00",
+      "retry_count": 0
+    },
+    {
       "video_id": "rkDiNKDv3Cg",
       "url": "https://www.youtube.com/watch?v=rkDiNKDv3Cg",
       "title": "Why investors are borrowing money to buy stocks",
@@ -77,6 +116,32 @@
       "summary": "投資家のハイ・ルー氏は高いリスク許容度から証券会社から借金をする「信用取引」を利用してテスラ株に投資している。\n・ハイ・ルー氏は「信用取引」を使って約14万7,000ドルの借金を抱えながら、約71万2,000ドル分のテスラ株を保有している。\n・2022年7月、テスラ株価が173ドルに下がると証券会社から資金追加を求められる「追証」が発生する計算だったが、株価はそれを上回って推移した。\n・株価下落による追証を避けるため、自宅を担保に追加で3万ドルの融資を受け、信用取引の借金返済に充てた。\n・現在も信用取引でのテスラ株の買い増しを続け、利益を得ながら借金を返済する計画を維持している。",
       "status": "ok",
       "summarized_at": "2026-11-11T07:42:18+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "gDBO-B__oLk",
+      "url": "https://www.youtube.com/watch?v=gDBO-B__oLk",
+      "title": "Modi Promised to Clean the Ganges. This Is What Happened",
+      "channel": "Bloomberg Originals",
+      "published_at": "2026-11-10T14:04:34+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/gDBO-B__oLk/hqdefault.jpg",
+      "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+      "summary": "インドのガンジス川の環境汚染問題と政府の浄化計画の実態についての解説。\n・インドの総人口の多くが依存するガンジス川は、急速な経済成長により深刻な汚染に直面している。\n・ナレンドラ・モディ首相は45億ドルを投じて浄化計画「ナマミ・ガンゲ」を推進しているが、汚染問題の根絶には至っていない。\n・ブルームバーグが衛星データと現地調査を行った結果、一部で改善が見られるものの、多くの地点で水質悪化が確認された。\n・工業廃水や不十分な下水処理施設が主な原因であり、政府の目標達成にはさらなるインフラ投資が必要とされている。",
+      "status": "ok",
+      "summarized_at": "2026-11-12T08:57:44+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "2X6tgesi64w",
+      "url": "https://www.youtube.com/watch?v=2X6tgesi64w",
+      "title": "【歴史的】トランプ大敗の衝撃。共和党が上下両院を失った本当の理由を解説【マイキー佐野 経済学】",
+      "channel": "マイキーの非道徳な社会学",
+      "published_at": "2026-11-10T10:00:27+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/2X6tgesi64w/hqdefault.jpg",
+      "channel_id": "UCgXl5H1V4Fq4q0_gJYXR3bw",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
       "retry_count": 0
     },
     {
@@ -119,6 +184,32 @@
       "retry_count": 0
     },
     {
+      "video_id": "afhwdRkuY7U",
+      "url": "https://www.youtube.com/watch?v=afhwdRkuY7U",
+      "title": "Is Nvidia Too Powerful? Jensen Huang Responds",
+      "channel": "Bloomberg Originals",
+      "published_at": "2026-11-09T22:00:16+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/afhwdRkuY7U/hqdefault.jpg",
+      "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 0
+    },
+    {
+      "video_id": "ncEVnCAjzDA",
+      "url": "https://www.youtube.com/watch?v=ncEVnCAjzDA",
+      "title": "Nvidia’s Jensen Huang: China Is 'Not Our Enemy,' US Chip Policy a 'Mistake'",
+      "channel": "Bloomberg Originals",
+      "published_at": "2026-11-09T20:19:42+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/ncEVnCAjzDA/hqdefault.jpg",
+      "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 0
+    },
+    {
       "video_id": "9YLr-qa6Qq8",
       "url": "https://www.youtube.com/watch?v=9YLr-qa6Qq8",
       "title": "How 3D Printing Is Transforming The Auto Industry",
@@ -142,6 +233,19 @@
       "summary": "動画の要約は以下の通りです。\n\n・米国株の長期投資を続けることで、株式を持つ人と持たない人の経済格差が広がり続けている。\n・1999年の米国移住以来、26年にわたり米国株投資を実践しており、暴落時も毎月継続して投資することが重要である。\n・長期投資の心構えとして、1、2年の含み益は幻であり、下落時も買い増しを続け、5年程度で安定した利益を狙う。\n・インデックス投資を土台にしつつ、十分に投資した人は個別株も組み合わせることで、効率的な資産形成が可能になる。",
       "status": "ok",
       "summarized_at": "2026-11-09T23:51:13+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "D1R5ML66VEE",
+      "url": "https://www.youtube.com/watch?v=D1R5ML66VEE",
+      "title": "仕事が減ったなら人を減らせ。日本が求められる企業力について解説【マイキー佐野 社会学】",
+      "channel": "マイキーの非道徳な社会学",
+      "published_at": "2026-11-09T10:00:07+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/D1R5ML66VEE/hqdefault.jpg",
+      "channel_id": "UCgXl5H1V4Fq4q0_gJYXR3bw",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
       "retry_count": 0
     },
     {
@@ -181,6 +285,19 @@
       "summary": "米国の政権交代に伴い、AIデータセンターの建設停止が懸念されている。\n・米国中間選挙で共和党が惨敗し、民主党が多数派を握った。\n・テキサス州やニューヨーク州などでAIデータセンターの建設計画に反対の動きが強まっている。\n・AIデータセンターは環境破壊や電力・水不足の懸念から反発を受けている。\n・既存のデータセンターやハイパースケーラー（大規模クラウド事業者）の価値向上が期待される一方、NVIDIAなどの関連企業の株価には乱高下のリスクがある。",
       "status": "ok",
       "summarized_at": "2026-11-08T21:33:48+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "ruBnmcKoSDQ",
+      "url": "https://www.youtube.com/watch?v=ruBnmcKoSDQ",
+      "title": "イーロン・マスクが狙う半導体覇権！アメリカの巨額投資でも解決できない問題とは【マイキー佐野 経済学】",
+      "channel": "マイキーの非道徳な社会学",
+      "published_at": "2026-11-08T10:00:09+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/ruBnmcKoSDQ/hqdefault.jpg",
+      "channel_id": "UCgXl5H1V4Fq4q0_gJYXR3bw",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
       "retry_count": 0
     },
     {
