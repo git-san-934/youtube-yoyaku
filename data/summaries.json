@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-12T23:35:43+09:00",
+  "updated_at": "2026-11-13T08:05:10+09:00",
   "items": [
+    {
+      "video_id": "OQqsSZnGe8w",
+      "url": "https://www.youtube.com/watch?v=OQqsSZnGe8w",
+      "title": "Inside Jensen Huang’s World Before Everything Fell Apart",
+      "channel": "Bloomberg Originals",
+      "published_at": "2026-11-12T21:07:06+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/OQqsSZnGe8w/hqdefault.jpg",
+      "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+      "summary": "NVIDIAのCEOジェンスン・フアンが欧州市場での投資やAIの安全性について語る\n・Nvidiaは過去1年で欧州のスタートアップに8億ドルを投資し、さらに20億ドルの投資を予定\n・AIは安全でコントロール可能であるべきで、過度に制限や複雑化をするべきではないと言及\n・ロンドン拠点のデータセンター事業者Nscaleがマイクロソフトとの契約撤回に直面した件に触れる\n・AI開発における各国の対話と協力の重要性を強調",
+      "status": "ok",
+      "summarized_at": "2026-11-13T08:02:31+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "ObC2SwCD_bs",
+      "url": "https://www.youtube.com/watch?v=ObC2SwCD_bs",
+      "title": "Jensen Huang: You Have to Hold Yourself Responsible",
+      "channel": "Bloomberg Originals",
+      "published_at": "2026-11-12T17:00:39+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/ObC2SwCD_bs/hqdefault.jpg",
+      "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+      "summary": "Nvidia共同創業者兼CEOのジェンスン・フアン氏が、CEOという重責に対する自身の姿勢を語っている。\n・CEOには、高い責任感、高い基準、そして強い期待値が求められる。\n・AI業界全体を背負う立場であり、そのプレッシャーは高くて当然である。\n・CEOは簡単で、当たり前にこなせるような仕事であってはならない。",
+      "status": "ok",
+      "summarized_at": "2026-11-13T08:03:18+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "r8zFAZr1uKY",
+      "url": "https://www.youtube.com/watch?v=r8zFAZr1uKY",
+      "title": "How Democrats Won Back Union Voters",
+      "channel": "CNBC",
+      "published_at": "2026-11-12T15:34:55+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/r8zFAZr1uKY/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "民主党が労働組合世帯の間で支持を急速に回復させている背景や影響についての解説。\n・2026年のミッドターム（中間選挙）で民主党は組合世帯から+22%の支持を獲得し、2024年の+8%から急増した\n・チームスターズなどの一部労組が民主党支持から距離を置く動きも見られたが、ミシガン州などではUAW（全米自動車労組）が大規模な動員を行い、民主党候補の勝利に大きく貢献した\n・AFL-CIO（米労働総連合・産業別組合会議）等の活動により、組合員の選挙への参加意欲は高まっている\n・組合員の支持回復は今回の選挙における重要な要素となったが、今後の大統領選挙を含めてこの優位性が持続するかは不透明である",
+      "status": "ok",
+      "summarized_at": "2026-11-13T08:04:12+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "OCxLv9pEt88",
       "url": "https://www.youtube.com/watch?v=OCxLv9pEt88",
@@ -428,6 +467,19 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
+      "retry_count": 0
+    },
+    {
+      "video_id": "hkaM_Imzq8E",
+      "url": "https://www.youtube.com/watch?v=hkaM_Imzq8E",
+      "title": "The Billionaire Who Transformed India’s Telecom Market | Leaders with Francine Lacqua",
+      "channel": "Bloomberg Originals",
+      "published_at": "2026-11-08T09:00:37+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/hkaM_Imzq8E/hqdefault.jpg",
+      "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+      "summary": "インドの携帯電話大手バルティ・エアテル（Bharti Airtel）の創業者であるスニル・ミッタル氏が、インドの経済成長や通信事業の変遷について語るインタビュー動画。\n・1980年代以降のインドはライセンスRajと呼ばれる厳格な許認可体制下にあり、規制緩和を経て起業家たちが台頭した\n・ミッタル氏は当初の発電機輸入からテレコム事業へ参入し、1995年にデリーで携帯電話サービスを開始して事業を拡大した\n・2016年のリライアンス・ジオ（Reliance Jio）参入以降の激しい競争や、海外進出・宇宙事業（OneWeb）への投資を経験した\n・インドはデジタル化とUPIなどの決済インフラの普及により、独自の発展を遂げて世界有数の巨大経済圏となった",
+      "status": "ok",
+      "summarized_at": "2026-11-13T08:05:10+09:00",
       "retry_count": 0
     },
     {
