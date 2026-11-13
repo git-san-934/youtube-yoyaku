@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T22:46:55+09:00",
+  "updated_at": "2026-11-14T08:10:44+09:00",
   "items": [
     {
       "video_id": "R87r1Y5hE9s",
@@ -61,9 +61,9 @@
       "published_at": "2026-11-13T10:00:21+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/7SxBWJNrlc4/hqdefault.jpg",
       "channel_id": "UCgXl5H1V4Fq4q0_gJYXR3bw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "JERA（電力会社）は、AI時代の電力インフラの要として世界中の企業や投資家から注目されている。\n・JERAは、日本の送電量の2〜3割を担い、千葉市の火力発電所内で国内最大級のAIデータセンターの建設を構想するなど、電力・AI分野で世界的なテック企業と協業や提携を進めている\n・東京電力と中部電力の合弁会社であるJERAは、親会社からの経営的独立や上場を目指す一方、火力発電所の老朽化対策や資金調達において親会社による支援体制や課題を抱えている\n・JERAが保有する火力発電所は、変電施設・送電網・冷却技術などのインフラがすでに整っており、データセンター運営において送電ロスやコストを削減できるという強みがある\n・日本の脱炭素政策が再生エネルギーや原子力発電を重視する動きにある中、JERAの火力発電やアンモニア混焼技術を軸とした戦略と政府方針のギャップが課題となっている",
+      "status": "ok",
+      "summarized_at": "2026-11-14T08:06:09+09:00",
       "retry_count": 0
     },
     {
@@ -77,7 +77,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 0
+      "retry_count": 1
     },
     {
       "video_id": "mudJm1ZjdRk",
@@ -87,9 +87,9 @@
       "published_at": "2026-11-13T09:21:40+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/mudJm1ZjdRk/hqdefault.jpg",
       "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "ロシアによるJT関連会社の接収を題材に、専制国家における直接投資のリスクや日中間の外交における「相互主義」の欠如について解説している。\n・JTは利益の約4分の1をロシア事業に依存していたが、事実上没収され大きな損失を被った\n・ロシアや中国などの専制国家では資本のルールが不明確であり、「カントリーリスク」への認識が甘かった\n・日本側は「相互主義」（相手の不当な措置に対し同等の対抗措置を取る原則）の徹底が不足しており、特に外交官や領事館の数において不均衡が生じている\n・外務省がこうした国際関係上の戦略的駆け引きで後手に回っている点が、企業の海外投資や外交上のリスクにつながっている",
+      "status": "ok",
+      "summarized_at": "2026-11-14T08:09:51+09:00",
       "retry_count": 0
     },
     {
@@ -100,9 +100,9 @@
       "published_at": "2026-11-13T09:13:07+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/oqSHBEZhFMU/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "・11月13日の株式市場は、前日の米国市場の下落やエビデンス社のファンCEO辞任の影響を受け、日経平均株価や東証株価指数などが変動した。\n・米国市場では主要3指数がすべて下落し、エビデンス社のCEO交代やAI投資への懸念から一時14%下落した。\n・東京株式市場では日経平均株価が反発してスタートしたが、半導体関連株への買い戻しや防衛関連株の動向などが影響を与えた。\n・一部の個別銘柄では、Vテクノロジーが海外パッケージメーカーからの受注獲得でストップ高となった一方、セグエグループは業績予想の修正を発表した。",
+      "status": "ok",
+      "summarized_at": "2026-11-14T08:10:44+09:00",
       "retry_count": 0
     },
     {
