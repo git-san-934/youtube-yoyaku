@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T08:05:10+09:00",
+  "updated_at": "2026-11-13T13:32:28+09:00",
   "items": [
     {
       "video_id": "OQqsSZnGe8w",
@@ -100,9 +100,9 @@
       "published_at": "2026-11-12T09:00:02+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/M6ALzfzuxDU/hqdefault.jpg",
       "channel_id": "UCwPgJIiUAYhdN3AYkmm5YYA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "光電融合の光変調器において、シリコンと次世代材料のどちらが勝つのかが議論されている。\n・シリコンは200Gbps/laneが限界に近く、400Gbps/laneにすると消費電力が高くなるという課題がある\n・次の世代の400Gbps/laneに向けて「TFLN」「インジウム」「シリコン」の3つの材料が競合している\n・あるメーカーがシリコンで無理やり400Gbps/laneを実現したと発表した\n・このシリコンの取り組みが許容範囲の無理なのか、それを超えているのかが現在議論の焦点となっている",
+      "status": "ok",
+      "summarized_at": "2026-11-13T13:28:47+09:00",
       "retry_count": 0
     },
     {
@@ -113,9 +113,9 @@
       "published_at": "2026-11-12T08:58:45+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/967f0a8z-Ec/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "日経平均株価は4営業日ぶりに反落し、前日比429円安の6万819円で取引を終えた。\n・アメリカのハイテク株中心の買戻しや半導体株の急上昇が一服したことなどが要因として挙げられた。\n・アメリカの巨大テック企業の決算発表を機に、AIデータセンター向けの設備投資だけでなくフリーキャッシュフローの動向にも注目が集まっている。\n・半導体関連株は好業績が期待される一方、高値警戒感も強く、今後の相場展開には注意が必要であると指摘されている。",
+      "status": "ok",
+      "summarized_at": "2026-11-13T13:29:43+09:00",
       "retry_count": 0
     },
     {
@@ -129,7 +129,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 0
+      "retry_count": 1
     },
     {
       "video_id": "e-X8F56nn74",
@@ -139,9 +139,9 @@
       "published_at": "2026-11-12T03:42:30+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/e-X8F56nn74/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "株式投資で成果を出すには、チャートや決算書だけでなく、世間・決算・機関投資家の「3つの視点」が不可欠である。\n・株価は市場の期待と結果のギャップ（サプライズ）で変動し、市場が「メンヘラ化」して過剰反応する仕組みを理解する必要がある。\n・アップルの創業期の事例や、スペースXのIPO（新規株式公開）における「上場前の株主」と「IPO後に買った投資家」の株価・リターンの格差から、株式の希薄化やロックアップ期間の仕組みを学ぶ重要性を示している。\n・人間は多く投資すれば大きなリターンがあると過信してリスクを見誤りがちであるため、短期の儲け話に惑わされず、手堅く地道な投資を心がけるべきである。",
+      "status": "ok",
+      "summarized_at": "2026-11-13T13:32:28+09:00",
       "retry_count": 0
     },
     {
