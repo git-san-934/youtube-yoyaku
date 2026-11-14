@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-14T08:10:44+09:00",
+  "updated_at": "2026-11-14T13:28:41+09:00",
   "items": [
+    {
+      "video_id": "Yx2lgDruVaI",
+      "url": "https://www.youtube.com/watch?v=Yx2lgDruVaI",
+      "title": "Nvidia In Crisis: The Rise Of Jensen Huang’s Empire At The Center Of The AI Boom",
+      "channel": "CNBC",
+      "published_at": "2026-11-13T15:00:06+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/Yx2lgDruVaI/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "Nvidiaは創業者ジェンスン・フアンの不祥事や米中対立による輸出規制という33年の歴史で最大の危機に直面している。\n・創業者ジェンスン・フアンの不祥事報道を受け、Nvidiaは法律事務所を起用して調査を実施している。\n・2006年に発表した並列計算プラットフォーム「CUDA」によりAIブームの中心となり、株価と創業者資産が急増した。\n・TSMCへの製造依存や米国の対中輸出規制、暗号資産のマイニング（採掘）需要の変動といった地政学的リスクや市場の変動に対応してきた。\n・Nvidiaは巨額のキャッシュや主要企業との結びつきがある一方、競合他社による代替チップの開発やサプライチェーンの課題が今後の成長におけるリスク要因となっている。",
+      "status": "ok",
+      "summarized_at": "2026-11-14T13:24:45+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "R87r1Y5hE9s",
       "url": "https://www.youtube.com/watch?v=R87r1Y5hE9s",
@@ -77,7 +90,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "video_id": "mudJm1ZjdRk",
@@ -113,9 +126,9 @@
       "published_at": "2026-11-13T09:00:31+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/6K9fFLZ3e6Q/hqdefault.jpg",
       "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "Grand Theft Auto VI（GTA6）の発売が業界に与える多大な経済的・文化的影響、およびゲーム業界全体が直面する課題について解説した動画。\n・GTA6はTake-Two Interactiveの巨額の制作費をかけ、2026年11月19日に発売予定の最大のビデオゲーム発売として期待されている\n・ゲーム業界は開発費の高騰や相次ぐレイオフ（人員削減）、安全な作品への依存などの構造的課題に直面している\n・前作GTA5は世界で2億3500万本以上を販売し、長期的なオンライン運営が成功の大きな要因となった\n・GTA6の圧倒的な規模と期待感は、他のゲーム企業の発売スケジュールに多大な影響を与えている",
+      "status": "ok",
+      "summarized_at": "2026-11-14T13:27:50+09:00",
       "retry_count": 0
     },
     {
@@ -126,9 +139,9 @@
       "published_at": "2026-11-13T08:44:08+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/swpwRUyn77c/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "米国株への長期投資を推奨し、その理由や売却のタイミングについて自身の投資哲学を語っている。\n・長期投資の観点から、少子化や外国人投資家の売り抜けなどを理由に日本株ではなく米国株を勧めている。\n・米国では贈与税・相続税の控除額が非常に大きく、在住外国人や永住権保持者が資産を長期で残しやすい。\n・日々の株価の変動はノイズであり、企業の成長や米国の経済拡大という長期的な視点を持つことが重要である。\n・売却するのは、大学費用や起業時の生活費、住宅購入など、人生の大きな節目でお金が必要になる時である。",
+      "status": "ok",
+      "summarized_at": "2026-11-14T13:28:41+09:00",
       "retry_count": 0
     },
     {
