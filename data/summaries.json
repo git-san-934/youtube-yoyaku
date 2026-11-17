@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-16T23:31:25+09:00",
+  "updated_at": "2026-11-17T10:27:45+09:00",
   "items": [
+    {
+      "video_id": "Pq9KVc5aQUA",
+      "url": "https://www.youtube.com/watch?v=Pq9KVc5aQUA",
+      "title": "How AI and Electrolyzers Are Powering Off Grid ‘Green Ammonia’",
+      "channel": "Bloomberg Originals",
+      "published_at": "2026-11-16T21:00:33+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/Pq9KVc5aQUA/hqdefault.jpg",
+      "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+      "summary": "Envision社が取り組む、再生可能エネルギーを利用した「グリーンアンモニア」の製造技術と課題。\n・アンモニアは肥料などに使われる化学物質で、通常は化石燃料から作られる\n・Envision社は再生可能エネルギーと電解槽を用いて、水から抽出した水素と窒素からグリーンアンモニアを製造している\n・バックアップ電源のない不安定な電源に対応するため、電解槽の改良やAIを活用した気象予測システムを導入している",
+      "status": "ok",
+      "summarized_at": "2026-11-17T10:23:40+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "dZY5oKUFamI",
+      "url": "https://www.youtube.com/watch?v=dZY5oKUFamI",
+      "title": "Can China Decarbonize Heavy Industry?",
+      "channel": "Bloomberg Originals",
+      "published_at": "2026-11-16T17:00:12+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/dZY5oKUFamI/hqdefault.jpg",
+      "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+      "summary": "中国は世界最大の石炭生産・消費国であり、温室効果ガスの最大排出国である一方、クリーンテクノロジーの分野でも急速に主導権を握りつつある。\n・中国の習近平国家主席は2020年に、2030年までの排出ピークアウトと2060年までのカーボンニュートラル（脱炭素）という2つの目標を掲げた\n・近年はEV産業の発展や風力・太陽光の導入で成果を上げてきたが、最大の難所である工業セクターの脱炭素化が課題となっている\n・内モンゴル自治区のチフェン（Chifeng）工業パークでは、100%ローカルな再生可能エネルギーを用いて「グリーン水素」や「グリーンアンモニア」を生産する試みが行われている\n・内モンゴルは中国における風力と石炭の双方の主要産地であり、クリーンエネルギーの未来へ向けて移行期にある先進地域となっている",
+      "status": "ok",
+      "summarized_at": "2026-11-17T10:25:01+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "Em35ZNmWzzo",
+      "url": "https://www.youtube.com/watch?v=Em35ZNmWzzo",
+      "title": "France's borrowing costs are climbing. Could the U.S. be next?",
+      "channel": "CNBC",
+      "published_at": "2026-11-16T15:00:12+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/Em35ZNmWzzo/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "フランスの借入コストと債務問題の現状、および米国への影響に関する解説。\n・フランスの10年国債利回りが20年ぶりの高水準に達し、借入コストが上昇\n・パンデミック後の救済策やウクライナ侵攻後のエネルギー価格高騰、減税などにより、債務対GDP比が115%に急増\n・手厚い年金制度などの社会保障費が国家財政を圧迫し、国民の抗議デモや政治的混乱に発展\n・米国も高い債務対GDP比（126%）にあるが、基軸通貨であるドルの強さがフランスとの決定的な違いとなっている",
+      "status": "ok",
+      "summarized_at": "2026-11-17T10:26:02+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "PoKCv-N1CFM",
       "url": "https://www.youtube.com/watch?v=PoKCv-N1CFM",
@@ -61,9 +100,9 @@
       "published_at": "2026-11-16T08:33:50+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/EXskgviLRho/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "米国株式市場の主要株価や日経平均は上昇トレンドにあり、目先の市場の調整や下落は本質的な暴落ではなく通常の変動範囲内であるため、焦って売買せず中長期視点でコツコツ積立を継続することが重要です。\n・11月16日の米国株式市場は、エヌビディアの決算やアンソロピックの上場を控え、AI関連株の売りによりS&P500やナスダック100の先物が下落しました。\n・米国の金利や景気に対する過度な懸念による一過性の調整であり、日経平均も含め年初来の株価水準から見れば依然として上昇基調にあります。\n・個別株の過度な高値掴みや感情的な売買を避け、インデックス投資などの積立を計画的に行うことが推奨されています。",
+      "status": "ok",
+      "summarized_at": "2026-11-17T10:27:45+09:00",
       "retry_count": 0
     },
     {
