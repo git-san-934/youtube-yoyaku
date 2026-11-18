@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-11-18T09:24:25+09:00",
+  "updated_at": "2026-11-19T00:11:46+09:00",
   "items": [
+    {
+      "video_id": "DOLBzaD0Kx8",
+      "url": "https://www.youtube.com/watch?v=DOLBzaD0Kx8",
+      "title": "Netflix Conquered the World. Now What? | The Circuit with Emily Chang",
+      "channel": "Bloomberg Originals",
+      "published_at": "2026-11-18T13:00:37+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/DOLBzaD0Kx8/hqdefault.jpg",
+      "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 1
+    },
+    {
+      "video_id": "KfkELaF4raY",
+      "url": "https://www.youtube.com/watch?v=KfkELaF4raY",
+      "title": "ラピダスは量産できてもお客さんゼロ?日本で2nmを誰が使う? #ラピダス #半導体 #もふもふ不動産",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-11-18T12:00:27+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/KfkELaF4raY/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "日本の半導体企業・ラピダスは量産化できても顧客獲得が難しく、事業化に懸念がある。\n・ラピダスが目指す2nm半導体は、最高性能でレースカーのような極めて限られた用途向けの製品である。\n・2nm半導体を設計・使用できる日本企業はほとんど存在しない。\n・ソニーやトヨタなどの国内大手企業でも2nm半導体は使用しない。\n・仮にラピダスが量産化に成功しても、国内の顧客が不在である問題が残る。",
+      "status": "ok",
+      "summarized_at": "2026-11-19T00:07:06+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "Nh4paERcbcs",
+      "url": "https://www.youtube.com/watch?v=Nh4paERcbcs",
+      "title": "危険すぎるアンソロピックの巨額上場の裏側。同社が抱えている特異なガバナンス構造と経営上の重大なリスクについて解説 【マイキー佐野　株価】",
+      "channel": "マイキーの非道徳な社会学",
+      "published_at": "2026-11-18T10:00:12+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/Nh4paERcbcs/hqdefault.jpg",
+      "channel_id": "UCgXl5H1V4Fq4q0_gJYXR3bw",
+      "summary": "Anthropic社のIPO（新規株式公開）に隠されたガバナンス構造と経営リスクについて解説している。\n・Anthropic社は創業5年弱で評価額2兆ドル規模での上場を目指すが、巨額のキャッシュアウトや大株主との長期契約などの経営リスクを抱えている。\n・株主の権利や利益よりも安全性を最優先するPBC（公益法人）というガバナンス構造を採用しており、上場企業としては異例の体制をとっている。\n・「LTBT（長期利益信託）」という特殊な信託が人事権などの強大な拒否権を握ることで、非常時に創業理念や安全性を強制的に守る仕組みになっている。\n・AIの安全性と成長のバランスをめぐり、政治家や規制当局との衝突、安全第一主義を掲げるがゆえの矛盾といった課題に直面している。",
+      "status": "ok",
+      "summarized_at": "2026-11-19T00:08:15+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "SdMRN2-croc",
+      "url": "https://www.youtube.com/watch?v=SdMRN2-croc",
+      "title": "エヌビディア決算発表解説！花子の毎日米国株ライブ23時半から！",
+      "channel": "高校生でも分かる米国株",
+      "published_at": "2026-11-18T09:27:14+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/SdMRN2-croc/hqdefault.jpg",
+      "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
+      "summary": "・NVIDIAの決算は前年同期比で売上高が103％増など絶好調であり、第4四半期も増収が見込まれるが、利益率は低下傾向にある。\n・ジェンスン・ファンCEOの中国市場向けAI半導体販売姿勢と、トランプ政権の国務長官候補マルコ・ルビオ氏による中国製半導体規制の動きには矛盾が生じている。\n・米国株長期投資においては、個別の業績だけでなく各国の地政学力や米国の中立政策を意識する必要がある。\n・アンソロピックのIPO（新規株式公開）が間近に迫り、投資家のAI株への熱気が高まっている。",
+      "status": "ok",
+      "summarized_at": "2026-11-19T00:11:46+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "t9sCEfHVB2Q",
+      "url": "https://www.youtube.com/watch?v=t9sCEfHVB2Q",
+      "title": "1627回　APEC注目ポイントは米露中三カ国会談　それにつけても中国の非礼さよ",
+      "channel": "髙橋洋一チャンネル",
+      "published_at": "2026-11-18T09:00:23+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/t9sCEfHVB2Q/hqdefault.jpg",
+      "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 0
+    },
+    {
+      "video_id": "WZ9cBgS8uL8",
+      "url": "https://www.youtube.com/watch?v=WZ9cBgS8uL8",
+      "title": "2026年11月18日【2番底形成か　アンソロピックの上場迫る】（市況放送【毎日配信】）",
+      "channel": "朝倉慶のASK1",
+      "published_at": "2026-11-18T07:58:29+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/WZ9cBgS8uL8/hqdefault.jpg",
+      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 0
+    },
     {
       "video_id": "yA6ndUz7Vt4",
       "url": "https://www.youtube.com/watch?v=yA6ndUz7Vt4",
@@ -2521,19 +2599,6 @@
       "summary": "動画の要約は以下の通りです。\n\n岸田元首相が個人向け国債への税優遇に慎重な姿勢を示した背景には、財務省や日銀と金融界の深いつながりがある。\n・個人向け国債の税優遇は「NISAの目的にそぐわない」として岸田氏は慎重な考えを示した。\n・国債の金利と銀行のスーパー定期の比較において、国債金利が有利であるため金融機関は国債への資金流出を嫌う傾向がある。\n・金融機関は資金流出を防ぐために金利上昇を避けたがり、国債発行時の入札（足切り）における金融界と財務省・日銀の関係が存在する。",
       "status": "ok",
       "summarized_at": "2026-10-17T05:26:40+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "UPoXO-Wjcr8",
-      "url": "https://www.youtube.com/watch?v=UPoXO-Wjcr8",
-      "title": "日経平均が史上3番目の大暴落、アドバンテスト15%安はなぜ? #日経平均 #アドバンテスト #コアウィーブ #もふもふ不動産",
-      "channel": "もふもふ不動産",
-      "published_at": "2026-10-16T09:00:20+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/UPoXO-Wjcr8/hqdefault.jpg",
-      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "日経平均株価が史上3番目の大暴落を記録した「コアウィーブショック」の背景と影響について解説した動画。\n・日経平均株価が3318円安（4.90%安）となり、史上3番目の下落幅を記録した。\n・下落のきっかけはアメリカの「コアウィーブ」に関連するショックとされている。\n・アドバンテストの株価が約15%（6040円）下落するなど、半導体関連銘柄が大きく値を下げた。\n・米国発のショックであるにもかかわらず、日本企業が大きな損害を被る形となった。",
-      "status": "ok",
-      "summarized_at": "2026-10-17T11:27:51+09:00",
       "retry_count": 0
     }
   ]
