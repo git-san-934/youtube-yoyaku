@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T08:48:51+09:00",
+  "updated_at": "2026-11-19T14:38:05+09:00",
   "items": [
     {
       "video_id": "Whw65_AQP3E",
@@ -48,9 +48,9 @@
       "published_at": "2026-11-18T13:00:37+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/DOLBzaD0Kx8/hqdefault.jpg",
       "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "NetflixのCo-CEOであるテッド・サランドスへのインタビューを通じて、グローバル化、AI、競合他社との競争に直面する同社の戦略と課題を描く。\n・パリやソウルなどの地域密着型コンテンツの制作を通じて、世界的な視聴者層の拡大と「ネットフリックス効果」による文化への影響力を高めている。\n・AI技術の急速な発展に伴い、ベン・アフレックのAI企業「Interpositive」の買収や映像制作へのAI活用を進める一方で、業界内には懸念や反発も存在する。\n・パンデミック後の環境変化やスタジオ買収交渉の破談、YouTube等の競合の台頭に対応するため、新たなジャンルやサービスの開拓に注力している。\n・組織のスリム化を図りつつ、「ストーリーテリング」の質と多様性を重視することで、激変するメディア業界における主導権の維持を目指している。",
+      "status": "ok",
+      "summarized_at": "2026-11-19T14:29:54+09:00",
       "retry_count": 2
     },
     {
@@ -100,9 +100,9 @@
       "published_at": "2026-11-18T09:00:23+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/t9sCEfHVB2Q/hqdefault.jpg",
       "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "APEC首脳会議の最大の注目点は「米中露の三者会談」であること。\n・米中露の三者会談は三すくみ状態となり、本質的な議論や合意は難しい\n・QUAD（日米豪印の枠組み）において、トランプ前政権時に一度凍結されたが再始動した\n・ホスト国である中国の態度が、外交上のマナーや国としての評価に影響を与える",
+      "status": "ok",
+      "summarized_at": "2026-11-19T14:30:54+09:00",
       "retry_count": 0
     },
     {
@@ -113,9 +113,9 @@
       "published_at": "2026-11-18T07:58:29+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/WZ9cBgS8uL8/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "11月18日の日本株式市場は日経平均が上昇し、エヌビディアの好決算を受けたハイテク関連株などが買われた。\n・日経平均は5万9,024円（＋163円）、為替は1ドル＝159円台後半で推移\n・米エヌビディアの好決算を受け、アドバンテストなどのAI半導体関連株が買われ指数を押し上げた\n・明治ホールディングスやロームなどの個別銘柄の動向や決算・出資のニュースが紹介された\n・専門家による市況解説では、日経平均が二番底をつけた可能性が指摘された",
+      "status": "ok",
+      "summarized_at": "2026-11-19T14:33:57+09:00",
       "retry_count": 0
     },
     {
@@ -168,7 +168,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "video_id": "mWB2nUYdtw0",
