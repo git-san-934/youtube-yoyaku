@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-20T00:03:06+09:00",
+  "updated_at": "2026-11-20T09:11:14+09:00",
   "items": [
+    {
+      "video_id": "d6MOxsNEGTs",
+      "url": "https://www.youtube.com/watch?v=d6MOxsNEGTs",
+      "title": "Ben Affleck Wants to Demystify AI in Hollywood",
+      "channel": "Bloomberg Originals",
+      "published_at": "2026-11-19T21:00:17+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/d6MOxsNEGTs/hqdefault.jpg",
+      "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+      "summary": "Ben Affleckらが、映画業界における人工知能（AI）技術の台頭と影響について語る。\n\n・Ben Affleckは最初はAIの登場に危機感を抱いたが、現状のAI技術は確率的なメカニズムであり万能ではないと理解を示している\n・NetflixのElizabeth Stoneは、映像業界における技術発展はクリエイティビティを拡張してきた歴史があり、AIも恐れるより期待すべきだと述べている\n・AIは人間の映画製作者と協働し、従来は時間とコストがかかっていたVFX（視覚効果）の処理や環境の変更などを効率化するツールとして有用であると説明している",
+      "status": "ok",
+      "summarized_at": "2026-11-20T09:06:42+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "5r5yuIUlT98",
       "url": "https://www.youtube.com/watch?v=5r5yuIUlT98",
@@ -12,7 +25,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "video_id": "xwc777KREyE",
@@ -61,9 +74,9 @@
       "published_at": "2026-11-19T09:00:02+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/nHnACwvDi3I/hqdefault.jpg",
       "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "WWE社長ニック・カーンが、Netflixとの50億ドルの契約やライブイベントのビジネス戦略について語る\n・WWEとNetflixは52週のプログラミングや広告サポートで提携し、短期間で大きな契約がまとまった\n・ファン層の維持や地方都市へのイベント誘致、カレッジリクルート（大学からの選手発掘）による新たな才能確保が成長を支えている\n・従来のスポーツ界とは異なり、WWEは一つの組織内でイベントをコントロールできる強みがある\n・今後は海外への展開やボクシング事業とのシナジーを通じて、さらなるグローバルな成長を目指す",
+      "status": "ok",
+      "summarized_at": "2026-11-20T09:10:17+09:00",
       "retry_count": 0
     },
     {
@@ -74,9 +87,9 @@
       "published_at": "2026-11-19T08:47:42+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/uAgqKC73IiQ/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "11月19日（木）の日本株式市場は、日経平均が続伸し59,444円（+419円）で終了した。\n・前日の米国市場で、FRBのウィラー理事が12月のFOMCでの大幅利上げに言及しダウが売られた一方、AI関連株への期待からハイテク株はまちまちとなった。\n・東京株式市場では、半導体関連株などを中心に買いが入り、日経平均は一時600円を超える上げ幅となった。\n・米国の追加利上げ観測などを巡る懸念から買い一巡後は上げ幅を縮小したものの、韓国の株安で一時58,750円まで下落した後は押し目買いが入り持ち返した。\n・個別銘柄では、東洋インキSCホールディングスやグローリーなどが買われ、東邦亜鉛などが売られた。",
+      "status": "ok",
+      "summarized_at": "2026-11-20T09:11:14+09:00",
       "retry_count": 0
     },
     {
@@ -2586,19 +2599,6 @@
       "summary": "アメリカ道路交通安全局（NHTSA）が燃費規制（CAFE基準）を緩和し、自動車業界や市場に多大な影響を与えている。\n・NHTSAの燃費規制緩和により、フォードやラムなどが利益率の高いV8エンジンやハイブリッド車に注力できるようになった。\n・メーカーはコンプライアンス（法令遵守）コストやクレジット購入費用を削減でき、研究開発投資の自由度が向上した。\n・一方で、EV（電気自動車）市場への巨額投資を進めてきたGMなどは、車種の投入遅延や戦略の軌道修正を余儀なくされている。\n・規制緩和後もハイブリッド車の需要や消費者のEV嗜好は高く、今後のパワートレイン戦略の多様化が求められている。",
       "status": "ok",
       "summarized_at": "2026-10-19T00:12:02+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "9YJ0PW9dEfw",
-      "url": "https://www.youtube.com/watch?v=9YJ0PW9dEfw",
-      "title": "America's AI chip talent crisis",
-      "channel": "CNBC",
-      "published_at": "2026-10-17T14:00:31+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/9YJ0PW9dEfw/hqdefault.jpg",
-      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
-      "summary": "アメリカのAI用半導体市場では、製造やパッケージングの能力不足に加え、専門人材の深刻な不足が課題となっている。\n\n・Purdue大学などでは、最先端の半導体製造技術を学ぶ学生の育成に力を入れている。\n・TSMCやIntel、Samsung、Micronなどが米国内に新工場を建設中で、2030年までに最大157,500人の人材不足が懸念されている。\n・米国の工学系卒業生のうち、半導体業界に進むのはわずか3%にとどまっている。\n・各大学や企業が多額の投資を行い、急増する製造拠点やパッケージング工場のエンジニアなどの採用・育成を急ピッチで進めている。",
-      "status": "ok",
-      "summarized_at": "2026-10-17T23:45:51+09:00",
       "retry_count": 0
     }
   ]
