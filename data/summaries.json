@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-20T23:46:01+09:00",
+  "updated_at": "2026-11-21T08:36:33+09:00",
   "items": [
+    {
+      "video_id": "7hvOtDZdAH4",
+      "url": "https://www.youtube.com/watch?v=7hvOtDZdAH4",
+      "title": "How WWE Closed Its $5 Billion Netflix Deal",
+      "channel": "Bloomberg Originals",
+      "published_at": "2026-11-20T21:00:03+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/7hvOtDZdAH4/hqdefault.jpg",
+      "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+      "summary": "WWEとNetflixによる50億ドル規模の大型契約の背景や、ビジネス戦略についての対談。\n\n・WWEは、年間52週にわたるプロレス番組の配信を提供し、アド・サポート型（広告付き）ビジネスへの参入を進めるNetflixの広告需要に合致した。\n・Netflix側との交渉は迅速に進められ、クリスマス前には契約がまとまった。\n・コンテンツの配信において、メッセージをシンプルにすることがビジネスの鍵であると語られている。\n・WWEは6億人のソーシャルメディアフォロワーを活用し、レスラー自身が視聴者に動画で操作方法を直接呼びかけることで、コンテンツの拡散を促進した。",
+      "status": "ok",
+      "summarized_at": "2026-11-21T08:32:32+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "uXw1L12PKa8",
+      "url": "https://www.youtube.com/watch?v=uXw1L12PKa8",
+      "title": "On the Set of ‘Emily in Paris’ With Lily Collins",
+      "channel": "Bloomberg Originals",
+      "published_at": "2026-11-20T17:00:40+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/uXw1L12PKa8/hqdefault.jpg",
+      "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+      "summary": "ドラマ「エミリー、パリへ行く」の撮影現場の裏側と、クリエイターのダレン・スター氏へのインタビュー。\n・エミリー役のリリー・コリンズと、エミリーの上司役を務めるエミリー・チャンが、撮影セットの精巧さや最終シーンの撮影について語っている。\n・エミリー役のリリー・コリンズは、共演者アシュリー・パークとの感情的なシーンの撮影エピソードを振り返っている。\n・製作総指揮のダレン・スター氏は、予想外の大ヒットとなったことへの驚きを語っている。\n・ダレン・スター氏は、テレビの視聴スタイルの変化、特に一挙配信（ビンジウォッチング）が自身の作品作りや視聴者に与えた影響について言及している。",
+      "status": "ok",
+      "summarized_at": "2026-11-21T08:33:25+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "XQxPvJ7H98s",
+      "url": "https://www.youtube.com/watch?v=XQxPvJ7H98s",
+      "title": "How Cheap Clothing Got So Expensive",
+      "channel": "CNBC",
+      "published_at": "2026-11-20T15:00:11+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/XQxPvJ7H98s/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "衣料品の価格高騰と品質低下（品質不況）の背景と、アパレルブランドの動向を解説する動画。\n・近年、アパレル製品でポリエステルなどの合成繊維の比率が高まり、低品質化しているにもかかわらず価格は上昇している\n・ファストファッションの台頭やコロナ禍後のサプライチェーン混乱、関税や戦争によるコスト増加が背景にある\n・品質を重視する消費者の意識変化に伴い、高品質な天然素材を扱うブランド（ラルフ・ローレンやQuinceなど）や高価格帯ブランドが支持を集めている\n・SheinやZaraなどの低価格・トレンド重視のブランドは価格改定やサプライチェーンの課題に直面している",
+      "status": "ok",
+      "summarized_at": "2026-11-21T08:34:22+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "zrU1m42c47c",
       "url": "https://www.youtube.com/watch?v=zrU1m42c47c",
@@ -51,7 +90,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "video_id": "gwn9Uby7_yg",
@@ -2560,45 +2599,6 @@
       "summary": "ジェボンのパラドックスから、AIの効率化がAI投資や需要の減少には直結しない理由を解説している。\n・AIや半導体株が売られる原因となった、AIが古いGPUで簡単に動く問題について言及\n・石炭炉の効率化が燃料の消費量を増やした「ジェボンのパラドックス」の例を挙げ、効率の向上がAIの普及や利用増加を促すと説明\n・パソコンのDRAMが8MBから16GBへ増加した歴史を例に、価格の下落と容量の増加が需要を拡大させた経緯を紹介",
       "status": "ok",
       "summarized_at": "2026-10-21T19:57:53+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "SR_pX7udceo",
-      "url": "https://www.youtube.com/watch?v=SR_pX7udceo",
-      "title": "スペースX、NETFLIX決算発表解説！花子の毎日米国株ニュース今夜２２時半から！",
-      "channel": "高校生でも分かる米国株",
-      "published_at": "2026-10-21T08:53:23+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/SR_pX7udceo/hqdefault.jpg",
-      "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "・スペースXとネットフリックスの決算内容と株価動向の解説。\n・スペースXは収益が前年同期比約2.6倍となり、黒字転換を達成した。\n・AI関連部門（SI）の「Super Intelligence」が好調で、大手AI企業からの利用料が貢献した。\n・ネットフリックスは会員増や広告収入拡大により増収増益となったが、広告事業の通期見通しは下方修正された。",
-      "status": "ok",
-      "summarized_at": "2026-10-22T01:24:59+09:00",
-      "retry_count": 1
-    },
-    {
-      "video_id": "zcngPWqnNDs",
-      "url": "https://www.youtube.com/watch?v=zcngPWqnNDs",
-      "title": "2026年10月21日【スペースX好決算　AI需要は不変】（市況放送【毎日配信】）",
-      "channel": "朝倉慶のASK1",
-      "published_at": "2026-10-21T07:54:56+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/zcngPWqnNDs/hqdefault.jpg",
-      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "10月21日（水）の株式市場の概況と今後の見通しに関する動画。\n・日経平均株価は6万4621円（前日比+545円）、TOPIXは4043（+34）で終了した。\n・米国市場はダウが529ドル高と好調で、AI関連株や決算好調の企業に買いが入った。\n・東京市場はリスクオフの巻き戻しで堅調な展開となったが、投資家心理には依然として不安感がある。\n・韓国株式市場や海外の物価高・暴動など、地政学リスクや景気不安の要因が指摘されている。",
-      "status": "ok",
-      "summarized_at": "2026-10-21T19:59:58+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "6dL8e5voGbM",
-      "url": "https://www.youtube.com/watch?v=6dL8e5voGbM",
-      "title": "DeepSeekショックでNVIDIAが1日で約80兆円吹き飛んだ また来る? #NVIDIA #DeepSeek #半導体株 #もふもふ不動産",
-      "channel": "もふもふ不動産",
-      "published_at": "2026-10-20T13:14:40+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/6dL8e5voGbM/hqdefault.jpg",
-      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "2025年1月のNVIDIA株の急落（DeepSeekショック）の原因とその株価への影響について解説している。\n・2025年1月、中国のAI企業DeepSeekの新モデル公開により、NVIDIA株は1日で17%下落し過去最大の時価総額減少を記録した。\n・アドバンテストなどの半導体銘柄も大幅に下落した。\n・その後、NVIDIA株は約5ヶ月でショック前の高値を回復した。\n・業績への影響は少ないとみられるが、株価は再び大きく変動する可能性がある。",
-      "status": "ok",
-      "summarized_at": "2026-10-21T01:10:45+09:00",
       "retry_count": 0
     }
   ]
