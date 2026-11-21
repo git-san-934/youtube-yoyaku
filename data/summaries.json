@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-21T23:04:38+09:00",
+  "updated_at": "2026-11-22T07:42:07+09:00",
   "items": [
+    {
+      "video_id": "f4-k-ZGD4tQ",
+      "url": "https://www.youtube.com/watch?v=f4-k-ZGD4tQ",
+      "title": "WWE’s Nick Khan on Balancing Growth With Fan Loyalty",
+      "channel": "Bloomberg Originals",
+      "published_at": "2026-11-21T17:00:10+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/f4-k-ZGD4tQ/hqdefault.jpg",
+      "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+      "summary": "WWEのビジネス戦略に関する講演。\n・WWEは収益とファンの誠実さのバランスを取るため、開催地の地理や需要を考慮して興行を行っている。\n・スーパースターの選定においては、「ジョン・Cenaのような唯一無二の存在」を求めるのではなく、カレッジリッチルーティングに力を入れている。\n・NFL等でプロになれなかったアスリートを対象に、大学キャンパスでスカウト活動を展開している。",
+      "status": "ok",
+      "summarized_at": "2026-11-22T07:39:33+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "sxtXz24odps",
+      "url": "https://www.youtube.com/watch?v=sxtXz24odps",
+      "title": "A First Look Inside The Fed’s New AI Task Force",
+      "channel": "CNBC",
+      "published_at": "2026-11-21T15:00:03+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/sxtXz24odps/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "連邦準備制度（FRB）がサンフランシスコで開催したAIと経済に関する会議の模様と、専門家の見解について。\n・ケビン・ウォーシュFRB新議長が設置したAIタスクフォースでは、AIが労働市場や経済、金利に与える影響についての議論が行われた。\n・マーク・アンドリーセン氏は、政府規制が過度な産業ではAIによる失職リスクが低いと指摘した。\n・チャド・ジョーンズ氏は、AIがもたらす「弱いリンク（誤認識の増加など）」が経済成長の決定要因になると述べている。\n・JPモルガンのステファニー・エリアガ氏は、AI導入ペースは緩やかであるものの、管理職や事務職など多くの作業が影響を受けると分析した。",
+      "status": "ok",
+      "summarized_at": "2026-11-22T07:40:25+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "JEuiFoBBnvs",
       "url": "https://www.youtube.com/watch?v=JEuiFoBBnvs",
@@ -139,9 +165,9 @@
       "published_at": "2026-11-20T09:00:27+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/gwn9Uby7_yg/hqdefault.jpg",
       "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "動画の内容を要約したものは以下の通りです。\n\n2026年7〜9期の実質GDPが年率0.1%減となった要因や、高市政権に対するネット上の批判について解説している。\n・2026年7〜9期の国内総生産（GDP）速報値は前期比0.02%減、年率換算0.1%減となり、4四半期ぶりのマイナス成長となった。\n・個人消費の落ち込みが響き、日本の消費は「コロナ前」の水準を下回り、欧米との格差が広がっている。\n・高市政権発足からの為替（円/ドル）とGDPの推移データを比較すると、円安・円高の動きとGDPの増減が一致する傾向が見られる。\n・金利の引き上げや住宅ローンの返済負担増などが景気に影響を与えている。",
+      "status": "ok",
+      "summarized_at": "2026-11-22T07:41:16+09:00",
       "retry_count": 0
     },
     {
@@ -152,9 +178,9 @@
       "published_at": "2026-11-20T09:00:02+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/C4-e_p8SRZo/hqdefault.jpg",
       "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "中国の輸出額は巨額の貿易黒字を記録し、世界市場で存在感を高めている。\n・中国の輸出額は2026年に4兆ドルを超える見通しで、過去最高を更新している\n・輸出の主力は従来の家具・衣料・家電から、EV・リチウムイオン電池・ソーラーパネルの「新3種」へ移行した\n・アメリカや欧州連合（EU）は関税などで中国の輸出に歯止めをかけようとしているが、中国は輸出先を東南アジアやアフリカ等へ多角化させている\n・米国の対中関税政策や国内の不動産危機といった課題もあるが、中国は政府の支援や高度な製造業の強みを背景に、世界最大の輸出大国の地位を維持している",
+      "status": "ok",
+      "summarized_at": "2026-11-22T07:42:07+09:00",
       "retry_count": 0
     },
     {
@@ -2573,32 +2599,6 @@
       "summary": "AIの普及により公共交通機関の変革や課題が浮き彫りになっており、実証実験や効率化が進められています。\n・大阪メトロはAIを活用し、勤務計画の作成期間を3カ月から2週間に短縮した。\n・大阪メトロのオンデマンドバスは、AIで需要を分析し相乗りルートを算出する仕組みを取り入れている。\n・東武鉄道と日立製作所は、車両メンテナンスのDXを進め、AI技術で車内の屋根や床などの目視点検の自動化を目指している。\n・AI実装における最大の課題は採算性にあり、AIの精度向上と人とAIのハイブリッド運用で収益性や業務の質の向上が図られている。",
       "status": "ok",
       "summarized_at": "2026-10-23T01:29:47+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "wPRrbxu8ZFk",
-      "url": "https://www.youtube.com/watch?v=wPRrbxu8ZFk",
-      "title": "メタ、テスラ、ラムリサーチ、TI、IBM決算解説！【花子の毎日米国株ニュース】今夜１０時３０分から！",
-      "channel": "高校生でも分かる米国株",
-      "published_at": "2026-10-22T08:48:48+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/wPRrbxu8ZFk/hqdefault.jpg",
-      "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "日経平均や米主要株価（メタ、テスラ、ラムリサーチ、IBM、ディスコなど）の下落要因や主要企業の決算動向について解説している。\n・日経平均はAI関連投資の先行きへの警戒から2.65%の下落となり、前日の上昇分をすべて失った\n・ラムリサーチは好決算だったものの、供給制約や中国向け売上の懸念から時間外で下落した\n・テスラは売上高が過去最高を更新したものの、研究開発費や販管費の増加により営業利益が減少した\n・メタはSNS広告収益が好調だった一方、訴訟費用などの影響で利益率に関する複雑な決算結果となった",
-      "status": "ok",
-      "summarized_at": "2026-10-23T06:04:24+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "VZPJ6adXGIo",
-      "url": "https://www.youtube.com/watch?v=VZPJ6adXGIo",
-      "title": "Part14 株はもう下がらない！【後編】｜2025年11月15日開催ASAKUKRA経済セミナー「株はもう下がらない！」ハイライト#朝倉慶#投資#株式#資産運用",
-      "channel": "朝倉慶のASK1",
-      "published_at": "2026-10-22T07:59:27+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/VZPJ6adXGIo/hqdefault.jpg",
-      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "この動画の要約は以下の通りです。\n\n財政再建の美名のもとに進められる通貨安政策は、実質的なインフレを招いて国民生活を圧迫する構造にある。\n・財政債券を評価する際、通貨価値の低下がインフレを引き起こしていることを見落としてはいけない。\n・増税の限界は購買力ではなくインフレ率であり、見せかけの資産価格上昇とマイナスの実質金利が国民を惑わせている。\n・現在の日本は需要不足ではなく人手不足や供給不足によるインフレ状態であり、高圧経済の幻想に惑わされてはならない。",
-      "status": "ok",
-      "summarized_at": "2026-10-23T06:06:32+09:00",
       "retry_count": 0
     }
   ]
