@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T07:42:07+09:00",
+  "updated_at": "2026-11-22T13:31:51+09:00",
   "items": [
     {
       "video_id": "f4-k-ZGD4tQ",
@@ -191,9 +191,9 @@
       "published_at": "2026-11-20T08:50:57+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/8I2sXGQDmLY/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "11月20日の株式市場は米国の株安やAI関連の売りなどを背景に、日経平均株価が5万6,436円と3,007円安の全面安となった。\n・日経平均は5万7,000円の節目を割り込み、東証プライムの約9割の銘柄が値下がりした。\n・個別銘柄では、東京海上ホールディングスが自己株買い等で買いが入る一方、楽天銀行は顧客情報の流出問題等を受けて大幅安となった。\n・米国の金利低下やAI・半導体関連株への不安心理、換金売りの動きが国内外の株式市場に影響を与えた。\n・今後は、米国市場の動向や AI投資の懸念、日米の金融政策などが株式市場の行方を左右する要因となる。",
+      "status": "ok",
+      "summarized_at": "2026-11-22T13:27:45+09:00",
       "retry_count": 0
     },
     {
@@ -207,7 +207,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 0
+      "retry_count": 1
     },
     {
       "video_id": "sRAvbmQ2mtY",
@@ -217,9 +217,9 @@
       "published_at": "2026-11-20T02:34:31+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/sRAvbmQ2mtY/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "- 株式市場の低迷は心理や需給の崩れによるもので、企業の業績悪化が原因ではない。\n- アンスロピック社の上場は、AI分野への期待や今後の投資の先行指標として大きな意義を持つ。\n- ロシア市場からの撤退によるJTの巨額損耗は、日本企業の地政学的リスクを浮き彫りにした。\n- 名目GDPの成長に対し実質GDPがマイナスとなった背景には、過度な増税による家計負担の増加がある。",
+      "status": "ok",
+      "summarized_at": "2026-11-22T13:30:16+09:00",
       "retry_count": 0
     },
     {
@@ -246,7 +246,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 2
+      "retry_count": 3
     },
     {
       "video_id": "xwc777KREyE",
