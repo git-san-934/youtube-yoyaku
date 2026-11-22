@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-22T13:31:51+09:00",
+  "updated_at": "2026-11-22T22:56:27+09:00",
   "items": [
+    {
+      "video_id": "oiapLfw1kYU",
+      "url": "https://www.youtube.com/watch?v=oiapLfw1kYU",
+      "title": "【ヤバイ】日経平均が大暴落…リーマンショック級の暴落が再来するのか？AIバブル崩壊のリスク",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-11-22T12:00:22+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/oiapLfw1kYU/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "日経平均が大幅下落しており、リーマンショック級の暴落が再来する可能性や現在上がっている銘柄について解説している。\n・日経平均は金曜日に大幅下落し、一時2800円超下がり、最安値を更新した。\n・S&P500やNVIDIAなどの米国株も大暴落し、ハイテク系が大きな打撃を受けている。\n・一部のセクターや銘柄（ニトリ、ファーストリテイリングなど）は株価が上昇している。\n・AIや半導体関連の株価は下落傾向にあり、今後も不透明感が増している。",
+      "status": "ok",
+      "summarized_at": "2026-11-22T22:52:48+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "5hAxjp7eFD0",
+      "url": "https://www.youtube.com/watch?v=5hAxjp7eFD0",
+      "title": "【AI相場は全滅か？】民主党圧勝は本当にAIへの「市民の逆襲」なのか？【マイキー佐野 投資学】",
+      "channel": "マイキーの非道徳な社会学",
+      "published_at": "2026-11-22T10:00:34+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/5hAxjp7eFD0/hqdefault.jpg",
+      "channel_id": "UCgXl5H1V4Fq4q0_gJYXR3bw",
+      "summary": "中間選挙後の米国におけるAI関連株の暴落について、データセンター建設への反発やインフラの問題などを交えて解説している。\n・米中間選挙でのデータセンター建設に対する強い反発が、AI株暴落の最大の引き金となった。\n・データセンターの膨大な電力消費や水資源の枯渇に対する住民の不満が、全米規模での建設凍結や制限の動きにつながった。\n・テキサス州などでの建設凍結や、投資回収期間の長期化が企業の業績や株価に大きな悪影響を及ぼしている。\n・AI企業は、海外展開や砂漠地域への移転、社会貢献の強化などでリスク回避を図る動きに出ている。",
+      "status": "ok",
+      "summarized_at": "2026-11-22T22:53:45+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "zX6pHICiG4Q",
+      "url": "https://www.youtube.com/watch?v=zX6pHICiG4Q",
+      "title": "How Alphabet's Ruth Porat Steers Google's AI Investments | Leaders with Francine Lacqua",
+      "channel": "Bloomberg Originals",
+      "published_at": "2026-11-22T09:00:07+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/zX6pHICiG4Q/hqdefault.jpg",
+      "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+      "summary": "AlphabetおよびGoogleの社長兼CFOであるルース・ポラット氏が、自身のキャリアや金融危機・AIブームなどのメガトレンドにおけるリーダーシップを振り返るインタビュー動画。\n・モルガン・スタンレー時代やGoogleにおける金融危機対応などの豊富な経験を活かし、不確実性の高い状況下での迅速な意思決定やリソース配分の重要性を説いている。\n・Googleは「AIファースト」を掲げ大規模なAIインフラ投資を行っているが、一部で過剰投資やバブルへの懸念（いわゆる「循環的ディール」）が指摘されている点にも言及している。\n・AIやテクノロジーの進化が多くの産業や雇用構造に変革をもたらす中、人間同士の判断力や共感力、チームワークの重要性を強調している。\n・ホロコーストを生き延びた父親のバックグラウンドや自身の闘病経験を通じて培った、「困難の中でも前向きに挑戦し、常に未来を見据える」というリーダーとしての哲学を語っている。",
+      "status": "ok",
+      "summarized_at": "2026-11-22T22:54:42+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "f4-k-ZGD4tQ",
       "url": "https://www.youtube.com/watch?v=f4-k-ZGD4tQ",
@@ -207,7 +246,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "video_id": "sRAvbmQ2mtY",
@@ -2560,45 +2599,6 @@
       "summary": "AIの進化を支える半導体メモリ「HBM（広帯域メモリ）」は、GPUのすぐ近くに複数のDRAMを垂直に積み重ねることで高速なデータ転送を実現する技術である。\n・通常のDRAMと比較して、GPUと直接かつ多数の配線で接続されるため、データ転送速度が圧倒的に速い。\n・HBM1からHBM4へと世代が進むにつれて転送速度や容量が急激に向上し、AI処理の性能向上に不可欠となっている。\n・微細な配線やシリコン貫通電極（TSV）を用いる複雑な製造プロセスが必要であり、歩留まりの低さや発熱対策などの技術的な課題を抱えている。",
       "status": "ok",
       "summarized_at": "2026-10-22T19:57:06+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "AKb9kBKQfJU",
-      "url": "https://www.youtube.com/watch?v=AKb9kBKQfJU",
-      "title": "2026年10月22日【円安株高債券安が逆流？　AI設備投資にも変化が】（市況放送【毎日配信】）",
-      "channel": "朝倉慶のASK1",
-      "published_at": "2026-10-22T09:35:39+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/AKb9kBKQfJU/hqdefault.jpg",
-      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "10月22日の株式市場は、米プラットフォーム企業の決算をきっかけにしたAI関連株への売りや金利上昇への警戒から、日経平均株価が大幅に下落した。\n・日経平均株価は62,907円（前日比1,713円安）と大幅に下落し、7月30日以来の安値水準となった。\n・米IBMやメタ・プラットフォームズの好決算の一方で、巨額のAI投資による財務悪化への懸念が意識され、AI・半導体関連株に売りが広がった。\n・日本の長期金利が2.885%と直近の安値水準となり、円相場も1ドル＝157円台へと円高が進んだ。\n・アジア市場や欧米市場全体でも、半導体・メモリ関連を中心に下落が目立つ展開となった。",
-      "status": "ok",
-      "summarized_at": "2026-10-22T19:59:07+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "CTpfwoDqzAo",
-      "url": "https://www.youtube.com/watch?v=CTpfwoDqzAo",
-      "title": "1609回　フランス懸念で日本国債に買い集まる！あれ？骨太ショックがー！はどこに？",
-      "channel": "髙橋洋一チャンネル",
-      "published_at": "2026-10-22T09:00:35+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/CTpfwoDqzAo/hqdefault.jpg",
-      "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "日経新聞の日本国債に関する報道と、フランスの暴動・CDS（クレジット・デフォルト・スワップ）上昇をめぐる矛盾点を解説している。\n・日経新聞は財政懸念を強調しながらもフランスのクレジット懸念で日本国債に買いが集まったと報じており、一貫性のなさを指摘している\n・フランスの抗議活動は暴動化しており、年金制度の杜撰さなどが背景にあると分析している\n・ユーロ圏では共通通貨と個別財政の分離が構造的なリスクとなっており、特に中心国であるフランスの財政悪化は重大な問題であると論じている\n・イギリスのEU離脱は、こうした通貨統合のリスクを回避する観点から結果的に正解であったと評価している",
-      "status": "ok",
-      "summarized_at": "2026-10-22T19:59:57+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "mWMATjlUaeQ",
-      "url": "https://www.youtube.com/watch?v=mWMATjlUaeQ",
-      "title": "【大阪メトロが仕掛けるAI戦略】オンデマンドバスの相乗りを最大化｜乗務計画策定を3カ月から2週間に短縮｜AI活用に立ちはだかる採算性の壁",
-      "channel": "日経クロステック【公式】",
-      "published_at": "2026-10-22T09:00:35+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/mWMATjlUaeQ/hqdefault.jpg",
-      "channel_id": "UCwPgJIiUAYhdN3AYkmm5YYA",
-      "summary": "AIの普及により公共交通機関の変革や課題が浮き彫りになっており、実証実験や効率化が進められています。\n・大阪メトロはAIを活用し、勤務計画の作成期間を3カ月から2週間に短縮した。\n・大阪メトロのオンデマンドバスは、AIで需要を分析し相乗りルートを算出する仕組みを取り入れている。\n・東武鉄道と日立製作所は、車両メンテナンスのDXを進め、AI技術で車内の屋根や床などの目視点検の自動化を目指している。\n・AI実装における最大の課題は採算性にあり、AIの精度向上と人とAIのハイブリッド運用で収益性や業務の質の向上が図られている。",
-      "status": "ok",
-      "summarized_at": "2026-10-23T01:29:47+09:00",
       "retry_count": 0
     }
   ]
