@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-23T08:08:13+09:00",
+  "updated_at": "2026-11-23T14:07:14+09:00",
   "items": [
+    {
+      "video_id": "q5fay2SSEjY",
+      "url": "https://www.youtube.com/watch?v=q5fay2SSEjY",
+      "title": "日経平均5か月で20%下落 関税ショックと違い戻らないのか? #日経平均 #株価暴落 #もふもふ不動産",
+      "channel": "もふもふ不動産",
+      "published_at": "2026-11-23T02:14:10+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/q5fay2SSEjY/hqdefault.jpg",
+      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
+      "summary": "日経平均株価が過去の暴落時と異なり、下落から回復しない長期低迷に陥っている理由を解説。\n・日経平均は5ヶ月で約20%下落しており、過去の下落時と比べて戻りが非常に遅い。\n・イラン戦争時には約10%の下落から1ヶ月で回復した。\n・コロナショック（2020年〜2021年頃）では約30%下落したものの、約3ヶ月で回復した。\n・過去の経験から「下がったら買い時」と考えて購入する人が多いが、今回は半年前から20%下落したまま戻らない相場になっている。",
+      "status": "ok",
+      "summarized_at": "2026-11-23T14:02:15+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "jY2ml5m8Frg",
       "url": "https://www.youtube.com/watch?v=jY2ml5m8Frg",
@@ -558,7 +571,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 2
+      "retry_count": 3
     },
     {
       "video_id": "mWB2nUYdtw0",
@@ -568,9 +581,9 @@
       "published_at": "2026-11-17T10:00:05+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/mWB2nUYdtw0/hqdefault.jpg",
       "channel_id": "UCgXl5H1V4Fq4q0_gJYXR3bw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "米中首脳会談を巡る駆け引きにおいて、半導体やレアアースなどのサプライチェーンや多国間のアジェンダで中国が優位に立っている。\n・アメリカ議会が半導体規制強化を進める中、中国は国産チップで高いシェアを確保し、NVIDIA等への依存度が不透明である。\n・米国のレアアース輸入量は減少傾向にあり、中国の供給網依存が解決されていない。\n・中国の輸出入はアジア等を含めて好調であり、トランプ大統領の政策とのトレードオフが生じている。\n・米中ロの首脳会談や事前脚本の調整など、プロコル上の駆け引きが今後の焦点となる。",
+      "status": "ok",
+      "summarized_at": "2026-11-23T14:05:01+09:00",
       "retry_count": 0
     },
     {
@@ -584,7 +597,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 0
+      "retry_count": 1
     },
     {
       "video_id": "ap3BbswZC2Y",
@@ -2586,19 +2599,6 @@
       "summary": "10月23日金曜日の市場解説。\n・日経平均株価は前日比214円安の62,693円、TOPIXは3,965、ドル円は156.96円、ユーロ円は176.00円で推移。\n・米市場ではハイテク株の売買やセクターローテーション、モルダナのワクチンを巡る報道等からダウやナスダックが下落。\n・東京市場でも、前日の米市場におけるハイテク株安や半導体関連銘柄の下落を受けて売りが先行。\n・メルカリがペルソナAIエージェント「ミュズ」提供開始の好材料で上昇、大塚ホールディングスや日本光電工業等の個別銘柄について解説。",
       "status": "ok",
       "summarized_at": "2026-10-24T11:47:56+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "RdrvO3iUNcQ",
-      "url": "https://www.youtube.com/watch?v=RdrvO3iUNcQ",
-      "title": "サムスンなど3社がHBMをほぼ独占 中国もまだ作れない? #HBM #半導体 #メモリ #もふもふ不動産",
-      "channel": "もふもふ不動産",
-      "published_at": "2026-10-23T07:24:42+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/RdrvO3iUNcQ/hqdefault.jpg",
-      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "AIの処理に不可欠な超高級メモリ「HBM」が、高度な技術力を要するため世界で3社しか作れない理由と今後の展望について解説している。\n\n・SKハイニックス、サムスン、マイクロンの3社がHBM市場をほぼ独占している。\n・HBM製造には高い技術が必要なため、中国のCXMTなどの新規参入は難しい。\n・HBMは価格が高く、メモリメーカーに大きな利益をもたらしている。\n・今後はNAND型フラッシュメモリを活用した安価で大容量化するトレンドが予想される。\n・GPUとHBM間の爆速なやり取りが必須なため、HBMの重要性は今後も変わらない。",
-      "status": "ok",
-      "summarized_at": "2026-10-24T11:48:43+09:00",
       "retry_count": 0
     }
   ]
