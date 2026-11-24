@@ -308,9 +308,21 @@ def main() -> int:
     # 優先順位: ①今回の新着（新しい順）② 未要約の積み残し（新しい順）
     # 無料枠が限られるので、まず「今日の新しい動画」を確実に要約する。古い積み残しは余った回数で消化。
     # 未要約(failed) / 短すぎ / 長すぎ(旧仕様の詳細版) を作り直し対象にする
+    # 公開から LOOKBACK_DAYS を過ぎても要約できていない動画は諦めて一覧から外す
+    # （残すと「要約準備中」のまま表示され続けるため。RSS側でも期間外は拾わないので復活しない）
+    expired = [
+        vid for vid, it in index.items()
+        if it.get("status") != "ok" and not within_lookback(it.get("published_at") or "", now)
+    ]
+    for vid in expired:
+        del index[vid]
+    if expired:
+        print(f"  公開から{LOOKBACK_DAYS}日を過ぎた未要約 {len(expired)} 件を一覧から外しました")
+
     retry_items = [
         it for it in index.values()
         if it["video_id"] not in new_ids
+        and within_lookback(it.get("published_at") or "", now)
         and it.get("retry_count", 0) < MAX_RETRY
         and (
             it.get("status") == "failed"
