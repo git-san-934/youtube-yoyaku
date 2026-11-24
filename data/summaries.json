@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-24T02:07:02+09:00",
+  "updated_at": "2026-11-24T12:43:19+09:00",
   "items": [
+    {
+      "video_id": "Q7T8L3YEhQI",
+      "url": "https://www.youtube.com/watch?v=Q7T8L3YEhQI",
+      "title": "Why Plug-In Solar Is Hard to Find in America",
+      "channel": "Bloomberg Originals",
+      "published_at": "2026-11-23T21:00:10+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/Q7T8L3YEhQI/hqdefault.jpg",
+      "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+      "summary": "ドイツやヨーロッパで普及する「バルコニー発電（Balkonkraftwerk）」の仕組みと普及の背景、アメリカとの比較。\n- ドイツでは約500ユーロで購入できるバルコニー用太陽光パネルキットが普及し、家庭のコンセントに挿すだけで電力を供給できる\n- 2012年頃に小規模なグループが始めた当時は懐疑的な見方もあったが、規制緩和や2022年のウクライナ戦争に伴うエネルギー価格の高騰を機に主流化した\n- 登録手続きの簡素化や、電力会社や大家の許可不要とした制度設計により、ドイツ国内では100万システム以上が登録されている\n- アメリカで普及が遅れている理由は、政治的要因と、家庭の壁に安全に接続するための技術的な検証や規制の整備が遅れているため",
+      "status": "ok",
+      "summarized_at": "2026-11-24T12:40:49+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "KVDZyJBkXB0",
+      "url": "https://www.youtube.com/watch?v=KVDZyJBkXB0",
+      "title": "Google’s AI Quest to Create 'Digital Sovereignty'",
+      "channel": "Bloomberg Originals",
+      "published_at": "2026-11-23T17:00:06+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/KVDZyJBkXB0/hqdefault.jpg",
+      "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+      "summary": "Alphabet社およびGoogle社の最高投資責任者（CIO）ルース・ポラット氏が、AIと地政学の関係、特にデジタル主権について語っている。\n・世界中の首脳は、自らがデジタル変革に関与することを望んでいる\n・米国のクラウド企業を使えない場合は中国と協力するという動きがあり、デジタル主権への不安が高まっている\n・Googleでは数年前から「ソブリンクラウド（各国の規制に準拠したクラウドサービス）」の技術的解決策や現地パートナーとの協業に取り組んでいる\n・欧州におけるAIなどの経済的利益は、10年間で約1兆ユーロと推計されている",
+      "status": "ok",
+      "summarized_at": "2026-11-24T12:41:37+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "XPNm_QhgiT8",
       "url": "https://www.youtube.com/watch?v=XPNm_QhgiT8",
@@ -22,9 +48,9 @@
       "published_at": "2026-11-23T15:00:04+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/UPbixF0MU8M/hqdefault.jpg",
       "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "金利上昇や消費者の自信低下を背景に、住宅市場が停滞している。\n・30年固定住宅ローン金利が7.51%に上昇し、ペディングセールス（売買契約成立前）は25年ぶりの低水準\n・住宅の売買頻度（ターンオーバー率）や引越しのモビリティ率が過去の水準より大幅に低下\n・住宅所有者の純資産や富の格差が拡大する一方で、住宅関連の雇用や不動産業界は大きな打撃を受けている\n・住宅価格やローンの高止まりにより、買い手も売り手も市場から身動きが取れなくなっている",
+      "status": "ok",
+      "summarized_at": "2026-11-24T12:42:27+09:00",
       "retry_count": 1
     },
     {
@@ -61,9 +87,9 @@
       "published_at": "2026-11-23T10:00:03+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/OoaAOY6HNGo/hqdefault.jpg",
       "channel_id": "UCgXl5H1V4Fq4q0_gJYXR3bw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "米中間選挙後の日米経済について、ねじれ議会とトランプ・高市両政権の関係を中心に解説している。\n・米議会のねじれによりトランプ政権の財政拡張策に歯止めがかかる一方、連邦債務の上限や大統領令を巡るリスクが存在する。\n・日銀の利上げ方針や米国の金利低下が円高を招く可能性がある反面、米国の政治動向次第で円安に振れるシナリオもある。\n・米国発のAI関連の規制や投資見直しの動きが、日本の半導体や素材産業、バリューチェーン全体に影響を与える。\n・日本政府の防衛費引き上げや関税を巡る対米交渉において、高市政権とトランプ政権の個別関係の変化が課題となる。",
+      "status": "ok",
+      "summarized_at": "2026-11-24T12:43:19+09:00",
       "retry_count": 0
     },
     {
@@ -2573,32 +2599,6 @@
       "summary": "GMOインターネットのFXサービスで、ハッキングによりユーザーが意図しない取引が行われ短時間で多額の損失を出した事件の解説。\n・GMO系のFX関連サービスで、不正アクセスにより意図しない取引が行われ2秒で400万円を失った被害が発生した\n・犯人は身代金を要求したが無視されたため、ロスを出すアルゴリズムを回して意図的に損失を拡大させたとされる\n・スプレッドの差額分を利用して強制的に損をさせるような取引が行われた\n・金融系などでも同様に、不審なツールなどにより勝手に取引を動かされて強制取引される被害が起きている",
       "status": "ok",
       "summarized_at": "2026-10-24T19:04:52+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "jTh8nc48R60",
-      "url": "https://www.youtube.com/watch?v=jTh8nc48R60",
-      "title": "AIハッキングが多発。半導体株価大暴落…PHP脆弱性問題で世界が混乱。キオクシアの株価も最安値を更新。今後どうなるのか投資家が解説",
-      "channel": "もふもふ不動産",
-      "published_at": "2026-10-24T05:52:20+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/jTh8nc48R60/hqdefault.jpg",
-      "channel_id": "UCsWTZ4nYODCwlE8rdv7DZzA",
-      "summary": "AIハッキングの激化やPHPの脆弱性問題を受け、半導体銘柄が急落した株式市場の動向とAIの脅威について解説する動画。\n\n・PHPの脆弱性を悪用したAIによるハッキングが猛威を振るい、デジタル庁やGMO系FX取引サービスなどでも不正アクセスによる被害が発生している。\n・Anthropicの元社員の退職表明やAIのハッキング事例から、AIの急速な進化と人類存続への脅威が現実味を帯びている。\n・マイクロソフトの次世代AIチップ「Maia 300」の発表など、脱NVIDIAや脱HBM（High Bandwidth Memory）に向けた動きが加速している。\n・日経平均株価をはじめ半導体・ハイテク関連銘柄の株価が急落しており、AI脅威論や過剰投資への懸念から今後の相場環境は不透明な状況にある。",
-      "status": "ok",
-      "summarized_at": "2026-10-24T19:05:48+09:00",
-      "retry_count": 0
-    },
-    {
-      "video_id": "3Z_yG9jSNDo",
-      "url": "https://www.youtube.com/watch?v=3Z_yG9jSNDo",
-      "title": "10/24LIVE！　今日のテレビ後追い解説【PHP/トランプ/社会的割引率見直し】",
-      "channel": "髙橋洋一チャンネル",
-      "published_at": "2026-10-24T02:10:33+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/3Z_yG9jSNDo/hqdefault.jpg",
-      "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "・政治の裏話やIT・技術の黎明期のエピソードを交えた対談\n・PHP登場前のホームページ制作とサーバー設定の苦労話\n・パッチ流出問題における企業の対応や情報管理の難しさ\n・米国のホワイトハッカーを巡る政府機関（GMO）の認識のズレ\n・トランプ米前大統領やウクライナ情勢に関する国際政治の話題",
-      "status": "ok",
-      "summarized_at": "2026-10-24T19:06:43+09:00",
       "retry_count": 0
     }
   ]
