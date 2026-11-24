@@ -5,6 +5,9 @@ const REPO = 'git-san-934/youtube-yoyaku'
 const FILE = 'data/channels.json'
 const TOKEN_KEY = 'yy-gh-token'
 const API = 'https://api.github.com'
+const UPDATE_WORKFLOW = 'update.yml'
+const RUN_POLL_MS = 15000 // 実行状況を確認する間隔
+const RUN_WATCH_MAX_MS = 30 * 60 * 1000 // これを過ぎたら見守りをやめる
 
 const state = {
   token: '',
@@ -28,6 +31,8 @@ const els = {
   list: document.getElementById('channel-list'),
   reload: document.getElementById('reload'),
   forget: document.getElementById('forget'),
+  runUpdate: document.getElementById('run-update'),
+  runMsg: document.getElementById('run-msg'),
 }
 
 // --- localStorage（使えなくても動く） -------------------------------------
@@ -329,6 +334,105 @@ async function removeAt(i, entry) {
   await save('削除: ' + (entry.handle || entry.channel_id || entryLabel(entry)))
 }
 
+// --- 今すぐ要約を更新（要約データ更新ワークフローを起動） -----------------
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms))
+
+function setRunMsg(text, kind, link) {
+  els.runMsg.className = 'msg' + (kind ? ` is-${kind}` : '')
+  els.runMsg.replaceChildren(document.createTextNode(text || ''))
+  if (link) {
+    const a = document.createElement('a')
+    a.href = link.href
+    a.textContent = link.text
+    if (link.external) {
+      a.target = '_blank'
+      a.rel = 'noopener'
+    }
+    els.runMsg.append(' ', a)
+  }
+}
+
+// 起動した手動実行を探す（起動時刻より後に作られた workflow_dispatch の実行）
+async function findRun(startedAt) {
+  const res = await gh(
+    `/repos/${REPO}/actions/workflows/${UPDATE_WORKFLOW}/runs?event=workflow_dispatch&per_page=5`,
+  )
+  if (!res.ok) return null
+  const data = await res.json()
+  return (
+    (data.workflow_runs || []).find((r) => new Date(r.created_at).getTime() >= startedAt - 60000) ||
+    null
+  )
+}
+
+async function runUpdate() {
+  els.runUpdate.disabled = true
+  setRunMsg('更新を開始しています…')
+  const startedAt = Date.now()
+  try {
+    const res = await gh(`/repos/${REPO}/actions/workflows/${UPDATE_WORKFLOW}/dispatches`, {
+      method: 'POST',
+      body: JSON.stringify({ ref: 'main' }),
+    })
+    if (!res.ok) {
+      if (res.status === 403 || res.status === 404) {
+        setRunMsg(
+          'トークンに「Actions: Read and write」の権限がありません。GitHub でトークンの権限に Actions を追加するか、作り直して設定し直してください。',
+          'error',
+          {
+            href: 'https://github.com/settings/personal-access-tokens',
+            text: 'トークンの設定を開く',
+            external: true,
+          },
+        )
+      } else if (res.status === 401) {
+        setRunMsg(apiErrorMessage(401), 'error')
+      } else {
+        setRunMsg(`更新を開始できませんでした（エラー ${res.status}）。`, 'error')
+      }
+      return
+    }
+
+    setRunMsg('更新を開始しました。要約しています…（数分かかります。このページを開いたままにすると完了をお知らせします）')
+    let run = null
+    while (Date.now() - startedAt < RUN_WATCH_MAX_MS) {
+      await sleep(RUN_POLL_MS)
+      run = (await findRun(startedAt)) || run
+      if (!run) continue
+      if (run.status !== 'completed') {
+        const label = run.status === 'in_progress' ? '要約しています…' : '開始を待っています…'
+        setRunMsg(`${label}（数分かかります）`, '', {
+          href: run.html_url,
+          text: '進み具合を見る',
+          external: true,
+        })
+        continue
+      }
+      if (run.conclusion === 'success') {
+        setRunMsg('更新が終わりました。反映まで1〜2分かかることがあります。', 'ok', {
+          href: 'index.html',
+          text: '要約一覧を見る',
+        })
+      } else {
+        setRunMsg('更新が途中で失敗しました。', 'error', {
+          href: run.html_url,
+          text: '詳しく見る',
+          external: true,
+        })
+      }
+      return
+    }
+    setRunMsg('まだ終わっていません。しばらくしてから要約一覧を確認してください。', '', {
+      href: 'index.html',
+      text: '要約一覧を見る',
+    })
+  } catch {
+    setRunMsg('通信できませんでした。時間をおいて、もう一度お試しください。', 'error')
+  } finally {
+    els.runUpdate.disabled = false
+  }
+}
+
 // --- トークン設定 ----------------------------------------------------
 async function verifyAndSaveToken(value) {
   const token = value.trim()
@@ -384,6 +488,7 @@ function setupControls() {
       setMsg('最新の状態にしました。', 'ok')
     }
   })
+  els.runUpdate.addEventListener('click', runUpdate)
   els.forget.addEventListener('click', () => {
     clearToken()
     state.token = ''

@@ -176,3 +176,17 @@ footer code { border: none; background: none; padding: 0; }
   .ch { flex-wrap: wrap; }
   .ch__main { flex-basis: 100%; }
 }
+
+/* --- 今すぐ要約を更新 --- */
+.run-box {
+  padding: 0.9rem 1rem;
+  margin-bottom: 1.4rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--card-bg);
+}
+.run-box h2 { margin: 0 0 0.3rem; }
+.run-box .hint { margin: 0 0 0.7rem; }
+.run-box .msg { margin-bottom: 0; }
+.run-box .msg:empty { display: none; }
+.run-box .msg a { color: inherit; }

@@ -40,8 +40,8 @@
         </li>
         <li>
           <b>Permissions</b> → <b>Repository permissions</b> →
-          <b>Contents</b> を <b>Read and write</b> にする
-          （ほかの権限は不要）
+          <b>Contents</b> と <b>Actions</b> をどちらも <b>Read and write</b> にする
+          （ほかの権限は不要。Actions は「今すぐ要約を更新」ボタンに使います）
         </li>
         <li>下の <b>Generate token</b> で作成し、表示された <code>github_pat_…</code> をコピー</li>
         <li>それを下の欄に貼って「保存」</li>
@@ -57,6 +57,16 @@
 
     <!-- トークン設定済みのときに表示 -->
     <section id="manager" hidden>
+      <div class="run-box">
+        <h2>要約を今すぐ更新</h2>
+        <p class="hint">
+          新着動画を集めて、まだ要約していない動画（公開2日以内）を要約します。
+          1回で要約するのは最大4件で、数分かかります。
+        </p>
+        <button id="run-update" type="button">今すぐ要約を更新</button>
+        <p id="run-msg" class="msg" role="status"></p>
+      </div>
+
       <form id="add-form">
         <label for="add-input">チャンネルを追加</label>
         <div class="add-row">
