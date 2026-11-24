@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-24T19:41:33+09:00",
+  "updated_at": "2026-11-25T02:03:29+09:00",
   "items": [
+    {
+      "video_id": "_dOANeJ0zPs",
+      "url": "https://www.youtube.com/watch?v=_dOANeJ0zPs",
+      "title": "Why America’s Food Banks Are In Crisis",
+      "channel": "CNBC",
+      "published_at": "2026-11-24T15:00:27+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/_dOANeJ0zPs/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "全米のフードバンクやパントリーで、物価高騰と生活費の圧迫により食料支援の需要が記録的な水準に達している。\n・2025年のニューヨーク市におけるフードバンク訪問者数は4,500万人と、2019年から大幅に増加\n・ニューヨーク市のフードバンク訪問者数はパンデミック前と比較して85%増加、住民の5人に1人が食料不安を経験\n・アトランタ・コミュニティ・フードバンクが支援する人数は、2021年から2026年にかけて70%増加\n・ロサンゼルス・地域フードバンクのディーゼル燃料費は、2025年から2026年にかけて急増し運送コストが負担増要因となっている",
+      "status": "ok",
+      "summarized_at": "2026-11-25T01:48:46+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "Oel35pPJ8hw",
       "url": "https://www.youtube.com/watch?v=Oel35pPJ8hw",
@@ -64,7 +77,7 @@
       "summary": "",
       "status": "failed",
       "summarized_at": null,
-      "retry_count": 0
+      "retry_count": 1
     },
     {
       "video_id": "co070fq6n2s",
@@ -74,9 +87,9 @@
       "published_at": "2026-11-24T05:34:54+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/co070fq6n2s/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "株式市場の大暴落は、機関投資家がシナリオを描いて株価を下落させ、個人投資家から利益を吸い取るサイクルによって引き起こされる。\n・上昇相場が続くと多くの人がレバレッジをかけて投資を行い、好転期が終わると機関投資家は下落の理由を探し始める。\n・メディアを通じて問題が拡散され、個人投資家が売り始めると、機関投資家は空売りのタイミングを狙い、下落を加速させる。\n・追証（追加の担保差し入れ）が発生すると、さらなる下落や投げ売りを引き起こす原因となる。\n・機関投資家は下落で儲けた後、再び株価を上げて個人投資家に買わせるというサイクルを繰り返している。",
+      "status": "ok",
+      "summarized_at": "2026-11-25T02:02:12+09:00",
       "retry_count": 0
     },
     {
@@ -152,9 +165,9 @@
       "published_at": "2026-11-23T09:00:24+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/T8B7xpvP7Zw/hqdefault.jpg",
       "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "楽天の三木谷浩史氏による政府政策への批判ポストを発端とした為替・財政を巡る議論についての解説。\n・三木谷氏のポストは「財政規律の欠如が円安の最大の原因」「全方位のポピュリズムは危険」などと主張している\n・高橋洋一氏は、日本の財政危機説を否定し、マンデル・フレミングの法則などを根拠に俗論であると反論している\n・高橋氏は、経営者が自らの利益や海外買収・投資の視点から為替を語っており、経済が分かっていないと指摘している\n・政商としての三木谷氏の過去の政権への接近や、高市早苗政権への思惑についても私見を述べている",
+      "status": "ok",
+      "summarized_at": "2026-11-25T02:03:29+09:00",
       "retry_count": 0
     },
     {
