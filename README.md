@@ -12,7 +12,7 @@ GitHub Pages ＋ GitHub Actions の無料枠だけで動きます。
 GitHub Actions（6時間おき ＋ 手動実行）
   └ scripts/update.py
        ├ data/channels.json の各チャンネルの公開RSSを取得（ログイン不要）
-       ├ 未要約かつ公開5日以内の新着を抽出（1チャンネル最大4本／回）
+       ├ 未要約かつ公開2日以内の新着を抽出（1チャンネル最大4本／回）
        ├ 前回失敗分も加え、古い順に最大4件を Gemini で日本語要約
        └ data/summaries.json を更新して commit / push
 GitHub Pages（main ブランチをそのまま配信）
@@ -92,7 +92,7 @@ python -m http.server 8000    # http://localhost:8000 を開く
 |---|---|---|
 | `MODELS` | flash-lite → 3.6-flash → flash-latest | 上から順に試し、使えなければ次へ自動切替 |
 | `MAX_PER_RUN` | `4` | 1回の実行で要約する最大件数 |
-| `LOOKBACK_DAYS` | `5` | 「新着」とみなす公開からの日数 |
+| `LOOKBACK_DAYS` | `2` | 「新着」とみなす公開からの日数 |
 | `MAX_NEW_PER_CHANNEL` | `4` | 1チャンネルあたり1回で拾う新着の最大本数 |
 | `SLEEP_BETWEEN_SEC` | `45` | 動画1本ごとの待ち時間（分あたり上限対策） |
 | `VIDEO_FPS` | `0.3` | 動画のコマ抽出頻度（低いほど省トークン） |

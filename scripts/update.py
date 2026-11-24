@@ -33,7 +33,7 @@ MODELS = [
     "gemini-3.6-flash",
 ]
 MAX_PER_RUN = 4                 # 1回の実行で要約する最大件数（残りは次回へ）
-LOOKBACK_DAYS = 5             # 「新着」とみなす公開からの日数
+LOOKBACK_DAYS = 2             # 「新着」とみなす公開からの日数
 MAX_NEW_PER_CHANNEL = 4       # 1チャンネルあたり新着として拾う最大本数（1回の実行）
 SLEEP_BETWEEN_SEC = 45       # 動画1本ごとの待ち時間（Gemini無料枠の「分あたり入力量」上限対策）
 QUOTA_WAIT_MAX_SEC = 120     # クォータ超過時に待つ最大秒数
