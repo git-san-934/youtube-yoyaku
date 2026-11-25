@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-25T02:03:29+09:00",
+  "updated_at": "2026-11-25T10:49:48+09:00",
   "items": [
+    {
+      "video_id": "3H3FnYclX8A",
+      "url": "https://www.youtube.com/watch?v=3H3FnYclX8A",
+      "title": "How a Microinverter Turns Sunlight Into Wall Power",
+      "channel": "Bloomberg Originals",
+      "published_at": "2026-11-24T17:00:35+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/3H3FnYclX8A/hqdefault.jpg",
+      "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+      "summary": "プラグインソーラー（家庭用太陽光キット）の仕組みと背景を解説した動画。\n・非営利団体などが手頃な価格（数百ドルなど）でソーラーキットを販売し、プラグインソーラーの普及を牽引している\n・多くの家庭では日中の電力需要がパネル1枚分程度で足りるため、キットの需要が高まっている\n・太陽光パネルが発電する直流（DC）を、マイクロインバーターを使って家庭用の交流（AC）に変換する\n・変換した電力をコンセントに供給し、電力網からの電力とブレンドして利用する",
+      "status": "ok",
+      "summarized_at": "2026-11-25T10:48:00+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "_dOANeJ0zPs",
       "url": "https://www.youtube.com/watch?v=_dOANeJ0zPs",
@@ -74,9 +87,9 @@
       "published_at": "2026-11-24T08:40:12+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/pChxCAQRCus/hqdefault.jpg",
       "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "- エヌビディアCEO電撃復帰や米株市場の動向、地政学リスクについて解説している。\n・エヌビディアCEOの復帰や中国との関係を巡る調査・議会聴取が行われている。\n・トランプ氏による関税引き下げ措置の休止などが米株市場に影響を与えた。\n・物価上昇（PCE）と12月の利下げ幅についての見極めが注目されている。",
+      "status": "ok",
+      "summarized_at": "2026-11-25T10:48:53+09:00",
       "retry_count": 1
     },
     {
@@ -178,9 +191,9 @@
       "published_at": "2026-11-23T09:00:19+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/wRg3Z8XzfTc/hqdefault.jpg",
       "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "プラグイン太陽光パネルは、コンセントに挿すだけで家庭の電力コストを削減できるシステムとして注目を集めている。\n・アメリカでは送電網やデータセンターの増加等により電力料金が急騰しており、プラグイン太陽光パネル導入の動きが急速に広がっている。\n・ドイツでは家電のように手軽に購入・登録でき約100万基が普及している一方、アメリカでは法整備や安全基準の策定で遅れをとっている。\n・プラグイン太陽光パネルは余剰電力を電力網へ売却できず自宅用のみであるが、約300ドルからの安価な費用で手軽に導入できる。\n・2025年3月にユタ州が最初の法案を可決したのを皮切りに、11州でプラグイン太陽光に関する法律が成立している。",
+      "status": "ok",
+      "summarized_at": "2026-11-25T10:49:48+09:00",
       "retry_count": 0
     },
     {
