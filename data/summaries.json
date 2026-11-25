@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-11-25T10:49:48+09:00",
+  "updated_at": "2026-11-26T01:45:56+09:00",
   "items": [
+    {
+      "video_id": "5Jwc8Wk1IGo",
+      "url": "https://www.youtube.com/watch?v=5Jwc8Wk1IGo",
+      "title": "今夜、PCE発表！今後の株価を占う！花子の毎日米国株ライブ23時半から！",
+      "channel": "高校生でも分かる米国株",
+      "published_at": "2026-11-25T15:32:10+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/5Jwc8Wk1IGo/hqdefault.jpg",
+      "channel_id": "UCRwOeApFFyIoyEulSOmONBw",
+      "summary": "米PCE（個人消費支出）物価指数の上振れや米中技術対立への懸念から米国株が下落する中、市場の現状と投資判断が解説された。\n\n・10月の米コアPCE（食品・エネルギーを除く個人消費支出物価指数）は3.3%と市場予想（3.2%）を上回り、株安の一因となった。\n・NVIDIA（エヌビディア）はCEO復帰を巡る批判や米政府による対中規制強化の動きを受け、株価の下落が続いている。\n・中国通信大手ファーウェイ（Huawei）に対する米法廷の有罪判決など、米中間の技術規制や法的対立が改めて浮き彫りとなった。\n・S&P 500などの主要指数は調整局面（最高値から約11%下落）にとどまっており、全体としては暴落水準（20%以上の下落）には至っていない。",
+      "status": "ok",
+      "summarized_at": "2026-11-26T01:42:12+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "tTvBkoTDrwo",
+      "url": "https://www.youtube.com/watch?v=tTvBkoTDrwo",
+      "title": "GTA VI: Gaming's billion-dollar bet",
+      "channel": "CNBC",
+      "published_at": "2026-11-25T15:00:16+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/tTvBkoTDrwo/hqdefault.jpg",
+      "channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "summary": "巨額の投資と世界的な期待を集める新作ゲーム『Grand Theft Auto VI』が、広範な経済的・社会的大波及をもたらすと注目されている。\n・10年以上の開発期間と10億ドル以上の投資を経て、ゲーム史上最も期待される作品としてリリースを迎える。\n・動画配信や映画、SNSの利用からフードデリバリー（食事配達サービス）の売上に至るまで、幅広い分野へ経済的な波及効果を及ぼすと予測されている。\n・アナリストの試算では、予約販売や発売初日の売上だけで20億ドルに達し、約12〜13億ドルの開発費用を初日で回収する見込みである。\n・発売日に有給休暇を取るゲーマーの増加や他業界の視聴率低下が懸念されるなど、ゲームの枠を超えた社会現象となっている。",
+      "status": "ok",
+      "summarized_at": "2026-11-26T01:43:37+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "NkrSbeufccA",
+      "url": "https://www.youtube.com/watch?v=NkrSbeufccA",
+      "title": "【株価暴落】マーベルが1,150億ドルで買収！巨額投資に市場が激怒した理由とは【マイキー佐野 経済学】",
+      "channel": "マイキーの非道徳な社会学",
+      "published_at": "2026-11-25T10:00:12+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/NkrSbeufccA/hqdefault.jpg",
+      "channel_id": "UCgXl5H1V4Fq4q0_gJYXR3bw",
+      "summary": "マーベルによるルメンタム買収は、市場の短期的懸念から株価急落を招いたものの、中長期的には技術統合と供給確保において高い合理性を備えている。\n・50%の新株発行による株式希薄化や、ファブレス（工場を持たない形態）からIDM（自社で製造工場を持つ形態）への転換に伴う固定費増加など、7つの懸念により株価が大きく落込んだ。\n・電気シリコンと光フォトニクスの共同設計を進めることでデータセンターの高速化や省電力化を実現し、2030年には5,500億ドル規模の獲得可能な最大市場（TAM）開拓を目指している。\n・AI需要で世界的に不足する光レーザーの優先確保が可能となるほか、統合により年間10億ドル（約1,600億円）以上のコスト削減効果が見込まれている。\n・今後は競合のブロードコムに対抗する垂直統合モデルの成否、中国などの規制当局による独禁法（独占禁止法）審査の行方、顧客によるサプライチェーン分散化の動きが注目ポイントとなる。",
+      "status": "ok",
+      "summarized_at": "2026-11-26T01:45:02+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "Zt4o0NftIjQ",
+      "url": "https://www.youtube.com/watch?v=Zt4o0NftIjQ",
+      "title": "1632回　都道府県税収増！だから円安上等と言っている",
+      "channel": "髙橋洋一チャンネル",
+      "published_at": "2026-11-25T09:00:11+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/Zt4o0NftIjQ/hqdefault.jpg",
+      "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
+      "summary": "円安に伴うGDPの増大は税収増加や失業率・自殺率の低下をもたらすため、貿易赤字を過度に懸念する必要はない。\n・円安でGDPが増加すると、25年度の都道府県税収が26兆円で過去最高となったように国や地方の税収が大きく伸びる。\n・オークンの法則（経済成長率が高まると失業率が低下する経済上の関係）は日本でも成立しており、GDP拡大は雇用改善につながる。\n・失業率の低下は経済的要因による自殺率を減少させるため、GDPを増やす経済成長政策は人命を救う観点からも重要である。\n・世界のデータから貿易収支とGDP成長率に相関関係はなく、貿易赤字を危険視するのは重商主義（輸出による黒字のみを重視する考え）の誤りである。",
+      "status": "ok",
+      "summarized_at": "2026-11-26T01:45:56+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "_PcIGc_rl08",
+      "url": "https://www.youtube.com/watch?v=_PcIGc_rl08",
+      "title": "2026年11月25日【ファンCEO復帰も先行き不安止まらず】（市況放送【毎日配信】）",
+      "channel": "朝倉慶のASK1",
+      "published_at": "2026-11-25T07:30:02+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/_PcIGc_rl08/hqdefault.jpg",
+      "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
+      "summary": "",
+      "status": "failed",
+      "summarized_at": null,
+      "retry_count": 0
+    },
     {
       "video_id": "3H3FnYclX8A",
       "url": "https://www.youtube.com/watch?v=3H3FnYclX8A",
