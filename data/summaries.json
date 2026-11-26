@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-26T01:45:56+09:00",
+  "updated_at": "2026-11-26T10:25:38+09:00",
   "items": [
+    {
+      "video_id": "4XnyGLGuJYs",
+      "url": "https://www.youtube.com/watch?v=4XnyGLGuJYs",
+      "title": "Inside Hong Kong's Deadly Inferno | Exclusive Preview",
+      "channel": "Bloomberg Originals",
+      "published_at": "2026-11-25T21:49:33+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/4XnyGLGuJYs/hqdefault.jpg",
+      "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+      "summary": "香港の高層住宅団地「宏福苑（Wang Fuk Court）」の大規模修繕工事を巡る実態と、防火安全性の問題についてのドキュメンタリー。\n・宏福苑は1983年に完成した緊密なコミュニティであり、住民にとって住宅購入は人生の重大な達成であった。\n・政府の政策により、築30年以上の建物に対して安全検査と修繕が義務付けられ、宏福苑では3億HKドルを超える修繕契約が結ばれた。\n・工事に伴い、建物全体が足場と緑色の防風メッシュで覆われ、居住環境が悪化したことが住民の証言で示されている。\n・音声や映像を通じて、火災発生時の危険性や、住民が直面した不安・恐怖の様子が記録されている。",
+      "status": "ok",
+      "summarized_at": "2026-11-26T10:24:28+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "5Jwc8Wk1IGo",
       "url": "https://www.youtube.com/watch?v=5Jwc8Wk1IGo",
@@ -61,9 +74,9 @@
       "published_at": "2026-11-25T07:30:02+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/_PcIGc_rl08/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "11月25日の株式市場はAI関連株を中心に大幅安となり、日経平均株価は前日比1,633円安の57,011円で取引を終えた。\n・NYダウは続伸したが、ハイテク株比率の高いナスダックは大幅反落した。\n・東京市場は米株安を受け、日経平均は5万8,000円台割れでスタートし、AI関連株などに売りが広がった。\n・プライム市場の売買代金は7兆4,000億円、グロース市場は1,300億円となった。\n・個別では東京建物、ソニーグループ、三菱重工業などの株価が取り上げられた。",
+      "status": "ok",
+      "summarized_at": "2026-11-26T10:25:38+09:00",
       "retry_count": 0
     },
     {
