@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-27T01:10:54+09:00",
+  "updated_at": "2026-11-27T10:23:53+09:00",
   "items": [
+    {
+      "video_id": "kOVWqrI3T84",
+      "url": "https://www.youtube.com/watch?v=kOVWqrI3T84",
+      "title": "The Aftermath of Hong Kong’s Catastrophic Inferno",
+      "channel": "Bloomberg Originals",
+      "published_at": "2026-11-26T17:00:08+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/kOVWqrI3T84/hqdefault.jpg",
+      "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+      "summary": "ブルームバーグによる調査報道。香港の高層住宅火災を巡り、行政の責任や安全対策の不備、居住者が直面した搾取の構図を追及する。\n・多大な犠牲を出した高層住宅火災を受け、政府各部門の対応や消防安全対策の不備が指摘された。\n・住民らは事前に多くの部署へ苦情を申し立てていたが、適切な処理や対応がなされなかった。\n・火災防止のための網などの安全設備が機能せず、業者の利己的な対応や不適切な管理体制が浮き彫りとなった。\n・被害を受けた居住者は、社会の中で単なる「数」や「ユニット」として扱われていると感じ、正義と公正な対応を強く求めている。",
+      "status": "ok",
+      "summarized_at": "2026-11-27T10:22:11+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "laTp-WJdHwg",
       "url": "https://www.youtube.com/watch?v=laTp-WJdHwg",
@@ -61,9 +74,9 @@
       "published_at": "2026-11-26T07:41:29+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/76zSnMsl1Dw/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "- 11月26日の株式市場では、日経平均株価やTOPIXなどが上昇し、米国市場の動向や個別の好材料が影響を与えた。\n- 日経平均株価は前日から上昇し、売買代金やセクター別の動きも活発であった。\n- 米国市場ではダウ平均が一時下落後に上昇し、ハイテク株に関連する動きや米国の政策に対する警戒感が見られた。\n- 個別銘柄ではキヤノンやソフトバンクグループ、アドバンテストなどの動向が注目された。\n- 今後の市場では、米国のインフレ動向や利上げ見通し、さらには中東情勢などが重要な焦点となると予想されている。",
+      "status": "ok",
+      "summarized_at": "2026-11-27T10:23:05+09:00",
       "retry_count": 0
     },
     {
@@ -74,9 +87,9 @@
       "published_at": "2026-11-26T06:24:04+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/ihOVqrkkgNk/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "動画の内容を要約しました。\n\n・日本の最近の成長は実態のない「見せかけの成長」であり、インフレによるものに過ぎない。\n・高圧経済による成長と財政健全化は「幻想」であり、インフレ税が増えているだけである。\n・税収は確かに増えているが国債発行の価値低下も同時に起きており、通貨価値は下落している。\n・国の財政が楽になっても国民の購買力は向上せず、国民生活はむしろ苦しくなっている。",
+      "status": "ok",
+      "summarized_at": "2026-11-27T10:23:53+09:00",
       "retry_count": 0
     },
     {
