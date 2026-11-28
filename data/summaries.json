@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-28T00:58:19+09:00",
+  "updated_at": "2026-11-28T09:58:16+09:00",
   "items": [
+    {
+      "video_id": "k4Nn2ErCJbs",
+      "url": "https://www.youtube.com/watch?v=k4Nn2ErCJbs",
+      "title": "Inside the Chaos of Hong Kong’s Deadly High-Rise Fire",
+      "channel": "Bloomberg Originals",
+      "published_at": "2026-11-27T17:00:05+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/k4Nn2ErCJbs/hqdefault.jpg",
+      "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+      "summary": "香港の王福苑（Wang Fuk Court）で発生した火災と、家族を安否確認する人々の様子を描いたドキュメンタリー。\n\n・Lee Kwok HungがDina Marianaに火災と消防車が出動したことを伝えるメッセージから始まる。\n・Dorh Cheungは祖母に教会に行くよう伝え、自身も急いで現場へ向かった。\n・現場付近は大渋滞だったため、車を降りて王福苑へ走った。\n・父親と連絡が取れて無事を確認できたが、祖母の行方はまだ分からなかった。",
+      "status": "ok",
+      "summarized_at": "2026-11-28T09:55:22+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "bk9xyAhuKtM",
       "url": "https://www.youtube.com/watch?v=bk9xyAhuKtM",
@@ -61,9 +74,9 @@
       "published_at": "2026-11-27T09:00:14+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/HQU4lfmcbjk/hqdefault.jpg",
       "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "信用金庫の預金金利が銀行を下回っているという日本経済新聞の記事を取り上げ、その背景や実態を解説している。\n・日経新聞に「信金の預金金利の8割が銀行を下回る、格差広がり流出の歯止め重要に」という記事が掲載された。\n・金利が低く、長期国債でリスク管理ができていない一部の信金や、それに騒ぐ政治家・経営者は「自業自得」である。\n・信金の中にも経営がまともなところとそうでないところの格差が大きくなっている。\n・財務局の理財部長だった経験から、経営状態の悪い金融機関には数年前から警告を発していた。",
+      "status": "ok",
+      "summarized_at": "2026-11-28T09:56:14+09:00",
       "retry_count": 0
     },
     {
@@ -74,9 +87,9 @@
       "published_at": "2026-11-27T08:27:40+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/0lIhvSRQCc8/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "朝倉慶氏による11月27日の相場解説と展望。\n- 11月27日の相場は、前日の上ヒゲを包み込んで大きく上昇し、日経平均は1,211円高となった。\n- 欧州や韓国株の上昇、AI・関連銘柄の強さが目立ち、売り方が買い戻す動きが見られた。\n- 米国市場の休場や欧州の上昇、為替の動向を受け、今後は買い方が年内に向け上昇トレンドに乗れるかどうかが注目される。\n- 防衛・半導体などの個別銘柄や金利動向、各種経済指標の発表が今後の相場の方向性を左右する要因となる。",
+      "status": "ok",
+      "summarized_at": "2026-11-28T09:57:10+09:00",
       "retry_count": 0
     },
     {
@@ -87,9 +100,9 @@
       "published_at": "2026-11-27T06:30:22+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/xcIaMPBZFHY/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "2026年11月時点のAI設備投資（CAPEX）関連株の下落理由と2027年の投資テーマについて解説している。\n・AI関連株の好業績にもかかわらず株価が下落しているのは、設備投資計画の伸び率が減速し、フリーキャッシュフローが赤字化して借入が増加し、「返せるか」という懸念が市場で意識されているためである。\n・メモリー大手企業の決算で横ばい予測（ピークアウトの兆候）が示されたことが、半導体株全体の下げを加速させる契機となった。\n・2027年の新テーマとして、「AIが安くなる（トークンデフレ）」による恩恵を受ける企業や、円安に頼らず海外で稼ぐ力を持つ日本企業（アニメ等のIP、外食、ユニクロ等のブランド力）に注目すべきである。\n・個別企業の投資判断は、各社の戦略や財務状況、市場環境をふまえて自己責任で行う必要がある。",
+      "status": "ok",
+      "summarized_at": "2026-11-28T09:58:16+09:00",
       "retry_count": 0
     },
     {
