@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-28T09:58:16+09:00",
+  "updated_at": "2026-11-28T23:54:24+09:00",
   "items": [
+    {
+      "video_id": "f3PFtS1crFA",
+      "url": "https://www.youtube.com/watch?v=f3PFtS1crFA",
+      "title": "11/28LIVE！問責決議案否決/ジェンスン・ファン復帰/SNS規制/原発/年収格差",
+      "channel": "髙橋洋一チャンネル",
+      "published_at": "2026-11-28T10:08:05+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/f3PFtS1crFA/hqdefault.jpg",
+      "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
+      "summary": "高齢男性がYouTubeライブで政治・経済・テクノロジー等の話題について持論を語る動画。\n・静岡県の話題として、防衛費は保険と投資でありリスク対応の観点で重要であると説明している。\n・米エヌビディア社の急成長に関連して、グラフィック処理等に優れるGPU（画像処理半導体）と、複雑な逐次処理を得意とするCPUの違いについて解説している。\n・スマホの利用に関する規制については、ペアレンタルコントロール（保護者による利用制限）等の機能はあるものの、親の理解不足等の課題があると指摘している。\n・相続税と格差の問題について、政治資金団体への預け入れによる租税回避や、相続税と所得税の関係性などについて言及している。",
+      "status": "ok",
+      "summarized_at": "2026-11-28T23:51:40+09:00",
+      "retry_count": 0
+    },
+    {
+      "video_id": "Fk8hx_F6QzM",
+      "url": "https://www.youtube.com/watch?v=Fk8hx_F6QzM",
+      "title": "【投資】圧倒的に〇〇が強すぎる。今後のフィジカルAIの動きを分かりやすく教えます【マイキー佐野　株価】",
+      "channel": "マイキーの非道徳な社会学",
+      "published_at": "2026-11-28T10:00:28+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/Fk8hx_F6QzM/hqdefault.jpg",
+      "channel_id": "UCgXl5H1V4Fq4q0_gJYXR3bw",
+      "summary": "中国のロボティクス市場が量的・質的ともに世界を圧倒し、米中日の競争が激化している。\n・ヒューマノイドロボット（人型ロボット）市場では、知能（AI）で米国、量産化や部品のサプライチェーン網構築で中国がリードしている。\n・産業用ロボット分野では、中国国内の新規設置台数や稼働数が世界全体の過半数を占めるなど、中国の優位性が顕著である。\n・中国では、EVなどで培った部品のサプライチェーンを転用して低コストかつ高速な量産体制を確立しているが、過剰投資が指摘されている。\n・特許出願件数では中国が世界全体の約6割を占め、上位企業や研究基盤でも中国が圧倒的な規模を誇っている。",
+      "status": "ok",
+      "summarized_at": "2026-11-28T23:52:31+09:00",
+      "retry_count": 0
+    },
     {
       "video_id": "k4Nn2ErCJbs",
       "url": "https://www.youtube.com/watch?v=k4Nn2ErCJbs",
@@ -113,9 +139,9 @@
       "published_at": "2026-11-27T06:25:25+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/XU-Ty2chLOU/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "日本のインフレに対する誤解と財政政策の罠について解説している。\n・金融インフレから実体インフレへの変化や円の通貨信任低下によるインフレが起きていないと過小評価されている。\n・高圧経済（金融緩和や財政出動を続ける政策）は短期的な繁栄感や人気を得やすい政治的な政策である。\n・税収や税率を上げずに税金を多く取れるため国民からの支持を得やすい。\n・日本の学会も長期デフレ時代に形成された理論や思い込みにより、インフレは簡単に起きないと考えられている。",
+      "status": "ok",
+      "summarized_at": "2026-11-28T23:53:20+09:00",
       "retry_count": 0
     },
     {
@@ -126,9 +152,9 @@
       "published_at": "2026-11-27T03:16:57+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/rJRNZT76ksM/hqdefault.jpg",
       "channel_id": "UCax09PmcRoY1R8mfJFBfv0g",
-      "summary": "",
-      "status": "failed",
-      "summarized_at": null,
+      "summary": "日本株市場の需給改善やアメリカ経済の強さ、日本とアメリカの税負担・負担率の違いについて解説している。\n・日銀が発表したインフレを示す指標や企業のサービス価格は歴史的な上昇傾向にある。\n・日本経済では信用残の減少や個人投資家の売り越しが見られ、受給が劇的に改善している。\n・アメリカ経済はGDPや個人消費が好調で、インフレ率や利上げ観測が高まっている。\n・日本の高すぎる税負担率が可処分所得や消費を圧迫しており、社会主義的な経済構造の問題点として挙げられている。",
+      "status": "ok",
+      "summarized_at": "2026-11-28T23:54:24+09:00",
       "retry_count": 0
     },
     {
